@@ -21,7 +21,7 @@ def sort_papers(papers):
         output[key] = papers[key]
     return output    
 
-def get_daily_papers(topic,query="speech translation", max_results=2):
+def get_daily_papers(topic,query, max_results=2):
     """
     @param topic: str
     @param query: str
@@ -225,8 +225,8 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["Speech Translation"]  = "Speech Translation"
-    keywords["Legal"]                 = "Legal"
+    keywords["Speech Translation"]  = "ti:Speech Translation"
+    keywords["Legal"]                 = "ti:Legal"
 
     for topic,keyword in keywords.items():
  
