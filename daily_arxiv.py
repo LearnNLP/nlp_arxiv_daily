@@ -249,7 +249,7 @@ if __name__ == "__main__":
             m = {}
             print(1)
         else:
-            print(2,m)
+            print(2,content)
     
     update_json_file(json_file,data_collector)
     # json data to markdown
