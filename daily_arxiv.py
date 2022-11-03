@@ -102,7 +102,9 @@ def update_json_file(filename,data_all):
         content = f.read()
         if not content:
             m = {}
+            print('========1=====')
         else:
+            print('========2=====',content)
             m = json.loads(content)
             
     json_data = m.copy() 
@@ -243,14 +245,6 @@ if __name__ == "__main__":
     json_file = "nlp-arxiv-daily.json"
     md_file   = "README.md"
     # update json data
-    with open(json_file,"r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-            print(1)
-        else:
-            print(2,content)
-    
     update_json_file(json_file,data_collector)
     # json data to markdown
     json_to_md(json_file,md_file)
