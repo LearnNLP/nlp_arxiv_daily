@@ -205,7 +205,7 @@ def json_to_md(filename,md_filename,
             top_info = top_info.replace(' ','-').replace('.','')
             f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
         
-        if show_badge == True:
+       ''' if show_badge == True:
             f.write(f"[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n")
             f.write(f"[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors\n")
             f.write(f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n")
@@ -214,6 +214,7 @@ def json_to_md(filename,md_filename,
             f.write(f"[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers\n")
             f.write(f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n")
             f.write(f"[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues\n\n")
+            '''
                 
     print("finished")        
 
@@ -225,7 +226,7 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["Speech Translation"]  = "ti:speech+translation"
+    keywords["Speech Translation"]  = "ti:speech translation"
     keywords["Legal"]                 = "ti:legal"
 
     for topic,keyword in keywords.items():
