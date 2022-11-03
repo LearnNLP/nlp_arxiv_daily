@@ -243,6 +243,14 @@ if __name__ == "__main__":
     json_file = "nlp-arxiv-daily.json"
     md_file   = "README.md"
     # update json data
+    with open(filename,"r") as f:
+        content = f.read()
+        if not content:
+            m = {}
+            print(1)
+        else:
+            print(2,m)
+    
     update_json_file(json_file,data_collector)
     # json data to markdown
     json_to_md(json_file,md_file)
