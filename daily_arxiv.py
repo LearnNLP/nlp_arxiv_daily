@@ -104,7 +104,7 @@ def update_json_file(filename,data_all):
             m = {}
             print('========1=====')
         else:
-            print('========2=====',content)
+            print('========2=====',content,'<<<<<', len(content))
             m = json.loads(content)
             
     json_data = m.copy() 
