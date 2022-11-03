@@ -243,7 +243,7 @@ if __name__ == "__main__":
     json_file = "nlp-arxiv-daily.json"
     md_file   = "README.md"
     # update json data
-    with open(filename,"r") as f:
+    with open(json_file,"r") as f:
         content = f.read()
         if not content:
             m = {}
