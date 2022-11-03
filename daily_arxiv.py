@@ -225,8 +225,8 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["Speech Translation"]  = "ti:Speech Translation"
-    keywords["Legal"]                 = "ti:Legal"
+    keywords["Speech Translation"]  = "ti:%22speech+translation%22"
+    keywords["Legal"]                 = "ti:legal"
 
     for topic,keyword in keywords.items():
  
