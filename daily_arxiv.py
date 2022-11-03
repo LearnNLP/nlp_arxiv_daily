@@ -225,7 +225,7 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["Speech Translation"]  = "ti:%22speech+translation%22"
+    keywords["Speech Translation"]  = "ti:speech+translation"
     keywords["Legal"]                 = "ti:legal"
 
     for topic,keyword in keywords.items():
@@ -233,7 +233,7 @@ if __name__ == "__main__":
         # topic = keyword.replace("\"","")
         print("Keyword: " + topic)
 
-        data,data_web = get_daily_papers(topic, query = keyword, max_results = 10)
+        data,data_web = get_daily_papers(topic, query = keyword, max_results = 100)
         data_collector.append(data)
         data_collector_web.append(data_web)
 
