@@ -205,16 +205,16 @@ def json_to_md(filename,md_filename,
             top_info = top_info.replace(' ','-').replace('.','')
             f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
         
-       ''' if show_badge == True:
-            f.write(f"[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n")
-            f.write(f"[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors\n")
-            f.write(f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n")
-            f.write(f"[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members\n")
-            f.write(f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n")
-            f.write(f"[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers\n")
-            f.write(f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n")
-            f.write(f"[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues\n\n")
-            '''
+        if show_badge == True:
+            f.write(f"[contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge\n")
+            f.write(f"[contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors\n")
+            f.write(f"[forks-shield]: https://img.shields.io/github/forks/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge\n")
+            f.write(f"[forks-url]: https://github.com/LearnNLP/nlp-arxiv-daily/network/members\n")
+            f.write(f"[stars-shield]: https://img.shields.io/github/stars/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge\n")
+            f.write(f"[stars-url]: https://github.com/LearnNLP/nlp-arxiv-daily/stargazers\n")
+            f.write(f"[issues-shield]: https://img.shields.io/github/issues/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge\n")
+            f.write(f"[issues-url]: https://github.com/LearnNLP/nlp-arxiv-daily/issues\n\n")
+            
                 
     print("finished")        
 
