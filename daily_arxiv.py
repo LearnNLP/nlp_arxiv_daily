@@ -51,7 +51,7 @@ def get_daily_papers(topic,query, max_results=2):
         code_url            = base_url + paper_id
         paper_abstract      = result.summary.replace("\n"," ")
         paper_authors       = get_authors(result.authors)
-        paper_first_author  = get_authors(result.authors,first_author = True)
+        paper_first_author  = paper_authors #get_authors(result.authors,first_author = True)
         primary_category    = result.primary_category
         publish_time        = result.published.date()
         update_time         = result.updated.date()
@@ -226,7 +226,7 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["Speech Translation"]  = "ti:\"speech translation\""
+    keywords["Speech Translation"]  = "ti:\"speech translation\""+"OR"+"ti:\"speech-to-text translation\""
     keywords["Legal"]                 = "ti:legal"
 
     for topic,keyword in keywords.items():
