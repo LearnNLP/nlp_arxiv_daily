@@ -121,6 +121,104 @@ layout: default
 |**2022-10-31**|**Advanced ensemble modeling method for space object state prediction accounting for uncertainty in atmospheric density**|Smriti Nandan Paul et.al.|[2210.16992v1](http://arxiv.org/abs/2210.16992v1)|null|
 |**2022-10-30**|**Improving Bilingual Lexicon Induction with Cross-Encoder Reranking**|Yaoyiran Li et.al.|[2210.16953v1](http://arxiv.org/abs/2210.16953v1)|**[link](https://github.com/cambridgeltl/BLICEr)**|
 |**2022-10-30**|**Statistical properties for mixing Markov chains with applications to dynamical systems**|Ao Cai et.al.|[2210.16908v1](http://arxiv.org/abs/2210.16908v1)|null|
+|**2022-10-28**|**Efficient Speech Translation with Dynamic Latent Perceivers**|Ioannis Tsiamas et.al.|[2210.16264v1](http://arxiv.org/abs/2210.16264v1)|**[link](https://github.com/mt-upc/s2t-perceiver)**|
+|**2022-10-26**|**Improving Speech-to-Speech Translation Through Unlabeled Text**|Xuan-Phi Nguyen et.al.|[2210.14514v1](http://arxiv.org/abs/2210.14514v1)|null|
+|**2022-10-24**|**Does Joint Training Really Help Cascaded Speech Translation?**|Viet Anh Khoa Tran et.al.|[2210.13700v1](http://arxiv.org/abs/2210.13700v1)|**[link](https://github.com/tran-khoa/joint-training-cascaded-st)**|
+|**2022-10-21**|**Joint Speech Translation and Named Entity Recognition**|Marco Gaido et.al.|[2210.11987v1](http://arxiv.org/abs/2210.11987v1)|null|
+|**2022-10-21**|**Named Entity Detection and Injection for Direct Speech Translation**|Marco Gaido et.al.|[2210.11981v1](http://arxiv.org/abs/2210.11981v1)|null|
+|**2022-10-18**|**Simple and Effective Unsupervised Speech Translation**|Changhan Wang et.al.|[2210.10191v1](http://arxiv.org/abs/2210.10191v1)|null|
+|**2022-10-18**|**Discrete Cross-Modal Alignment Enables Zero-Shot Speech Translation**|Chen Wang et.al.|[2210.09556v1](http://arxiv.org/abs/2210.09556v1)|**[link](https://github.com/znlp/zero-shot-st)**|
+|**2022-10-16**|**RedApt: An Adaptor for wav2vec 2 Encoding \\ Faster and Smaller Speech Translation without Quality Compromise**|Jinming Zhao et.al.|[2210.08475v1](http://arxiv.org/abs/2210.08475v1)|null|
+|**2022-10-15**|**Generating Synthetic Speech from SpokenVocab for Speech Translation**|Jinming Zhao et.al.|[2210.08174v1](http://arxiv.org/abs/2210.08174v1)|null|
+|**2022-10-04**|**Code-Switching without Switching: Language Agnostic End-to-End Speech Translation**|Christian Huber et.al.|[2210.01512v1](http://arxiv.org/abs/2210.01512v1)|null|
+|**2022-09-27**|**Direct Speech Translation for Automatic Subtitling**|Sara Papi et.al.|[2209.13192v1](http://arxiv.org/abs/2209.13192v1)|null|
+|**2022-08-08**|**A High-Quality and Large-Scale Dataset for English-Vietnamese Speech Translation**|Linh The Nguyen et.al.|[2208.04243v1](http://arxiv.org/abs/2208.04243v1)|**[link](https://github.com/vinairesearch/phost)**|
+|**2022-07-01**|**On the Impact of Noises in Crowd-Sourced Data for Speech Translation**|Siqi Ouyang et.al.|[2206.13756v2](http://arxiv.org/abs/2206.13756v2)|**[link](https://github.com/owaski/must-c-clean)**|
+|**2022-06-20**|**Over-Generation Cannot Be Rewarded: Length-Adaptive Average Lagging for Simultaneous Speech Translation**|Sara Papi et.al.|[2206.05807v3](http://arxiv.org/abs/2206.05807v3)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
+|**2022-06-14**|**The YiTrans End-to-End Speech Translation System for IWSLT 2022 Offline Shared Task**|Ziqiang Zhang et.al.|[2206.05777v2](http://arxiv.org/abs/2206.05777v2)|**[link](https://github.com/microsoft/speecht5)**|
+|**2022-05-25**|**TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation**|Rongjie Huang et.al.|[2205.12523v1](http://arxiv.org/abs/2205.12523v1)|null|
+|**2022-10-26**|**Non-Parametric Domain Adaptation for End-to-End Speech Translation**|Yichao Du et.al.|[2205.11211v5](http://arxiv.org/abs/2205.11211v5)|**[link](https://github.com/duyichao/npda-knn-st)**|
+|**2022-05-18**|**Leveraging Pseudo-labeled Data to Improve Direct Speech-to-Speech Translation**|Qianqian Dong et.al.|[2205.08993v1](http://arxiv.org/abs/2205.08993v1)|**[link](https://github.com/fengpeng-yue/speech-to-speech-translation)**|
+|**2022-05-14**|**Multiformer: A Head-Configurable Transformer-Based Model for Direct Speech Translation**|Gerard Sant et.al.|[2205.07100v1](http://arxiv.org/abs/2205.07100v1)|null|
+|**2022-05-13**|**Who Are We Talking About? Handling Person Names in Speech Translation**|Marco Gaido et.al.|[2205.06755v1](http://arxiv.org/abs/2205.06755v1)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
+|**2022-05-05**|**Efficient yet Competitive Speech Translation: FBK@IWSLT2022**|Marco Gaido et.al.|[2205.02629v1](http://arxiv.org/abs/2205.02629v1)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
+|**2022-05-05**|**Cross-modal Contrastive Learning for Speech Translation**|Rong Ye et.al.|[2205.02444v1](http://arxiv.org/abs/2205.02444v1)|**[link](https://github.com/reneeye/const)**|
+|**2022-05-04**|**ON-TRAC Consortium Systems for the IWSLT 2022 Dialect and Low-resource Speech Translation Tasks**|Marcely Zanon Boito et.al.|[2205.01987v1](http://arxiv.org/abs/2205.01987v1)|null|
+|**2022-04-22**|**LibriS2S: A German-English Speech-to-Speech Translation Corpus**|Pedro Jeuris et.al.|[2204.10593v1](http://arxiv.org/abs/2204.10593v1)|**[link](https://github.com/pedrodke/libris2s)**|
+|**2022-10-03**|**Exploring Continuous Integrate-and-Fire for Adaptive Simultaneous Speech Translation**|Chih-Chiang Chang et.al.|[2204.09595v3](http://arxiv.org/abs/2204.09595v3)|**[link](https://github.com/George0828Zhang/simulst)**|
+|**2022-04-19**|**On the Locality of Attention in Direct Speech Translation**|Belen Alastruey et.al.|[2204.09028v1](http://arxiv.org/abs/2204.09028v1)|null|
+|**2022-04-19**|**Blockwise Streaming Transformer for Spoken Language Understanding and Simultaneous Speech Translation**|Keqi Deng et.al.|[2204.08920v1](http://arxiv.org/abs/2204.08920v1)|null|
+|**2022-05-11**|**CUNI-KIT System for Simultaneous Speech Translation Task at IWSLT 2022**|Peter Polák et.al.|[2204.06028v2](http://arxiv.org/abs/2204.06028v2)|null|
+|**2022-04-11**|**Unified Speech-Text Pre-training for Speech Translation and Recognition**|Yun Tang et.al.|[2204.05409v1](http://arxiv.org/abs/2204.05409v1)|null|
+|**2022-07-01**|**Large-Scale Streaming End-to-End Speech Translation with Neural Transducers**|Jian Xue et.al.|[2204.05352v2](http://arxiv.org/abs/2204.05352v2)|null|
+|**2022-04-11**|**End-to-End Speech Translation for Code Switched Speech**|Orion Weller et.al.|[2204.05076v1](http://arxiv.org/abs/2204.05076v1)|**[link](https://github.com/apple/ml-code-switched-speech-translation)**|
+|**2022-04-08**|**GigaST: A 10,000-hour Pseudo Speech Translation Corpus**|Rong Ye et.al.|[2204.03939v1](http://arxiv.org/abs/2204.03939v1)|null|
+|**2022-04-20**|**Does Simultaneous Speech Translation need Simultaneous Models?**|Sara Papi et.al.|[2204.03783v2](http://arxiv.org/abs/2204.03783v2)|null|
+|**2022-09-13**|**Enhanced Direct Speech-to-Speech Translation Using Self-supervised Pre-training and Data Augmentation**|Sravya Popuri et.al.|[2204.02967v3](http://arxiv.org/abs/2204.02967v3)|null|
+|**2022-07-13**|**Speech Segmentation Optimization using Segmented Bilingual Speech Corpus for End-to-end Speech Translation**|Ryo Fukuda et.al.|[2203.15479v2](http://arxiv.org/abs/2203.15479v2)|**[link](https://github.com/wiseman/py-webrtcvad)**|
+|**2022-03-29**|**Multilingual Simultaneous Speech Translation**|Shashank Subramanya et.al.|[2203.14835v2](http://arxiv.org/abs/2203.14835v2)|null|
+|**2022-06-27**|**Leveraging unsupervised and weakly-supervised data to improve direct speech-to-speech translation**|Ye Jia et.al.|[2203.13339v2](http://arxiv.org/abs/2203.13339v2)|null|
+|**2022-03-20**|**STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation**|Qingkai Fang et.al.|[2203.10426v1](http://arxiv.org/abs/2203.10426v1)|**[link](https://github.com/ictnlp/stemm)**|
+|**2022-03-18**|**Under the Morphosyntactic Lens: A Multifaceted Evaluation of Gender Bias in Speech Translation**|Beatrice Savoldi et.al.|[2203.09866v1](http://arxiv.org/abs/2203.09866v1)|**[link](https://github.com/mgaido91/FBK-fairseq-ST)**|
+|**2022-03-16**|**Sample, Translate, Recombine: Leveraging Audio Alignments for Data Augmentation in End-to-end Speech Translation**|Tsz Kin Lam et.al.|[2203.08757v1](http://arxiv.org/abs/2203.08757v1)|null|
+|**2022-03-04**|**Comprehension of Subtitles from Re-Translating Simultaneous Speech Translation**|Dávid Javorský et.al.|[2203.02458v1](http://arxiv.org/abs/2203.02458v1)|null|
+|**2022-07-06**|**SHAS: Approaching optimal Segmentation for End-to-End Speech Translation**|Ioannis Tsiamas et.al.|[2202.04774v3](http://arxiv.org/abs/2202.04774v3)|**[link](https://github.com/mt-upc/shas)**|
+|**2022-09-04**|**Prabhupadavani: A Code-mixed Speech Translation Data for 25 Languages**|Jivnesh Sandhan et.al.|[2201.11391v2](http://arxiv.org/abs/2201.11391v2)|**[link](https://github.com/frozentoad9/CMST)**|
+|**2022-01-26**|**Tackling data scarcity in speech translation using zero-shot multilingual machine translation techniques**|Tu Anh Dinh et.al.|[2201.11172v1](http://arxiv.org/abs/2201.11172v1)|**[link](https://github.com/tuanh23/multimodalst)**|
+|**2022-06-26**|**CVSS Corpus and Massively Multilingual Speech-to-Speech Translation**|Ye Jia et.al.|[2201.03713v3](http://arxiv.org/abs/2201.03713v3)|**[link](https://github.com/google-research-datasets/cvss)**|
+|**2022-05-25**|**Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement**|Yichao Du et.al.|[2112.10991v2](http://arxiv.org/abs/2112.10991v2)|**[link](https://github.com/duyichao/e2e-st-tda)**|
+|**2022-05-04**|**Textless Speech-to-Speech Translation on Real Data**|Ann Lee et.al.|[2112.08352v2](http://arxiv.org/abs/2112.08352v2)|null|
+|**2021-11-08**|**Visualization: the missing factor in Simultaneous Speech Translation**|Sara Papi et.al.|[2111.00514v2](http://arxiv.org/abs/2111.00514v2)|null|
+|**2022-06-17**|**Decision Attentive Regularization to Improve Simultaneous Speech Translation Systems**|Mohd Abbas Zaidi et.al.|[2110.15729v2](http://arxiv.org/abs/2110.15729v2)|null|
+|**2021-10-26**|**Assessing Evaluation Metrics for Speech-to-Speech Translation**|Elizabeth Salesky et.al.|[2110.13877v1](http://arxiv.org/abs/2110.13877v1)|null|
+|**2022-01-12**|**Direct Simultaneous Speech-to-Speech Translation with Variational Monotonic Multihead Attention**|Xutai Ma et.al.|[2110.08250v2](http://arxiv.org/abs/2110.08250v2)|null|
+|**2022-07-15**|**From Start to Finish: Latency Reduction Strategies for Incremental Speech Synthesis in Simultaneous Speech-to-Speech Translation**|Danni Liu et.al.|[2110.08214v3](http://arxiv.org/abs/2110.08214v3)|null|
+|**2021-09-27**|**Fast-MD: Fast Multi-Decoder End-to-End Speech Translation with Non-Autoregressive Hidden Intermediates**|Hirofumi Inaguma et.al.|[2109.12804v1](http://arxiv.org/abs/2109.12804v1)|null|
+|**2021-09-15**|**Is "moby dick" a Whale or a Bird? Named Entities and Terminology in Speech Translation**|Marco Gaido et.al.|[2109.07439v1](http://arxiv.org/abs/2109.07439v1)|**[link](https://github.com/mgaido91/FBK-fairseq-ST)**|
+|**2021-09-09**|**Speechformer: Reducing Information Loss in Direct Speech Translation**|Sara Papi et.al.|[2109.04574v1](http://arxiv.org/abs/2109.04574v1)|**[link](https://github.com/sarapapi/fbk-fairseq)**|
+|**2021-09-09**|**Non-autoregressive End-to-end Speech Translation with Parallel Autoregressive Rescoring**|Hirofumi Inaguma et.al.|[2109.04411v1](http://arxiv.org/abs/2109.04411v1)|null|
+|**2021-08-09**|**The HW-TSC's Offline Speech Translation Systems for IWSLT 2021 Evaluation**|Minghan Wang et.al.|[2108.03845v1](http://arxiv.org/abs/2108.03845v1)|null|
+|**2021-07-24**|**The USYD-JD Speech Translation System for IWSLT 2021**|Liang Ding et.al.|[2107.11572v1](http://arxiv.org/abs/2107.11572v1)|null|
+|**2021-07-20**|**Simultaneous Speech Translation for Live Subtitling: from Delay to Display**|Alina Karakanta et.al.|[2107.08807v2](http://arxiv.org/abs/2107.08807v2)|**[link](https://github.com/sarapapi/reading_speed)**|
+|**2022-05-17**|**Translatotron 2: High-quality direct speech-to-speech translation with voice preservation**|Ye Jia et.al.|[2107.08661v5](http://arxiv.org/abs/2107.08661v5)|null|
+|**2021-08-14**|**FST: the FAIR Speech Translation System for the IWSLT21 Multilingual Shared Task**|Yun Tang et.al.|[2107.06959v2](http://arxiv.org/abs/2107.06959v2)|null|
+|**2021-07-13**|**The IWSLT 2021 BUT Speech Translation Systems**|Hari Krishna Vydana et.al.|[2107.06155v1](http://arxiv.org/abs/2107.06155v1)|null|
+|**2021-07-13**|**Zero-shot Speech Translation**|Tu Anh Dinh et.al.|[2107.06010v1](http://arxiv.org/abs/2107.06010v1)|null|
+|**2021-07-12**|**Improving Speech Translation by Understanding and Learning from the Auxiliary Text Translation Task**|Yun Tang et.al.|[2107.05782v1](http://arxiv.org/abs/2107.05782v1)|null|
+|**2022-03-21**|**Direct speech-to-speech translation with discrete units**|Ann Lee et.al.|[2107.05604v2](http://arxiv.org/abs/2107.05604v2)|null|
+|**2021-07-07**|**Efficient Transformer for Direct Speech Translation**|Belen Alastruey et.al.|[2107.03069v1](http://arxiv.org/abs/2107.03069v1)|null|
+|**2021-07-08**|**The NiuTrans End-to-End Speech Translation System for IWSLT 2021 Offline Task**|Chen Xu et.al.|[2107.02444v2](http://arxiv.org/abs/2107.02444v2)|null|
+|**2021-07-06**|**ESPnet-ST IWSLT 2021 Offline Speech Translation System**|Hirofumi Inaguma et.al.|[2107.00636v2](http://arxiv.org/abs/2107.00636v2)|null|
+|**2021-07-09**|**The USTC-NELSLIP Systems for Simultaneous Speech Translation Task at IWSLT 2021**|Dan Liu et.al.|[2107.00279v2](http://arxiv.org/abs/2107.00279v2)|null|
+|**2021-06-30**|**IMS' Systems for the IWSLT 2021 Low-Resource Speech Translation Task**|Pavel Denisov et.al.|[2106.16055v1](http://arxiv.org/abs/2106.16055v1)|null|
+|**2021-06-17**|**Lost in Interpreting: Speech Translation from Source or Interpreter?**|Dominik Macháček et.al.|[2106.09343v1](http://arxiv.org/abs/2106.09343v1)|null|
+|**2021-06-09**|**RealTranS: End-to-End Simultaneous Speech Translation with Convolutional Weighted-Shrinking Transformer**|Xingshan Zeng et.al.|[2106.04833v1](http://arxiv.org/abs/2106.04833v1)|null|
+|**2021-07-12**|**Lightweight Adapter Tuning for Multilingual Speech Translation**|Hang Le et.al.|[2106.01463v2](http://arxiv.org/abs/2106.01463v2)|**[link](https://github.com/formiel/fairseq/blob/master/examples/speech_to_text/docs/adapters.md)**|
+|**2021-06-02**|**Cascade versus Direct Speech Translation: Do the Differences Still Make a Difference?**|Luisa Bentivogli et.al.|[2106.01045v1](http://arxiv.org/abs/2106.01045v1)|null|
+|**2021-06-22**|**Multilingual Speech Translation with Unified Transformer: Huawei Noah's Ark Lab at IWSLT 2021**|Xingshan Zeng et.al.|[2106.00197v2](http://arxiv.org/abs/2106.00197v2)|null|
+|**2021-05-28**|**How to Split: the Effect of Word Segmentation on Gender Bias in Speech Translation**|Marco Gaido et.al.|[2105.13782v1](http://arxiv.org/abs/2105.13782v1)|**[link](https://github.com/mgaido91/FBK-fairseq-ST)**|
+|**2021-06-30**|**The Volctrans Neural Speech Translation System for IWSLT 2021**|Chengqi Zhao et.al.|[2105.07319v2](http://arxiv.org/abs/2105.07319v2)|**[link](https://github.com/bytedance/neurst)**|
+|**2021-06-15**|**Stacked Acoustic-and-Textual Encoding: Integrating the Pre-trained Models into Speech Translation Encoders**|Chen Xu et.al.|[2105.05752v2](http://arxiv.org/abs/2105.05752v2)|null|
+|**2021-05-11**|**Investigating the Reordering Capability in CTC-based Non-Autoregressive End-to-End Speech Translation**|Shun-Po Chuang et.al.|[2105.04840v1](http://arxiv.org/abs/2105.04840v1)|**[link](https://github.com/voidism/NAR-ST)**|
+|**2021-06-28**|**End-to-End Speech Translation with Pre-trained Models and Adapters: UPC at IWSLT 2021**|Gerard I. Gállego et.al.|[2105.04512v2](http://arxiv.org/abs/2105.04512v2)|**[link](https://github.com/mt-upc/iwslt-2021)**|
+|**2021-07-02**|**AlloST: Low-resource Speech Translation without Source Transcription**|Yao-Fei Cheng et.al.|[2105.00171v3](http://arxiv.org/abs/2105.00171v3)|**[link](https://github.com/jamfly/AlloST)**|
+|**2021-06-14**|**Impact of Encoding and Segmentation Strategies on End-to-End Simultaneous Speech Translation**|Ha Nguyen et.al.|[2104.14470v2](http://arxiv.org/abs/2104.14470v2)|null|
+|**2021-10-14**|**Beyond Voice Activity Detection: Hybrid Audio Segmentation for Direct Speech Translation**|Marco Gaido et.al.|[2104.11710v2](http://arxiv.org/abs/2104.11710v2)|null|
+|**2021-06-18**|**End-to-end Speech Translation via Cross-modal Progressive Training**|Rong Ye et.al.|[2104.10380v2](http://arxiv.org/abs/2104.10380v2)|**[link](https://github.com/ReneeYe/XSTNet)**|
+|**2021-04-14**|**Large-Scale Self- and Semi-Supervised Learning for Speech Translation**|Changhan Wang et.al.|[2104.06678v1](http://arxiv.org/abs/2104.06678v1)|null|
+|**2021-04-13**|**Source and Target Bidirectional Knowledge Distillation for End-to-end Speech Translation**|Hirofumi Inaguma et.al.|[2104.06457v1](http://arxiv.org/abs/2104.06457v1)|null|
+|**2021-04-27**|**BSTC: A Large-Scale Chinese-English Speech Translation Dataset**|Ruiqing Zhang et.al.|[2104.03575v4](http://arxiv.org/abs/2104.03575v4)|null|
+|**2021-06-30**|**Towards the evaluation of automatic simultaneous speech translation from a communicative perspective**|Claudio Fantinuoli et.al.|[2103.08364v2](http://arxiv.org/abs/2103.08364v2)|null|
+|**2021-03-04**|**An Empirical Study of End-to-end Simultaneous Speech Translation Decoding Strategies**|Ha Nguyen et.al.|[2103.03233v1](http://arxiv.org/abs/2103.03233v1)|null|
+|**2021-09-14**|**Fused Acoustic and Text Encoding for Multimodal Bilingual Pretraining and Speech Translation**|Renjie Zheng et.al.|[2102.05766v2](http://arxiv.org/abs/2102.05766v2)|null|
+|**2021-02-02**|**CTC-based Compression for Direct Speech Translation**|Marco Gaido et.al.|[2102.01578v1](http://arxiv.org/abs/2102.01578v1)|**[link](https://github.com/mgaido91/FBK-fairseq-ST)**|
+|**2021-06-15**|**NeurST: Neural Speech Translation Toolkit**|Chengqi Zhao et.al.|[2012.10018v3](http://arxiv.org/abs/2012.10018v3)|**[link](https://github.com/bytedance/neurst)**|
+|**2020-12-09**|**On Knowledge Distillation for Direct Speech Translation**|Marco Gaido et.al.|[2012.04964v1](http://arxiv.org/abs/2012.04964v1)|**[link](https://github.com/mgaido91/FBK-fairseq-ST)**|
+|**2020-12-09**|**Breeding Gender-aware Direct Speech Translation Systems**|Marco Gaido et.al.|[2012.04955v1](http://arxiv.org/abs/2012.04955v1)|null|
+|**2020-11-24**|**Tight Integrated End-to-End Training for Cascaded Speech Translation**|Parnia Bahar et.al.|[2011.12167v1](http://arxiv.org/abs/2011.12167v1)|null|
+|**2020-11-11**|**Simultaneous Speech-to-Speech Translation System with Neural Incremental ASR, MT, and TTS**|Katsuhito Sudoh et.al.|[2011.04845v2](http://arxiv.org/abs/2011.04845v2)|null|
+|**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
+|**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
 <p align=right>(<a href=#Updated-on-20221104>back to top</a>)</p>
 
