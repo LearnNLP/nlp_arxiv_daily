@@ -128,6 +128,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-04**|**Miko Team: Deep Learning Approach for Legal Question Answering in ALQAC 2022**|Hieu Nguyen Van, Dat Nguyen, Phuong Minh Nguyen, Minh Le Nguyen et.al.|[2211.02200v1](http://arxiv.org/abs/2211.02200v1)|null|
 |**2022-11-03**|**Data-efficient End-to-end Information Extraction for Statistical Legal Analysis**|Wonseok Hwang, Saehee Eom, Hanuhl Lee, Hai Jin Park, Minjoon Seo et.al.|[2211.01692v1](http://arxiv.org/abs/2211.01692v1)|null|
 |**2022-11-02**|**Processing Long Legal Documents with Pre-trained Transformers: Modding LegalBERT and Longformer**|Dimitris Mamakas, Petros Tsotsi, Ion Androutsopoulos, Ilias Chalkidis et.al.|[2211.00974v1](http://arxiv.org/abs/2211.00974v1)|null|
 |**2022-11-01**|**ClassActionPrediction: A Challenging Benchmark for Legal Judgment Prediction of Class Action Cases in the US**|Gil Semo, Dor Bernsohn, Ben Hagag, Gila Hayat, Joel Niklaus et.al.|[2211.00582v1](http://arxiv.org/abs/2211.00582v1)|**[link](https://github.com/darrow-labs/classactionprediction)**|
