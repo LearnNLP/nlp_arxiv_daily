@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.11.06
+## Updated on 2022.11.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -39,7 +39,7 @@ layout: default
 |**2022-06-20**|**Over-Generation Cannot Be Rewarded: Length-Adaptive Average Lagging for Simultaneous Speech Translation**|Sara Papi, Marco Gaido, Matteo Negri, Marco Turchi et.al.|[2206.05807v3](http://arxiv.org/abs/2206.05807v3)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2022-06-14**|**The YiTrans End-to-End Speech Translation System for IWSLT 2022 Offline Shared Task**|Ziqiang Zhang, Junyi Ao, Long Zhou, Shujie Liu, Furu Wei, Jinyu Li et.al.|[2206.05777v2](http://arxiv.org/abs/2206.05777v2)|**[link](https://github.com/microsoft/speecht5)**|
 |**2022-05-25**|**TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation**|Rongjie Huang, Zhou Zhao, Jinglin Liu, Huadai Liu, Yi Ren, Lichao Zhang, Jinzheng He et.al.|[2205.12523v1](http://arxiv.org/abs/2205.12523v1)|null|
-|**2022-10-26**|**Non-Parametric Domain Adaptation for End-to-End Speech Translation**|Yichao Du, Weizhi Wang, Zhirui Zhang, Boxing Chen, Tong Xu, Jun Xie, Enhong Chen et.al.|[2205.11211v5](http://arxiv.org/abs/2205.11211v5)|**[link](https://github.com/duyichao/npda-knn-st)**|
+|**2022-11-04**|**Non-Parametric Domain Adaptation for End-to-End Speech Translation**|Yichao Du, Weizhi Wang, Zhirui Zhang, Boxing Chen, Tong Xu, Jun Xie, Enhong Chen et.al.|[2205.11211v6](http://arxiv.org/abs/2205.11211v6)|**[link](https://github.com/duyichao/npda-knn-st)**|
 |**2022-05-18**|**Leveraging Pseudo-labeled Data to Improve Direct Speech-to-Speech Translation**|Qianqian Dong, Fengpeng Yue, Tom Ko, Mingxuan Wang, Qibing Bai, Yu Zhang et.al.|[2205.08993v1](http://arxiv.org/abs/2205.08993v1)|**[link](https://github.com/fengpeng-yue/speech-to-speech-translation)**|
 |**2022-05-14**|**Multiformer: A Head-Configurable Transformer-Based Model for Direct Speech Translation**|Gerard Sant, Gerard I. Gállego, Belen Alastruey, Marta R. Costa-Jussà et.al.|[2205.07100v1](http://arxiv.org/abs/2205.07100v1)|null|
 |**2022-05-13**|**Who Are We Talking About? Handling Person Names in Speech Translation**|Marco Gaido, Matteo Negri, Marco Turchi et.al.|[2205.06755v1](http://arxiv.org/abs/2205.06755v1)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
@@ -122,7 +122,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20221106>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221107>back to top</a>)</p>
 
 ## Legal
 
@@ -134,7 +134,7 @@ layout: default
 |**2022-10-31**|**Do Charge Prediction Models Learn Legal Theory?**|Zhenwei An, Quzhe Huang, Cong Jiang, Yansong Feng, Dongyan Zhao et.al.|[2210.17108v1](http://arxiv.org/abs/2210.17108v1)|**[link](https://github.com/zhenweian/exp_ljp)**|
 |**2022-10-30**|**Validity Assessment of Legal Will Statements as Natural Language Inference**|Alice Saebom Kwak, Jacob O. Israelsen, Clayton T. Morrison, Derek E. Bambauer, Mihai Surdeanu et.al.|[2210.16989v1](http://arxiv.org/abs/2210.16989v1)|**[link](https://github.com/ml4ai/nli4wills-corpus)**|
 |**2022-10-25**|**Deconfounding Legal Judgment Prediction for European Court of Human Rights Cases Towards Better Alignment with Experts**|T. Y. S. S Santosh, Shanshan Xu, Oana Ichim, Matthias Grabmair et.al.|[2210.13836v1](http://arxiv.org/abs/2210.13836v1)|**[link](https://github.com/tumlegaltech/deconfounding_echr_emnlp22)**|
-|**2022-10-25**|**Parameter-Efficient Legal Domain Adaptation**|Jonathan Li, Rohan Bhambhoria, Xiaodan Zhu et.al.|[2210.13712v1](http://arxiv.org/abs/2210.13712v1)|null|
+|**2022-11-04**|**Parameter-Efficient Legal Domain Adaptation**|Jonathan Li, Rohan Bhambhoria, Xiaodan Zhu et.al.|[2210.13712v2](http://arxiv.org/abs/2210.13712v2)|null|
 |**2022-10-24**|**Toward an Intelligent Tutoring System for Argument Mining in Legal Texts**|Hannes Westermann, Jaromir Savelka, Vern R. Walker, Kevin D. Ashley, Karim Benyekhlef et.al.|[2210.13635v1](http://arxiv.org/abs/2210.13635v1)|null|
 |**2022-10-24**|**EUR-Lex-Sum: A Multi- and Cross-lingual Dataset for Long-form Summarization in the Legal Domain**|Dennis Aumiller, Ashish Chouhan, Michael Gertz et.al.|[2210.13448v1](http://arxiv.org/abs/2210.13448v1)|**[link](https://github.com/achouhan93/eur-lex-sum)**|
 |**2022-10-24**|**Legal-Tech Open Diaries: Lesson learned on how to develop and deploy light-weight models in the era of humongous Language Models**|Stelios Maroudas, Sotiris Legkas, Prodromos Malakasiotis, Ilias Chalkidis et.al.|[2210.13086v1](http://arxiv.org/abs/2210.13086v1)|null|
@@ -148,7 +148,7 @@ layout: default
 |**2022-10-11**|**Legal Element-oriented Modeling with Multi-view Contrastive Learning for Legal Case Retrieval**|Zhaowei Wang et.al.|[2210.05188v1](http://arxiv.org/abs/2210.05188v1)|null|
 |**2022-10-01**|**Using Argumentation Schemes to Model Legal Reasoning**|Trevor Bench-Capon, Katie Atkinson et.al.|[2210.00315v1](http://arxiv.org/abs/2210.00315v1)|null|
 |**2022-09-29**|**Multi-stage Information Retrieval for Vietnamese Legal Texts**|Nhat-Minh Pham, Ha-Thanh Nguyen, Trong-Hop Do et.al.|[2209.14494v1](http://arxiv.org/abs/2209.14494v1)|null|
-|**2022-10-31**|**Law Informs Code: A Legal Informatics Approach to Aligning Artificial Intelligence with Humans**|John J. Nay et.al.|[2209.13020v6](http://arxiv.org/abs/2209.13020v6)|null|
+|**2022-11-04**|**Law Informs Code: A Legal Informatics Approach to Aligning Artificial Intelligence with Humans**|John J. Nay et.al.|[2209.13020v7](http://arxiv.org/abs/2209.13020v7)|null|
 |**2022-09-26**|**Legal Case Document Similarity: You Need Both Network and Text**|Paheli Bhattacharya, Kripabandhu Ghosh, Arindam Pal, Saptarshi Ghosh et.al.|[2209.12474v1](http://arxiv.org/abs/2209.12474v1)|**[link](https://github.com/law-ai/document-similarity)**|
 |**2022-09-25**|**An Empirical Study on Cross-X Transfer for Legal Judgment Prediction**|Joel Niklaus, Matthias Stürmer, Ilias Chalkidis et.al.|[2209.12325v1](http://arxiv.org/abs/2209.12325v1)|**[link](https://github.com/joelniklaus/swissjudgementprediction)**|
 |**2022-09-13**|**LegalBench: Prototyping a Collaborative Benchmark for Legal Reasoning**|Neel Guha, Daniel E. Ho, Julian Nyarko, Christopher Ré et.al.|[2209.06120v1](http://arxiv.org/abs/2209.06120v1)|**[link](https://github.com/hazyresearch/legalbench)**|
@@ -229,7 +229,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221106>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221107>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
