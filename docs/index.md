@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.11.07
+## Updated on 2022.11.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -122,7 +122,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20221107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221108>back to top</a>)</p>
 
 ## Legal
 
@@ -217,7 +217,7 @@ layout: default
 |**2021-12-23**|**Ergo -- a programming language for Smart Legal Contracts**|Niall Roche, Walter Hernandez, Eason Chen, Jérôme Siméon, Dan Selman et.al.|[2112.07064v2](http://arxiv.org/abs/2112.07064v2)|null|
 |**2021-12-13**|**Dependency Learning for Legal Judgment Prediction with a Unified Text-to-Text Transformer**|Yunyun Huang, Xiaoyu Shen, Chuanyi Li, Jidong Ge, Bin Luo et.al.|[2112.06370v1](http://arxiv.org/abs/2112.06370v1)|**[link](https://github.com/oli-yun/dependency-ljp)**|
 |**2021-12-10**|**Computer-Assisted Creation of Boolean Search Rules for Text Classification in the Legal Domain**|Hannes Westermann, Jaromir Savelka, Vern R. Walker, Kevin D. Ashley, Karim Benyekhlef et.al.|[2112.05807v1](http://arxiv.org/abs/2112.05807v1)|null|
-|**2021-12-03**|**Semantic Segmentation of Legal Documents via Rhetorical Roles**|Vijit Malik, Rishabh Sanjay, Shouvik Kumar Guha, Shubham Kumar Nigam, Angshuman Hazarika, Arnab Bhattacharya, Ashutosh Modi et.al.|[2112.01836v1](http://arxiv.org/abs/2112.01836v1)|null|
+|**2022-11-07**|**Semantic Segmentation of Legal Documents via Rhetorical Roles**|Vijit Malik, Rishabh Sanjay, Shouvik Kumar Guha, Angshuman Hazarika, Shubham Nigam, Arnab Bhattacharya, Ashutosh Modi et.al.|[2112.01836v2](http://arxiv.org/abs/2112.01836v2)|null|
 |**2021-12-11**|**Zero-Shot Cross-Lingual Transfer in Legal Domain Using Transformer Models**|Zein Shaheen, Gerhard Wohlgenannt, Dmitry Mouromtsev et.al.|[2111.14192v2](http://arxiv.org/abs/2111.14192v2)|null|
 |**2021-11-05**|**From impact refugees to deterritorialized states: foresighting extreme legal-policy cases in asteroid impact scenarios**|Elisa Simó-Soler, Eloy Peña-Asensio et.al.|[2111.13643v1](http://arxiv.org/abs/2111.13643v1)|null|
 |**2021-11-23**|**Robust Deep Reinforcement Learning for Extractive Legal Summarization**|Duy-Hung Nguyen, Bao-Sinh Nguyen, Nguyen Viet Dung Nghiem, Dung Tien Le, Mim Amina Khatun, Minh-Tien Nguyen, Hung Le et.al.|[2111.07158v2](http://arxiv.org/abs/2111.07158v2)|null|
@@ -230,7 +230,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221108>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
