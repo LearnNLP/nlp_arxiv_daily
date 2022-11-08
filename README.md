@@ -124,6 +124,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-06**|**Computing and Exploiting Document Structure to Improve Unsupervised Extractive Summarization of Legal Case Decisions**|Yang Zhong, Diane Litman et.al.|[2211.03229v1](http://arxiv.org/abs/2211.03229v1)|null|
+|**2022-11-06**|**Knowledge is Power: Understanding Causality Makes Legal judgment Prediction Models More Generalizable and Robust**|Haotian Chen, Lingwei Zhang, Fanchao Chen, Yang Yu et.al.|[2211.03046v1](http://arxiv.org/abs/2211.03046v1)|null|
+|**2022-11-05**|**Privacy-Preserving Models for Legal Natural Language Processing**|Ying Yin, Ivan Habernal et.al.|[2211.02956v1](http://arxiv.org/abs/2211.02956v1)|null|
+|**2022-11-05**|**The Legal Argument Reasoning Task in Civil Procedure**|Leonard Bongard, Lena Held, Ivan Habernal et.al.|[2211.02950v1](http://arxiv.org/abs/2211.02950v1)|null|
 |**2022-11-04**|**Miko Team: Deep Learning Approach for Legal Question Answering in ALQAC 2022**|Hieu Nguyen Van, Dat Nguyen, Phuong Minh Nguyen, Minh Le Nguyen et.al.|[2211.02200v1](http://arxiv.org/abs/2211.02200v1)|null|
 |**2022-11-03**|**Data-efficient End-to-end Information Extraction for Statistical Legal Analysis**|Wonseok Hwang, Saehee Eom, Hanuhl Lee, Hai Jin Park, Minjoon Seo et.al.|[2211.01692v1](http://arxiv.org/abs/2211.01692v1)|null|
 |**2022-11-02**|**Processing Long Legal Documents with Pre-trained Transformers: Modding LegalBERT and Longformer**|Dimitris Mamakas, Petros Tsotsi, Ion Androutsopoulos, Ilias Chalkidis et.al.|[2211.00974v1](http://arxiv.org/abs/2211.00974v1)|null|
@@ -213,7 +217,7 @@
 |**2021-12-23**|**Ergo -- a programming language for Smart Legal Contracts**|Niall Roche, Walter Hernandez, Eason Chen, Jérôme Siméon, Dan Selman et.al.|[2112.07064v2](http://arxiv.org/abs/2112.07064v2)|null|
 |**2021-12-13**|**Dependency Learning for Legal Judgment Prediction with a Unified Text-to-Text Transformer**|Yunyun Huang, Xiaoyu Shen, Chuanyi Li, Jidong Ge, Bin Luo et.al.|[2112.06370v1](http://arxiv.org/abs/2112.06370v1)|**[link](https://github.com/oli-yun/dependency-ljp)**|
 |**2021-12-10**|**Computer-Assisted Creation of Boolean Search Rules for Text Classification in the Legal Domain**|Hannes Westermann, Jaromir Savelka, Vern R. Walker, Kevin D. Ashley, Karim Benyekhlef et.al.|[2112.05807v1](http://arxiv.org/abs/2112.05807v1)|null|
-|**2022-11-07**|**Semantic Segmentation of Legal Documents via Rhetorical Roles**|Vijit Malik, Rishabh Sanjay, Shouvik Kumar Guha, Angshuman Hazarika, Shubham Nigam, Arnab Bhattacharya, Ashutosh Modi et.al.|[2112.01836v2](http://arxiv.org/abs/2112.01836v2)|null|
+|**2022-11-07**|**Semantic Segmentation of Legal Documents via Rhetorical Roles**|Vijit Malik, Rishabh Sanjay, Shouvik Kumar Guha, Angshuman Hazarika, Shubham Nigam, Arnab Bhattacharya, Ashutosh Modi et.al.|[2112.01836v2](http://arxiv.org/abs/2112.01836v2)|**[link](https://github.com/exploration-lab/rhetorical-roles)**|
 |**2021-12-11**|**Zero-Shot Cross-Lingual Transfer in Legal Domain Using Transformer Models**|Zein Shaheen, Gerhard Wohlgenannt, Dmitry Mouromtsev et.al.|[2111.14192v2](http://arxiv.org/abs/2111.14192v2)|null|
 |**2021-11-05**|**From impact refugees to deterritorialized states: foresighting extreme legal-policy cases in asteroid impact scenarios**|Elisa Simó-Soler, Eloy Peña-Asensio et.al.|[2111.13643v1](http://arxiv.org/abs/2111.13643v1)|null|
 |**2021-11-23**|**Robust Deep Reinforcement Learning for Extractive Legal Summarization**|Duy-Hung Nguyen, Bao-Sinh Nguyen, Nguyen Viet Dung Nghiem, Dung Tien Le, Mim Amina Khatun, Minh-Tien Nguyen, Hung Le et.al.|[2111.07158v2](http://arxiv.org/abs/2111.07158v2)|null|
