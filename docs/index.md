@@ -21,6 +21,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-09**|**Efficient Speech Translation with Pre-trained Models**|Zhaolin Li, Jan Niehues et.al.|[2211.04939v1](http://arxiv.org/abs/2211.04939v1)|null|
+|**2022-11-08**|**SpeechMatrix: A Large-Scale Mined Corpus of Multilingual Speech-to-Speech Translations**|Paul-Ambroise Duquenne, Hongyu Gong, Ning Dong, Jingfei Du, Ann Lee, Vedanuj Goswani, Changhan Wang, Juan Pino, Benoît Sagot, Holger Schwenk et.al.|[2211.04508v1](http://arxiv.org/abs/2211.04508v1)|null|
 |**2022-10-31**|**Textless Direct Speech-to-Speech Translation with Discrete Speech Representation**|Xinjian Li, Ye Jia, Chung-Cheng Chiu et.al.|[2211.00115v1](http://arxiv.org/abs/2211.00115v1)|null|
 |**2022-10-31**|**Joint Pre-Training with Speech and Bilingual Text for Direct Speech to Speech Translation**|Kun Wei, Long Zhou, Ziqiang Zhang, Liping Chen, Shujie Liu, Lei He, Jinyu Li, Furu Wei et.al.|[2210.17027v1](http://arxiv.org/abs/2210.17027v1)|**[link](https://github.com/microsoft/speecht5)**|
 |**2022-10-28**|**Efficient Speech Translation with Dynamic Latent Perceivers**|Ioannis Tsiamas, Gerard I. Gállego, José A. R. Fonollosa, Marta R. Costa-jussá et.al.|[2210.16264v1](http://arxiv.org/abs/2210.16264v1)|**[link](https://github.com/mt-upc/s2t-perceiver)**|
