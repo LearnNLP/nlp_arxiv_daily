@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.11.10
+## Updated on 2022.11.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -120,7 +120,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20221110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221111>back to top</a>)</p>
 
 ## Legal
 
@@ -132,7 +132,7 @@
 |**2022-11-05**|**The Legal Argument Reasoning Task in Civil Procedure**|Leonard Bongard, Lena Held, Ivan Habernal et.al.|[2211.02950v1](http://arxiv.org/abs/2211.02950v1)|null|
 |**2022-11-04**|**Miko Team: Deep Learning Approach for Legal Question Answering in ALQAC 2022**|Hieu Nguyen Van, Dat Nguyen, Phuong Minh Nguyen, Minh Le Nguyen et.al.|[2211.02200v1](http://arxiv.org/abs/2211.02200v1)|null|
 |**2022-11-03**|**Data-efficient End-to-end Information Extraction for Statistical Legal Analysis**|Wonseok Hwang, Saehee Eom, Hanuhl Lee, Hai Jin Park, Minjoon Seo et.al.|[2211.01692v1](http://arxiv.org/abs/2211.01692v1)|null|
-|**2022-11-02**|**Processing Long Legal Documents with Pre-trained Transformers: Modding LegalBERT and Longformer**|Dimitris Mamakas, Petros Tsotsi, Ion Androutsopoulos, Ilias Chalkidis et.al.|[2211.00974v1](http://arxiv.org/abs/2211.00974v1)|null|
+|**2022-11-10**|**Processing Long Legal Documents with Pre-trained Transformers: Modding LegalBERT and Longformer**|Dimitris Mamakas, Petros Tsotsi, Ion Androutsopoulos, Ilias Chalkidis et.al.|[2211.00974v2](http://arxiv.org/abs/2211.00974v2)|null|
 |**2022-11-01**|**ClassActionPrediction: A Challenging Benchmark for Legal Judgment Prediction of Class Action Cases in the US**|Gil Semo, Dor Bernsohn, Ben Hagag, Gila Hayat, Joel Niklaus et.al.|[2211.00582v1](http://arxiv.org/abs/2211.00582v1)|**[link](https://github.com/darrow-labs/classactionprediction)**|
 |**2022-10-31**|**Do Charge Prediction Models Learn Legal Theory?**|Zhenwei An, Quzhe Huang, Cong Jiang, Yansong Feng, Dongyan Zhao et.al.|[2210.17108v1](http://arxiv.org/abs/2210.17108v1)|**[link](https://github.com/zhenweian/exp_ljp)**|
 |**2022-10-30**|**Validity Assessment of Legal Will Statements as Natural Language Inference**|Alice Saebom Kwak, Jacob O. Israelsen, Clayton T. Morrison, Derek E. Bambauer, Mihai Surdeanu et.al.|[2210.16989v1](http://arxiv.org/abs/2210.16989v1)|**[link](https://github.com/ml4ai/nli4wills-corpus)**|
@@ -232,7 +232,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221111>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
