@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-11**|**Align, Write, Re-order: Explainable End-to-End Speech Translation via Operation Sequence Generation**|Motoi Omachi, Brian Yan, Siddharth Dalmia, Yuya Fujita, Shinji Watanabe et.al.|[2211.05967v1](http://arxiv.org/abs/2211.05967v1)|null|
 |**2022-11-09**|**Efficient Speech Translation with Pre-trained Models**|Zhaolin Li, Jan Niehues et.al.|[2211.04939v1](http://arxiv.org/abs/2211.04939v1)|null|
 |**2022-11-08**|**SpeechMatrix: A Large-Scale Mined Corpus of Multilingual Speech-to-Speech Translations**|Paul-Ambroise Duquenne, Hongyu Gong, Ning Dong, Jingfei Du, Ann Lee, Vedanuj Goswani, Changhan Wang, Juan Pino, Benoît Sagot, Holger Schwenk et.al.|[2211.04508v1](http://arxiv.org/abs/2211.04508v1)|null|
 |**2022-10-31**|**Textless Direct Speech-to-Speech Translation with Discrete Speech Representation**|Xinjian Li, Ye Jia, Chung-Cheng Chiu et.al.|[2211.00115v1](http://arxiv.org/abs/2211.00115v1)|null|
