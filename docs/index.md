@@ -132,6 +132,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-15**|**Exploiting Contrastive Learning and Numerical Evidence for Improving Confusing Legal Judgment Prediction**|Leilei Gan, Baokui Li, Kun Kuang, Yi Yang, Fei Wu et.al.|[2211.08238v1](http://arxiv.org/abs/2211.08238v1)|null|
+|**2022-11-15**|**An Efficient Active Learning Pipeline for Legal Text Classification**|Sepideh Mamooler, Rémi Lebret, Stéphane Massonnet, Karl Aberer et.al.|[2211.08112v1](http://arxiv.org/abs/2211.08112v1)|null|
 |**2022-11-06**|**Computing and Exploiting Document Structure to Improve Unsupervised Extractive Summarization of Legal Case Decisions**|Yang Zhong, Diane Litman et.al.|[2211.03229v1](http://arxiv.org/abs/2211.03229v1)|null|
 |**2022-11-06**|**Knowledge is Power: Understanding Causality Makes Legal judgment Prediction Models More Generalizable and Robust**|Haotian Chen, Lingwei Zhang, Fanchao Chen, Yang Yu et.al.|[2211.03046v1](http://arxiv.org/abs/2211.03046v1)|null|
 |**2022-11-05**|**Privacy-Preserving Models for Legal Natural Language Processing**|Ying Yin, Ivan Habernal et.al.|[2211.02956v1](http://arxiv.org/abs/2211.02956v1)|null|
