@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-16**|**MT Metrics Correlate with Human Ratings of Simultaneous Speech Translation**|Dominik Macháček, Ondřej Bojar, Raj Dabre et.al.|[2211.08633v1](http://arxiv.org/abs/2211.08633v1)|null|
 |**2022-11-11**|**Speech-to-Speech Translation For A Real-world Unwritten Language**|Peng-Jen Chen, Kevin Tran, Yilin Yang, Jingfei Du, Justine Kao, Yu-An Chung, Paden Tomasello, Paul-Ambroise Duquenne, Holger Schwenk, Hongyu Gong, Hirofumi Inaguma, Sravya Popuri, Changhan Wang, Juan Pino, Wei-Ning Hsu, Ann Lee et.al.|[2211.06474v1](http://arxiv.org/abs/2211.06474v1)|null|
 |**2022-11-11**|**Align, Write, Re-order: Explainable End-to-End Speech Translation via Operation Sequence Generation**|Motoi Omachi, Brian Yan, Siddharth Dalmia, Yuya Fujita, Shinji Watanabe et.al.|[2211.05967v1](http://arxiv.org/abs/2211.05967v1)|null|
 |**2022-11-09**|**Efficient Speech Translation with Pre-trained Models**|Zhaolin Li, Jan Niehues et.al.|[2211.04939v1](http://arxiv.org/abs/2211.04939v1)|null|
