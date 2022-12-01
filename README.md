@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.11.23
+## Updated on 2022.12.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-22**|**ArzEn-ST: A Three-way Speech Translation Corpus for Code-Switched Egyptian Arabic - English**|Injy Hamed, Nizar Habash, Slim Abdennadher, Ngoc Thang Vu et.al.|[2211.12000v1](http://arxiv.org/abs/2211.12000v1)|null|
 |**2022-11-16**|**MT Metrics Correlate with Human Ratings of Simultaneous Speech Translation**|Dominik Macháček, Ondřej Bojar, Raj Dabre et.al.|[2211.08633v1](http://arxiv.org/abs/2211.08633v1)|null|
 |**2022-11-11**|**Speech-to-Speech Translation For A Real-world Unwritten Language**|Peng-Jen Chen, Kevin Tran, Yilin Yang, Jingfei Du, Justine Kao, Yu-An Chung, Paden Tomasello, Paul-Ambroise Duquenne, Holger Schwenk, Hongyu Gong, Hirofumi Inaguma, Sravya Popuri, Changhan Wang, Juan Pino, Wei-Ning Hsu, Ann Lee et.al.|[2211.06474v1](http://arxiv.org/abs/2211.06474v1)|null|
 |**2022-11-11**|**Align, Write, Re-order: Explainable End-to-End Speech Translation via Operation Sequence Generation**|Motoi Omachi, Brian Yan, Siddharth Dalmia, Yuya Fujita, Shinji Watanabe et.al.|[2211.05967v1](http://arxiv.org/abs/2211.05967v1)|null|
@@ -26,7 +27,7 @@
 |**2022-10-31**|**Joint Pre-Training with Speech and Bilingual Text for Direct Speech to Speech Translation**|Kun Wei, Long Zhou, Ziqiang Zhang, Liping Chen, Shujie Liu, Lei He, Jinyu Li, Furu Wei et.al.|[2210.17027v1](http://arxiv.org/abs/2210.17027v1)|**[link](https://github.com/microsoft/speecht5)**|
 |**2022-10-28**|**Efficient Speech Translation with Dynamic Latent Perceivers**|Ioannis Tsiamas, Gerard I. Gállego, José A. R. Fonollosa, Marta R. Costa-jussá et.al.|[2210.16264v1](http://arxiv.org/abs/2210.16264v1)|**[link](https://github.com/mt-upc/s2t-perceiver)**|
 |**2022-10-26**|**Improving Speech-to-Speech Translation Through Unlabeled Text**|Xuan-Phi Nguyen, Sravya Popuri, Changhan Wang, Yun Tang, Ilia Kulikov, Hongyu Gong et.al.|[2210.14514v1](http://arxiv.org/abs/2210.14514v1)|null|
-|**2022-10-24**|**Does Joint Training Really Help Cascaded Speech Translation?**|Viet Anh Khoa Tran, David Thulke, Yingbo Gao, Christian Herold, Hermann Ney et.al.|[2210.13700v1](http://arxiv.org/abs/2210.13700v1)|**[link](https://github.com/tran-khoa/joint-training-cascaded-st)**|
+|**2022-11-24**|**Does Joint Training Really Help Cascaded Speech Translation?**|Viet Anh Khoa Tran, David Thulke, Yingbo Gao, Christian Herold, Hermann Ney et.al.|[2210.13700v2](http://arxiv.org/abs/2210.13700v2)|**[link](https://github.com/tran-khoa/joint-training-cascaded-st)**|
 |**2022-10-21**|**Joint Speech Translation and Named Entity Recognition**|Marco Gaido, Sara Papi, Matteo Negri, Marco Turchi et.al.|[2210.11987v1](http://arxiv.org/abs/2210.11987v1)|null|
 |**2022-10-21**|**Named Entity Detection and Injection for Direct Speech Translation**|Marco Gaido, Yun Tang, Ilia Kulikov, Rongqing Huang, Hongyu Gong, Hirofumi Inaguma et.al.|[2210.11981v1](http://arxiv.org/abs/2210.11981v1)|null|
 |**2022-10-18**|**Simple and Effective Unsupervised Speech Translation**|Changhan Wang, Hirofumi Inaguma, Peng-Jen Chen, Ilia Kulikov, Yun Tang, Wei-Ning Hsu, Michael Auli, Juan Pino et.al.|[2210.10191v1](http://arxiv.org/abs/2210.10191v1)|null|
@@ -123,12 +124,15 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20221123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221201>back to top</a>)</p>
 
 ## Legal
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-30**|**BudgetLongformer: Can we Cheaply Pretrain a SotA Legal Language Model From Scratch?**|Joel Niklaus, Daniele Giofré et.al.|[2211.17135v1](http://arxiv.org/abs/2211.17135v1)|null|
+|**2022-11-15**|**DeepParliament: A Legal domain Benchmark & Dataset for Parliament Bills Prediction**|Ankit Pal et.al.|[2211.15424v1](http://arxiv.org/abs/2211.15424v1)|**[link](https://github.com/monk1337/deepparliament)**|
+|**2022-11-23**|**Agent-Specific Deontic Modality Detection in Legal Language**|Abhilasha Sancheti, Aparna Garimella, Balaji Vasan Srinivasan, Rachel Rudinger et.al.|[2211.12752v1](http://arxiv.org/abs/2211.12752v1)|null|
 |**2022-11-21**|**Legal and Political Stance Detection of SCOTUS Language**|Noah Bergam, Emily Allaway, Kathleen McKeown et.al.|[2211.11724v1](http://arxiv.org/abs/2211.11724v1)|null|
 |**2022-11-15**|**Exploiting Contrastive Learning and Numerical Evidence for Improving Confusing Legal Judgment Prediction**|Leilei Gan, Baokui Li, Kun Kuang, Yi Yang, Fei Wu et.al.|[2211.08238v1](http://arxiv.org/abs/2211.08238v1)|null|
 |**2022-11-15**|**An Efficient Active Learning Pipeline for Legal Text Classification**|Sepideh Mamooler, Rémi Lebret, Stéphane Massonnet, Karl Aberer et.al.|[2211.08112v1](http://arxiv.org/abs/2211.08112v1)|null|
@@ -159,7 +163,7 @@
 |**2022-11-12**|**Multi-stage Information Retrieval for Vietnamese Legal Texts**|Nhat-Minh Pham, Ha-Thanh Nguyen, Trong-Hop Do et.al.|[2209.14494v2](http://arxiv.org/abs/2209.14494v2)|null|
 |**2022-11-04**|**Law Informs Code: A Legal Informatics Approach to Aligning Artificial Intelligence with Humans**|John J. Nay et.al.|[2209.13020v7](http://arxiv.org/abs/2209.13020v7)|null|
 |**2022-09-26**|**Legal Case Document Similarity: You Need Both Network and Text**|Paheli Bhattacharya, Kripabandhu Ghosh, Arindam Pal, Saptarshi Ghosh et.al.|[2209.12474v1](http://arxiv.org/abs/2209.12474v1)|**[link](https://github.com/law-ai/document-similarity)**|
-|**2022-09-25**|**An Empirical Study on Cross-X Transfer for Legal Judgment Prediction**|Joel Niklaus, Matthias Stürmer, Ilias Chalkidis et.al.|[2209.12325v1](http://arxiv.org/abs/2209.12325v1)|**[link](https://github.com/joelniklaus/swissjudgementprediction)**|
+|**2022-09-25**|**An Empirical Study on Cross-X Transfer for Legal Judgment Prediction**|Joel Niklaus, Matthias Stürmer, Ilias Chalkidis et.al.|[2209.12325v1](http://arxiv.org/abs/2209.12325v1)|**[link](https://github.com/Kaleidophon/deep-significance)**|
 |**2022-09-13**|**LegalBench: Prototyping a Collaborative Benchmark for Legal Reasoning**|Neel Guha, Daniel E. Ho, Julian Nyarko, Christopher Ré et.al.|[2209.06120v1](http://arxiv.org/abs/2209.06120v1)|**[link](https://github.com/hazyresearch/legalbench)**|
 |**2022-10-08**|**Pre-training Transformers on Indian Legal Text**|Shounak Paul, Arpan Mandal, Pawan Goyal, Saptarshi Ghosh et.al.|[2209.06049v3](http://arxiv.org/abs/2209.06049v3)|null|
 |**2022-08-29**|**Bias Impact Analysis of AI in Consumer Mobile Health Technologies: Legal, Technical, and Policy**|Kristine Gloria, Nidhi Rastogi, Stevie DeGroff et.al.|[2209.05440v1](http://arxiv.org/abs/2209.05440v1)|null|
@@ -177,7 +181,7 @@
 |**2022-07-10**|**Developing an NLP-based Recommender System for the Ethical, Legal, and Social Implications of Synthetic Biology**|Damien Dablain, Lilian Huang, Brandon Sepulvado et.al.|[2207.06360v1](http://arxiv.org/abs/2207.06360v1)|null|
 |**2022-07-09**|**Explainable Legal Case Matching via Inverse Optimal Transport-based Rationale Extraction**|Weijie Yu, Zhongxiang Sun, Jun Xu, Zhenhua Dong, Xu Chen, Hongteng Xu, Ji-Rong Wen et.al.|[2207.04182v1](http://arxiv.org/abs/2207.04182v1)|**[link](https://github.com/ruc-wjyu/iot-match)**|
 |**2022-07-15**|**Sequence-aware multimodal page classification of Brazilian legal documents**|Pedro H. Luz de Araujo, Ana Paula G. S. de Almeida, Fabricio A. Braz, Nilton C. da Silva, Flavio de Barros Vidal, Teofilo E. de Campos et.al.|[2207.00748v2](http://arxiv.org/abs/2207.00748v2)|**[link](https://github.com/peluz/victor-visual-text)**|
-|**2022-07-01**|**Pile of Law: Learning Responsible Data Filtering from the Law and a 256GB Open-Source Legal Dataset**|Peter Henderson, Mark S. Krass, Lucia Zheng, Neel Guha, Christopher D. Manning, Dan Jurafsky, Daniel E. Ho et.al.|[2207.00220v1](http://arxiv.org/abs/2207.00220v1)|**[link](https://github.com/breakend/pileoflaw)**|
+|**2022-11-29**|**Pile of Law: Learning Responsible Data Filtering from the Law and a 256GB Open-Source Legal Dataset**|Peter Henderson, Mark S. Krass, Lucia Zheng, Neel Guha, Christopher D. Manning, Dan Jurafsky, Daniel E. Ho et.al.|[2207.00220v2](http://arxiv.org/abs/2207.00220v2)|**[link](https://github.com/breakend/pileoflaw)**|
 |**2022-07-20**|**Cybersecurity Law: Legal Jurisdiction and Authority**|Feras A. Batarseh et.al.|[2206.09465v3](http://arxiv.org/abs/2206.09465v3)|null|
 |**2022-06-15**|**Legal Provocations for HCI in the Design and Development of Trustworthy Autonomous Systems**|Lachlan D. Urquhart, Glenn McGarry, Andy Crabtree et.al.|[2206.07506v1](http://arxiv.org/abs/2206.07506v1)|null|
 |**2022-09-13**|**Indian Legal Text Summarization: A Text Normalisation-based Approach**|Satyajit Ghosh, Mousumi Dutta, Tanaya Das et.al.|[2206.06238v2](http://arxiv.org/abs/2206.06238v2)|**[link](https://github.com/satyajit1910/ilds)**|
@@ -238,7 +242,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221201>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
