@@ -134,6 +134,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-02**|**Legal Prompting: Teaching a Language Model to Think Like a Lawyer**|Fangyi Yu, Lee Quartey, Frank Schilder et.al.|[2212.01326v1](http://arxiv.org/abs/2212.01326v1)|null|
 |**2022-11-30**|**BudgetLongformer: Can we Cheaply Pretrain a SotA Legal Language Model From Scratch?**|Joel Niklaus, Daniele Giofré et.al.|[2211.17135v1](http://arxiv.org/abs/2211.17135v1)|null|
 |**2022-11-15**|**DeepParliament: A Legal domain Benchmark & Dataset for Parliament Bills Prediction**|Ankit Pal et.al.|[2211.15424v1](http://arxiv.org/abs/2211.15424v1)|**[link](https://github.com/monk1337/deepparliament)**|
 |**2022-11-23**|**Agent-Specific Deontic Modality Detection in Legal Language**|Abhilasha Sancheti, Aparna Garimella, Balaji Vasan Srinivasan, Rachel Rudinger et.al.|[2211.12752v1](http://arxiv.org/abs/2211.12752v1)|null|
