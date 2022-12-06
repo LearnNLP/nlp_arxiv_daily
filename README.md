@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-04**|**Improving End-to-end Speech Translation by Leveraging Auxiliary Speech and Text Data**|Yuhao Zhang, Chen Xu, Bojie Hu, Chunliang Zhang, Tong Xiao, Jingbo Zhu et.al.|[2212.01778v1](http://arxiv.org/abs/2212.01778v1)|null|
 |**2022-11-22**|**ArzEn-ST: A Three-way Speech Translation Corpus for Code-Switched Egyptian Arabic - English**|Injy Hamed, Nizar Habash, Slim Abdennadher, Ngoc Thang Vu et.al.|[2211.12000v1](http://arxiv.org/abs/2211.12000v1)|null|
 |**2022-11-16**|**MT Metrics Correlate with Human Ratings of Simultaneous Speech Translation**|Dominik Macháček, Ondřej Bojar, Raj Dabre et.al.|[2211.08633v1](http://arxiv.org/abs/2211.08633v1)|null|
 |**2022-11-11**|**Speech-to-Speech Translation For A Real-world Unwritten Language**|Peng-Jen Chen, Kevin Tran, Yilin Yang, Jingfei Du, Justine Kao, Yu-An Chung, Paden Tomasello, Paul-Ambroise Duquenne, Holger Schwenk, Hongyu Gong, Hirofumi Inaguma, Sravya Popuri, Changhan Wang, Juan Pino, Wei-Ning Hsu, Ann Lee et.al.|[2211.06474v1](http://arxiv.org/abs/2211.06474v1)|null|
@@ -130,6 +131,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-05**|**Legal Prompt Engineering for Multilingual Legal Judgement Prediction**|Dietrich Trautmann, Alina Petrova, Frank Schilder et.al.|[2212.02199v1](http://arxiv.org/abs/2212.02199v1)|null|
 |**2022-12-02**|**Legal Prompting: Teaching a Language Model to Think Like a Lawyer**|Fangyi Yu, Lee Quartey, Frank Schilder et.al.|[2212.01326v1](http://arxiv.org/abs/2212.01326v1)|null|
 |**2022-11-30**|**BudgetLongformer: Can we Cheaply Pretrain a SotA Legal Language Model From Scratch?**|Joel Niklaus, Daniele Giofré et.al.|[2211.17135v1](http://arxiv.org/abs/2211.17135v1)|null|
 |**2022-11-15**|**DeepParliament: A Legal domain Benchmark & Dataset for Parliament Bills Prediction**|Ankit Pal et.al.|[2211.15424v1](http://arxiv.org/abs/2211.15424v1)|**[link](https://github.com/monk1337/deepparliament)**|
