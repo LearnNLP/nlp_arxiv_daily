@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-07**|**M3ST: Mix at Three Levels for Speech Translation**|Xuxin Cheng, Qianqian Dong, Fengpeng Yue, Tom Ko, Mingxuan Wang, Yuexian Zou et.al.|[2212.03657v1](http://arxiv.org/abs/2212.03657v1)|null|
 |**2022-12-04**|**Improving End-to-end Speech Translation by Leveraging Auxiliary Speech and Text Data**|Yuhao Zhang, Chen Xu, Bojie Hu, Chunliang Zhang, Tong Xiao, Jingbo Zhu et.al.|[2212.01778v1](http://arxiv.org/abs/2212.01778v1)|null|
 |**2022-11-22**|**ArzEn-ST: A Three-way Speech Translation Corpus for Code-Switched Egyptian Arabic - English**|Injy Hamed, Nizar Habash, Slim Abdennadher, Ngoc Thang Vu et.al.|[2211.12000v1](http://arxiv.org/abs/2211.12000v1)|null|
 |**2022-11-16**|**MT Metrics Correlate with Human Ratings of Simultaneous Speech Translation**|Dominik Macháček, Ondřej Bojar, Raj Dabre et.al.|[2211.08633v1](http://arxiv.org/abs/2211.08633v1)|null|
@@ -135,6 +136,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-06**|**Formal Modeling and Analysis of Legal Contracts using ContractCheck**|Alan Khoja, Martin Kölbl, Stefan Leue, Rüdiger Wilhelmi et.al.|[2212.03349v1](http://arxiv.org/abs/2212.03349v1)|null|
 |**2022-12-05**|**Legal Prompt Engineering for Multilingual Legal Judgement Prediction**|Dietrich Trautmann, Alina Petrova, Frank Schilder et.al.|[2212.02199v1](http://arxiv.org/abs/2212.02199v1)|null|
 |**2022-12-02**|**Legal Prompting: Teaching a Language Model to Think Like a Lawyer**|Fangyi Yu, Lee Quartey, Frank Schilder et.al.|[2212.01326v1](http://arxiv.org/abs/2212.01326v1)|null|
 |**2022-11-30**|**BudgetLongformer: Can we Cheaply Pretrain a SotA Legal Language Model From Scratch?**|Joel Niklaus, Daniele Giofré et.al.|[2211.17135v1](http://arxiv.org/abs/2211.17135v1)|null|
