@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.12.11
+## Updated on 2022.12.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -130,7 +130,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
 ## Legal
 
@@ -138,7 +138,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-12-06**|**Formal Modeling and Analysis of Legal Contracts using ContractCheck**|Alan Khoja, Martin Kölbl, Stefan Leue, Rüdiger Wilhelmi et.al.|[2212.03349v1](http://arxiv.org/abs/2212.03349v1)|null|
 |**2022-12-05**|**Legal Prompt Engineering for Multilingual Legal Judgement Prediction**|Dietrich Trautmann, Alina Petrova, Frank Schilder et.al.|[2212.02199v1](http://arxiv.org/abs/2212.02199v1)|null|
-|**2022-12-02**|**Legal Prompting: Teaching a Language Model to Think Like a Lawyer**|Fangyi Yu, Lee Quartey, Frank Schilder et.al.|[2212.01326v1](http://arxiv.org/abs/2212.01326v1)|null|
+|**2022-12-08**|**Legal Prompting: Teaching a Language Model to Think Like a Lawyer**|Fangyi Yu, Lee Quartey, Frank Schilder et.al.|[2212.01326v2](http://arxiv.org/abs/2212.01326v2)|null|
 |**2022-11-30**|**BudgetLongformer: Can we Cheaply Pretrain a SotA Legal Language Model From Scratch?**|Joel Niklaus, Daniele Giofré et.al.|[2211.17135v1](http://arxiv.org/abs/2211.17135v1)|null|
 |**2022-11-15**|**DeepParliament: A Legal domain Benchmark & Dataset for Parliament Bills Prediction**|Ankit Pal et.al.|[2211.15424v1](http://arxiv.org/abs/2211.15424v1)|**[link](https://github.com/monk1337/deepparliament)**|
 |**2022-11-23**|**Agent-Specific Deontic Modality Detection in Legal Language**|Abhilasha Sancheti, Aparna Garimella, Balaji Vasan Srinivasan, Rachel Rudinger et.al.|[2211.12752v1](http://arxiv.org/abs/2211.12752v1)|null|
@@ -251,7 +251,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
