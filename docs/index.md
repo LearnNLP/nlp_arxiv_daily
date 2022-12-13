@@ -21,6 +21,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-12**|**Direct Speech-to-speech Translation without Textual Annotation using Bottleneck Features**|Junhui Zhang, Junjie Pan, Xiang Yin, Zejun Ma et.al.|[2212.05805v1](http://arxiv.org/abs/2212.05805v1)|null|
+|**2022-12-11**|**End-to-End Speech Translation of Arabic to English Broadcast News**|Fethi Bougares, Salim Jouili et.al.|[2212.05479v1](http://arxiv.org/abs/2212.05479v1)|null|
 |**2022-12-07**|**M3ST: Mix at Three Levels for Speech Translation**|Xuxin Cheng, Qianqian Dong, Fengpeng Yue, Tom Ko, Mingxuan Wang, Yuexian Zou et.al.|[2212.03657v1](http://arxiv.org/abs/2212.03657v1)|null|
 |**2022-12-04**|**Improving End-to-end Speech Translation by Leveraging Auxiliary Speech and Text Data**|Yuhao Zhang, Chen Xu, Bojie Hu, Chunliang Zhang, Tong Xiao, Jingbo Zhu et.al.|[2212.01778v1](http://arxiv.org/abs/2212.01778v1)|null|
 |**2022-11-22**|**ArzEn-ST: A Three-way Speech Translation Corpus for Code-Switched Egyptian Arabic - English**|Injy Hamed, Nizar Habash, Slim Abdennadher, Ngoc Thang Vu et.al.|[2211.12000v1](http://arxiv.org/abs/2211.12000v1)|null|
@@ -170,7 +172,7 @@ layout: default
 |**2022-10-11**|**Legal Element-oriented Modeling with Multi-view Contrastive Learning for Legal Case Retrieval**|Zhaowei Wang et.al.|[2210.05188v1](http://arxiv.org/abs/2210.05188v1)|null|
 |**2022-10-01**|**Using Argumentation Schemes to Model Legal Reasoning**|Trevor Bench-Capon, Katie Atkinson et.al.|[2210.00315v1](http://arxiv.org/abs/2210.00315v1)|null|
 |**2022-11-12**|**Multi-stage Information Retrieval for Vietnamese Legal Texts**|Nhat-Minh Pham, Ha-Thanh Nguyen, Trong-Hop Do et.al.|[2209.14494v2](http://arxiv.org/abs/2209.14494v2)|null|
-|**2022-12-05**|**Law Informs Code: A Legal Informatics Approach to Aligning Artificial Intelligence with Humans**|John J. Nay et.al.|[2209.13020v8](http://arxiv.org/abs/2209.13020v8)|null|
+|**2022-12-12**|**Law Informs Code: A Legal Informatics Approach to Aligning Artificial Intelligence with Humans**|John J. Nay et.al.|[2209.13020v9](http://arxiv.org/abs/2209.13020v9)|null|
 |**2022-09-26**|**Legal Case Document Similarity: You Need Both Network and Text**|Paheli Bhattacharya, Kripabandhu Ghosh, Arindam Pal, Saptarshi Ghosh et.al.|[2209.12474v1](http://arxiv.org/abs/2209.12474v1)|**[link](https://github.com/law-ai/document-similarity)**|
 |**2022-09-25**|**An Empirical Study on Cross-X Transfer for Legal Judgment Prediction**|Joel Niklaus, Matthias Stürmer, Ilias Chalkidis et.al.|[2209.12325v1](http://arxiv.org/abs/2209.12325v1)|**[link](https://github.com/Kaleidophon/deep-significance)**|
 |**2022-09-13**|**LegalBench: Prototyping a Collaborative Benchmark for Legal Reasoning**|Neel Guha, Daniel E. Ho, Julian Nyarko, Christopher Ré et.al.|[2209.06120v1](http://arxiv.org/abs/2209.06120v1)|**[link](https://github.com/hazyresearch/legalbench)**|
