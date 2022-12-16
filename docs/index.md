@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.12.15
+## Updated on 2022.12.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -132,7 +132,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20221215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221216>back to top</a>)</p>
 
 ## Legal
 
@@ -150,7 +150,7 @@ layout: default
 |**2022-11-06**|**Computing and Exploiting Document Structure to Improve Unsupervised Extractive Summarization of Legal Case Decisions**|Yang Zhong, Diane Litman et.al.|[2211.03229v1](http://arxiv.org/abs/2211.03229v1)|null|
 |**2022-11-06**|**Knowledge is Power: Understanding Causality Makes Legal judgment Prediction Models More Generalizable and Robust**|Haotian Chen, Lingwei Zhang, Fanchao Chen, Yang Yu et.al.|[2211.03046v1](http://arxiv.org/abs/2211.03046v1)|null|
 |**2022-11-05**|**Privacy-Preserving Models for Legal Natural Language Processing**|Ying Yin, Ivan Habernal et.al.|[2211.02956v1](http://arxiv.org/abs/2211.02956v1)|null|
-|**2022-11-05**|**The Legal Argument Reasoning Task in Civil Procedure**|Leonard Bongard, Lena Held, Ivan Habernal et.al.|[2211.02950v1](http://arxiv.org/abs/2211.02950v1)|null|
+|**2022-11-05**|**The Legal Argument Reasoning Task in Civil Procedure**|Leonard Bongard, Lena Held, Ivan Habernal et.al.|[2211.02950v1](http://arxiv.org/abs/2211.02950v1)|**[link](https://github.com/trusthlt/legal-argument-reasoning-task)**|
 |**2022-11-04**|**Miko Team: Deep Learning Approach for Legal Question Answering in ALQAC 2022**|Hieu Nguyen Van, Dat Nguyen, Phuong Minh Nguyen, Minh Le Nguyen et.al.|[2211.02200v1](http://arxiv.org/abs/2211.02200v1)|null|
 |**2022-11-03**|**Data-efficient End-to-end Information Extraction for Statistical Legal Analysis**|Wonseok Hwang, Saehee Eom, Hanuhl Lee, Hai Jin Park, Minjoon Seo et.al.|[2211.01692v1](http://arxiv.org/abs/2211.01692v1)|null|
 |**2022-11-10**|**Processing Long Legal Documents with Pre-trained Transformers: Modding LegalBERT and Longformer**|Dimitris Mamakas, Petros Tsotsi, Ion Androutsopoulos, Ilias Chalkidis et.al.|[2211.00974v2](http://arxiv.org/abs/2211.00974v2)|null|
@@ -253,7 +253,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221216>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
