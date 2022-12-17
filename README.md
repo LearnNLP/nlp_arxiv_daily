@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-12-15**|**UnitY: Two-pass Direct Speech-to-speech Translation with Discrete Units**|Hirofumi Inaguma, Sravya Popuri, Ilia Kulikov, Peng-Jen Chen, Changhan Wang, Yu-An Chung, Yun Tang, Ann Lee, Shinji Watanabe, Juan Pino et.al.|[2212.08055v1](http://arxiv.org/abs/2212.08055v1)|null|
+|**2022-12-15**|**UnitY: Two-pass Direct Speech-to-speech Translation with Discrete Units**|Hirofumi Inaguma, Sravya Popuri, Ilia Kulikov, Peng-Jen Chen, Changhan Wang, Yu-An Chung, Yun Tang, Ann Lee, Shinji Watanabe, Juan Pino et.al.|[2212.08055v1](http://arxiv.org/abs/2212.08055v1)|**[link](https://github.com/facebookresearch/fairseq)**|
 |**2022-12-15**|**Attention as a guide for Simultaneous Speech Translation**|Sara Papi, Matteo Negri, Marco Turchi et.al.|[2212.07850v1](http://arxiv.org/abs/2212.07850v1)|null|
 |**2022-12-12**|**Direct Speech-to-speech Translation without Textual Annotation using Bottleneck Features**|Junhui Zhang, Junjie Pan, Xiang Yin, Zejun Ma et.al.|[2212.05805v1](http://arxiv.org/abs/2212.05805v1)|null|
 |**2022-12-11**|**End-to-End Speech Translation of Arabic to English Broadcast News**|Fethi Bougares, Salim Jouili et.al.|[2212.05479v1](http://arxiv.org/abs/2212.05479v1)|null|
