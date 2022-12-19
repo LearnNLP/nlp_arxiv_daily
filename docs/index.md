@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-16**|**BLASER: A Text-Free Speech-to-Speech Translation Evaluation Metric**|Mingda Chen, Paul-Ambroise Duquenne, Pierre Andrews, Justine Kao, Alexandre Mourachko, Holger Schwenk, Marta R. Costa-jussà et.al.|[2212.08486v1](http://arxiv.org/abs/2212.08486v1)|**[link](https://github.com/facebookresearch/stopes)**|
 |**2022-12-15**|**UnitY: Two-pass Direct Speech-to-speech Translation with Discrete Units**|Hirofumi Inaguma, Sravya Popuri, Ilia Kulikov, Peng-Jen Chen, Changhan Wang, Yu-An Chung, Yun Tang, Ann Lee, Shinji Watanabe, Juan Pino et.al.|[2212.08055v1](http://arxiv.org/abs/2212.08055v1)|**[link](https://github.com/facebookresearch/fairseq)**|
 |**2022-12-15**|**Attention as a guide for Simultaneous Speech Translation**|Sara Papi, Matteo Negri, Marco Turchi et.al.|[2212.07850v1](http://arxiv.org/abs/2212.07850v1)|null|
 |**2022-12-12**|**Direct Speech-to-speech Translation without Textual Annotation using Bottleneck Features**|Junhui Zhang, Junjie Pan, Xiang Yin, Zejun Ma et.al.|[2212.05805v1](http://arxiv.org/abs/2212.05805v1)|null|
@@ -140,6 +141,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-16**|**Law to Binary Tree -- An Formal Interpretation of Legal Natural Language**|Ha-Thanh Nguyen, Vu Tran, Ngoc-Cam Le, Thi-Thuy Le, Quang-Huy Nguyen, Le-Minh Nguyen, Ken Satoh et.al.|[2212.08335v1](http://arxiv.org/abs/2212.08335v1)|null|
+|**2022-12-16**|**LegalRelectra: Mixed-domain Language Modeling for Long-range Legal Text Comprehension**|Wenyue Hua, Yuchen Zhang, Zhe Chen, Josie Li, Melanie Weber et.al.|[2212.08204v1](http://arxiv.org/abs/2212.08204v1)|null|
 |**2022-12-06**|**Formal Modeling and Analysis of Legal Contracts using ContractCheck**|Alan Khoja, Martin Kölbl, Stefan Leue, Rüdiger Wilhelmi et.al.|[2212.03349v1](http://arxiv.org/abs/2212.03349v1)|null|
 |**2022-12-05**|**Legal Prompt Engineering for Multilingual Legal Judgement Prediction**|Dietrich Trautmann, Alina Petrova, Frank Schilder et.al.|[2212.02199v1](http://arxiv.org/abs/2212.02199v1)|null|
 |**2022-12-08**|**Legal Prompting: Teaching a Language Model to Think Like a Lawyer**|Fangyi Yu, Lee Quartey, Frank Schilder et.al.|[2212.01326v2](http://arxiv.org/abs/2212.01326v2)|null|
