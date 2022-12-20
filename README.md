@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-19**|**SegAugment: Maximizing the Utility of Speech Translation Data with Segmentation-based Augmentations**|Ioannis Tsiamas, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2212.09699v1](http://arxiv.org/abs/2212.09699v1)|null|
+|**2022-12-19**|**WACO: Word-Aligned Contrastive Learning for Speech Translation**|Siqi Ouyang, Rong Ye, Lei Li et.al.|[2212.09359v1](http://arxiv.org/abs/2212.09359v1)|null|
+|**2022-12-17**|**AdaTranS: Adapting with Boundary-based Shrinking for End-to-End Speech Translation**|Xingshan Zeng, Liangyou Li, Qun Liu et.al.|[2212.08911v1](http://arxiv.org/abs/2212.08911v1)|null|
 |**2022-12-16**|**BLASER: A Text-Free Speech-to-Speech Translation Evaluation Metric**|Mingda Chen, Paul-Ambroise Duquenne, Pierre Andrews, Justine Kao, Alexandre Mourachko, Holger Schwenk, Marta R. Costa-jussà et.al.|[2212.08486v1](http://arxiv.org/abs/2212.08486v1)|**[link](https://github.com/facebookresearch/stopes)**|
 |**2022-12-15**|**UnitY: Two-pass Direct Speech-to-speech Translation with Discrete Units**|Hirofumi Inaguma, Sravya Popuri, Ilia Kulikov, Peng-Jen Chen, Changhan Wang, Yu-An Chung, Yun Tang, Ann Lee, Shinji Watanabe, Juan Pino et.al.|[2212.08055v1](http://arxiv.org/abs/2212.08055v1)|**[link](https://github.com/facebookresearch/fairseq)**|
 |**2022-12-15**|**Attention as a guide for Simultaneous Speech Translation**|Sara Papi, Matteo Negri, Marco Turchi et.al.|[2212.07850v1](http://arxiv.org/abs/2212.07850v1)|null|
@@ -137,6 +140,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-19**|**E-NER -- An Annotated Named Entity Recognition Corpus of Legal Text**|Ting Wai Terence Au, Ingemar J. Cox, Vasileios Lampos et.al.|[2212.09306v1](http://arxiv.org/abs/2212.09306v1)|null|
 |**2022-12-16**|**Law to Binary Tree -- An Formal Interpretation of Legal Natural Language**|Ha-Thanh Nguyen, Vu Tran, Ngoc-Cam Le, Thi-Thuy Le, Quang-Huy Nguyen, Le-Minh Nguyen, Ken Satoh et.al.|[2212.08335v1](http://arxiv.org/abs/2212.08335v1)|null|
 |**2022-12-16**|**LegalRelectra: Mixed-domain Language Modeling for Long-range Legal Text Comprehension**|Wenyue Hua, Yuchen Zhang, Zhe Chen, Josie Li, Melanie Weber et.al.|[2212.08204v1](http://arxiv.org/abs/2212.08204v1)|null|
 |**2022-12-06**|**Formal Modeling and Analysis of Legal Contracts using ContractCheck**|Alan Khoja, Martin Kölbl, Stefan Leue, Rüdiger Wilhelmi et.al.|[2212.03349v1](http://arxiv.org/abs/2212.03349v1)|null|
