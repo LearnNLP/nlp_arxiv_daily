@@ -144,6 +144,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-19**|**What to Read in a Contract? Party-Specific Summarization of Important Obligations, Entitlements, and Prohibitions in Legal Documents**|Abhilasha Sancheti, Aparna Garimella, Balaji Vasan Srinivasan, Rachel Rudinger et.al.|[2212.09825v1](http://arxiv.org/abs/2212.09825v1)|null|
 |**2022-12-19**|**E-NER -- An Annotated Named Entity Recognition Corpus of Legal Text**|Ting Wai Terence Au, Ingemar J. Cox, Vasileios Lampos et.al.|[2212.09306v1](http://arxiv.org/abs/2212.09306v1)|null|
 |**2022-12-16**|**Law to Binary Tree -- An Formal Interpretation of Legal Natural Language**|Ha-Thanh Nguyen, Vu Tran, Ngoc-Cam Le, Thi-Thuy Le, Quang-Huy Nguyen, Le-Minh Nguyen, Ken Satoh et.al.|[2212.08335v1](http://arxiv.org/abs/2212.08335v1)|null|
 |**2022-12-16**|**LegalRelectra: Mixed-domain Language Modeling for Long-range Legal Text Comprehension**|Wenyue Hua, Yuchen Zhang, Zhe Chen, Josie Li, Melanie Weber et.al.|[2212.08204v1](http://arxiv.org/abs/2212.08204v1)|null|
