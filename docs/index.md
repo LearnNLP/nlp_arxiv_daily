@@ -21,7 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-12-19**|**SegAugment: Maximizing the Utility of Speech Translation Data with Segmentation-based Augmentations**|Ioannis Tsiamas, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2212.09699v1](http://arxiv.org/abs/2212.09699v1)|null|
+|**2022-12-19**|**SegAugment: Maximizing the Utility of Speech Translation Data with Segmentation-based Augmentations**|Ioannis Tsiamas, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2212.09699v1](http://arxiv.org/abs/2212.09699v1)|**[link](https://github.com/mt-upc/SegAugment)**|
 |**2022-12-19**|**WACO: Word-Aligned Contrastive Learning for Speech Translation**|Siqi Ouyang, Rong Ye, Lei Li et.al.|[2212.09359v1](http://arxiv.org/abs/2212.09359v1)|null|
 |**2022-12-17**|**AdaTranS: Adapting with Boundary-based Shrinking for End-to-End Speech Translation**|Xingshan Zeng, Liangyou Li, Qun Liu et.al.|[2212.08911v1](http://arxiv.org/abs/2212.08911v1)|null|
 |**2022-12-16**|**BLASER: A Text-Free Speech-to-Speech Translation Evaluation Metric**|Mingda Chen, Paul-Ambroise Duquenne, Pierre Andrews, Justine Kao, Alexandre Mourachko, Holger Schwenk, Marta R. Costa-jussà et.al.|[2212.08486v1](http://arxiv.org/abs/2212.08486v1)|**[link](https://github.com/facebookresearch/stopes)**|
