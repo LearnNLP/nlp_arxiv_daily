@@ -179,7 +179,7 @@
 |**2022-10-11**|**Legal Element-oriented Modeling with Multi-view Contrastive Learning for Legal Case Retrieval**|Zhaowei Wang et.al.|[2210.05188v1](http://arxiv.org/abs/2210.05188v1)|null|
 |**2022-10-01**|**Using Argumentation Schemes to Model Legal Reasoning**|Trevor Bench-Capon, Katie Atkinson et.al.|[2210.00315v1](http://arxiv.org/abs/2210.00315v1)|null|
 |**2022-11-12**|**Multi-stage Information Retrieval for Vietnamese Legal Texts**|Nhat-Minh Pham, Ha-Thanh Nguyen, Trong-Hop Do et.al.|[2209.14494v2](http://arxiv.org/abs/2209.14494v2)|null|
-|**2022-12-18**|**Law Informs Code: A Legal Informatics Approach to Aligning Artificial Intelligence with Humans**|John J. Nay et.al.|[2209.13020v10](http://arxiv.org/abs/2209.13020v10)|null|
+|**2022-12-27**|**Law Informs Code: A Legal Informatics Approach to Aligning Artificial Intelligence with Humans**|John J. Nay et.al.|[2209.13020v11](http://arxiv.org/abs/2209.13020v11)|null|
 |**2022-09-26**|**Legal Case Document Similarity: You Need Both Network and Text**|Paheli Bhattacharya, Kripabandhu Ghosh, Arindam Pal, Saptarshi Ghosh et.al.|[2209.12474v1](http://arxiv.org/abs/2209.12474v1)|**[link](https://github.com/law-ai/document-similarity)**|
 |**2022-09-25**|**An Empirical Study on Cross-X Transfer for Legal Judgment Prediction**|Joel Niklaus, Matthias Stürmer, Ilias Chalkidis et.al.|[2209.12325v1](http://arxiv.org/abs/2209.12325v1)|**[link](https://github.com/Kaleidophon/deep-significance)**|
 |**2022-09-13**|**LegalBench: Prototyping a Collaborative Benchmark for Legal Reasoning**|Neel Guha, Daniel E. Ho, Julian Nyarko, Christopher Ré et.al.|[2209.06120v1](http://arxiv.org/abs/2209.06120v1)|**[link](https://github.com/hazyresearch/legalbench)**|
