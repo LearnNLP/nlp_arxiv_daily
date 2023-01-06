@@ -144,7 +144,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-01-02**|**MAUD: An Expert-Annotated Legal NLP Dataset for Merger Agreement Understanding**|Steven H. Wang, Antoine Scardigli, Leonard Tang, Wei Chen, Dimitry Levkin, Anya Chen, Spencer Ball, Thomas Woodside, Oliver Zhang, Dan Hendrycks et.al.|[2301.00876v1](http://arxiv.org/abs/2301.00876v1)|**[link](https://github.com/TheAtticusProject/maud)**|
+|**2023-01-02**|**MAUD: An Expert-Annotated Legal NLP Dataset for Merger Agreement Understanding**|Steven H. Wang, Antoine Scardigli, Leonard Tang, Wei Chen, Dimitry Levkin, Anya Chen, Spencer Ball, Thomas Woodside, Oliver Zhang, Dan Hendrycks et.al.|[2301.00876v1](http://arxiv.org/abs/2301.00876v1)|**[link](https://github.com/theatticusproject/maud-extraction)**|
 |**2022-12-13**|**Attentive Deep Neural Networks for Legal Document Retrieval**|Ha-Thanh Nguyen, Manh-Kien Phi, Xuan-Bach Ngo, Vu Tran, Le-Minh Nguyen, Minh-Phuong Tu et.al.|[2212.13899v1](http://arxiv.org/abs/2212.13899v1)|null|
 |**2022-12-19**|**What to Read in a Contract? Party-Specific Summarization of Important Obligations, Entitlements, and Prohibitions in Legal Documents**|Abhilasha Sancheti, Aparna Garimella, Balaji Vasan Srinivasan, Rachel Rudinger et.al.|[2212.09825v1](http://arxiv.org/abs/2212.09825v1)|null|
 |**2022-12-19**|**E-NER -- An Annotated Named Entity Recognition Corpus of Legal Text**|Ting Wai Terence Au, Ingemar J. Cox, Vasileios Lampos et.al.|[2212.09306v1](http://arxiv.org/abs/2212.09306v1)|null|
