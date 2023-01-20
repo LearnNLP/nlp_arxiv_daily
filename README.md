@@ -140,6 +140,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-19**|**Legal Obligation and Ethical Best Practice: Towards Meaningful Verbal Consent for Voice Assistants**|William Seymour, Mark Cote, Jose Such et.al.|[2301.08091v1](http://arxiv.org/abs/2301.08091v1)|null|
 |**2023-01-07**|**Graph-based Keyword Planning for Legal Clause Generation from Topics**|Sagar Joshi, Sumanth Balaji, Aparna Garimella, Vasudeva Varma et.al.|[2301.06901v1](http://arxiv.org/abs/2301.06901v1)|**[link](https://github.com/sagarsj42/legal_clause_gen_from_topic_keywords)**|
 |**2023-01-06**|**MAUD: An Expert-Annotated Legal NLP Dataset for Merger Agreement Understanding**|Steven H. Wang, Antoine Scardigli, Leonard Tang, Wei Chen, Dimitry Levkin, Anya Chen, Spencer Ball, Thomas Woodside, Oliver Zhang, Dan Hendrycks et.al.|[2301.00876v2](http://arxiv.org/abs/2301.00876v2)|**[link](https://github.com/theatticusproject/maud-extraction)**|
 |**2022-12-13**|**Attentive Deep Neural Networks for Legal Document Retrieval**|Ha-Thanh Nguyen, Manh-Kien Phi, Xuan-Bach Ngo, Vu Tran, Le-Minh Nguyen, Minh-Phuong Tu et.al.|[2212.13899v1](http://arxiv.org/abs/2212.13899v1)|null|
