@@ -146,7 +146,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-01-24**|**Large Language Models as Fiduciaries: A Case Study Toward Robustly Communicating With Artificial Intelligence Through Legal Standards**|John J. Nay et.al.|[2301.10095v1](http://arxiv.org/abs/2301.10095v1)|null|
+|**2023-01-30**|**LEXTREME: A Multi-Lingual and Multi-Task Benchmark for the Legal Domain**|Joel Niklaus, Veton Matoshi, Pooja Rani, Andrea Galassi, Matthias Stürmer, Ilias Chalkidis et.al.|[2301.13126v1](http://arxiv.org/abs/2301.13126v1)|null|
+|**2023-01-29**|**Diverse legal case search**|Ruizhe Zhang, Qingyao Ai, Yueyue Wu, Yixiao Ma, Yiqun Liu et.al.|[2301.12504v1](http://arxiv.org/abs/2301.12504v1)|null|
+|**2023-01-30**|**Large Language Models as Fiduciaries: A Case Study Toward Robustly Communicating With Artificial Intelligence Through Legal Standards**|John J. Nay et.al.|[2301.10095v2](http://arxiv.org/abs/2301.10095v2)|null|
 |**2023-01-20**|**On left legal semigroups**|Attila Nagy et.al.|[2301.08793v1](http://arxiv.org/abs/2301.08793v1)|null|
 |**2023-01-19**|**Legal Obligation and Ethical Best Practice: Towards Meaningful Verbal Consent for Voice Assistants**|William Seymour, Mark Cote, Jose Such et.al.|[2301.08091v1](http://arxiv.org/abs/2301.08091v1)|null|
 |**2023-01-07**|**Graph-based Keyword Planning for Legal Clause Generation from Topics**|Sagar Joshi, Sumanth Balaji, Aparna Garimella, Vasudeva Varma et.al.|[2301.06901v1](http://arxiv.org/abs/2301.06901v1)|**[link](https://github.com/sagarsj42/legal_clause_gen_from_topic_keywords)**|
