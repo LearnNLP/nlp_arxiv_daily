@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.01.31
+## Updated on 2023.02.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -140,7 +140,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230131>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230201>back to top</a>)</p>
 
 ## Legal
 
@@ -215,7 +215,7 @@ layout: default
 |**2022-11-29**|**Pile of Law: Learning Responsible Data Filtering from the Law and a 256GB Open-Source Legal Dataset**|Peter Henderson, Mark S. Krass, Lucia Zheng, Neel Guha, Christopher D. Manning, Dan Jurafsky, Daniel E. Ho et.al.|[2207.00220v2](http://arxiv.org/abs/2207.00220v2)|**[link](https://github.com/breakend/pileoflaw)**|
 |**2022-07-20**|**Cybersecurity Law: Legal Jurisdiction and Authority**|Feras A. Batarseh et.al.|[2206.09465v3](http://arxiv.org/abs/2206.09465v3)|null|
 |**2022-06-15**|**Legal Provocations for HCI in the Design and Development of Trustworthy Autonomous Systems**|Lachlan D. Urquhart, Glenn McGarry, Andy Crabtree et.al.|[2206.07506v1](http://arxiv.org/abs/2206.07506v1)|null|
-|**2022-09-13**|**Indian Legal Text Summarization: A Text Normalisation-based Approach**|Satyajit Ghosh, Mousumi Dutta, Tanaya Das et.al.|[2206.06238v2](http://arxiv.org/abs/2206.06238v2)|**[link](https://github.com/satyajit1910/ilds)**|
+|**2022-09-13**|**Indian Legal Text Summarization: A Text Normalisation-based Approach**|Satyajit Ghosh, Mousumi Dutta, Tanaya Das et.al.|[2206.06238v2](http://arxiv.org/abs/2206.06238v2)|null|
 |**2022-06-13**|**Tackling Algorithmic Disability Discrimination in the Hiring Process: An Ethical, Legal and Technical Analysis**|Maarten Buyl, Christina Cociancig, Cristina Frattone, Nele Roekens et.al.|[2206.06149v1](http://arxiv.org/abs/2206.06149v1)|null|
 |**2022-10-05**|**A Multi-Task Benchmark for Korean Legal Language Understanding and Judgement Prediction**|Wonseok Hwang, Dongjun Lee, Kyoungyeon Cho, Hanuhl Lee, Minjoon Seo et.al.|[2206.05224v2](http://arxiv.org/abs/2206.05224v2)|**[link](https://github.com/lbox-kr/lbox-open)**|
 |**2022-06-08**|**Realistic Zero-Shot Cross-Lingual Transfer in Legal Topic Classification**|Stratos Xenouleas, Alexia Tsoukara, Giannis Panagiotakis, Ilias Chalkidis, Ion Androutsopoulos et.al.|[2206.03785v1](http://arxiv.org/abs/2206.03785v1)|null|
@@ -273,7 +273,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230131>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230201>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
