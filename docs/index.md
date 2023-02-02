@@ -146,6 +146,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-01**|**Zero Shot Transfer of Legal Judgement Prediction as Article-aware Entailment for the European Court of Human Rights**|Santosh T. Y. S. S, Oana Ichim, Matthias Grabmair et.al.|[2302.00609v1](http://arxiv.org/abs/2302.00609v1)|null|
 |**2023-01-30**|**LEXTREME: A Multi-Lingual and Multi-Task Benchmark for the Legal Domain**|Joel Niklaus, Veton Matoshi, Pooja Rani, Andrea Galassi, Matthias Stürmer, Ilias Chalkidis et.al.|[2301.13126v1](http://arxiv.org/abs/2301.13126v1)|null|
 |**2023-01-29**|**Diverse legal case search**|Ruizhe Zhang, Qingyao Ai, Yueyue Wu, Yixiao Ma, Yiqun Liu et.al.|[2301.12504v1](http://arxiv.org/abs/2301.12504v1)|null|
 |**2023-01-30**|**Large Language Models as Fiduciaries: A Case Study Toward Robustly Communicating With Artificial Intelligence Through Legal Standards**|John J. Nay et.al.|[2301.10095v2](http://arxiv.org/abs/2301.10095v2)|null|
