@@ -146,8 +146,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-13**|**Joint Span Segmentation and Rhetorical Role Labeling with Data Augmentation for Legal Documents**|T. Y. S. S. Santosh, Philipp Bock, Matthias Grabmair et.al.|[2302.06448v1](http://arxiv.org/abs/2302.06448v1)|null|
+|**2023-02-13**|**Minding rights: Mapping ethical and legal foundations of 'neurorights'**|Sjors Ligthart, Marcello Ienca, Gerben Meynen, Fruzsina Molnar-Gabor, Roberto Andorno, Christoph Bublitz, Paul Catley, Lisa Claydon, Thomas Douglas, Joseph J. Fins, Sara Goering, Pim Haselager, Fabrice Jotterand, Andrea Lavazza, Allan McCay, Abel Wajnerman Paz, Stephen Rainey, Jesper Ryberg, Philipp Kellmeyer et.al.|[2302.06281v1](http://arxiv.org/abs/2302.06281v1)|null|
+|**2023-02-11**|**A Brief Report on LawGPT 1.0: A Virtual Legal Assistant Based on GPT-3**|Ha-Thanh Nguyen et.al.|[2302.05729v1](http://arxiv.org/abs/2302.05729v1)|null|
 |**2023-02-03**|**Leveraging task dependency and contrastive learning for Legal Judgement Prediction on the European Court of Human Rights**|T. Y. S. S Santosh, Marcel Perez San Blas, Phillip Kemper, Matthias Grabmair et.al.|[2302.00768v2](http://arxiv.org/abs/2302.00768v2)|null|
-|**2023-02-03**|**Zero Shot Transfer of Legal Judgement Prediction as Article-aware Entailment for the European Court of Human Rights**|T. Y. S. S Santosh, Oana Ichim, Matthias Grabmair et.al.|[2302.00609v2](http://arxiv.org/abs/2302.00609v2)|null|
+|**2023-02-13**|**Zero-shot Transfer of Article-aware Legal Outcome Classification for European Court of Human Rights Cases**|T. Y. S. S Santosh, Oana Ichim, Matthias Grabmair et.al.|[2302.00609v3](http://arxiv.org/abs/2302.00609v3)|null|
 |**2023-01-30**|**LEXTREME: A Multi-Lingual and Multi-Task Benchmark for the Legal Domain**|Joel Niklaus, Veton Matoshi, Pooja Rani, Andrea Galassi, Matthias Stürmer, Ilias Chalkidis et.al.|[2301.13126v1](http://arxiv.org/abs/2301.13126v1)|**[link](https://github.com/joelniklaus/lextreme)**|
 |**2023-01-29**|**Diverse legal case search**|Ruizhe Zhang, Qingyao Ai, Yueyue Wu, Yixiao Ma, Yiqun Liu et.al.|[2301.12504v1](http://arxiv.org/abs/2301.12504v1)|null|
 |**2023-01-30**|**Large Language Models as Fiduciaries: A Case Study Toward Robustly Communicating With Artificial Intelligence Through Legal Standards**|John J. Nay et.al.|[2301.10095v2](http://arxiv.org/abs/2301.10095v2)|null|
