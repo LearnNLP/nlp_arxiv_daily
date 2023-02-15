@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.02.14
+## Updated on 2023.02.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -140,7 +140,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230215>back to top</a>)</p>
 
 ## Legal
 
@@ -148,7 +148,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-02-13**|**Joint Span Segmentation and Rhetorical Role Labeling with Data Augmentation for Legal Documents**|T. Y. S. S. Santosh, Philipp Bock, Matthias Grabmair et.al.|[2302.06448v1](http://arxiv.org/abs/2302.06448v1)|null|
 |**2023-02-13**|**Minding rights: Mapping ethical and legal foundations of 'neurorights'**|Sjors Ligthart, Marcello Ienca, Gerben Meynen, Fruzsina Molnar-Gabor, Roberto Andorno, Christoph Bublitz, Paul Catley, Lisa Claydon, Thomas Douglas, Joseph J. Fins, Sara Goering, Pim Haselager, Fabrice Jotterand, Andrea Lavazza, Allan McCay, Abel Wajnerman Paz, Stephen Rainey, Jesper Ryberg, Philipp Kellmeyer et.al.|[2302.06281v1](http://arxiv.org/abs/2302.06281v1)|null|
-|**2023-02-11**|**A Brief Report on LawGPT 1.0: A Virtual Legal Assistant Based on GPT-3**|Ha-Thanh Nguyen et.al.|[2302.05729v1](http://arxiv.org/abs/2302.05729v1)|null|
+|**2023-02-14**|**A Brief Report on LawGPT 1.0: A Virtual Legal Assistant Based on GPT-3**|Ha-Thanh Nguyen et.al.|[2302.05729v2](http://arxiv.org/abs/2302.05729v2)|null|
 |**2023-02-03**|**Leveraging task dependency and contrastive learning for Legal Judgement Prediction on the European Court of Human Rights**|T. Y. S. S Santosh, Marcel Perez San Blas, Phillip Kemper, Matthias Grabmair et.al.|[2302.00768v2](http://arxiv.org/abs/2302.00768v2)|null|
 |**2023-02-13**|**Zero-shot Transfer of Article-aware Legal Outcome Classification for European Court of Human Rights Cases**|T. Y. S. S Santosh, Oana Ichim, Matthias Grabmair et.al.|[2302.00609v3](http://arxiv.org/abs/2302.00609v3)|null|
 |**2023-01-30**|**LEXTREME: A Multi-Lingual and Multi-Task Benchmark for the Legal Domain**|Joel Niklaus, Veton Matoshi, Pooja Rani, Andrea Galassi, Matthias Stürmer, Ilias Chalkidis et.al.|[2301.13126v1](http://arxiv.org/abs/2301.13126v1)|**[link](https://github.com/joelniklaus/lextreme)**|
@@ -278,7 +278,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230215>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
