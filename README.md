@@ -142,6 +142,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-12**|**AIDA: Legal Judgment Predictions for Non-Professional Fact Descriptions via Partial-and-Imbalanced Domain Adaptation**|Guangyi Xiao, Xinlong Liu, Hao Chen, Jingzhi Guo, Zhiguo Gong et.al.|[2302.07728v1](http://arxiv.org/abs/2302.07728v1)|null|
 |**2023-02-13**|**Joint Span Segmentation and Rhetorical Role Labeling with Data Augmentation for Legal Documents**|T. Y. S. S. Santosh, Philipp Bock, Matthias Grabmair et.al.|[2302.06448v1](http://arxiv.org/abs/2302.06448v1)|null|
 |**2023-02-13**|**Minding rights: Mapping ethical and legal foundations of 'neurorights'**|Sjors Ligthart, Marcello Ienca, Gerben Meynen, Fruzsina Molnar-Gabor, Roberto Andorno, Christoph Bublitz, Paul Catley, Lisa Claydon, Thomas Douglas, Joseph J. Fins, Sara Goering, Pim Haselager, Fabrice Jotterand, Andrea Lavazza, Allan McCay, Abel Wajnerman Paz, Stephen Rainey, Jesper Ryberg, Philipp Kellmeyer et.al.|[2302.06281v1](http://arxiv.org/abs/2302.06281v1)|null|
 |**2023-02-14**|**A Brief Report on LawGPT 1.0: A Virtual Legal Assistant Based on GPT-3**|Ha-Thanh Nguyen et.al.|[2302.05729v2](http://arxiv.org/abs/2302.05729v2)|null|
@@ -153,7 +154,7 @@
 |**2023-01-20**|**On left legal semigroups**|Attila Nagy et.al.|[2301.08793v1](http://arxiv.org/abs/2301.08793v1)|null|
 |**2023-01-19**|**Legal Obligation and Ethical Best Practice: Towards Meaningful Verbal Consent for Voice Assistants**|William Seymour, Mark Cote, Jose Such et.al.|[2301.08091v1](http://arxiv.org/abs/2301.08091v1)|null|
 |**2023-01-07**|**Graph-based Keyword Planning for Legal Clause Generation from Topics**|Sagar Joshi, Sumanth Balaji, Aparna Garimella, Vasudeva Varma et.al.|[2301.06901v1](http://arxiv.org/abs/2301.06901v1)|**[link](https://github.com/sagarsj42/legal_clause_gen_from_topic_keywords)**|
-|**2023-01-06**|**MAUD: An Expert-Annotated Legal NLP Dataset for Merger Agreement Understanding**|Steven H. Wang, Antoine Scardigli, Leonard Tang, Wei Chen, Dimitry Levkin, Anya Chen, Spencer Ball, Thomas Woodside, Oliver Zhang, Dan Hendrycks et.al.|[2301.00876v2](http://arxiv.org/abs/2301.00876v2)|**[link](https://github.com/theatticusproject/maud-extraction)**|
+|**2023-01-06**|**MAUD: An Expert-Annotated Legal NLP Dataset for Merger Agreement Understanding**|Steven H. Wang, Antoine Scardigli, Leonard Tang, Wei Chen, Dimitry Levkin, Anya Chen, Spencer Ball, Thomas Woodside, Oliver Zhang, Dan Hendrycks et.al.|[2301.00876v2](http://arxiv.org/abs/2301.00876v2)|**[link](https://github.com/TheAtticusProject/maud)**|
 |**2022-12-13**|**Attentive Deep Neural Networks for Legal Document Retrieval**|Ha-Thanh Nguyen, Manh-Kien Phi, Xuan-Bach Ngo, Vu Tran, Le-Minh Nguyen, Minh-Phuong Tu et.al.|[2212.13899v1](http://arxiv.org/abs/2212.13899v1)|null|
 |**2022-12-19**|**What to Read in a Contract? Party-Specific Summarization of Important Obligations, Entitlements, and Prohibitions in Legal Documents**|Abhilasha Sancheti, Aparna Garimella, Balaji Vasan Srinivasan, Rachel Rudinger et.al.|[2212.09825v1](http://arxiv.org/abs/2212.09825v1)|null|
 |**2022-12-19**|**E-NER -- An Annotated Named Entity Recognition Corpus of Legal Text**|Ting Wai Terence Au, Ingemar J. Cox, Vasileios Lampos et.al.|[2212.09306v1](http://arxiv.org/abs/2212.09306v1)|**[link](https://github.com/terenceau2/e-ner-dataset)**|
