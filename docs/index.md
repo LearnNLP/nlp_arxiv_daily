@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-21**|**Efficient CTC Regularization via Coarse Labels for End-to-End Speech Translation**|Biao Zhang, Barry Haddow, Rico Sennrich et.al.|[2302.10871v1](http://arxiv.org/abs/2302.10871v1)|null|
 |**2023-01-27**|**Pre-training for Speech Translation: CTC Meets Optimal Transport**|Phuong-Hang Le, Hongyu Gong, Changhan Wang, Juan Pino, Benjamin Lecouteux, Didier Schwab et.al.|[2301.11716v1](http://arxiv.org/abs/2301.11716v1)|null|
 |**2023-01-25**|**A Holistic Cascade System, benchmark, and Human Evaluation Protocol for Expressive Speech-to-Speech Translation**|Wen-Chin Huang, Benjamin Peloquin, Justine Kao, Changhan Wang, Hongyu Gong, Elizabeth Salesky, Yossi Adi, Ann Lee, Peng-Jen Chen et.al.|[2301.10606v1](http://arxiv.org/abs/2301.10606v1)|null|
 |**2022-12-19**|**SegAugment: Maximizing the Utility of Speech Translation Data with Segmentation-based Augmentations**|Ioannis Tsiamas, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2212.09699v1](http://arxiv.org/abs/2212.09699v1)|**[link](https://github.com/mt-upc/SegAugment)**|
@@ -146,6 +147,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-21**|**Combining Blockchain and Biometrics: A Survey on Technical Aspects and a First Legal Analysis**|Mahdi Ghafourian, Bilgesu Sumer, Ruben Vera-Rodriguez, Julian Fierrez, Ruben Tolosana, Aythami Moralez, Els Kindt et.al.|[2302.10883v1](http://arxiv.org/abs/2302.10883v1)|null|
 |**2023-02-12**|**AIDA: Legal Judgment Predictions for Non-Professional Fact Descriptions via Partial-and-Imbalanced Domain Adaptation**|Guangyi Xiao, Xinlong Liu, Hao Chen, Jingzhi Guo, Zhiguo Gong et.al.|[2302.07728v1](http://arxiv.org/abs/2302.07728v1)|null|
 |**2023-02-13**|**Joint Span Segmentation and Rhetorical Role Labeling with Data Augmentation for Legal Documents**|T. Y. S. S. Santosh, Philipp Bock, Matthias Grabmair et.al.|[2302.06448v1](http://arxiv.org/abs/2302.06448v1)|null|
 |**2023-02-13**|**Minding rights: Mapping ethical and legal foundations of 'neurorights'**|Sjors Ligthart, Marcello Ienca, Gerben Meynen, Fruzsina Molnar-Gabor, Roberto Andorno, Christoph Bublitz, Paul Catley, Lisa Claydon, Thomas Douglas, Joseph J. Fins, Sara Goering, Pim Haselager, Fabrice Jotterand, Andrea Lavazza, Allan McCay, Abel Wajnerman Paz, Stephen Rainey, Jesper Ryberg, Philipp Kellmeyer et.al.|[2302.06281v1](http://arxiv.org/abs/2302.06281v1)|null|
