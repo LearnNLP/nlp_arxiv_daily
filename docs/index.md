@@ -21,7 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-02-21**|**Efficient CTC Regularization via Coarse Labels for End-to-End Speech Translation**|Biao Zhang, Barry Haddow, Rico Sennrich et.al.|[2302.10871v1](http://arxiv.org/abs/2302.10871v1)|null|
+|**2023-02-21**|**Efficient CTC Regularization via Coarse Labels for End-to-End Speech Translation**|Biao Zhang, Barry Haddow, Rico Sennrich et.al.|[2302.10871v1](http://arxiv.org/abs/2302.10871v1)|**[link](https://github.com/bzhangGo/zero)**|
 |**2023-01-27**|**Pre-training for Speech Translation: CTC Meets Optimal Transport**|Phuong-Hang Le, Hongyu Gong, Changhan Wang, Juan Pino, Benjamin Lecouteux, Didier Schwab et.al.|[2301.11716v1](http://arxiv.org/abs/2301.11716v1)|null|
 |**2023-01-25**|**A Holistic Cascade System, benchmark, and Human Evaluation Protocol for Expressive Speech-to-Speech Translation**|Wen-Chin Huang, Benjamin Peloquin, Justine Kao, Changhan Wang, Hongyu Gong, Elizabeth Salesky, Yossi Adi, Ann Lee, Peng-Jen Chen et.al.|[2301.10606v1](http://arxiv.org/abs/2301.10606v1)|null|
 |**2022-12-19**|**SegAugment: Maximizing the Utility of Speech Translation Data with Segmentation-based Augmentations**|Ioannis Tsiamas, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2212.09699v1](http://arxiv.org/abs/2212.09699v1)|**[link](https://github.com/mt-upc/SegAugment)**|
