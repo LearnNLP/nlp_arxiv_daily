@@ -143,6 +143,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-23**|**Natural Language Processing in the Legal Domain**|Daniel Martin Katz, Dirk Hartung, Lauritz Gerlach, Abhik Jana, Michael J. Bommarito II et.al.|[2302.12039v1](http://arxiv.org/abs/2302.12039v1)|null|
 |**2023-02-21**|**Combining Blockchain and Biometrics: A Survey on Technical Aspects and a First Legal Analysis**|Mahdi Ghafourian, Bilgesu Sumer, Ruben Vera-Rodriguez, Julian Fierrez, Ruben Tolosana, Aythami Moralez, Els Kindt et.al.|[2302.10883v1](http://arxiv.org/abs/2302.10883v1)|null|
 |**2023-02-12**|**AIDA: Legal Judgment Predictions for Non-Professional Fact Descriptions via Partial-and-Imbalanced Domain Adaptation**|Guangyi Xiao, Xinlong Liu, Hao Chen, Jingzhi Guo, Zhiguo Gong et.al.|[2302.07728v1](http://arxiv.org/abs/2302.07728v1)|null|
 |**2023-02-13**|**Joint Span Segmentation and Rhetorical Role Labeling with Data Augmentation for Legal Documents**|T. Y. S. S. Santosh, Philipp Bock, Matthias Grabmair et.al.|[2302.06448v1](http://arxiv.org/abs/2302.06448v1)|null|
