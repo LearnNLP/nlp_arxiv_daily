@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.02
+## Updated on 2023.03.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -53,7 +53,7 @@
 |**2022-07-01**|**On the Impact of Noises in Crowd-Sourced Data for Speech Translation**|Siqi Ouyang, Rong Ye, Lei Li et.al.|[2206.13756v2](http://arxiv.org/abs/2206.13756v2)|**[link](https://github.com/owaski/must-c-clean)**|
 |**2022-06-20**|**Over-Generation Cannot Be Rewarded: Length-Adaptive Average Lagging for Simultaneous Speech Translation**|Sara Papi, Marco Gaido, Matteo Negri, Marco Turchi et.al.|[2206.05807v3](http://arxiv.org/abs/2206.05807v3)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2022-06-14**|**The YiTrans End-to-End Speech Translation System for IWSLT 2022 Offline Shared Task**|Ziqiang Zhang, Junyi Ao, Long Zhou, Shujie Liu, Furu Wei, Jinyu Li et.al.|[2206.05777v2](http://arxiv.org/abs/2206.05777v2)|**[link](https://github.com/microsoft/speecht5)**|
-|**2022-05-25**|**TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation**|Rongjie Huang, Zhou Zhao, Jinglin Liu, Huadai Liu, Yi Ren, Lichao Zhang, Jinzheng He et.al.|[2205.12523v1](http://arxiv.org/abs/2205.12523v1)|null|
+|**2023-03-02**|**TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation**|Rongjie Huang, Jinglin Liu, Huadai Liu, Yi Ren, Lichao Zhang, Jinzheng He, Zhou Zhao et.al.|[2205.12523v2](http://arxiv.org/abs/2205.12523v2)|null|
 |**2022-11-04**|**Non-Parametric Domain Adaptation for End-to-End Speech Translation**|Yichao Du, Weizhi Wang, Zhirui Zhang, Boxing Chen, Tong Xu, Jun Xie, Enhong Chen et.al.|[2205.11211v6](http://arxiv.org/abs/2205.11211v6)|**[link](https://github.com/duyichao/npda-knn-st)**|
 |**2022-05-18**|**Leveraging Pseudo-labeled Data to Improve Direct Speech-to-Speech Translation**|Qianqian Dong, Fengpeng Yue, Tom Ko, Mingxuan Wang, Qibing Bai, Yu Zhang et.al.|[2205.08993v1](http://arxiv.org/abs/2205.08993v1)|**[link](https://github.com/fengpeng-yue/speech-to-speech-translation)**|
 |**2022-05-14**|**Multiformer: A Head-Configurable Transformer-Based Model for Direct Speech Translation**|Gerard Sant, Gerard I. Gállego, Belen Alastruey, Marta R. Costa-Jussà et.al.|[2205.07100v1](http://arxiv.org/abs/2205.07100v1)|null|
@@ -137,7 +137,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230302>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230303>back to top</a>)</p>
 
 ## Legal
 
@@ -278,7 +278,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230302>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230303>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
