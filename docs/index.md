@@ -148,6 +148,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-13**|**Are Models Trained on Indian Legal Data Fair?**|Sahil Girhepuje, Anmol Goel, Gokul Krishnan, Shreya Goyal, Satyendra Pandey, Ponnurangam Kumaraguru, Balaram Ravindran et.al.|[2303.07247v1](http://arxiv.org/abs/2303.07247v1)|null|
+|**2023-03-13**|**Meaningful Human Command: Advance Control Directives as a method to enable moral and legal responsibility for autonomous weapons systems**|Susannah Kate Devitt et.al.|[2303.06813v1](http://arxiv.org/abs/2303.06813v1)|null|
 |**2023-03-07**|**German BERT Model for Legal Named Entity Recognition**|Harshil Darji, Jelena Mitrović, Michael Granitzer et.al.|[2303.05388v1](http://arxiv.org/abs/2303.05388v1)|null|
 |**2023-03-08**|**Automatic Detection of Industry Sectors in Legal Articles Using Machine Learning Approaches**|Hui Yang, Stella Hadjiantoni, Yunfei Long, Ruta Petraityte, Berthold Lausen et.al.|[2303.05387v1](http://arxiv.org/abs/2303.05387v1)|null|
 |**2023-02-23**|**Natural Language Processing in the Legal Domain**|Daniel Martin Katz, Dirk Hartung, Lauritz Gerlach, Abhik Jana, Michael J. Bommarito II et.al.|[2302.12039v1](http://arxiv.org/abs/2302.12039v1)|null|
