@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.13
+## Updated on 2023.03.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -21,7 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-09**|**MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition**|Xize Cheng, Linjun Li, Tao Jin, Rongjie Huang, Wang Lin, Zehan Wang, Huangdai Liu, Ye Wang, Aoxiong Yin, Zhou Zhao et.al.|[2303.05309v1](http://arxiv.org/abs/2303.05309v1)|null|
+|**2023-03-09**|**MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition**|Xize Cheng, Linjun Li, Tao Jin, Rongjie Huang, Wang Lin, Zehan Wang, Huangdai Liu, Ye Wang, Aoxiong Yin, Zhou Zhao et.al.|[2303.05309v1](http://arxiv.org/abs/2303.05309v1)|**[link](https://github.com/exgc/avmust-ted)**|
 |**2023-02-21**|**Efficient CTC Regularization via Coarse Labels for End-to-End Speech Translation**|Biao Zhang, Barry Haddow, Rico Sennrich et.al.|[2302.10871v1](http://arxiv.org/abs/2302.10871v1)|**[link](https://github.com/bzhangGo/zero)**|
 |**2023-01-27**|**Pre-training for Speech Translation: CTC Meets Optimal Transport**|Phuong-Hang Le, Hongyu Gong, Changhan Wang, Juan Pino, Benjamin Lecouteux, Didier Schwab et.al.|[2301.11716v1](http://arxiv.org/abs/2301.11716v1)|null|
 |**2023-01-25**|**A Holistic Cascade System, benchmark, and Human Evaluation Protocol for Expressive Speech-to-Speech Translation**|Wen-Chin Huang, Benjamin Peloquin, Justine Kao, Changhan Wang, Hongyu Gong, Elizabeth Salesky, Yossi Adi, Ann Lee, Peng-Jen Chen et.al.|[2301.10606v1](http://arxiv.org/abs/2301.10606v1)|null|
@@ -47,7 +47,7 @@ layout: default
 |**2022-10-26**|**Improving Speech-to-Speech Translation Through Unlabeled Text**|Xuan-Phi Nguyen, Sravya Popuri, Changhan Wang, Yun Tang, Ilia Kulikov, Hongyu Gong et.al.|[2210.14514v1](http://arxiv.org/abs/2210.14514v1)|null|
 |**2022-11-24**|**Does Joint Training Really Help Cascaded Speech Translation?**|Viet Anh Khoa Tran, David Thulke, Yingbo Gao, Christian Herold, Hermann Ney et.al.|[2210.13700v2](http://arxiv.org/abs/2210.13700v2)|**[link](https://github.com/tran-khoa/joint-training-cascaded-st)**|
 |**2022-10-21**|**Joint Speech Translation and Named Entity Recognition**|Marco Gaido, Sara Papi, Matteo Negri, Marco Turchi et.al.|[2210.11987v1](http://arxiv.org/abs/2210.11987v1)|null|
-|**2022-10-21**|**Named Entity Detection and Injection for Direct Speech Translation**|Marco Gaido, Yun Tang, Ilia Kulikov, Rongqing Huang, Hongyu Gong, Hirofumi Inaguma et.al.|[2210.11981v1](http://arxiv.org/abs/2210.11981v1)|null|
+|**2023-03-11**|**Named Entity Detection and Injection for Direct Speech Translation**|Marco Gaido, Yun Tang, Ilia Kulikov, Rongqing Huang, Hongyu Gong, Hirofumi Inaguma et.al.|[2210.11981v2](http://arxiv.org/abs/2210.11981v2)|null|
 |**2022-10-18**|**Simple and Effective Unsupervised Speech Translation**|Changhan Wang, Hirofumi Inaguma, Peng-Jen Chen, Ilia Kulikov, Yun Tang, Wei-Ning Hsu, Michael Auli, Juan Pino et.al.|[2210.10191v1](http://arxiv.org/abs/2210.10191v1)|null|
 |**2022-10-18**|**Discrete Cross-Modal Alignment Enables Zero-Shot Speech Translation**|Chen Wang, Yuchen Liu, Boxing Chen, Jiajun Zhang, Wei Luo, Zhongqiang Huang, Chengqing Zong et.al.|[2210.09556v1](http://arxiv.org/abs/2210.09556v1)|**[link](https://github.com/znlp/zero-shot-st)**|
 |**2022-10-16**|**RedApt: An Adaptor for wav2vec 2 Encoding \\ Faster and Smaller Speech Translation without Quality Compromise**|Jinming Zhao, Hao Yang, Gholamreza Haffari, Ehsan Shareghi et.al.|[2210.08475v1](http://arxiv.org/abs/2210.08475v1)|null|
@@ -142,7 +142,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230314>back to top</a>)</p>
 
 ## Legal
 
@@ -285,7 +285,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230314>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
