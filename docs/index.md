@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.14
+## Updated on 2023.03.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -43,7 +43,7 @@ layout: default
 |**2022-11-08**|**SpeechMatrix: A Large-Scale Mined Corpus of Multilingual Speech-to-Speech Translations**|Paul-Ambroise Duquenne, Hongyu Gong, Ning Dong, Jingfei Du, Ann Lee, Vedanuj Goswani, Changhan Wang, Juan Pino, Benoît Sagot, Holger Schwenk et.al.|[2211.04508v1](http://arxiv.org/abs/2211.04508v1)|null|
 |**2022-10-31**|**Textless Direct Speech-to-Speech Translation with Discrete Speech Representation**|Xinjian Li, Ye Jia, Chung-Cheng Chiu et.al.|[2211.00115v1](http://arxiv.org/abs/2211.00115v1)|null|
 |**2022-10-31**|**Joint Pre-Training with Speech and Bilingual Text for Direct Speech to Speech Translation**|Kun Wei, Long Zhou, Ziqiang Zhang, Liping Chen, Shujie Liu, Lei He, Jinyu Li, Furu Wei et.al.|[2210.17027v1](http://arxiv.org/abs/2210.17027v1)|**[link](https://github.com/microsoft/speecht5)**|
-|**2022-10-28**|**Efficient Speech Translation with Dynamic Latent Perceivers**|Ioannis Tsiamas, Gerard I. Gállego, José A. R. Fonollosa, Marta R. Costa-jussá et.al.|[2210.16264v1](http://arxiv.org/abs/2210.16264v1)|**[link](https://github.com/mt-upc/s2t-perceiver)**|
+|**2023-03-14**|**Efficient Speech Translation with Dynamic Latent Perceivers**|Ioannis Tsiamas, Gerard I. Gállego, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2210.16264v2](http://arxiv.org/abs/2210.16264v2)|**[link](https://github.com/mt-upc/s2t-perceiver)**|
 |**2022-10-26**|**Improving Speech-to-Speech Translation Through Unlabeled Text**|Xuan-Phi Nguyen, Sravya Popuri, Changhan Wang, Yun Tang, Ilia Kulikov, Hongyu Gong et.al.|[2210.14514v1](http://arxiv.org/abs/2210.14514v1)|null|
 |**2022-11-24**|**Does Joint Training Really Help Cascaded Speech Translation?**|Viet Anh Khoa Tran, David Thulke, Yingbo Gao, Christian Herold, Hermann Ney et.al.|[2210.13700v2](http://arxiv.org/abs/2210.13700v2)|**[link](https://github.com/tran-khoa/joint-training-cascaded-st)**|
 |**2022-10-21**|**Joint Speech Translation and Named Entity Recognition**|Marco Gaido, Sara Papi, Matteo Negri, Marco Turchi et.al.|[2210.11987v1](http://arxiv.org/abs/2210.11987v1)|null|
@@ -142,14 +142,14 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
 
 ## Legal
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-13**|**Are Models Trained on Indian Legal Data Fair?**|Sahil Girhepuje, Anmol Goel, Gokul Krishnan, Shreya Goyal, Satyendra Pandey, Ponnurangam Kumaraguru, Balaram Ravindran et.al.|[2303.07247v1](http://arxiv.org/abs/2303.07247v1)|null|
-|**2023-03-13**|**Meaningful Human Command: Advance Control Directives as a method to enable moral and legal responsibility for autonomous weapons systems**|Susannah Kate Devitt et.al.|[2303.06813v1](http://arxiv.org/abs/2303.06813v1)|null|
+|**2023-03-14**|**Are Models Trained on Indian Legal Data Fair?**|Sahil Girhepuje, Anmol Goel, Gokul S Krishnan, Shreya Goyal, Satyendra Pandey, Ponnurangam Kumaraguru, Balaraman Ravindran et.al.|[2303.07247v2](http://arxiv.org/abs/2303.07247v2)|null|
+|**2023-03-14**|**Meaningful human command: Advance control directives as a method to enable moral and legal responsibility for autonomous weapons systems**|Susannah Kate Devitt et.al.|[2303.06813v2](http://arxiv.org/abs/2303.06813v2)|null|
 |**2023-03-07**|**German BERT Model for Legal Named Entity Recognition**|Harshil Darji, Jelena Mitrović, Michael Granitzer et.al.|[2303.05388v1](http://arxiv.org/abs/2303.05388v1)|null|
 |**2023-03-08**|**Automatic Detection of Industry Sectors in Legal Articles Using Machine Learning Approaches**|Hui Yang, Stella Hadjiantoni, Yunfei Long, Ruta Petraityte, Berthold Lausen et.al.|[2303.05387v1](http://arxiv.org/abs/2303.05387v1)|null|
 |**2023-02-23**|**Natural Language Processing in the Legal Domain**|Daniel Martin Katz, Dirk Hartung, Lauritz Gerlach, Abhik Jana, Michael J. Bommarito II et.al.|[2302.12039v1](http://arxiv.org/abs/2302.12039v1)|null|
@@ -287,7 +287,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
