@@ -149,7 +149,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-16**|**A Short Survey of Viewing Large Language Models in Legal Aspect**|Zhongxiang Sun et.al.|[2303.09136v1](http://arxiv.org/abs/2303.09136v1)|null|
+|**2023-03-16**|**A Short Survey of Viewing Large Language Models in Legal Aspect**|Zhongxiang Sun et.al.|[2303.09136v1](http://arxiv.org/abs/2303.09136v1)|**[link](https://github.com/jeryi-sun/llm-and-law)**|
 |**2023-03-14**|**Are Models Trained on Indian Legal Data Fair?**|Sahil Girhepuje, Anmol Goel, Gokul S Krishnan, Shreya Goyal, Satyendra Pandey, Ponnurangam Kumaraguru, Balaraman Ravindran et.al.|[2303.07247v2](http://arxiv.org/abs/2303.07247v2)|null|
 |**2023-03-14**|**Meaningful human command: Advance control directives as a method to enable moral and legal responsibility for autonomous weapons systems**|Susannah Kate Devitt et.al.|[2303.06813v2](http://arxiv.org/abs/2303.06813v2)|null|
 |**2023-03-07**|**German BERT Model for Legal Named Entity Recognition**|Harshil Darji, Jelena Mitrović, Michael Granitzer et.al.|[2303.05388v1](http://arxiv.org/abs/2303.05388v1)|null|
