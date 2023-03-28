@@ -149,6 +149,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-25**|**(Legal Design) Research through Litigation**|Reuben Kirkham et.al.|[2303.14336v1](http://arxiv.org/abs/2303.14336v1)|null|
 |**2023-03-21**|**Understand Legal Documents with Contextualized Large Language Models**|Xin Jin, Yuchen Wang et.al.|[2303.12135v1](http://arxiv.org/abs/2303.12135v1)|null|
 |**2023-03-16**|**A Short Survey of Viewing Large Language Models in Legal Aspect**|Zhongxiang Sun et.al.|[2303.09136v1](http://arxiv.org/abs/2303.09136v1)|**[link](https://github.com/jeryi-sun/llm-and-law)**|
 |**2023-03-14**|**Are Models Trained on Indian Legal Data Fair?**|Sahil Girhepuje, Anmol Goel, Gokul S Krishnan, Shreya Goyal, Satyendra Pandey, Ponnurangam Kumaraguru, Balaraman Ravindran et.al.|[2303.07247v2](http://arxiv.org/abs/2303.07247v2)|null|
