@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.28
+## Updated on 2023.03.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -139,7 +139,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230329>back to top</a>)</p>
 
 ## Legal
 
@@ -206,7 +206,7 @@
 |**2022-10-11**|**Legal Element-oriented Modeling with Multi-view Contrastive Learning for Legal Case Retrieval**|Zhaowei Wang et.al.|[2210.05188v1](http://arxiv.org/abs/2210.05188v1)|null|
 |**2022-10-01**|**Using Argumentation Schemes to Model Legal Reasoning**|Trevor Bench-Capon, Katie Atkinson et.al.|[2210.00315v1](http://arxiv.org/abs/2210.00315v1)|null|
 |**2022-11-12**|**Multi-stage Information Retrieval for Vietnamese Legal Texts**|Nhat-Minh Pham, Ha-Thanh Nguyen, Trong-Hop Do et.al.|[2209.14494v2](http://arxiv.org/abs/2209.14494v2)|null|
-|**2023-01-07**|**Law Informs Code: A Legal Informatics Approach to Aligning Artificial Intelligence with Humans**|John J. Nay et.al.|[2209.13020v12](http://arxiv.org/abs/2209.13020v12)|null|
+|**2023-03-28**|**Law Informs Code: A Legal Informatics Approach to Aligning Artificial Intelligence with Humans**|John J. Nay et.al.|[2209.13020v13](http://arxiv.org/abs/2209.13020v13)|null|
 |**2022-09-26**|**Legal Case Document Similarity: You Need Both Network and Text**|Paheli Bhattacharya, Kripabandhu Ghosh, Arindam Pal, Saptarshi Ghosh et.al.|[2209.12474v1](http://arxiv.org/abs/2209.12474v1)|**[link](https://github.com/law-ai/document-similarity)**|
 |**2022-09-25**|**An Empirical Study on Cross-X Transfer for Legal Judgment Prediction**|Joel Niklaus, Matthias Stürmer, Ilias Chalkidis et.al.|[2209.12325v1](http://arxiv.org/abs/2209.12325v1)|**[link](https://github.com/Kaleidophon/deep-significance)**|
 |**2022-09-13**|**LegalBench: Prototyping a Collaborative Benchmark for Legal Reasoning**|Neel Guha, Daniel E. Ho, Julian Nyarko, Christopher Ré et.al.|[2209.06120v1](http://arxiv.org/abs/2209.06120v1)|**[link](https://github.com/hazyresearch/legalbench)**|
@@ -287,7 +287,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230329>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
