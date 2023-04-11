@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-10**|**Enhancing Speech-to-Speech Translation with Multiple TTS Targets**|Jiatong Shi, Yun Tang, Ann Lee, Hirofumi Inaguma, Changhan Wang, Juan Pino, Shinji Watanabe et.al.|[2304.04618v1](http://arxiv.org/abs/2304.04618v1)|null|
 |**2023-03-22**|**Selective Data Augmentation for Robust Speech Translation**|Rajul Acharya, Ashish Panda, Sunil Kumar Kopparapu et.al.|[2304.03169v1](http://arxiv.org/abs/2304.03169v1)|null|
 |**2023-03-14**|**Adapting Offline Speech Translation Models for Streaming with Future-Aware Distillation and Inference**|Biao Fu, Kai Fan, Minpeng Liao, Zhongqiang Huang, Boxing Chen, Yidong Chen, Xiaodong Shi et.al.|[2303.07914v1](http://arxiv.org/abs/2303.07914v1)|null|
 |**2023-03-09**|**MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition**|Xize Cheng, Linjun Li, Tao Jin, Rongjie Huang, Wang Lin, Zehan Wang, Huangdai Liu, Ye Wang, Aoxiong Yin, Zhou Zhao et.al.|[2303.05309v1](http://arxiv.org/abs/2303.05309v1)|**[link](https://github.com/exgc/avmust-ted)**|
