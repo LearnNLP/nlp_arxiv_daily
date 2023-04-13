@@ -147,6 +147,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**FALQU: Finding Answers to Legal Questions**|Behrooz Mansouri, Ricardo Campos et.al.|[2304.05611v1](http://arxiv.org/abs/2304.05611v1)|**[link](https://github.com/aiirlab/falqu)**|
 |**2023-04-05**|**Context-Aware Classification of Legal Document Pages**|Pavlos Fragkogiannis, Martina Forster, Grace E. Lee, Dell Zhang et.al.|[2304.02787v1](http://arxiv.org/abs/2304.02787v1)|null|
 |**2023-03-25**|**(Legal Design) Research through Litigation**|Reuben Kirkham et.al.|[2303.14336v1](http://arxiv.org/abs/2303.14336v1)|null|
 |**2023-03-21**|**Understand Legal Documents with Contextualized Large Language Models**|Xin Jin, Yuchen Wang et.al.|[2303.12135v1](http://arxiv.org/abs/2303.12135v1)|null|
@@ -175,6 +176,7 @@
 |**2022-12-19**|**E-NER -- An Annotated Named Entity Recognition Corpus of Legal Text**|Ting Wai Terence Au, Ingemar J. Cox, Vasileios Lampos et.al.|[2212.09306v1](http://arxiv.org/abs/2212.09306v1)|**[link](https://github.com/terenceau2/e-ner-dataset)**|
 |**2022-12-16**|**Law to Binary Tree -- An Formal Interpretation of Legal Natural Language**|Ha-Thanh Nguyen, Vu Tran, Ngoc-Cam Le, Thi-Thuy Le, Quang-Huy Nguyen, Le-Minh Nguyen, Ken Satoh et.al.|[2212.08335v1](http://arxiv.org/abs/2212.08335v1)|null|
 |**2022-12-16**|**LegalRelectra: Mixed-domain Language Modeling for Long-range Legal Text Comprehension**|Wenyue Hua, Yuchen Zhang, Zhe Chen, Josie Li, Melanie Weber et.al.|[2212.08204v1](http://arxiv.org/abs/2212.08204v1)|null|
+|**2023-04-12**|**Online Legal Driving Behavior Monitoring for Autonomous Driving**|Wenhao Yu, Chengxiang Zhao, Jiaxin Liu, Yingkai Yang, Xiaohan Ma, Jun Li, Weida Wang, Hong Wang, Ding Zhao, Xiaosong Hu et.al.|[2212.04156v2](http://arxiv.org/abs/2212.04156v2)|**[link](https://github.com/sotif-avlab/dotl)**|
 |**2022-12-06**|**Formal Modeling and Analysis of Legal Contracts using ContractCheck**|Alan Khoja, Martin Kölbl, Stefan Leue, Rüdiger Wilhelmi et.al.|[2212.03349v1](http://arxiv.org/abs/2212.03349v1)|null|
 |**2022-12-05**|**Legal Prompt Engineering for Multilingual Legal Judgement Prediction**|Dietrich Trautmann, Alina Petrova, Frank Schilder et.al.|[2212.02199v1](http://arxiv.org/abs/2212.02199v1)|null|
 |**2022-12-08**|**Legal Prompting: Teaching a Language Model to Think Like a Lawyer**|Fangyi Yu, Lee Quartey, Frank Schilder et.al.|[2212.01326v2](http://arxiv.org/abs/2212.01326v2)|null|
