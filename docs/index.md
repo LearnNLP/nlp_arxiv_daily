@@ -151,6 +151,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-14**|**How well do SOTA legal reasoning models support abductive reasoning?**|Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis, Ken Satoh et.al.|[2304.06912v1](http://arxiv.org/abs/2304.06912v1)|null|
 |**2023-04-14**|**Exploring the State of the Art in Legal QA Systems**|Abdelrahman Abdallah, Bhawna Piryani, Adam Jatowt et.al.|[2304.06623v2](http://arxiv.org/abs/2304.06623v2)|**[link](https://github.com/abdoelsayed2016/legal-question-answering-review)**|
 |**2023-04-12**|**FALQU: Finding Answers to Legal Questions**|Behrooz Mansouri, Ricardo Campos et.al.|[2304.05611v1](http://arxiv.org/abs/2304.05611v1)|**[link](https://github.com/aiirlab/falqu)**|
 |**2023-04-05**|**Context-Aware Classification of Legal Document Pages**|Pavlos Fragkogiannis, Martina Forster, Grace E. Lee, Dell Zhang et.al.|[2304.02787v1](http://arxiv.org/abs/2304.02787v1)|null|
