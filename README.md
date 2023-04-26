@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.25
+## Updated on 2023.04.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -20,7 +20,7 @@
 |**2023-04-20**|**Improving Speech Translation by Cross-Modal Multi-Grained Contrastive Learning**|Hao Zhang, Nianwen Si, Yaqi Chen, Wenlin Zhang, Xukui Yang, Dan Qu, Wei-Qiang Zhang et.al.|[2304.10309v1](http://arxiv.org/abs/2304.10309v1)|null|
 |**2023-04-20**|**Decouple Non-parametric Knowledge Distillation For End-to-end Speech Translation**|Hao Zhang, Nianwen Si, Yaqi Chen, Wenlin Zhang, Xukui Yang, Dan Qu, Zhen Li et.al.|[2304.10295v1](http://arxiv.org/abs/2304.10295v1)|null|
 |**2023-04-10**|**Enhancing Speech-to-Speech Translation with Multiple TTS Targets**|Jiatong Shi, Yun Tang, Ann Lee, Hirofumi Inaguma, Changhan Wang, Juan Pino, Shinji Watanabe et.al.|[2304.04618v1](http://arxiv.org/abs/2304.04618v1)|null|
-|**2023-03-22**|**Selective Data Augmentation for Robust Speech Translation**|Rajul Acharya, Ashish Panda, Sunil Kumar Kopparapu et.al.|[2304.03169v1](http://arxiv.org/abs/2304.03169v1)|null|
+|**2023-04-25**|**Selective Data Augmentation for Robust Speech Translation**|Rajul Acharya, Ashish Panda, Sunil Kumar Kopparapu et.al.|[2304.03169v2](http://arxiv.org/abs/2304.03169v2)|null|
 |**2023-03-14**|**Adapting Offline Speech Translation Models for Streaming with Future-Aware Distillation and Inference**|Biao Fu, Kai Fan, Minpeng Liao, Zhongqiang Huang, Boxing Chen, Yidong Chen, Xiaodong Shi et.al.|[2303.07914v1](http://arxiv.org/abs/2303.07914v1)|null|
 |**2023-03-09**|**MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition**|Xize Cheng, Linjun Li, Tao Jin, Rongjie Huang, Wang Lin, Zehan Wang, Huangdai Liu, Ye Wang, Aoxiong Yin, Zhou Zhao et.al.|[2303.05309v1](http://arxiv.org/abs/2303.05309v1)|**[link](https://github.com/exgc/avmust-ted)**|
 |**2023-02-21**|**Efficient CTC Regularization via Coarse Labels for End-to-End Speech Translation**|Biao Zhang, Barry Haddow, Rico Sennrich et.al.|[2302.10871v1](http://arxiv.org/abs/2302.10871v1)|**[link](https://github.com/bzhangGo/zero)**|
@@ -143,7 +143,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230426>back to top</a>)</p>
 
 ## Legal
 
@@ -154,7 +154,7 @@
 |**2023-04-14**|**How well do SOTA legal reasoning models support abductive reasoning?**|Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis, Ken Satoh et.al.|[2304.06912v1](http://arxiv.org/abs/2304.06912v1)|null|
 |**2023-04-14**|**Exploring the State of the Art in Legal QA Systems**|Abdelrahman Abdallah, Bhawna Piryani, Adam Jatowt et.al.|[2304.06623v2](http://arxiv.org/abs/2304.06623v2)|**[link](https://github.com/abdoelsayed2016/legal-question-answering-review)**|
 |**2023-04-12**|**FALQU: Finding Answers to Legal Questions**|Behrooz Mansouri, Ricardo Campos et.al.|[2304.05611v1](http://arxiv.org/abs/2304.05611v1)|**[link](https://github.com/aiirlab/falqu)**|
-|**2023-04-05**|**Context-Aware Classification of Legal Document Pages**|Pavlos Fragkogiannis, Martina Forster, Grace E. Lee, Dell Zhang et.al.|[2304.02787v1](http://arxiv.org/abs/2304.02787v1)|null|
+|**2023-04-25**|**Context-Aware Classification of Legal Document Pages**|Pavlos Fragkogiannis, Martina Forster, Grace E. Lee, Dell Zhang et.al.|[2304.02787v2](http://arxiv.org/abs/2304.02787v2)|null|
 |**2023-03-25**|**(Legal Design) Research through Litigation**|Reuben Kirkham et.al.|[2303.14336v1](http://arxiv.org/abs/2303.14336v1)|null|
 |**2023-03-21**|**Understand Legal Documents with Contextualized Large Language Models**|Xin Jin, Yuchen Wang et.al.|[2303.12135v1](http://arxiv.org/abs/2303.12135v1)|null|
 |**2023-03-16**|**A Short Survey of Viewing Large Language Models in Legal Aspect**|Zhongxiang Sun et.al.|[2303.09136v1](http://arxiv.org/abs/2303.09136v1)|**[link](https://github.com/jeryi-sun/llm-and-law)**|
@@ -298,7 +298,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
