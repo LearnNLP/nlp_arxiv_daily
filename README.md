@@ -150,6 +150,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-21**|**The Dark Side of ChatGPT: Legal and Ethical Challenges from Stochastic Parrots and Hallucination**|Zihao Li et.al.|[2304.14347v1](http://arxiv.org/abs/2304.14347v1)|null|
 |**2023-04-22**|**SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval**|Haitao Li, Qingyao Ai, Jia Chen, Qian Dong, Yueyue Wu, Yiqun Liu, Chong Chen, Qi Tian et.al.|[2304.11370v1](http://arxiv.org/abs/2304.11370v1)|**[link](https://github.com/cshaitao/sailer)**|
 |**2023-04-24**|**SemEval 2023 Task 6: LegalEval -- Understanding Legal Texts**|Ashutosh Modi, Prathamesh Kalamkar, Saurabh Karn, Aman Tiwari, Abhinav Joshi, Sai Kiran Tanikella, Shouvik Kumar Guha, Sachin Malhan, Vivek Raghavan et.al.|[2304.09548v2](http://arxiv.org/abs/2304.09548v2)|null|
 |**2023-04-14**|**How well do SOTA legal reasoning models support abductive reasoning?**|Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis, Ken Satoh et.al.|[2304.06912v1](http://arxiv.org/abs/2304.06912v1)|null|
