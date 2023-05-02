@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.01
+## Updated on 2023.05.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -144,7 +144,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230501>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230502>back to top</a>)</p>
 
 ## Legal
 
@@ -153,7 +153,7 @@
 |**2023-04-27**|**Analyzing Vietnamese Legal Questions Using Deep Neural Networks with Biaffine Classifiers**|Nguyen Anh Tu, Hoang Thi Thu Uyen, Tu Minh Phuong, Ngo Xuan Bach et.al.|[2304.14447v1](http://arxiv.org/abs/2304.14447v1)|null|
 |**2023-04-21**|**The Dark Side of ChatGPT: Legal and Ethical Challenges from Stochastic Parrots and Hallucination**|Zihao Li et.al.|[2304.14347v1](http://arxiv.org/abs/2304.14347v1)|null|
 |**2023-04-22**|**SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval**|Haitao Li, Qingyao Ai, Jia Chen, Qian Dong, Yueyue Wu, Yiqun Liu, Chong Chen, Qi Tian et.al.|[2304.11370v1](http://arxiv.org/abs/2304.11370v1)|**[link](https://github.com/cshaitao/sailer)**|
-|**2023-04-24**|**SemEval 2023 Task 6: LegalEval -- Understanding Legal Texts**|Ashutosh Modi, Prathamesh Kalamkar, Saurabh Karn, Aman Tiwari, Abhinav Joshi, Sai Kiran Tanikella, Shouvik Kumar Guha, Sachin Malhan, Vivek Raghavan et.al.|[2304.09548v2](http://arxiv.org/abs/2304.09548v2)|null|
+|**2023-05-01**|**SemEval 2023 Task 6: LegalEval - Understanding Legal Texts**|Ashutosh Modi, Prathamesh Kalamkar, Saurabh Karn, Aman Tiwari, Abhinav Joshi, Sai Kiran Tanikella, Shouvik Kumar Guha, Sachin Malhan, Vivek Raghavan et.al.|[2304.09548v3](http://arxiv.org/abs/2304.09548v3)|null|
 |**2023-04-14**|**How well do SOTA legal reasoning models support abductive reasoning?**|Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis, Ken Satoh et.al.|[2304.06912v1](http://arxiv.org/abs/2304.06912v1)|null|
 |**2023-04-14**|**Exploring the State of the Art in Legal QA Systems**|Abdelrahman Abdallah, Bhawna Piryani, Adam Jatowt et.al.|[2304.06623v2](http://arxiv.org/abs/2304.06623v2)|**[link](https://github.com/abdoelsayed2016/legal-question-answering-review)**|
 |**2023-04-12**|**FALQU: Finding Answers to Legal Questions**|Behrooz Mansouri, Ricardo Campos et.al.|[2304.05611v1](http://arxiv.org/abs/2304.05611v1)|**[link](https://github.com/aiirlab/falqu)**|
@@ -301,7 +301,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230501>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230502>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
