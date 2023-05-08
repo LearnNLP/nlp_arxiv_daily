@@ -154,6 +154,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-04**|**ChatGPT and Works Scholarly: Best Practices and Legal Pitfalls in Writing with AI**|Bill Tomlinson, Andrew W. Torrance, Rebecca W. Black et.al.|[2305.03722v1](http://arxiv.org/abs/2305.03722v1)|null|
+|**2023-05-03**|**CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing**|Mann Khatri, Pritish Wadhwa, Gitansh Satija, Reshma Sheik, Yaman Kumar, Rajiv Ratn Shah, Ponnurangam Kumaraguru et.al.|[2305.03508v1](http://arxiv.org/abs/2305.03508v1)|null|
 |**2023-05-04**|**Analyzing Hong Kong's Legal Judgments from a Computational Linguistics point-of-view**|Sankalok Sen et.al.|[2305.02558v1](http://arxiv.org/abs/2305.02558v1)|null|
 |**2023-05-02**|**MultiLegalSBD: A Multilingual Legal Sentence Boundary Detection Dataset**|Tobias Brugger, Matthias Stürmer, Joel Niklaus et.al.|[2305.01211v1](http://arxiv.org/abs/2305.01211v1)|**[link](https://github.com/tobiasbrugger/multilegalsbd)**|
 |**2023-04-27**|**Analyzing Vietnamese Legal Questions Using Deep Neural Networks with Biaffine Classifiers**|Nguyen Anh Tu, Hoang Thi Thu Uyen, Tu Minh Phuong, Ngo Xuan Bach et.al.|[2304.14447v1](http://arxiv.org/abs/2304.14447v1)|null|
