@@ -150,6 +150,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-08**|**Unlocking Practical Applications in Legal Domain: Evaluation of GPT for Zero-Shot Semantic Annotation of Legal Texts**|Jaromir Savelka et.al.|[2305.04417v1](http://arxiv.org/abs/2305.04417v1)|null|
+|**2023-05-06**|**Rhetorical Role Labeling of Legal Documents using Transformers and Graph Neural Networks**|Anshika Gupta, Shaz Furniturewala, Vijay Kumari, Yashvardhan Sharma et.al.|[2305.04100v1](http://arxiv.org/abs/2305.04100v1)|null|
 |**2023-05-04**|**ChatGPT and Works Scholarly: Best Practices and Legal Pitfalls in Writing with AI**|Bill Tomlinson, Andrew W. Torrance, Rebecca W. Black et.al.|[2305.03722v1](http://arxiv.org/abs/2305.03722v1)|null|
 |**2023-05-03**|**CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing**|Mann Khatri, Pritish Wadhwa, Gitansh Satija, Reshma Sheik, Yaman Kumar, Rajiv Ratn Shah, Ponnurangam Kumaraguru et.al.|[2305.03508v1](http://arxiv.org/abs/2305.03508v1)|null|
 |**2023-05-04**|**Analyzing Hong Kong's Legal Judgments from a Computational Linguistics point-of-view**|Sankalok Sen et.al.|[2305.02558v1](http://arxiv.org/abs/2305.02558v1)|null|
