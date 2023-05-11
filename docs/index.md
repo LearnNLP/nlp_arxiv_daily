@@ -154,6 +154,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-10**|**Extracting Complex Named Entities in Legal Documents via Weakly Supervised Object Detection**|Hsiu-Wei Yang, Abhinav Agrawal et.al.|[2305.05836v1](http://arxiv.org/abs/2305.05836v1)|null|
 |**2023-05-09**|**An Exploration of Encoder-Decoder Approaches to Multi-Label Classification for Legal and Biomedical Text**|Yova Kementchedjhieva, Ilias Chalkidis et.al.|[2305.05627v1](http://arxiv.org/abs/2305.05627v1)|null|
 |**2023-05-09**|**CaseEncoder: A Knowledge-enhanced Pre-trained Model for Legal Case Encoding**|Yixiao Ma, Yueyue Wu, Weihang Su, Qingyao Ai, Yiqun Liu et.al.|[2305.05393v1](http://arxiv.org/abs/2305.05393v1)|null|
 |**2023-05-08**|**Unlocking Practical Applications in Legal Domain: Evaluation of GPT for Zero-Shot Semantic Annotation of Legal Texts**|Jaromir Savelka et.al.|[2305.04417v1](http://arxiv.org/abs/2305.04417v1)|null|
