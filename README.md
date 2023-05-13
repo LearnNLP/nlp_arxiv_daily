@@ -150,7 +150,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-05-11**|**THUIR@COLIEE 2023: More Parameters and Legal Knowledge for Legal Case Entailment**|Haitao Li, Changyue Wang, Weihang Su, Yueyue Wu, Qingyao Ai, Yiqun Liu et.al.|[2305.06817v1](http://arxiv.org/abs/2305.06817v1)|**[link](https://github.com/cshaitao/thuir-coliee2023)**|
+|**2023-05-11**|**THUIR@COLIEE 2023: More Parameters and Legal Knowledge for Legal Case Entailment**|Haitao Li, Changyue Wang, Weihang Su, Yueyue Wu, Qingyao Ai, Yiqun Liu et.al.|[2305.06817v1](http://arxiv.org/abs/2305.06817v1)|**[link](https://github.com/lihaitao18375278/THUIR-COLIEE2023)**|
 |**2023-05-11**|**THUIR@COLIEE 2023: Incorporating Structural Knowledge into Pre-trained Language Models for Legal Case Retrieval**|Haitao Li, Weihang Su, Changyue Wang, Yueyue Wu, Qingyao Ai, Yiqun Liu et.al.|[2305.06812v1](http://arxiv.org/abs/2305.06812v1)|**[link](https://github.com/cshaitao/thuir-coliee2023)**|
 |**2023-05-10**|**Extracting Complex Named Entities in Legal Documents via Weakly Supervised Object Detection**|Hsiu-Wei Yang, Abhinav Agrawal et.al.|[2305.05836v1](http://arxiv.org/abs/2305.05836v1)|null|
 |**2023-05-09**|**An Exploration of Encoder-Decoder Approaches to Multi-Label Classification for Legal and Biomedical Text**|Yova Kementchedjhieva, Ilias Chalkidis et.al.|[2305.05627v1](http://arxiv.org/abs/2305.05627v1)|null|
