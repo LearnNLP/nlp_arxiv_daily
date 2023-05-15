@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-12**|**Improving Cascaded Unsupervised Speech Translation with Denoising Back-translation**|Yu-Kuan Fu, Liang-Hsuan Tseng, Jiatong Shi, Chen-An Li, Tsu-Yuan Hsu, Shinji Watanabe, Hung-yi Lee et.al.|[2305.07455v1](http://arxiv.org/abs/2305.07455v1)|null|
 |**2023-04-25**|**Improving Speech Translation Accuracy and Time Efficiency with Fine-tuned wav2vec 2.0-based Speech Segmentation**|Ryo Fukuda, Katsuhito Sudoh, Satoshi Nakamura et.al.|[2304.12659v1](http://arxiv.org/abs/2304.12659v1)|null|
 |**2023-04-20**|**Improving Speech Translation by Cross-Modal Multi-Grained Contrastive Learning**|Hao Zhang, Nianwen Si, Yaqi Chen, Wenlin Zhang, Xukui Yang, Dan Qu, Wei-Qiang Zhang et.al.|[2304.10309v1](http://arxiv.org/abs/2304.10309v1)|null|
 |**2023-04-20**|**Decouple Non-parametric Knowledge Distillation For End-to-end Speech Translation**|Hao Zhang, Nianwen Si, Yaqi Chen, Wenlin Zhang, Xukui Yang, Dan Qu, Zhen Li et.al.|[2304.10295v1](http://arxiv.org/abs/2304.10295v1)|null|
@@ -154,6 +155,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-12**|**LeXFiles and LegalLAMA: Facilitating English Multinational Legal Language Model Development**|Ilias Chalkidis, Nicolas Garneau, Catalina Goanta, Daniel Martin Katz, Anders Søgaard et.al.|[2305.07507v1](http://arxiv.org/abs/2305.07507v1)|**[link](https://github.com/coastalcph/lexlms)**|
 |**2023-05-11**|**THUIR@COLIEE 2023: More Parameters and Legal Knowledge for Legal Case Entailment**|Haitao Li, Changyue Wang, Weihang Su, Yueyue Wu, Qingyao Ai, Yiqun Liu et.al.|[2305.06817v1](http://arxiv.org/abs/2305.06817v1)|**[link](https://github.com/lihaitao18375278/THUIR-COLIEE2023)**|
 |**2023-05-11**|**THUIR@COLIEE 2023: Incorporating Structural Knowledge into Pre-trained Language Models for Legal Case Retrieval**|Haitao Li, Weihang Su, Changyue Wang, Yueyue Wu, Qingyao Ai, Yiqun Liu et.al.|[2305.06812v1](http://arxiv.org/abs/2305.06812v1)|**[link](https://github.com/cshaitao/thuir-coliee2023)**|
 |**2023-05-10**|**Extracting Complex Named Entities in Legal Documents via Weakly Supervised Object Detection**|Hsiu-Wei Yang, Abhinav Agrawal et.al.|[2305.05836v1](http://arxiv.org/abs/2305.05836v1)|null|
