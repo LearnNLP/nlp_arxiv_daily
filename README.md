@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.15
+## Updated on 2023.05.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -145,7 +145,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230515>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230516>back to top</a>)</p>
 
 ## Legal
 
@@ -237,7 +237,7 @@
 |**2022-09-26**|**Legal Case Document Similarity: You Need Both Network and Text**|Paheli Bhattacharya, Kripabandhu Ghosh, Arindam Pal, Saptarshi Ghosh et.al.|[2209.12474v1](http://arxiv.org/abs/2209.12474v1)|**[link](https://github.com/law-ai/document-similarity)**|
 |**2022-09-25**|**An Empirical Study on Cross-X Transfer for Legal Judgment Prediction**|Joel Niklaus, Matthias Stürmer, Ilias Chalkidis et.al.|[2209.12325v1](http://arxiv.org/abs/2209.12325v1)|**[link](https://github.com/Kaleidophon/deep-significance)**|
 |**2022-09-13**|**LegalBench: Prototyping a Collaborative Benchmark for Legal Reasoning**|Neel Guha, Daniel E. Ho, Julian Nyarko, Christopher Ré et.al.|[2209.06120v1](http://arxiv.org/abs/2209.06120v1)|**[link](https://github.com/hazyresearch/legalbench)**|
-|**2023-05-11**|**Pre-trained Language Models for the Legal Domain: A Case Study on Indian Law**|Shounak Paul, Arpan Mandal, Pawan Goyal, Saptarshi Ghosh et.al.|[2209.06049v4](http://arxiv.org/abs/2209.06049v4)|null|
+|**2023-05-15**|**Pre-trained Language Models for the Legal Domain: A Case Study on Indian Law**|Shounak Paul, Arpan Mandal, Pawan Goyal, Saptarshi Ghosh et.al.|[2209.06049v5](http://arxiv.org/abs/2209.06049v5)|null|
 |**2022-08-29**|**Bias Impact Analysis of AI in Consumer Mobile Health Technologies: Legal, Technical, and Policy**|Kristine Gloria, Nidhi Rastogi, Stevie DeGroff et.al.|[2209.05440v1](http://arxiv.org/abs/2209.05440v1)|null|
 |**2022-09-11**|**Eiger: Auditable, executable, flexible legal regulations**|Alexander Bernauer, Richard A. Eisenberg et.al.|[2209.04939v1](http://arxiv.org/abs/2209.04939v1)|null|
 |**2022-09-18**|**An Argumentation-Based Legal Reasoning Approach for DL-Ontology**|Zhe Yu, Yiwei Lu et.al.|[2209.03070v2](http://arxiv.org/abs/2209.03070v2)|null|
@@ -314,7 +314,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230515>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
