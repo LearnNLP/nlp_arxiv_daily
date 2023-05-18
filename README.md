@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.17
+## Updated on 2023.05.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -147,7 +147,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230517>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230518>back to top</a>)</p>
 
 ## Legal
 
@@ -249,7 +249,7 @@
 |**2022-09-02**|**Entity Graph Extraction from Legal Acts -- a Prototype for a Use Case in Policy Design Analysis**|Anna Wróblewska, Bartosz Pieliński, Karolina Seweryn, Karol Saputa, Aleksandra Wichrowska, Sylwia Sysko-Romańczuk, Hanna Schreiber et.al.|[2209.00944v1](http://arxiv.org/abs/2209.00944v1)|null|
 |**2022-09-01**|**Unsupervised Simplification of Legal Texts**|Mert Cemri, Tolga Çukur, Aykut Koç et.al.|[2209.00557v1](http://arxiv.org/abs/2209.00557v1)|null|
 |**2022-10-06**|**On the Role of Negative Precedent in Legal Outcome Prediction**|Josef Valvoda, Ryan Cotterell, Simone Teufel et.al.|[2208.08225v2](http://arxiv.org/abs/2208.08225v2)|**[link](https://github.com/valvoda/negative-precedent-in-legal-outcome-prediction)**|
-|**2022-08-12**|**Mining Legal Arguments in Court Decisions**|Ivan Habernal, Daniel Faber, Nicola Recchia, Sebastian Bretthauer, Iryna Gurevych, Indra Spiecker genannt Döhmann, Christoph Burchard et.al.|[2208.06178v1](http://arxiv.org/abs/2208.06178v1)|**[link](https://github.com/trusthlt/mining-legal-arguments)**|
+|**2023-05-17**|**Mining Legal Arguments in Court Decisions**|Ivan Habernal, Daniel Faber, Nicola Recchia, Sebastian Bretthauer, Iryna Gurevych, Indra Spiecker genannt Döhmann, Christoph Burchard et.al.|[2208.06178v2](http://arxiv.org/abs/2208.06178v2)|**[link](https://github.com/trusthlt/mining-legal-arguments)**|
 |**2022-08-08**|**Valid Widgets Contain Legal Subwidgets**|Nathan Donagi et.al.|[2208.03866v1](http://arxiv.org/abs/2208.03866v1)|null|
 |**2022-08-06**|**Preventing or Mitigating Adversarial Supply Chain Attacks; a legal analysis**|Kaspar Rosager Ludvigsen, Shishir Nagaraja, Angela Daly et.al.|[2208.03466v1](http://arxiv.org/abs/2208.03466v1)|null|
 |**2022-09-01**|**Upgrading the protection of children from manipulative and addictive strategies in online games: Legal and technical solutions beyond privacy regulation**|Tommaso Crepax, Jan Tobias Muehlberg et.al.|[2207.09928v2](http://arxiv.org/abs/2207.09928v2)|null|
@@ -317,7 +317,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230517>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230518>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
