@@ -153,6 +153,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Late-Binding Scholarship in the Age of AI: Navigating Legal and Normative Challenges of a New Form of Knowledge Production**|Bill Tomlinson, Andrew W. Torrance, Rebecca W. Black, Donald J. Patterson et.al.|[2305.11058v1](http://arxiv.org/abs/2305.11058v1)|null|
 |**2023-05-15**|**Legal Extractive Summarization of U.S. Court Opinions**|Emmanuel Bauer, Dominik Stammbach, Nianlong Gu, Elliott Ash et.al.|[2305.08428v1](http://arxiv.org/abs/2305.08428v1)|**[link](https://github.com/bauerem/legal_memsum)**|
 |**2023-05-12**|**LeXFiles and LegalLAMA: Facilitating English Multinational Legal Language Model Development**|Ilias Chalkidis, Nicolas Garneau, Catalina Goanta, Daniel Martin Katz, Anders Søgaard et.al.|[2305.07507v1](http://arxiv.org/abs/2305.07507v1)|**[link](https://github.com/coastalcph/lexlms)**|
 |**2023-05-11**|**THUIR@COLIEE 2023: More Parameters and Legal Knowledge for Legal Case Entailment**|Haitao Li, Changyue Wang, Weihang Su, Yueyue Wu, Qingyao Ai, Yiqun Liu et.al.|[2305.06817v1](http://arxiv.org/abs/2305.06817v1)|**[link](https://github.com/lihaitao18375278/THUIR-COLIEE2023)**|
