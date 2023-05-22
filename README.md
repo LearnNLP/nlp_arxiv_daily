@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**DUB: Discrete Unit Back-translation for Speech Translation**|Dong Zhang, Rong Ye, Tom Ko, Mingxuan Wang, Yaqian Zhou et.al.|[2305.11411v1](http://arxiv.org/abs/2305.11411v1)|**[link](https://github.com/0nutation/dub)**|
+|**2023-05-19**|**AlignAtt: Using Attention-based Audio-Translation Alignments as a Guide for Simultaneous Speech Translation**|Sara Papi, Marco Turchi, Matteo Negri et.al.|[2305.11408v1](http://arxiv.org/abs/2305.11408v1)|null|
 |**2023-05-16**|**The Interpreter Understands Your Meaning: End-to-end Spoken Language Understanding Aided by Speech Translation**|Mutian He, Philip N. Garner et.al.|[2305.09652v1](http://arxiv.org/abs/2305.09652v1)|null|
 |**2023-05-15**|**Understanding and Bridging the Modality Gap for Speech Translation**|Qingkai Fang, Yang Feng et.al.|[2305.08706v1](http://arxiv.org/abs/2305.08706v1)|**[link](https://github.com/ictnlp/cress)**|
 |**2023-05-12**|**Improving Cascaded Unsupervised Speech Translation with Denoising Back-translation**|Yu-Kuan Fu, Liang-Hsuan Tseng, Jiatong Shi, Chen-An Li, Tsu-Yuan Hsu, Shinji Watanabe, Hung-yi Lee et.al.|[2305.07455v1](http://arxiv.org/abs/2305.07455v1)|null|
