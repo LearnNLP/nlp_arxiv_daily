@@ -21,6 +21,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-22**|**Improving Metrics for Speech Translation**|Claudio Paonessa, Dominik Frefel, Manfred Vogel et.al.|[2305.12918v1](http://arxiv.org/abs/2305.12918v1)|null|
+|**2023-05-22**|**Duplex Diffusion Models Improve Speech-to-Speech Translation**|Xianchao Wu et.al.|[2305.12628v1](http://arxiv.org/abs/2305.12628v1)|null|
 |**2023-05-19**|**DUB: Discrete Unit Back-translation for Speech Translation**|Dong Zhang, Rong Ye, Tom Ko, Mingxuan Wang, Yaqian Zhou et.al.|[2305.11411v1](http://arxiv.org/abs/2305.11411v1)|**[link](https://github.com/0nutation/dub)**|
 |**2023-05-19**|**AlignAtt: Using Attention-based Audio-Translation Alignments as a Guide for Simultaneous Speech Translation**|Sara Papi, Marco Turchi, Matteo Negri et.al.|[2305.11408v1](http://arxiv.org/abs/2305.11408v1)|null|
 |**2023-05-16**|**The Interpreter Understands Your Meaning: End-to-end Spoken Language Understanding Aided by Speech Translation**|Mutian He, Philip N. Garner et.al.|[2305.09652v1](http://arxiv.org/abs/2305.09652v1)|null|
@@ -159,6 +161,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-20**|**Proceedings of the International Workshop on Methodologies for Translating Legal Norms into Formal Representations (LN2FR 2022) in association with 35th International Conference on Legal Knowledge and Information Systems (JURIX 2022)**|Georg Borges, Ken Satoh, Erich Schweighofer et.al.|[2305.12203v1](http://arxiv.org/abs/2305.12203v1)|null|
 |**2023-05-04**|**Late-Binding Scholarship in the Age of AI: Navigating Legal and Normative Challenges of a New Form of Knowledge Production**|Bill Tomlinson, Andrew W. Torrance, Rebecca W. Black, Donald J. Patterson et.al.|[2305.11058v1](http://arxiv.org/abs/2305.11058v1)|null|
 |**2023-05-15**|**Legal Extractive Summarization of U.S. Court Opinions**|Emmanuel Bauer, Dominik Stammbach, Nianlong Gu, Elliott Ash et.al.|[2305.08428v1](http://arxiv.org/abs/2305.08428v1)|**[link](https://github.com/bauerem/legal_memsum)**|
 |**2023-05-12**|**LeXFiles and LegalLAMA: Facilitating English Multinational Legal Language Model Development**|Ilias Chalkidis, Nicolas Garneau, Catalina Goanta, Daniel Martin Katz, Anders Søgaard et.al.|[2305.07507v1](http://arxiv.org/abs/2305.07507v1)|**[link](https://github.com/coastalcph/lexlms)**|
