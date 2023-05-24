@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.23
+## Updated on 2023.05.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -151,7 +151,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230523>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230524>back to top</a>)</p>
 
 ## Legal
 
@@ -160,7 +160,7 @@
 |**2023-05-20**|**Proceedings of the International Workshop on Methodologies for Translating Legal Norms into Formal Representations (LN2FR 2022) in association with 35th International Conference on Legal Knowledge and Information Systems (JURIX 2022)**|Georg Borges, Ken Satoh, Erich Schweighofer et.al.|[2305.12203v1](http://arxiv.org/abs/2305.12203v1)|null|
 |**2023-05-04**|**Late-Binding Scholarship in the Age of AI: Navigating Legal and Normative Challenges of a New Form of Knowledge Production**|Bill Tomlinson, Andrew W. Torrance, Rebecca W. Black, Donald J. Patterson et.al.|[2305.11058v1](http://arxiv.org/abs/2305.11058v1)|null|
 |**2023-05-15**|**Legal Extractive Summarization of U.S. Court Opinions**|Emmanuel Bauer, Dominik Stammbach, Nianlong Gu, Elliott Ash et.al.|[2305.08428v1](http://arxiv.org/abs/2305.08428v1)|**[link](https://github.com/bauerem/legal_memsum)**|
-|**2023-05-12**|**LeXFiles and LegalLAMA: Facilitating English Multinational Legal Language Model Development**|Ilias Chalkidis, Nicolas Garneau, Catalina Goanta, Daniel Martin Katz, Anders Søgaard et.al.|[2305.07507v1](http://arxiv.org/abs/2305.07507v1)|**[link](https://github.com/coastalcph/lexlms)**|
+|**2023-05-22**|**LeXFiles and LegalLAMA: Facilitating English Multinational Legal Language Model Development**|Ilias Chalkidis, Nicolas Garneau, Catalina Goanta, Daniel Martin Katz, Anders Søgaard et.al.|[2305.07507v2](http://arxiv.org/abs/2305.07507v2)|**[link](https://github.com/coastalcph/lexlms)**|
 |**2023-05-11**|**THUIR@COLIEE 2023: More Parameters and Legal Knowledge for Legal Case Entailment**|Haitao Li, Changyue Wang, Weihang Su, Yueyue Wu, Qingyao Ai, Yiqun Liu et.al.|[2305.06817v1](http://arxiv.org/abs/2305.06817v1)|**[link](https://github.com/lihaitao18375278/THUIR-COLIEE2023)**|
 |**2023-05-11**|**THUIR@COLIEE 2023: Incorporating Structural Knowledge into Pre-trained Language Models for Legal Case Retrieval**|Haitao Li, Weihang Su, Changyue Wang, Yueyue Wu, Qingyao Ai, Yiqun Liu et.al.|[2305.06812v1](http://arxiv.org/abs/2305.06812v1)|**[link](https://github.com/cshaitao/thuir-coliee2023)**|
 |**2023-05-10**|**Extracting Complex Named Entities in Legal Documents via Weakly Supervised Object Detection**|Hsiu-Wei Yang, Abhinav Agrawal et.al.|[2305.05836v1](http://arxiv.org/abs/2305.05836v1)|null|
@@ -323,7 +323,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230523>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230524>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
