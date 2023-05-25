@@ -21,6 +21,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Unit-based Speech-to-Speech Translation Without Parallel Data**|Anuj Diwan, Anirudh Srinivasan, David Harwath, Eunsol Choi et.al.|[2305.15405v1](http://arxiv.org/abs/2305.15405v1)|null|
+|**2023-05-24**|**AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation**|Rongjie Huang, Huadai Liu, Xize Cheng, Yi Ren, Linjun Li, Zhenhui Ye, Jinzheng He, Lichao Zhang, Jinglin Liu, Xiang Yin, Zhou Zhao et.al.|[2305.15403v1](http://arxiv.org/abs/2305.15403v1)|null|
+|**2023-05-24**|**CMOT: Cross-modal Mixup via Optimal Transport for Speech Translation**|Yan Zhou, Qingkai Fang, Yang Feng et.al.|[2305.14635v1](http://arxiv.org/abs/2305.14635v1)|null|
 |**2023-05-23**|**Improving speech translation by fusing speech and text**|Wenbiao Yin, Zhicheng Liu, Chengqi Zhao, Tao Wang, Jian Tong, Rong Ye et.al.|[2305.14042v1](http://arxiv.org/abs/2305.14042v1)|null|
 |**2023-05-22**|**Improving Metrics for Speech Translation**|Claudio Paonessa, Dominik Frefel, Manfred Vogel et.al.|[2305.12918v1](http://arxiv.org/abs/2305.12918v1)|null|
 |**2023-05-22**|**Duplex Diffusion Models Improve Speech-to-Speech Translation**|Xianchao Wu et.al.|[2305.12628v1](http://arxiv.org/abs/2305.12628v1)|null|
@@ -44,7 +47,7 @@ layout: default
 |**2022-12-17**|**AdaTranS: Adapting with Boundary-based Shrinking for End-to-End Speech Translation**|Xingshan Zeng, Liangyou Li, Qun Liu et.al.|[2212.08911v1](http://arxiv.org/abs/2212.08911v1)|null|
 |**2022-12-16**|**BLASER: A Text-Free Speech-to-Speech Translation Evaluation Metric**|Mingda Chen, Paul-Ambroise Duquenne, Pierre Andrews, Justine Kao, Alexandre Mourachko, Holger Schwenk, Marta R. Costa-jussà et.al.|[2212.08486v1](http://arxiv.org/abs/2212.08486v1)|**[link](https://github.com/facebookresearch/stopes)**|
 |**2022-12-15**|**UnitY: Two-pass Direct Speech-to-speech Translation with Discrete Units**|Hirofumi Inaguma, Sravya Popuri, Ilia Kulikov, Peng-Jen Chen, Changhan Wang, Yu-An Chung, Yun Tang, Ann Lee, Shinji Watanabe, Juan Pino et.al.|[2212.08055v1](http://arxiv.org/abs/2212.08055v1)|**[link](https://github.com/facebookresearch/fairseq)**|
-|**2023-05-11**|**Attention as a Guide for Simultaneous Speech Translation**|Sara Papi, Matteo Negri, Marco Turchi et.al.|[2212.07850v2](http://arxiv.org/abs/2212.07850v2)|null|
+|**2023-05-11**|**Attention as a Guide for Simultaneous Speech Translation**|Sara Papi, Matteo Negri, Marco Turchi et.al.|[2212.07850v2](http://arxiv.org/abs/2212.07850v2)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2022-12-12**|**Direct Speech-to-speech Translation without Textual Annotation using Bottleneck Features**|Junhui Zhang, Junjie Pan, Xiang Yin, Zejun Ma et.al.|[2212.05805v1](http://arxiv.org/abs/2212.05805v1)|null|
 |**2022-12-11**|**End-to-End Speech Translation of Arabic to English Broadcast News**|Fethi Bougares, Salim Jouili et.al.|[2212.05479v1](http://arxiv.org/abs/2212.05479v1)|null|
 |**2022-12-07**|**M3ST: Mix at Three Levels for Speech Translation**|Xuxin Cheng, Qianqian Dong, Fengpeng Yue, Tom Ko, Mingxuan Wang, Yuexian Zou et.al.|[2212.03657v1](http://arxiv.org/abs/2212.03657v1)|null|
@@ -60,7 +63,7 @@ layout: default
 |**2023-03-14**|**Efficient Speech Translation with Dynamic Latent Perceivers**|Ioannis Tsiamas, Gerard I. Gállego, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2210.16264v2](http://arxiv.org/abs/2210.16264v2)|**[link](https://github.com/mt-upc/s2t-perceiver)**|
 |**2022-10-26**|**Improving Speech-to-Speech Translation Through Unlabeled Text**|Xuan-Phi Nguyen, Sravya Popuri, Changhan Wang, Yun Tang, Ilia Kulikov, Hongyu Gong et.al.|[2210.14514v1](http://arxiv.org/abs/2210.14514v1)|null|
 |**2022-11-24**|**Does Joint Training Really Help Cascaded Speech Translation?**|Viet Anh Khoa Tran, David Thulke, Yingbo Gao, Christian Herold, Hermann Ney et.al.|[2210.13700v2](http://arxiv.org/abs/2210.13700v2)|**[link](https://github.com/tran-khoa/joint-training-cascaded-st)**|
-|**2023-05-20**|**Joint Speech Translation and Named Entity Recognition**|Marco Gaido, Sara Papi, Matteo Negri, Marco Turchi et.al.|[2210.11987v2](http://arxiv.org/abs/2210.11987v2)|null|
+|**2023-05-20**|**Joint Speech Translation and Named Entity Recognition**|Marco Gaido, Sara Papi, Matteo Negri, Marco Turchi et.al.|[2210.11987v2](http://arxiv.org/abs/2210.11987v2)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2023-03-11**|**Named Entity Detection and Injection for Direct Speech Translation**|Marco Gaido, Yun Tang, Ilia Kulikov, Rongqing Huang, Hongyu Gong, Hirofumi Inaguma et.al.|[2210.11981v2](http://arxiv.org/abs/2210.11981v2)|null|
 |**2022-10-18**|**Simple and Effective Unsupervised Speech Translation**|Changhan Wang, Hirofumi Inaguma, Peng-Jen Chen, Ilia Kulikov, Yun Tang, Wei-Ning Hsu, Michael Auli, Juan Pino et.al.|[2210.10191v1](http://arxiv.org/abs/2210.10191v1)|null|
 |**2022-10-18**|**Discrete Cross-Modal Alignment Enables Zero-Shot Speech Translation**|Chen Wang, Yuchen Liu, Boxing Chen, Jiajun Zhang, Wei Luo, Zhongqiang Huang, Chengqing Zong et.al.|[2210.09556v1](http://arxiv.org/abs/2210.09556v1)|**[link](https://github.com/znlp/zero-shot-st)**|
@@ -162,6 +165,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-23**|**Adversarial Machine Learning and Cybersecurity: Risks, Challenges, and Legal Implications**|Micah Musser, Andrew Lohn, James X. Dempsey, Jonathan Spring, Ram Shankar Siva Kumar, Brenda Leong, Christina Liaghati, Cindy Martinez, Crystal D. Grant, Daniel Rohrer, Heather Frase, Jonathan Elliott, John Bansemer, Mikel Rodriguez, Mitt Regan, Rumman Chowdhury, Stefan Hermanek et.al.|[2305.14553v1](http://arxiv.org/abs/2305.14553v1)|null|
 |**2023-05-23**|**Towards Legally Enforceable Hate Speech Detection for Public Forums**|Chu Fei Luo, Rohan Bhambhoria, Xiaodan Zhu, Samuel Dahan et.al.|[2305.13677v1](http://arxiv.org/abs/2305.13677v1)|null|
 |**2023-05-20**|**Proceedings of the International Workshop on Methodologies for Translating Legal Norms into Formal Representations (LN2FR 2022) in association with 35th International Conference on Legal Knowledge and Information Systems (JURIX 2022)**|Georg Borges, Ken Satoh, Erich Schweighofer et.al.|[2305.12203v1](http://arxiv.org/abs/2305.12203v1)|null|
 |**2023-05-04**|**Late-Binding Scholarship in the Age of AI: Navigating Legal and Normative Challenges of a New Form of Knowledge Production**|Bill Tomlinson, Andrew W. Torrance, Rebecca W. Black, Donald J. Patterson et.al.|[2305.11058v1](http://arxiv.org/abs/2305.11058v1)|null|
