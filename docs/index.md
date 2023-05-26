@@ -21,7 +21,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-24**|**Unit-based Speech-to-Speech Translation Without Parallel Data**|Anuj Diwan, Anirudh Srinivasan, David Harwath, Eunsol Choi et.al.|[2305.15405v1](http://arxiv.org/abs/2305.15405v1)|null|
+|**2023-05-25**|**End-to-End Simultaneous Speech Translation with Differentiable Segmentation**|Shaolei Zhang, Yang Feng et.al.|[2305.16093v1](http://arxiv.org/abs/2305.16093v1)|null|
+|**2023-05-24**|**Unit-based Speech-to-Speech Translation Without Parallel Data**|Anuj Diwan, Anirudh Srinivasan, David Harwath, Eunsol Choi et.al.|[2305.15405v1](http://arxiv.org/abs/2305.15405v1)|**[link](https://github.com/ajd12342/unit-speech-translation)**|
 |**2023-05-24**|**AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation**|Rongjie Huang, Huadai Liu, Xize Cheng, Yi Ren, Linjun Li, Zhenhui Ye, Jinzheng He, Lichao Zhang, Jinglin Liu, Xiang Yin, Zhou Zhao et.al.|[2305.15403v1](http://arxiv.org/abs/2305.15403v1)|null|
 |**2023-05-25**|**CMOT: Cross-modal Mixup via Optimal Transport for Speech Translation**|Yan Zhou, Qingkai Fang, Yang Feng et.al.|[2305.14635v2](http://arxiv.org/abs/2305.14635v2)|**[link](https://github.com/ictnlp/cmot)**|
 |**2023-05-23**|**Improving speech translation by fusing speech and text**|Wenbiao Yin, Zhicheng Liu, Chengqi Zhao, Tao Wang, Jian Tong, Rong Ye et.al.|[2305.14042v1](http://arxiv.org/abs/2305.14042v1)|null|
@@ -165,6 +166,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Automated Refugee Case Analysis: An NLP Pipeline for Supporting Legal Practitioners**|Claire Barale, Michael Rovatsos, Nehal Bhuta et.al.|[2305.15533v1](http://arxiv.org/abs/2305.15533v1)|**[link](https://github.com/clairebarale/refugee_cases_ner)**|
 |**2023-05-23**|**Adversarial Machine Learning and Cybersecurity: Risks, Challenges, and Legal Implications**|Micah Musser, Andrew Lohn, James X. Dempsey, Jonathan Spring, Ram Shankar Siva Kumar, Brenda Leong, Christina Liaghati, Cindy Martinez, Crystal D. Grant, Daniel Rohrer, Heather Frase, Jonathan Elliott, John Bansemer, Mikel Rodriguez, Mitt Regan, Rumman Chowdhury, Stefan Hermanek et.al.|[2305.14553v1](http://arxiv.org/abs/2305.14553v1)|null|
 |**2023-05-23**|**Towards Legally Enforceable Hate Speech Detection for Public Forums**|Chu Fei Luo, Rohan Bhambhoria, Xiaodan Zhu, Samuel Dahan et.al.|[2305.13677v1](http://arxiv.org/abs/2305.13677v1)|null|
 |**2023-05-20**|**Proceedings of the International Workshop on Methodologies for Translating Legal Norms into Formal Representations (LN2FR 2022) in association with 35th International Conference on Legal Knowledge and Information Systems (JURIX 2022)**|Georg Borges, Ken Satoh, Erich Schweighofer et.al.|[2305.12203v1](http://arxiv.org/abs/2305.12203v1)|null|
