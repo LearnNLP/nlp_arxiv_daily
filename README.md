@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.28
+## Updated on 2023.05.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -43,7 +43,7 @@
 |**2022-12-19**|**WACO: Word-Aligned Contrastive Learning for Speech Translation**|Siqi Ouyang, Rong Ye, Lei Li et.al.|[2212.09359v1](http://arxiv.org/abs/2212.09359v1)|null|
 |**2022-12-17**|**AdaTranS: Adapting with Boundary-based Shrinking for End-to-End Speech Translation**|Xingshan Zeng, Liangyou Li, Qun Liu et.al.|[2212.08911v1](http://arxiv.org/abs/2212.08911v1)|null|
 |**2022-12-16**|**BLASER: A Text-Free Speech-to-Speech Translation Evaluation Metric**|Mingda Chen, Paul-Ambroise Duquenne, Pierre Andrews, Justine Kao, Alexandre Mourachko, Holger Schwenk, Marta R. Costa-jussà et.al.|[2212.08486v1](http://arxiv.org/abs/2212.08486v1)|**[link](https://github.com/facebookresearch/stopes)**|
-|**2022-12-15**|**UnitY: Two-pass Direct Speech-to-speech Translation with Discrete Units**|Hirofumi Inaguma, Sravya Popuri, Ilia Kulikov, Peng-Jen Chen, Changhan Wang, Yu-An Chung, Yun Tang, Ann Lee, Shinji Watanabe, Juan Pino et.al.|[2212.08055v1](http://arxiv.org/abs/2212.08055v1)|**[link](https://github.com/facebookresearch/fairseq)**|
+|**2023-05-26**|**UnitY: Two-pass Direct Speech-to-speech Translation with Discrete Units**|Hirofumi Inaguma, Sravya Popuri, Ilia Kulikov, Peng-Jen Chen, Changhan Wang, Yu-An Chung, Yun Tang, Ann Lee, Shinji Watanabe, Juan Pino et.al.|[2212.08055v2](http://arxiv.org/abs/2212.08055v2)|**[link](https://github.com/facebookresearch/fairseq)**|
 |**2023-05-11**|**Attention as a Guide for Simultaneous Speech Translation**|Sara Papi, Matteo Negri, Marco Turchi et.al.|[2212.07850v2](http://arxiv.org/abs/2212.07850v2)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2022-12-12**|**Direct Speech-to-speech Translation without Textual Annotation using Bottleneck Features**|Junhui Zhang, Junjie Pan, Xiang Yin, Zejun Ma et.al.|[2212.05805v1](http://arxiv.org/abs/2212.05805v1)|null|
 |**2022-12-11**|**End-to-End Speech Translation of Arabic to English Broadcast News**|Fethi Bougares, Salim Jouili et.al.|[2212.05479v1](http://arxiv.org/abs/2212.05479v1)|null|
@@ -156,7 +156,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
 
 ## Legal
 
@@ -331,7 +331,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
