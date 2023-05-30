@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.29
+## Updated on 2023.05.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -157,7 +157,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
 
 ## Legal
 
@@ -244,7 +244,7 @@
 |**2022-10-24**|**Legal-Tech Open Diaries: Lesson learned on how to develop and deploy light-weight models in the era of humongous Language Models**|Stelios Maroudas, Sotiris Legkas, Prodromos Malakasiotis, Ilias Chalkidis et.al.|[2210.13086v1](http://arxiv.org/abs/2210.13086v1)|null|
 |**2022-10-22**|**Extractive Summarization of Legal Decisions using Multi-task Learning and Maximal Marginal Relevance**|Abhishek Agarwal, Shanshan Xu, Matthias Grabmair et.al.|[2210.12437v1](http://arxiv.org/abs/2210.12437v1)|null|
 |**2022-12-08**|**Modelling and Explaining Legal Case-based Reasoners through Classifiers**|Xinghan Liu, Emiliano Lorini, Antonino Rotolo, Giovanni Sartor et.al.|[2210.11217v2](http://arxiv.org/abs/2210.11217v2)|null|
-|**2023-04-26**|**Law Article-Enhanced Legal Case Matching: a Causal Learning Approach**|Zhongxiang Sun, Jun Xu, Xiao Zhang, Zhenhua Dong, Ji-Rong Wen et.al.|[2210.11012v2](http://arxiv.org/abs/2210.11012v2)|null|
+|**2023-04-26**|**Law Article-Enhanced Legal Case Matching: a Causal Learning Approach**|Zhongxiang Sun, Jun Xu, Xiao Zhang, Zhenhua Dong, Ji-Rong Wen et.al.|[2210.11012v2](http://arxiv.org/abs/2210.11012v2)|**[link](https://github.com/jeryi-sun/law-match-sigir-23)**|
 |**2022-10-19**|**Multi-granularity Argument Mining in Legal Texts**|Huihui Xu, Kevin Ashley et.al.|[2210.09472v2](http://arxiv.org/abs/2210.09472v2)|null|
 |**2023-04-05**|**Conversion of Legal Agreements into Smart Legal Contracts using NLP**|Eason Chen, Niall Roche, Yuen-Hsien Tseng, Walter Hernandez, Jiangbo Shangguan, Alastair Moore et.al.|[2210.08954v2](http://arxiv.org/abs/2210.08954v2)|null|
 |**2022-10-15**|**AraLegal-BERT: A pretrained language model for Arabic Legal text**|Muhammad AL-Qurishi, Sarah AlQaseemi, Riad Soussi et.al.|[2210.08284v1](http://arxiv.org/abs/2210.08284v1)|null|
@@ -333,7 +333,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
