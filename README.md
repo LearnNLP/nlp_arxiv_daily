@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-28**|**StyleS2ST: Zero-shot Style Transfer for Direct Speech-to-speech Translation**|Kun Song, Yi Ren, Yi Lei, Chunfeng Wang, Kun Wei, Lei Xie, Xiang Yin, Zejun Ma et.al.|[2305.17732v1](http://arxiv.org/abs/2305.17732v1)|null|
+|**2023-05-27**|**Translatotron 3: Speech to Speech Translation with Monolingual Data**|Eliya Nachmani, Alon Levkovitch, Yifan Ding, Chulayutsh Asawaroengchai, Heiga Zen, Michelle Tadmor Ramanovich et.al.|[2305.17547v1](http://arxiv.org/abs/2305.17547v1)|null|
+|**2023-05-27**|**CTC-based Non-autoregressive Speech Translation**|Chen Xu, Xiaoqian Liu, Xiaowen Liu, Qingxuan Sun, Yuhao Zhang, Murun Yang, Qianqian Dong, Tom Ko, Mingxuan Wang, Tong Xiao, Anxiang Ma, Jingbo Zhu et.al.|[2305.17358v1](http://arxiv.org/abs/2305.17358v1)|null|
 |**2023-05-26**|**Inter-connection: Effective Connection between Pre-trained Encoder and Decoder for Speech Translation**|Yuta Nishikawa, Satoshi Nakamura et.al.|[2305.16897v1](http://arxiv.org/abs/2305.16897v1)|null|
 |**2023-05-25**|**End-to-End Simultaneous Speech Translation with Differentiable Segmentation**|Shaolei Zhang, Yang Feng et.al.|[2305.16093v1](http://arxiv.org/abs/2305.16093v1)|null|
 |**2023-05-24**|**Unit-based Speech-to-Speech Translation Without Parallel Data**|Anuj Diwan, Anirudh Srinivasan, David Harwath, Eunsol Choi et.al.|[2305.15405v1](http://arxiv.org/abs/2305.15405v1)|**[link](https://github.com/ajd12342/unit-speech-translation)**|
@@ -259,6 +262,7 @@
 |**2023-05-15**|**Pre-trained Language Models for the Legal Domain: A Case Study on Indian Law**|Shounak Paul, Arpan Mandal, Pawan Goyal, Saptarshi Ghosh et.al.|[2209.06049v5](http://arxiv.org/abs/2209.06049v5)|null|
 |**2022-08-29**|**Bias Impact Analysis of AI in Consumer Mobile Health Technologies: Legal, Technical, and Policy**|Kristine Gloria, Nidhi Rastogi, Stevie DeGroff et.al.|[2209.05440v1](http://arxiv.org/abs/2209.05440v1)|null|
 |**2022-09-11**|**Eiger: Auditable, executable, flexible legal regulations**|Alexander Bernauer, Richard A. Eisenberg et.al.|[2209.04939v1](http://arxiv.org/abs/2209.04939v1)|null|
+|**2023-05-28**|**Early Verification of Legal Compliance via Bounded Satisfiability Checking**|Nick Feng, Lina Marsso, Mehrdad Sabetzadeh, Marsha Chechik et.al.|[2209.04052v3](http://arxiv.org/abs/2209.04052v3)|null|
 |**2022-09-18**|**An Argumentation-Based Legal Reasoning Approach for DL-Ontology**|Zhe Yu, Yiwei Lu et.al.|[2209.03070v2](http://arxiv.org/abs/2209.03070v2)|null|
 |**2022-09-06**|**From Legal Contracts to Legal Calculi: the code-driven normativity**|Silvia Crafa et.al.|[2209.02353v1](http://arxiv.org/abs/2209.02353v1)|null|
 |**2022-09-20**|**ArgLegalSumm: Improving Abstractive Summarization of Legal Documents with Argument Mining**|Mohamed Elaraby, Diane Litman et.al.|[2209.01650v2](http://arxiv.org/abs/2209.01650v2)|**[link](https://github.com/engsalem/arglegalsumm)**|
