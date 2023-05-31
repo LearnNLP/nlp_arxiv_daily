@@ -166,6 +166,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**Stronger Together: on the Articulation of Ethical Charters, Legal Tools, and Technical Documentation in ML**|Giada Pistilli, Carlos Munoz Ferrandis, Yacine Jernite, Margaret Mitchell et.al.|[2305.18615v1](http://arxiv.org/abs/2305.18615v1)|null|
+|**2023-05-20**|**CDJUR-BR -- A Golden Collection of Legal Document from Brazilian Justice with Fine-Grained Named Entities**|Antonio Mauricio, Vladia Pinheiro, Vasco Furtado, João Araújo Monteiro Neto, Francisco das Chagas Jucá Bomfim, André Câmara Ferreira da Costa, Raquel Silveira, Nilsiton Aragão et.al.|[2305.18315v1](http://arxiv.org/abs/2305.18315v1)|null|
 |**2023-05-25**|**Prototype-Based Interpretability for Legal Citation Prediction**|Chu Fei Luo, Rohan Bhambhoria, Samuel Dahan, Xiaodan Zhu et.al.|[2305.16490v1](http://arxiv.org/abs/2305.16490v1)|null|
 |**2023-05-24**|**Automated Refugee Case Analysis: An NLP Pipeline for Supporting Legal Practitioners**|Claire Barale, Michael Rovatsos, Nehal Bhuta et.al.|[2305.15533v1](http://arxiv.org/abs/2305.15533v1)|**[link](https://github.com/clairebarale/refugee_cases_ner)**|
 |**2023-05-23**|**Adversarial Machine Learning and Cybersecurity: Risks, Challenges, and Legal Implications**|Micah Musser, Andrew Lohn, James X. Dempsey, Jonathan Spring, Ram Shankar Siva Kumar, Brenda Leong, Christina Liaghati, Cindy Martinez, Crystal D. Grant, Daniel Rohrer, Heather Frase, Jonathan Elliott, John Bansemer, Mikel Rodriguez, Mitt Regan, Rumman Chowdhury, Stefan Hermanek et.al.|[2305.14553v1](http://arxiv.org/abs/2305.14553v1)|null|
