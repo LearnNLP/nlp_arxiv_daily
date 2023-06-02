@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.01
+## Updated on 2023.06.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,8 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-05-28**|**StyleS2ST: Zero-shot Style Transfer for Direct Speech-to-speech Translation**|Kun Song, Yi Ren, Yi Lei, Chunfeng Wang, Kun Wei, Lei Xie, Xiang Yin, Zejun Ma et.al.|[2305.17732v1](http://arxiv.org/abs/2305.17732v1)|null|
-|**2023-05-27**|**Translatotron 3: Speech to Speech Translation with Monolingual Data**|Eliya Nachmani, Alon Levkovitch, Yifan Ding, Chulayutsh Asawaroengchai, Heiga Zen, Michelle Tadmor Ramanovich et.al.|[2305.17547v1](http://arxiv.org/abs/2305.17547v1)|null|
+|**2023-06-01**|**StyleS2ST: Zero-shot Style Transfer for Direct Speech-to-speech Translation**|Kun Song, Yi Ren, Yi Lei, Chunfeng Wang, Kun Wei, Lei Xie, Xiang Yin, Zejun Ma et.al.|[2305.17732v2](http://arxiv.org/abs/2305.17732v2)|null|
+|**2023-06-01**|**Translatotron 3: Speech to Speech Translation with Monolingual Data**|Eliya Nachmani, Alon Levkovitch, Yifan Ding, Chulayuth Asawaroengchai, Heiga Zen, Michelle Tadmor Ramanovich et.al.|[2305.17547v2](http://arxiv.org/abs/2305.17547v2)|null|
 |**2023-05-27**|**CTC-based Non-autoregressive Speech Translation**|Chen Xu, Xiaoqian Liu, Xiaowen Liu, Qingxuan Sun, Yuhao Zhang, Murun Yang, Qianqian Dong, Tom Ko, Mingxuan Wang, Tong Xiao, Anxiang Ma, Jingbo Zhu et.al.|[2305.17358v1](http://arxiv.org/abs/2305.17358v1)|null|
 |**2023-05-26**|**Inter-connection: Effective Connection between Pre-trained Encoder and Decoder for Speech Translation**|Yuta Nishikawa, Satoshi Nakamura et.al.|[2305.16897v1](http://arxiv.org/abs/2305.16897v1)|null|
 |**2023-05-25**|**End-to-End Simultaneous Speech Translation with Differentiable Segmentation**|Shaolei Zhang, Yang Feng et.al.|[2305.16093v1](http://arxiv.org/abs/2305.16093v1)|null|
@@ -54,7 +54,7 @@
 |**2022-12-07**|**M3ST: Mix at Three Levels for Speech Translation**|Xuxin Cheng, Qianqian Dong, Fengpeng Yue, Tom Ko, Mingxuan Wang, Yuexian Zou et.al.|[2212.03657v1](http://arxiv.org/abs/2212.03657v1)|null|
 |**2022-12-04**|**Improving End-to-end Speech Translation by Leveraging Auxiliary Speech and Text Data**|Yuhao Zhang, Chen Xu, Bojie Hu, Chunliang Zhang, Tong Xiao, Jingbo Zhu et.al.|[2212.01778v1](http://arxiv.org/abs/2212.01778v1)|null|
 |**2022-11-22**|**ArzEn-ST: A Three-way Speech Translation Corpus for Code-Switched Egyptian Arabic - English**|Injy Hamed, Nizar Habash, Slim Abdennadher, Ngoc Thang Vu et.al.|[2211.12000v1](http://arxiv.org/abs/2211.12000v1)|null|
-|**2022-11-16**|**MT Metrics Correlate with Human Ratings of Simultaneous Speech Translation**|Dominik Macháček, Ondřej Bojar, Raj Dabre et.al.|[2211.08633v1](http://arxiv.org/abs/2211.08633v1)|null|
+|**2023-06-01**|**MT Metrics Correlate with Human Ratings of Simultaneous Speech Translation**|Dominik Macháček, Ondřej Bojar, Raj Dabre et.al.|[2211.08633v2](http://arxiv.org/abs/2211.08633v2)|**[link](https://github.com/ufal/MT-metrics-in-SimST)**|
 |**2022-11-11**|**Speech-to-Speech Translation For A Real-world Unwritten Language**|Peng-Jen Chen, Kevin Tran, Yilin Yang, Jingfei Du, Justine Kao, Yu-An Chung, Paden Tomasello, Paul-Ambroise Duquenne, Holger Schwenk, Hongyu Gong, Hirofumi Inaguma, Sravya Popuri, Changhan Wang, Juan Pino, Wei-Ning Hsu, Ann Lee et.al.|[2211.06474v1](http://arxiv.org/abs/2211.06474v1)|null|
 |**2022-11-11**|**Align, Write, Re-order: Explainable End-to-End Speech Translation via Operation Sequence Generation**|Motoi Omachi, Brian Yan, Siddharth Dalmia, Yuya Fujita, Shinji Watanabe et.al.|[2211.05967v1](http://arxiv.org/abs/2211.05967v1)|null|
 |**2022-11-09**|**Efficient Speech Translation with Pre-trained Models**|Zhaolin Li, Jan Niehues et.al.|[2211.04939v1](http://arxiv.org/abs/2211.04939v1)|null|
@@ -160,7 +160,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
 
 ## Legal
 
@@ -222,7 +222,7 @@
 |**2022-12-19**|**E-NER -- An Annotated Named Entity Recognition Corpus of Legal Text**|Ting Wai Terence Au, Ingemar J. Cox, Vasileios Lampos et.al.|[2212.09306v1](http://arxiv.org/abs/2212.09306v1)|**[link](https://github.com/terenceau2/e-ner-dataset)**|
 |**2022-12-16**|**Law to Binary Tree -- An Formal Interpretation of Legal Natural Language**|Ha-Thanh Nguyen, Vu Tran, Ngoc-Cam Le, Thi-Thuy Le, Quang-Huy Nguyen, Le-Minh Nguyen, Ken Satoh et.al.|[2212.08335v1](http://arxiv.org/abs/2212.08335v1)|null|
 |**2022-12-16**|**LegalRelectra: Mixed-domain Language Modeling for Long-range Legal Text Comprehension**|Wenyue Hua, Yuchen Zhang, Zhe Chen, Josie Li, Melanie Weber et.al.|[2212.08204v1](http://arxiv.org/abs/2212.08204v1)|null|
-|**2023-04-12**|**Online Legal Driving Behavior Monitoring for Autonomous Driving**|Wenhao Yu, Chengxiang Zhao, Jiaxin Liu, Yingkai Yang, Xiaohan Ma, Jun Li, Weida Wang, Hong Wang, Ding Zhao, Xiaosong Hu et.al.|[2212.04156v2](http://arxiv.org/abs/2212.04156v2)|**[link](https://github.com/sotif-avlab/dotl)**|
+|**2023-06-01**|**No driver, No Regulation? --Online Legal Driving Behavior Monitoring for Self-driving Vehicles**|Wenhao Yu, Chengxiang Zhao, Jiaxin Liu, Yingkai Yang, Xiaohan Ma, Jun Li, Weida Wang, Hong Wang, Ding Zhao, Xiaosong Hu et.al.|[2212.04156v3](http://arxiv.org/abs/2212.04156v3)|**[link](https://github.com/sotif-avlab/dotl)**|
 |**2022-12-06**|**Formal Modeling and Analysis of Legal Contracts using ContractCheck**|Alan Khoja, Martin Kölbl, Stefan Leue, Rüdiger Wilhelmi et.al.|[2212.03349v1](http://arxiv.org/abs/2212.03349v1)|null|
 |**2022-12-05**|**Legal Prompt Engineering for Multilingual Legal Judgement Prediction**|Dietrich Trautmann, Alina Petrova, Frank Schilder et.al.|[2212.02199v1](http://arxiv.org/abs/2212.02199v1)|null|
 |**2022-12-08**|**Legal Prompting: Teaching a Language Model to Think Like a Lawyer**|Fangyi Yu, Lee Quartey, Frank Schilder et.al.|[2212.01326v2](http://arxiv.org/abs/2212.01326v2)|null|
@@ -339,7 +339,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
