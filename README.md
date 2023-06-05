@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-02**|**Speech Translation with Foundation Models and Optimal Transport: UPC at IWSLT23**|Ioannis Tsiamas, Gerard I. Gállego, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2306.01327v1](http://arxiv.org/abs/2306.01327v1)|null|
+|**2023-06-01**|**Learning When to Speak: Latency and Quality Trade-offs for Simultaneous Speech-to-Speech Translation with Offline Models**|Liam Dugan, Anshul Wadhawan, Kyle Spence, Chris Callison-Burch, Morgan McGuire, Victor Zordan et.al.|[2306.01201v1](http://arxiv.org/abs/2306.01201v1)|**[link](https://github.com/liamdugan/speech-to-speech)**|
 |**2023-06-01**|**Improved Cross-Lingual Transfer Learning For Automatic Speech Translation**|Sameer Khurana, Nauman Dawalatabad, Antoine Laurent, Luis Vicente, Pablo Gimeno, Victoria Mingote, James Glass et.al.|[2306.00789v1](http://arxiv.org/abs/2306.00789v1)|null|
 |**2023-06-01**|**StyleS2ST: Zero-shot Style Transfer for Direct Speech-to-speech Translation**|Kun Song, Yi Ren, Yi Lei, Chunfeng Wang, Kun Wei, Lei Xie, Xiang Yin, Zejun Ma et.al.|[2305.17732v2](http://arxiv.org/abs/2305.17732v2)|null|
 |**2023-06-01**|**Translatotron 3: Speech to Speech Translation with Monolingual Data**|Eliya Nachmani, Alon Levkovitch, Yifan Ding, Chulayuth Asawaroengchai, Heiga Zen, Michelle Tadmor Ramanovich et.al.|[2305.17547v2](http://arxiv.org/abs/2305.17547v2)|null|
@@ -167,6 +169,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-02**|**How Ready are Pre-trained Abstractive Models and LLMs for Legal Case Judgement Summarization?**|Aniket Deroy, Kripabandhu Ghosh, Saptarshi Ghosh et.al.|[2306.01248v1](http://arxiv.org/abs/2306.01248v1)|null|
 |**2023-06-01**|**Towards Argument-Aware Abstractive Summarization of Long Legal Opinions with Summary Reranking**|Mohamed Elaraby, Yang Zhong, Diane Litman et.al.|[2306.00672v1](http://arxiv.org/abs/2306.00672v1)|null|
 |**2023-05-29**|**Datasets for Portuguese Legal Semantic Textual Similarity: Comparing weak supervision and an annotation process approaches**|Daniel da Silva Junior, Paulo Roberto dos S. Corval, Aline Paes, Daniel de Oliveira et.al.|[2306.00007v1](http://arxiv.org/abs/2306.00007v1)|null|
 |**2023-05-09**|**Stronger Together: on the Articulation of Ethical Charters, Legal Tools, and Technical Documentation in ML**|Giada Pistilli, Carlos Munoz Ferrandis, Yacine Jernite, Margaret Mitchell et.al.|[2305.18615v1](http://arxiv.org/abs/2305.18615v1)|null|
