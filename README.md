@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.05
+## Updated on 2023.06.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -44,7 +44,7 @@
 |**2023-03-14**|**Adapting Offline Speech Translation Models for Streaming with Future-Aware Distillation and Inference**|Biao Fu, Kai Fan, Minpeng Liao, Zhongqiang Huang, Boxing Chen, Yidong Chen, Xiaodong Shi et.al.|[2303.07914v1](http://arxiv.org/abs/2303.07914v1)|null|
 |**2023-03-09**|**MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition**|Xize Cheng, Linjun Li, Tao Jin, Rongjie Huang, Wang Lin, Zehan Wang, Huangdai Liu, Ye Wang, Aoxiong Yin, Zhou Zhao et.al.|[2303.05309v1](http://arxiv.org/abs/2303.05309v1)|**[link](https://github.com/exgc/avmust-ted)**|
 |**2023-02-21**|**Efficient CTC Regularization via Coarse Labels for End-to-End Speech Translation**|Biao Zhang, Barry Haddow, Rico Sennrich et.al.|[2302.10871v1](http://arxiv.org/abs/2302.10871v1)|**[link](https://github.com/bzhangGo/zero)**|
-|**2023-05-30**|**Pre-training for Speech Translation: CTC Meets Optimal Transport**|Phuong-Hang Le, Hongyu Gong, Changhan Wang, Juan Pino, Benjamin Lecouteux, Didier Schwab et.al.|[2301.11716v2](http://arxiv.org/abs/2301.11716v2)|null|
+|**2023-06-05**|**Pre-training for Speech Translation: CTC Meets Optimal Transport**|Phuong-Hang Le, Hongyu Gong, Changhan Wang, Juan Pino, Benjamin Lecouteux, Didier Schwab et.al.|[2301.11716v3](http://arxiv.org/abs/2301.11716v3)|**[link](https://github.com/formiel/fairseq)**|
 |**2023-01-25**|**A Holistic Cascade System, benchmark, and Human Evaluation Protocol for Expressive Speech-to-Speech Translation**|Wen-Chin Huang, Benjamin Peloquin, Justine Kao, Changhan Wang, Hongyu Gong, Elizabeth Salesky, Yossi Adi, Ann Lee, Peng-Jen Chen et.al.|[2301.10606v1](http://arxiv.org/abs/2301.10606v1)|null|
 |**2023-05-22**|**SegAugment: Maximizing the Utility of Speech Translation Data with Segmentation-based Augmentations**|Ioannis Tsiamas, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2212.09699v2](http://arxiv.org/abs/2212.09699v2)|**[link](https://github.com/mt-upc/SegAugment)**|
 |**2022-12-19**|**WACO: Word-Aligned Contrastive Learning for Speech Translation**|Siqi Ouyang, Rong Ye, Lei Li et.al.|[2212.09359v1](http://arxiv.org/abs/2212.09359v1)|null|
@@ -163,7 +163,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
 
 ## Legal
 
@@ -345,7 +345,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
