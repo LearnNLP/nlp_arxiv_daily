@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**PolyVoice: Language Models for Speech to Speech Translation**|Qianqian Dong, Zhiying Huang, Chen Xu, Yunlong Zhao, Kexin Wang, Xuxin Cheng, Tom Ko, Qiao Tian, Tang Li, Fengpeng Yue, Ye Bai, Xi Chen, Lu Lu, Zejun Ma, Yuping Wang, Mingxuan Wang, Yuxuan Wang et.al.|[2306.02982v1](http://arxiv.org/abs/2306.02982v1)|null|
 |**2023-06-02**|**Speech Translation with Foundation Models and Optimal Transport: UPC at IWSLT23**|Ioannis Tsiamas, Gerard I. Gállego, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2306.01327v1](http://arxiv.org/abs/2306.01327v1)|null|
 |**2023-06-01**|**Learning When to Speak: Latency and Quality Trade-offs for Simultaneous Speech-to-Speech Translation with Offline Models**|Liam Dugan, Anshul Wadhawan, Kyle Spence, Chris Callison-Burch, Morgan McGuire, Victor Zordan et.al.|[2306.01201v1](http://arxiv.org/abs/2306.01201v1)|**[link](https://github.com/liamdugan/speech-to-speech)**|
 |**2023-06-01**|**Improved Cross-Lingual Transfer Learning For Automatic Speech Translation**|Sameer Khurana, Nauman Dawalatabad, Antoine Laurent, Luis Vicente, Pablo Gimeno, Victoria Mingote, James Glass et.al.|[2306.00789v1](http://arxiv.org/abs/2306.00789v1)|null|
@@ -173,6 +174,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-03**|**FlairNLP at SemEval-2023 Task 6b: Extraction of Legal Named Entities from Legal Texts using Contextual String Embeddings**|Vinay N Ramesh, Rohan Eswara et.al.|[2306.02182v1](http://arxiv.org/abs/2306.02182v1)|**[link](https://github.com/vinaynr/legaleval-2023)**|
+|**2023-06-03**|**TransDocAnalyser: A Framework for Offline Semi-structured Handwritten Document Analysis in the Legal Domain**|Sagar Chakraborty, Gaurav Harit, Saptarshi Ghosh et.al.|[2306.02142v1](http://arxiv.org/abs/2306.02142v1)|**[link](https://github.com/legaldocumentprocessing/fir_dataset_icdar2023)**|
+|**2023-06-03**|**MultiLegalPile: A 689GB Multilingual Legal Corpus**|Joel Niklaus, Veton Matoshi, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho et.al.|[2306.02069v1](http://arxiv.org/abs/2306.02069v1)|null|
 |**2023-06-02**|**How Ready are Pre-trained Abstractive Models and LLMs for Legal Case Judgement Summarization?**|Aniket Deroy, Kripabandhu Ghosh, Saptarshi Ghosh et.al.|[2306.01248v1](http://arxiv.org/abs/2306.01248v1)|null|
 |**2023-06-01**|**Towards Argument-Aware Abstractive Summarization of Long Legal Opinions with Summary Reranking**|Mohamed Elaraby, Yang Zhong, Diane Litman et.al.|[2306.00672v1](http://arxiv.org/abs/2306.00672v1)|null|
 |**2023-05-29**|**Datasets for Portuguese Legal Semantic Textual Similarity: Comparing weak supervision and an annotation process approaches**|Daniel da Silva Junior, Paulo Roberto dos S. Corval, Aline Paes, Daniel de Oliveira et.al.|[2306.00007v1](http://arxiv.org/abs/2306.00007v1)|null|
