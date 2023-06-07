@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.06
+## Updated on 2023.06.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -100,7 +100,7 @@ layout: default
 |**2022-04-11**|**Unified Speech-Text Pre-training for Speech Translation and Recognition**|Yun Tang, Hongyu Gong, Ning Dong, Changhan Wang, Wei-Ning Hsu, Jiatao Gu, Alexei Baevski, Xian Li, Abdelrahman Mohamed, Michael Auli, Juan Pino et.al.|[2204.05409v1](http://arxiv.org/abs/2204.05409v1)|null|
 |**2022-07-01**|**Large-Scale Streaming End-to-End Speech Translation with Neural Transducers**|Jian Xue, Peidong Wang, Jinyu Li, Matt Post, Yashesh Gaur et.al.|[2204.05352v2](http://arxiv.org/abs/2204.05352v2)|null|
 |**2022-04-11**|**End-to-End Speech Translation for Code Switched Speech**|Orion Weller, Matthias Sperber, Telmo Pires, Hendra Setiawan, Christian Gollan, Dominic Telaar, Matthias Paulik et.al.|[2204.05076v1](http://arxiv.org/abs/2204.05076v1)|**[link](https://github.com/apple/ml-code-switched-speech-translation)**|
-|**2022-04-08**|**GigaST: A 10,000-hour Pseudo Speech Translation Corpus**|Rong Ye, Chengqi Zhao, Tom Ko, Chutong Meng, Tao Wang, Mingxuan Wang, Jun Cao et.al.|[2204.03939v1](http://arxiv.org/abs/2204.03939v1)|null|
+|**2023-06-06**|**GigaST: A 10,000-hour Pseudo Speech Translation Corpus**|Rong Ye, Chengqi Zhao, Tom Ko, Chutong Meng, Tao Wang, Mingxuan Wang, Jun Cao et.al.|[2204.03939v2](http://arxiv.org/abs/2204.03939v2)|null|
 |**2022-11-16**|**Does Simultaneous Speech Translation need Simultaneous Models?**|Sara Papi, Marco Gaido, Matteo Negri, Marco Turchi et.al.|[2204.03783v3](http://arxiv.org/abs/2204.03783v3)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2022-09-13**|**Enhanced Direct Speech-to-Speech Translation Using Self-supervised Pre-training and Data Augmentation**|Sravya Popuri, Peng-Jen Chen, Changhan Wang, Juan Pino, Yossi Adi, Jiatao Gu, Wei-Ning Hsu, Ann Lee et.al.|[2204.02967v3](http://arxiv.org/abs/2204.02967v3)|null|
 |**2022-07-13**|**Speech Segmentation Optimization using Segmented Bilingual Speech Corpus for End-to-end Speech Translation**|Ryo Fukuda, Katsuhito Sudoh, Satoshi Nakamura et.al.|[2203.15479v2](http://arxiv.org/abs/2203.15479v2)|**[link](https://github.com/wiseman/py-webrtcvad)**|
@@ -168,7 +168,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230607>back to top</a>)</p>
 
 ## Legal
 
@@ -176,7 +176,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-03**|**FlairNLP at SemEval-2023 Task 6b: Extraction of Legal Named Entities from Legal Texts using Contextual String Embeddings**|Vinay N Ramesh, Rohan Eswara et.al.|[2306.02182v1](http://arxiv.org/abs/2306.02182v1)|**[link](https://github.com/vinaynr/legaleval-2023)**|
 |**2023-06-03**|**TransDocAnalyser: A Framework for Offline Semi-structured Handwritten Document Analysis in the Legal Domain**|Sagar Chakraborty, Gaurav Harit, Saptarshi Ghosh et.al.|[2306.02142v1](http://arxiv.org/abs/2306.02142v1)|**[link](https://github.com/legaldocumentprocessing/fir_dataset_icdar2023)**|
-|**2023-06-03**|**MultiLegalPile: A 689GB Multilingual Legal Corpus**|Joel Niklaus, Veton Matoshi, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho et.al.|[2306.02069v1](http://arxiv.org/abs/2306.02069v1)|null|
+|**2023-06-06**|**MultiLegalPile: A 689GB Multilingual Legal Corpus**|Joel Niklaus, Veton Matoshi, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho et.al.|[2306.02069v2](http://arxiv.org/abs/2306.02069v2)|null|
 |**2023-06-02**|**How Ready are Pre-trained Abstractive Models and LLMs for Legal Case Judgement Summarization?**|Aniket Deroy, Kripabandhu Ghosh, Saptarshi Ghosh et.al.|[2306.01248v1](http://arxiv.org/abs/2306.01248v1)|null|
 |**2023-06-01**|**Towards Argument-Aware Abstractive Summarization of Long Legal Opinions with Summary Reranking**|Mohamed Elaraby, Yang Zhong, Diane Litman et.al.|[2306.00672v1](http://arxiv.org/abs/2306.00672v1)|null|
 |**2023-05-29**|**Datasets for Portuguese Legal Semantic Textual Similarity: Comparing weak supervision and an annotation process approaches**|Daniel da Silva Junior, Paulo Roberto dos S. Corval, Aline Paes, Daniel de Oliveira et.al.|[2306.00007v1](http://arxiv.org/abs/2306.00007v1)|null|
@@ -353,7 +353,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230607>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
