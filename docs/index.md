@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-08**|**KIT's Multilingual Speech Translation System for IWSLT 2023**|Danni Liu, Thai Binh Nguyen, Sai Koneru, Enes Yavuz Ugan, Ngoc-Quan Pham, Tuan-Nam Nguyen, Tu Anh Dinh, Carlos Mullov, Alexander Waibel, Jan Niehues et.al.|[2306.05320v1](http://arxiv.org/abs/2306.05320v1)|null|
 |**2023-06-05**|**PolyVoice: Language Models for Speech to Speech Translation**|Qianqian Dong, Zhiying Huang, Chen Xu, Yunlong Zhao, Kexin Wang, Xuxin Cheng, Tom Ko, Qiao Tian, Tang Li, Fengpeng Yue, Ye Bai, Xi Chen, Lu Lu, Zejun Ma, Yuping Wang, Mingxuan Wang, Yuxuan Wang et.al.|[2306.02982v1](http://arxiv.org/abs/2306.02982v1)|null|
 |**2023-06-02**|**Speech Translation with Foundation Models and Optimal Transport: UPC at IWSLT23**|Ioannis Tsiamas, Gerard I. Gállego, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2306.01327v1](http://arxiv.org/abs/2306.01327v1)|null|
 |**2023-06-01**|**Learning When to Speak: Latency and Quality Trade-offs for Simultaneous Speech-to-Speech Translation with Offline Models**|Liam Dugan, Anshul Wadhawan, Kyle Spence, Chris Callison-Burch, Morgan McGuire, Victor Zordan et.al.|[2306.01201v1](http://arxiv.org/abs/2306.01201v1)|**[link](https://github.com/liamdugan/speech-to-speech)**|
@@ -174,6 +175,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-08**|**NOWJ at COLIEE 2023 -- Multi-Task and Ensemble Approaches in Legal Information Processing**|Thi-Hai-Yen Vuong, Hai-Long Nguyen, Tan-Minh Nguyen, Hoang-Trung Nguyen, Thai-Binh Nguyen, Ha-Thanh Nguyen et.al.|[2306.04903v1](http://arxiv.org/abs/2306.04903v1)|null|
+|**2023-06-08**|**Improving Vietnamese Legal Question--Answering System based on Automatic Data Enrichment**|Thi-Hai-Yen Vuong, Ha-Thanh Nguyen, Quang-Huy Nguyen, Le-Minh Nguyen, Xuan-Hieu Phan et.al.|[2306.04841v1](http://arxiv.org/abs/2306.04841v1)|null|
 |**2023-06-03**|**FlairNLP at SemEval-2023 Task 6b: Extraction of Legal Named Entities from Legal Texts using Contextual String Embeddings**|Vinay N Ramesh, Rohan Eswara et.al.|[2306.02182v1](http://arxiv.org/abs/2306.02182v1)|**[link](https://github.com/vinaynr/legaleval-2023)**|
 |**2023-06-03**|**TransDocAnalyser: A Framework for Offline Semi-structured Handwritten Document Analysis in the Legal Domain**|Sagar Chakraborty, Gaurav Harit, Saptarshi Ghosh et.al.|[2306.02142v1](http://arxiv.org/abs/2306.02142v1)|**[link](https://github.com/legaldocumentprocessing/fir_dataset_icdar2023)**|
 |**2023-06-06**|**MultiLegalPile: A 689GB Multilingual Legal Corpus**|Joel Niklaus, Veton Matoshi, Matthias Stürmer, Ilias Chalkidis, Daniel E. Ho et.al.|[2306.02069v2](http://arxiv.org/abs/2306.02069v2)|null|
