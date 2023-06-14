@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**NAVER LABS Europe's Multilingual Speech Translation Systems for the IWSLT 2023 Low-Resource Track**|Edward Gow-Smith, Alexandre Berard, Marcely Zanon Boito, Ioan Calapodescu et.al.|[2306.07763v1](http://arxiv.org/abs/2306.07763v1)|null|
+|**2023-06-13**|**Modality Adaption or Regularization? A Case Study on End-to-End Speech Translation**|Yuchen Han, Chen Xu, Tong Xiao, Jingbo Zhu et.al.|[2306.07650v1](http://arxiv.org/abs/2306.07650v1)|**[link](https://github.com/hannlp/tab)**|
 |**2023-06-08**|**KIT's Multilingual Speech Translation System for IWSLT 2023**|Danni Liu, Thai Binh Nguyen, Sai Koneru, Enes Yavuz Ugan, Ngoc-Quan Pham, Tuan-Nam Nguyen, Tu Anh Dinh, Carlos Mullov, Alexander Waibel, Jan Niehues et.al.|[2306.05320v1](http://arxiv.org/abs/2306.05320v1)|null|
 |**2023-06-13**|**PolyVoice: Language Models for Speech to Speech Translation**|Qianqian Dong, Zhiying Huang, Qiao Tian, Chen Xu, Tom Ko, Yunlong Zhao, Siyuan Feng, Tang Li, Kexin Wang, Xuxin Cheng, Fengpeng Yue, Ye Bai, Xi Chen, Lu Lu, Zejun Ma, Yuping Wang, Mingxuan Wang, Yuxuan Wang et.al.|[2306.02982v2](http://arxiv.org/abs/2306.02982v2)|null|
 |**2023-06-02**|**Speech Translation with Foundation Models and Optimal Transport: UPC at IWSLT23**|Ioannis Tsiamas, Gerard I. Gállego, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2306.01327v1](http://arxiv.org/abs/2306.01327v1)|null|
