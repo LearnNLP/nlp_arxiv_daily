@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.13
+## Updated on 2023.06.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,7 +18,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-06-08**|**KIT's Multilingual Speech Translation System for IWSLT 2023**|Danni Liu, Thai Binh Nguyen, Sai Koneru, Enes Yavuz Ugan, Ngoc-Quan Pham, Tuan-Nam Nguyen, Tu Anh Dinh, Carlos Mullov, Alexander Waibel, Jan Niehues et.al.|[2306.05320v1](http://arxiv.org/abs/2306.05320v1)|null|
-|**2023-06-05**|**PolyVoice: Language Models for Speech to Speech Translation**|Qianqian Dong, Zhiying Huang, Chen Xu, Yunlong Zhao, Kexin Wang, Xuxin Cheng, Tom Ko, Qiao Tian, Tang Li, Fengpeng Yue, Ye Bai, Xi Chen, Lu Lu, Zejun Ma, Yuping Wang, Mingxuan Wang, Yuxuan Wang et.al.|[2306.02982v1](http://arxiv.org/abs/2306.02982v1)|null|
+|**2023-06-13**|**PolyVoice: Language Models for Speech to Speech Translation**|Qianqian Dong, Zhiying Huang, Qiao Tian, Chen Xu, Tom Ko, Yunlong Zhao, Siyuan Feng, Tang Li, Kexin Wang, Xuxin Cheng, Fengpeng Yue, Ye Bai, Xi Chen, Lu Lu, Zejun Ma, Yuping Wang, Mingxuan Wang, Yuxuan Wang et.al.|[2306.02982v2](http://arxiv.org/abs/2306.02982v2)|null|
 |**2023-06-02**|**Speech Translation with Foundation Models and Optimal Transport: UPC at IWSLT23**|Ioannis Tsiamas, Gerard I. Gállego, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2306.01327v1](http://arxiv.org/abs/2306.01327v1)|null|
 |**2023-06-01**|**Learning When to Speak: Latency and Quality Trade-offs for Simultaneous Speech-to-Speech Translation with Offline Models**|Liam Dugan, Anshul Wadhawan, Kyle Spence, Chris Callison-Burch, Morgan McGuire, Victor Zordan et.al.|[2306.01201v1](http://arxiv.org/abs/2306.01201v1)|**[link](https://github.com/liamdugan/speech-to-speech)**|
 |**2023-06-01**|**Improved Cross-Lingual Transfer Learning For Automatic Speech Translation**|Sameer Khurana, Nauman Dawalatabad, Antoine Laurent, Luis Vicente, Pablo Gimeno, Victoria Mingote, James Glass et.al.|[2306.00789v1](http://arxiv.org/abs/2306.00789v1)|null|
@@ -165,7 +165,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230614>back to top</a>)</p>
 
 ## Legal
 
@@ -211,7 +211,7 @@
 |**2023-04-12**|**FALQU: Finding Answers to Legal Questions**|Behrooz Mansouri, Ricardo Campos et.al.|[2304.05611v1](http://arxiv.org/abs/2304.05611v1)|**[link](https://github.com/aiirlab/falqu)**|
 |**2023-04-25**|**Context-Aware Classification of Legal Document Pages**|Pavlos Fragkogiannis, Martina Forster, Grace E. Lee, Dell Zhang et.al.|[2304.02787v2](http://arxiv.org/abs/2304.02787v2)|null|
 |**2023-03-25**|**(Legal Design) Research through Litigation**|Reuben Kirkham et.al.|[2303.14336v1](http://arxiv.org/abs/2303.14336v1)|null|
-|**2023-03-21**|**Understand Legal Documents with Contextualized Large Language Models**|Xin Jin, Yuchen Wang et.al.|[2303.12135v1](http://arxiv.org/abs/2303.12135v1)|null|
+|**2023-06-13**|**Understand Legal Documents with Contextualized Large Language Models**|Xin Jin, Yuchen Wang et.al.|[2303.12135v2](http://arxiv.org/abs/2303.12135v2)|null|
 |**2023-03-16**|**A Short Survey of Viewing Large Language Models in Legal Aspect**|Zhongxiang Sun et.al.|[2303.09136v1](http://arxiv.org/abs/2303.09136v1)|**[link](https://github.com/jeryi-sun/llm-and-law)**|
 |**2023-03-14**|**Are Models Trained on Indian Legal Data Fair?**|Sahil Girhepuje, Anmol Goel, Gokul S Krishnan, Shreya Goyal, Satyendra Pandey, Ponnurangam Kumaraguru, Balaraman Ravindran et.al.|[2303.07247v2](http://arxiv.org/abs/2303.07247v2)|null|
 |**2023-03-14**|**Meaningful human command: Advance control directives as a method to enable moral and legal responsibility for autonomous weapons systems**|Susannah Kate Devitt et.al.|[2303.06813v2](http://arxiv.org/abs/2303.06813v2)|null|
@@ -354,7 +354,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230614>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
