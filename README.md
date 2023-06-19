@@ -174,6 +174,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**Explaining Legal Concepts with Augmented Large Language Models (GPT-4)**|Jaromir Savelka, Kevin D. Ashley, Morgan A. Gray, Hannes Westermann, Huihui Xu et.al.|[2306.09525v1](http://arxiv.org/abs/2306.09525v1)|null|
 |**2023-06-12**|**Large Language Models as Tax Attorneys: A Case Study in Legal Capabilities Emergence**|John J. Nay, David Karamardian, Sarah B. Lawsky, Wenting Tao, Meghana Bhat, Raghav Jain, Aaron Travis Lee, Jonathan H. Choi, Jungo Kasai et.al.|[2306.07075v1](http://arxiv.org/abs/2306.07075v1)|null|
 |**2023-06-09**|**Towards the Exploitation of LLM-based Chatbot for Providing Legal Support to Palestinian Cooperatives**|Rabee Qasem, Banan Tantour, Mohammed Maree et.al.|[2306.05827v1](http://arxiv.org/abs/2306.05827v1)|null|
 |**2023-06-08**|**NOWJ at COLIEE 2023 -- Multi-Task and Ensemble Approaches in Legal Information Processing**|Thi-Hai-Yen Vuong, Hai-Long Nguyen, Tan-Minh Nguyen, Hoang-Trung Nguyen, Thai-Binh Nguyen, Ha-Thanh Nguyen et.al.|[2306.04903v1](http://arxiv.org/abs/2306.04903v1)|null|
