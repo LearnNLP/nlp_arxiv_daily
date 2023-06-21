@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**HK-LegiCoST: Leveraging Non-Verbatim Transcripts for Speech Translation**|Cihan Xiao, Henry Li Xinyuan, Jinyi Yang, Dongji Gao, Matthew Wiesner, Kevin Duh, Sanjeev Khudanpur et.al.|[2306.11252v1](http://arxiv.org/abs/2306.11252v1)|null|
 |**2023-06-14**|**Tagged End-to-End Simultaneous Speech Translation Training using Simultaneous Interpretation Data**|Yuka Ko, Ryo Fukuda, Yuta Nishikawa, Yasumasa Kano, Katsuhito Sudoh, Satoshi Nakamura et.al.|[2306.08582v1](http://arxiv.org/abs/2306.08582v1)|null|
 |**2023-06-13**|**NAVER LABS Europe's Multilingual Speech Translation Systems for the IWSLT 2023 Low-Resource Track**|Edward Gow-Smith, Alexandre Berard, Marcely Zanon Boito, Ioan Calapodescu et.al.|[2306.07763v1](http://arxiv.org/abs/2306.07763v1)|null|
 |**2023-06-13**|**Modality Adaption or Regularization? A Case Study on End-to-End Speech Translation**|Yuchen Han, Chen Xu, Tong Xiao, Jingbo Zhu et.al.|[2306.07650v1](http://arxiv.org/abs/2306.07650v1)|**[link](https://github.com/hannlp/tab)**|
@@ -178,6 +179,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**Legal and ethical considerations regarding the use of ChatGPT in education**|Fereniki Panagopoulou, Christina Parpoula, Kostas Karpouzis et.al.|[2306.10037v1](http://arxiv.org/abs/2306.10037v1)|null|
 |**2023-06-15**|**Explaining Legal Concepts with Augmented Large Language Models (GPT-4)**|Jaromir Savelka, Kevin D. Ashley, Morgan A. Gray, Hannes Westermann, Huihui Xu et.al.|[2306.09525v1](http://arxiv.org/abs/2306.09525v1)|null|
 |**2023-06-12**|**Large Language Models as Tax Attorneys: A Case Study in Legal Capabilities Emergence**|John J. Nay, David Karamardian, Sarah B. Lawsky, Wenting Tao, Meghana Bhat, Raghav Jain, Aaron Travis Lee, Jonathan H. Choi, Jungo Kasai et.al.|[2306.07075v1](http://arxiv.org/abs/2306.07075v1)|null|
 |**2023-06-09**|**Towards the Exploitation of LLM-based Chatbot for Providing Legal Support to Palestinian Cooperatives**|Rabee Qasem, Banan Tantour, Mohammed Maree et.al.|[2306.05827v1](http://arxiv.org/abs/2306.05827v1)|null|
