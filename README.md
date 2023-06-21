@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.20
+## Updated on 2023.06.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -29,7 +29,7 @@
 |**2023-06-01**|**Translatotron 3: Speech to Speech Translation with Monolingual Data**|Eliya Nachmani, Alon Levkovitch, Yifan Ding, Chulayuth Asawaroengchai, Heiga Zen, Michelle Tadmor Ramanovich et.al.|[2305.17547v2](http://arxiv.org/abs/2305.17547v2)|null|
 |**2023-05-27**|**CTC-based Non-autoregressive Speech Translation**|Chen Xu, Xiaoqian Liu, Xiaowen Liu, Qingxuan Sun, Yuhao Zhang, Murun Yang, Qianqian Dong, Tom Ko, Mingxuan Wang, Tong Xiao, Anxiang Ma, Jingbo Zhu et.al.|[2305.17358v1](http://arxiv.org/abs/2305.17358v1)|null|
 |**2023-05-26**|**Inter-connection: Effective Connection between Pre-trained Encoder and Decoder for Speech Translation**|Yuta Nishikawa, Satoshi Nakamura et.al.|[2305.16897v1](http://arxiv.org/abs/2305.16897v1)|null|
-|**2023-05-25**|**End-to-End Simultaneous Speech Translation with Differentiable Segmentation**|Shaolei Zhang, Yang Feng et.al.|[2305.16093v1](http://arxiv.org/abs/2305.16093v1)|null|
+|**2023-06-18**|**End-to-End Simultaneous Speech Translation with Differentiable Segmentation**|Shaolei Zhang, Yang Feng et.al.|[2305.16093v2](http://arxiv.org/abs/2305.16093v2)|null|
 |**2023-05-24**|**Unit-based Speech-to-Speech Translation Without Parallel Data**|Anuj Diwan, Anirudh Srinivasan, David Harwath, Eunsol Choi et.al.|[2305.15405v1](http://arxiv.org/abs/2305.15405v1)|**[link](https://github.com/ajd12342/unit-speech-translation)**|
 |**2023-05-24**|**AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation**|Rongjie Huang, Huadai Liu, Xize Cheng, Yi Ren, Linjun Li, Zhenhui Ye, Jinzheng He, Lichao Zhang, Jinglin Liu, Xiang Yin, Zhou Zhao et.al.|[2305.15403v1](http://arxiv.org/abs/2305.15403v1)|null|
 |**2023-05-25**|**CMOT: Cross-modal Mixup via Optimal Transport for Speech Translation**|Yan Zhou, Qingkai Fang, Yang Feng et.al.|[2305.14635v2](http://arxiv.org/abs/2305.14635v2)|**[link](https://github.com/ictnlp/cmot)**|
@@ -168,7 +168,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
 
 ## Legal
 
@@ -358,7 +358,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
