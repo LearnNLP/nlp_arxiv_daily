@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.21
+## Updated on 2023.06.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-20**|**HK-LegiCoST: Leveraging Non-Verbatim Transcripts for Speech Translation**|Cihan Xiao, Henry Li Xinyuan, Jinyi Yang, Dongji Gao, Matthew Wiesner, Kevin Duh, Sanjeev Khudanpur et.al.|[2306.11252v1](http://arxiv.org/abs/2306.11252v1)|null|
+|**2023-06-20**|**HK-LegiCoST: Leveraging Non-Verbatim Transcripts for Speech Translation**|Cihan Xiao, Henry Li Xinyuan, Jinyi Yang, Dongji Gao, Matthew Wiesner, Kevin Duh, Sanjeev Khudanpur et.al.|[2306.11252v1](http://arxiv.org/abs/2306.11252v1)|**[link](https://github.com/borrisonxiao/icefall)**|
 |**2023-06-14**|**Tagged End-to-End Simultaneous Speech Translation Training using Simultaneous Interpretation Data**|Yuka Ko, Ryo Fukuda, Yuta Nishikawa, Yasumasa Kano, Katsuhito Sudoh, Satoshi Nakamura et.al.|[2306.08582v1](http://arxiv.org/abs/2306.08582v1)|null|
 |**2023-06-13**|**NAVER LABS Europe's Multilingual Speech Translation Systems for the IWSLT 2023 Low-Resource Track**|Edward Gow-Smith, Alexandre Berard, Marcely Zanon Boito, Ioan Calapodescu et.al.|[2306.07763v1](http://arxiv.org/abs/2306.07763v1)|null|
 |**2023-06-13**|**Modality Adaption or Regularization? A Case Study on End-to-End Speech Translation**|Yuchen Han, Chen Xu, Tong Xiao, Jingbo Zhu et.al.|[2306.07650v1](http://arxiv.org/abs/2306.07650v1)|**[link](https://github.com/hannlp/tab)**|
@@ -26,7 +26,7 @@
 |**2023-06-02**|**Speech Translation with Foundation Models and Optimal Transport: UPC at IWSLT23**|Ioannis Tsiamas, Gerard I. Gállego, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2306.01327v1](http://arxiv.org/abs/2306.01327v1)|null|
 |**2023-06-01**|**Learning When to Speak: Latency and Quality Trade-offs for Simultaneous Speech-to-Speech Translation with Offline Models**|Liam Dugan, Anshul Wadhawan, Kyle Spence, Chris Callison-Burch, Morgan McGuire, Victor Zordan et.al.|[2306.01201v1](http://arxiv.org/abs/2306.01201v1)|**[link](https://github.com/liamdugan/speech-to-speech)**|
 |**2023-06-01**|**Improved Cross-Lingual Transfer Learning For Automatic Speech Translation**|Sameer Khurana, Nauman Dawalatabad, Antoine Laurent, Luis Vicente, Pablo Gimeno, Victoria Mingote, James Glass et.al.|[2306.00789v1](http://arxiv.org/abs/2306.00789v1)|null|
-|**2023-06-01**|**StyleS2ST: Zero-shot Style Transfer for Direct Speech-to-speech Translation**|Kun Song, Yi Ren, Yi Lei, Chunfeng Wang, Kun Wei, Lei Xie, Xiang Yin, Zejun Ma et.al.|[2305.17732v2](http://arxiv.org/abs/2305.17732v2)|null|
+|**2023-06-21**|**StyleS2ST: Zero-shot Style Transfer for Direct Speech-to-speech Translation**|Kun Song, Yi Ren, Yi Lei, Chunfeng Wang, Kun Wei, Lei Xie, Xiang Yin, Zejun Ma et.al.|[2305.17732v3](http://arxiv.org/abs/2305.17732v3)|null|
 |**2023-06-01**|**Translatotron 3: Speech to Speech Translation with Monolingual Data**|Eliya Nachmani, Alon Levkovitch, Yifan Ding, Chulayuth Asawaroengchai, Heiga Zen, Michelle Tadmor Ramanovich et.al.|[2305.17547v2](http://arxiv.org/abs/2305.17547v2)|null|
 |**2023-05-27**|**CTC-based Non-autoregressive Speech Translation**|Chen Xu, Xiaoqian Liu, Xiaowen Liu, Qingxuan Sun, Yuhao Zhang, Murun Yang, Qianqian Dong, Tom Ko, Mingxuan Wang, Tong Xiao, Anxiang Ma, Jingbo Zhu et.al.|[2305.17358v1](http://arxiv.org/abs/2305.17358v1)|null|
 |**2023-05-26**|**Inter-connection: Effective Connection between Pre-trained Encoder and Decoder for Speech Translation**|Yuta Nishikawa, Satoshi Nakamura et.al.|[2305.16897v1](http://arxiv.org/abs/2305.16897v1)|null|
@@ -169,7 +169,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230622>back to top</a>)</p>
 
 ## Legal
 
@@ -360,7 +360,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230622>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
