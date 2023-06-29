@@ -175,6 +175,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-28**|**ChatLaw: Open-Source Legal Large Language Model with Integrated External Knowledge Bases**|Jiaxi Cui, Zongjian Li, Yang Yan, Bohua Chen, Li Yuan et.al.|[2306.16092v1](http://arxiv.org/abs/2306.16092v1)|**[link](https://github.com/pku-yuangroup/chatlaw)**|
 |**2023-06-09**|**Legal and ethical considerations regarding the use of ChatGPT in education**|Fereniki Panagopoulou, Christina Parpoula, Kostas Karpouzis et.al.|[2306.10037v1](http://arxiv.org/abs/2306.10037v1)|null|
 |**2023-06-22**|**Explaining Legal Concepts with Augmented Large Language Models (GPT-4)**|Jaromir Savelka, Kevin D. Ashley, Morgan A. Gray, Hannes Westermann, Huihui Xu et.al.|[2306.09525v2](http://arxiv.org/abs/2306.09525v2)|null|
 |**2023-06-12**|**Large Language Models as Tax Attorneys: A Case Study in Legal Capabilities Emergence**|John J. Nay, David Karamardian, Sarah B. Lawsky, Wenting Tao, Meghana Bhat, Raghav Jain, Aaron Travis Lee, Jonathan H. Choi, Jungo Kasai et.al.|[2306.07075v1](http://arxiv.org/abs/2306.07075v1)|null|
