@@ -179,6 +179,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**Towards Grammatical Tagging for the Legal Language of Cybersecurity**|Gianpietro Castiglione, Giampaolo Bella, Daniele Francesco Santamaria et.al.|[2306.17042v1](http://arxiv.org/abs/2306.17042v1)|null|
+|**2023-06-29**|**Beyond Logic Programming for Legal Reasoning**|Ha-Thanh Nguyen, Francesca Toni, Kostas Stathis, Ken Satoh et.al.|[2306.16632v1](http://arxiv.org/abs/2306.16632v1)|null|
 |**2023-06-28**|**ChatLaw: Open-Source Legal Large Language Model with Integrated External Knowledge Bases**|Jiaxi Cui, Zongjian Li, Yang Yan, Bohua Chen, Li Yuan et.al.|[2306.16092v1](http://arxiv.org/abs/2306.16092v1)|**[link](https://github.com/pku-yuangroup/chatlaw)**|
 |**2023-06-09**|**Legal and ethical considerations regarding the use of ChatGPT in education**|Fereniki Panagopoulou, Christina Parpoula, Kostas Karpouzis et.al.|[2306.10037v1](http://arxiv.org/abs/2306.10037v1)|null|
 |**2023-06-22**|**Explaining Legal Concepts with Augmented Large Language Models (GPT-4)**|Jaromir Savelka, Kevin D. Ashley, Morgan A. Gray, Hannes Westermann, Huihui Xu et.al.|[2306.09525v2](http://arxiv.org/abs/2306.09525v2)|null|
