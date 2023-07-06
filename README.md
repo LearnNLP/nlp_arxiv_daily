@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**Implicit Memory Transformer for Computationally Efficient Simultaneous Speech Translation**|Matthew Raffel, Lizhong Chen et.al.|[2307.01381v1](http://arxiv.org/abs/2307.01381v1)|**[link](https://github.com/osu-starlab/implicitmemory)**|
+|**2023-07-03**|**Shiftable Context: Addressing Training-Inference Context Mismatch in Simultaneous Speech Translation**|Matthew Raffel, Drew Penney, Lizhong Chen et.al.|[2307.01377v1](http://arxiv.org/abs/2307.01377v1)|**[link](https://github.com/osu-starlab/shiftablecontext)**|
 |**2023-06-20**|**HK-LegiCoST: Leveraging Non-Verbatim Transcripts for Speech Translation**|Cihan Xiao, Henry Li Xinyuan, Jinyi Yang, Dongji Gao, Matthew Wiesner, Kevin Duh, Sanjeev Khudanpur et.al.|[2306.11252v1](http://arxiv.org/abs/2306.11252v1)|**[link](https://github.com/borrisonxiao/icefall)**|
 |**2023-06-14**|**Tagged End-to-End Simultaneous Speech Translation Training using Simultaneous Interpretation Data**|Yuka Ko, Ryo Fukuda, Yuta Nishikawa, Yasumasa Kano, Katsuhito Sudoh, Satoshi Nakamura et.al.|[2306.08582v1](http://arxiv.org/abs/2306.08582v1)|null|
 |**2023-06-13**|**NAVER LABS Europe's Multilingual Speech Translation Systems for the IWSLT 2023 Low-Resource Track**|Edward Gow-Smith, Alexandre Berard, Marcely Zanon Boito, Ioan Calapodescu et.al.|[2306.07763v1](http://arxiv.org/abs/2306.07763v1)|null|
@@ -175,6 +177,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-05**|**Towards Open Federated Learning Platforms: Survey and Vision from Technical and Legal Perspectives**|Moming Duan et.al.|[2307.02140v1](http://arxiv.org/abs/2307.02140v1)|null|
+|**2023-07-04**|**Racial Bias Trends in the Text of US Legal Opinions**|Rohan Jinturkar et.al.|[2307.01693v1](http://arxiv.org/abs/2307.01693v1)|null|
 |**2023-06-29**|**Towards Grammatical Tagging for the Legal Language of Cybersecurity**|Gianpietro Castiglione, Giampaolo Bella, Daniele Francesco Santamaria et.al.|[2306.17042v1](http://arxiv.org/abs/2306.17042v1)|null|
 |**2023-06-29**|**Beyond Logic Programming for Legal Reasoning**|Ha-Thanh Nguyen, Francesca Toni, Kostas Stathis, Ken Satoh et.al.|[2306.16632v1](http://arxiv.org/abs/2306.16632v1)|null|
 |**2023-06-28**|**ChatLaw: Open-Source Legal Large Language Model with Integrated External Knowledge Bases**|Jiaxi Cui, Zongjian Li, Yang Yan, Bohua Chen, Li Yuan et.al.|[2306.16092v1](http://arxiv.org/abs/2306.16092v1)|**[link](https://github.com/pku-yuangroup/chatlaw)**|
