@@ -181,6 +181,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**Specification, Validation and Verification of Social, Legal, Ethical, Empathetic and Cultural Requirements for Autonomous Agents**|Sinem Getir Yaman, Ana Cavalcanti, Radu Calinescu, Colin Paterson, Pedro Ribeiro, Beverley Townsend et.al.|[2307.03697v1](http://arxiv.org/abs/2307.03697v1)|null|
 |**2023-07-05**|**Towards Open Federated Learning Platforms: Survey and Vision from Technical and Legal Perspectives**|Moming Duan et.al.|[2307.02140v1](http://arxiv.org/abs/2307.02140v1)|**[link](https://github.com/morningd/model-centric-fml)**|
 |**2023-07-04**|**Racial Bias Trends in the Text of US Legal Opinions**|Rohan Jinturkar et.al.|[2307.01693v1](http://arxiv.org/abs/2307.01693v1)|null|
 |**2023-06-29**|**Towards Grammatical Tagging for the Legal Language of Cybersecurity**|Gianpietro Castiglione, Giampaolo Bella, Daniele Francesco Santamaria et.al.|[2306.17042v1](http://arxiv.org/abs/2306.17042v1)|null|
