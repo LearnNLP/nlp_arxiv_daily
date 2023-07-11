@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-10**|**The NPU-MSXF Speech-to-Speech Translation System for IWSLT 2023 Speech-to-Speech Translation Task**|Kun Song, Yi lei, Peikun Chen, Yiqing Cao, Kun Wei, Yongmao Zhang, Lei Xie, Ning Jiang, Guoqing Zhao et.al.|[2307.04630v1](http://arxiv.org/abs/2307.04630v1)|null|
 |**2023-07-03**|**Implicit Memory Transformer for Computationally Efficient Simultaneous Speech Translation**|Matthew Raffel, Lizhong Chen et.al.|[2307.01381v1](http://arxiv.org/abs/2307.01381v1)|**[link](https://github.com/osu-starlab/implicitmemory)**|
 |**2023-07-03**|**Shiftable Context: Addressing Training-Inference Context Mismatch in Simultaneous Speech Translation**|Matthew Raffel, Drew Penney, Lizhong Chen et.al.|[2307.01377v1](http://arxiv.org/abs/2307.01377v1)|**[link](https://github.com/osu-starlab/shiftablecontext)**|
 |**2023-06-20**|**HK-LegiCoST: Leveraging Non-Verbatim Transcripts for Speech Translation**|Cihan Xiao, Henry Li Xinyuan, Jinyi Yang, Dongji Gao, Matthew Wiesner, Kevin Duh, Sanjeev Khudanpur et.al.|[2306.11252v1](http://arxiv.org/abs/2306.11252v1)|**[link](https://github.com/borrisonxiao/icefall)**|
@@ -177,6 +178,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-10**|**Legal Decision-making for Highway Automated Driving**|Xiaohan Ma, Wenhao Yu, Chengxiang Zhao, Changjun Wang, Wenhui Zhou, Guangming Zhao, Mingyue Ma, Weida Wang, Lin Yang, Rui Mu, Hong Wang, Jun Li et.al.|[2307.04327v1](http://arxiv.org/abs/2307.04327v1)|null|
 |**2023-07-07**|**Specification, Validation and Verification of Social, Legal, Ethical, Empathetic and Cultural Requirements for Autonomous Agents**|Sinem Getir Yaman, Ana Cavalcanti, Radu Calinescu, Colin Paterson, Pedro Ribeiro, Beverley Townsend et.al.|[2307.03697v1](http://arxiv.org/abs/2307.03697v1)|null|
 |**2023-07-05**|**Towards Open Federated Learning Platforms: Survey and Vision from Technical and Legal Perspectives**|Moming Duan et.al.|[2307.02140v1](http://arxiv.org/abs/2307.02140v1)|**[link](https://github.com/morningd/model-centric-fml)**|
 |**2023-07-04**|**Racial Bias Trends in the Text of US Legal Opinions**|Rohan Jinturkar et.al.|[2307.01693v1](http://arxiv.org/abs/2307.01693v1)|null|
