@@ -178,6 +178,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**Argumentative Segmentation Enhancement for Legal Summarization**|Huihui Xu, Kevin Ashley et.al.|[2307.05081v1](http://arxiv.org/abs/2307.05081v1)|null|
 |**2023-07-10**|**Legal Decision-making for Highway Automated Driving**|Xiaohan Ma, Wenhao Yu, Chengxiang Zhao, Changjun Wang, Wenhui Zhou, Guangming Zhao, Mingyue Ma, Weida Wang, Lin Yang, Rui Mu, Hong Wang, Jun Li et.al.|[2307.04327v1](http://arxiv.org/abs/2307.04327v1)|null|
 |**2023-07-07**|**Specification, Validation and Verification of Social, Legal, Ethical, Empathetic and Cultural Requirements for Autonomous Agents**|Sinem Getir Yaman, Ana Cavalcanti, Radu Calinescu, Colin Paterson, Pedro Ribeiro, Beverley Townsend et.al.|[2307.03697v1](http://arxiv.org/abs/2307.03697v1)|null|
 |**2023-07-05**|**Towards Open Federated Learning Platforms: Survey and Vision from Technical and Legal Perspectives**|Moming Duan et.al.|[2307.02140v1](http://arxiv.org/abs/2307.02140v1)|**[link](https://github.com/morningd/model-centric-fml)**|
