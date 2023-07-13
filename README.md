@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.12
+## Updated on 2023.07.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,7 +24,7 @@
 |**2023-06-14**|**Tagged End-to-End Simultaneous Speech Translation Training using Simultaneous Interpretation Data**|Yuka Ko, Ryo Fukuda, Yuta Nishikawa, Yasumasa Kano, Katsuhito Sudoh, Satoshi Nakamura et.al.|[2306.08582v1](http://arxiv.org/abs/2306.08582v1)|null|
 |**2023-06-13**|**NAVER LABS Europe's Multilingual Speech Translation Systems for the IWSLT 2023 Low-Resource Track**|Edward Gow-Smith, Alexandre Berard, Marcely Zanon Boito, Ioan Calapodescu et.al.|[2306.07763v1](http://arxiv.org/abs/2306.07763v1)|null|
 |**2023-06-13**|**Modality Adaption or Regularization? A Case Study on End-to-End Speech Translation**|Yuchen Han, Chen Xu, Tong Xiao, Jingbo Zhu et.al.|[2306.07650v1](http://arxiv.org/abs/2306.07650v1)|**[link](https://github.com/hannlp/tab)**|
-|**2023-06-15**|**KIT's Multilingual Speech Translation System for IWSLT 2023**|Danni Liu, Thai Binh Nguyen, Sai Koneru, Enes Yavuz Ugan, Ngoc-Quan Pham, Tuan-Nam Nguyen, Tu Anh Dinh, Carlos Mullov, Alexander Waibel, Jan Niehues et.al.|[2306.05320v2](http://arxiv.org/abs/2306.05320v2)|null|
+|**2023-07-12**|**KIT's Multilingual Speech Translation System for IWSLT 2023**|Danni Liu, Thai Binh Nguyen, Sai Koneru, Enes Yavuz Ugan, Ngoc-Quan Pham, Tuan-Nam Nguyen, Tu Anh Dinh, Carlos Mullov, Alexander Waibel, Jan Niehues et.al.|[2306.05320v3](http://arxiv.org/abs/2306.05320v3)|null|
 |**2023-06-13**|**PolyVoice: Language Models for Speech to Speech Translation**|Qianqian Dong, Zhiying Huang, Qiao Tian, Chen Xu, Tom Ko, Yunlong Zhao, Siyuan Feng, Tang Li, Kexin Wang, Xuxin Cheng, Fengpeng Yue, Ye Bai, Xi Chen, Lu Lu, Zejun Ma, Yuping Wang, Mingxuan Wang, Yuxuan Wang et.al.|[2306.02982v2](http://arxiv.org/abs/2306.02982v2)|null|
 |**2023-06-02**|**Speech Translation with Foundation Models and Optimal Transport: UPC at IWSLT23**|Ioannis Tsiamas, Gerard I. Gállego, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2306.01327v1](http://arxiv.org/abs/2306.01327v1)|null|
 |**2023-06-01**|**Learning When to Speak: Latency and Quality Trade-offs for Simultaneous Speech-to-Speech Translation with Offline Models**|Liam Dugan, Anshul Wadhawan, Kyle Spence, Chris Callison-Burch, Morgan McGuire, Victor Zordan et.al.|[2306.01201v1](http://arxiv.org/abs/2306.01201v1)|**[link](https://github.com/liamdugan/speech-to-speech)**|
@@ -172,7 +172,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
 
 ## Legal
 
@@ -371,7 +371,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
