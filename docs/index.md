@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.26
+## Updated on 2023.07.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -89,7 +89,7 @@ layout: default
 |**2022-10-16**|**RedApt: An Adaptor for wav2vec 2 Encoding \\ Faster and Smaller Speech Translation without Quality Compromise**|Jinming Zhao, Hao Yang, Gholamreza Haffari, Ehsan Shareghi et.al.|[2210.08475v1](http://arxiv.org/abs/2210.08475v1)|null|
 |**2023-02-08**|**Generating Synthetic Speech from SpokenVocab for Speech Translation**|Jinming Zhao, Gholamreza Haffar, Ehsan Shareghi et.al.|[2210.08174v2](http://arxiv.org/abs/2210.08174v2)|**[link](https://github.com/mingzi151/spokenvocab)**|
 |**2022-11-09**|**Code-Switching without Switching: Language Agnostic End-to-End Speech Translation**|Christian Huber, Enes Yavuz Ugan, Alexander Waibel et.al.|[2210.01512v2](http://arxiv.org/abs/2210.01512v2)|null|
-|**2022-09-27**|**Direct Speech Translation for Automatic Subtitling**|Sara Papi, Marco Gaido, Alina Karakanta, Mauro Cettolo, Matteo Negri, Marco Turchi et.al.|[2209.13192v1](http://arxiv.org/abs/2209.13192v1)|null|
+|**2023-07-25**|**Direct Speech Translation for Automatic Subtitling**|Sara Papi, Marco Gaido, Alina Karakanta, Mauro Cettolo, Matteo Negri, Marco Turchi et.al.|[2209.13192v2](http://arxiv.org/abs/2209.13192v2)|null|
 |**2022-08-08**|**A High-Quality and Large-Scale Dataset for English-Vietnamese Speech Translation**|Linh The Nguyen, Nguyen Luong Tran, Long Doan, Manh Luong, Dat Quoc Nguyen et.al.|[2208.04243v1](http://arxiv.org/abs/2208.04243v1)|**[link](https://github.com/vinairesearch/phost)**|
 |**2022-07-01**|**On the Impact of Noises in Crowd-Sourced Data for Speech Translation**|Siqi Ouyang, Rong Ye, Lei Li et.al.|[2206.13756v2](http://arxiv.org/abs/2206.13756v2)|**[link](https://github.com/owaski/must-c-clean)**|
 |**2022-06-20**|**Over-Generation Cannot Be Rewarded: Length-Adaptive Average Lagging for Simultaneous Speech Translation**|Sara Papi, Marco Gaido, Matteo Negri, Marco Turchi et.al.|[2206.05807v3](http://arxiv.org/abs/2206.05807v3)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
@@ -178,7 +178,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230726>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230727>back to top</a>)</p>
 
 ## Legal
 
@@ -379,7 +379,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230726>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230727>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
