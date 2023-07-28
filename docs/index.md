@@ -184,6 +184,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-27**|**Exploration of legal implications of air and space travel for international and domestic travel and the Environment**|Jayanthi Vajiram, Negha Senthil, Nean Adhith. P, Ritikaa. VN et.al.|[2307.14661v1](http://arxiv.org/abs/2307.14661v1)|null|
 |**2023-07-25**|**An Intent Taxonomy of Legal Case Retrieval**|Yunqiu Shao, Haitao Li, Yueyue Wu, Yiqun Liu, Qingyao Ai, Jiaxin Mao, Yixiao Ma, Shaoping Ma et.al.|[2307.13298v1](http://arxiv.org/abs/2307.13298v1)|null|
 |**2023-07-17**|**Legal Syllogism Prompting: Teaching Large Language Models for Legal Judgment Prediction**|Cong Jiang, Xiaolei Yang et.al.|[2307.08321v1](http://arxiv.org/abs/2307.08321v1)|null|
 |**2023-07-11**|**Argumentative Segmentation Enhancement for Legal Summarization**|Huihui Xu, Kevin Ashley et.al.|[2307.05081v1](http://arxiv.org/abs/2307.05081v1)|null|
