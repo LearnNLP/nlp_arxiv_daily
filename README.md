@@ -180,6 +180,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**Exploring the psychology of GPT-4's Moral and Legal Reasoning**|Guilherme F. C. F. Almeida, José Luiz Nunes, Neele Engelmann, Alex Wiegmann, Marcelo de Araújo et.al.|[2308.01264v1](http://arxiv.org/abs/2308.01264v1)|null|
 |**2023-07-31**|**Adversarially Robust Neural Legal Judgement Systems**|Rohit Raj, V Susheela Devi et.al.|[2308.00165v1](http://arxiv.org/abs/2308.00165v1)|null|
 |**2023-07-27**|**Exploration of legal implications of air and space travel for international and domestic travel and the Environment**|Jayanthi Vajiram, Negha Senthil, Nean Adhith. P, Ritikaa. VN et.al.|[2307.14661v1](http://arxiv.org/abs/2307.14661v1)|null|
 |**2023-07-25**|**An Intent Taxonomy of Legal Case Retrieval**|Yunqiu Shao, Haitao Li, Yueyue Wu, Yiqun Liu, Qingyao Ai, Jiaxin Mao, Yixiao Ma, Shaoping Ma et.al.|[2307.13298v1](http://arxiv.org/abs/2307.13298v1)|null|
