@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.06
+## Updated on 2023.08.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -178,7 +178,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230806>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230807>back to top</a>)</p>
 
 ## Legal
 
@@ -242,7 +242,7 @@ layout: default
 |**2023-07-19**|**Understand Legal Documents with Contextualized Large Language Models**|Xin Jin, Yuchen Wang et.al.|[2303.12135v4](http://arxiv.org/abs/2303.12135v4)|null|
 |**2023-03-16**|**A Short Survey of Viewing Large Language Models in Legal Aspect**|Zhongxiang Sun et.al.|[2303.09136v1](http://arxiv.org/abs/2303.09136v1)|**[link](https://github.com/jeryi-sun/llm-and-law)**|
 |**2023-03-14**|**Are Models Trained on Indian Legal Data Fair?**|Sahil Girhepuje, Anmol Goel, Gokul S Krishnan, Shreya Goyal, Satyendra Pandey, Ponnurangam Kumaraguru, Balaraman Ravindran et.al.|[2303.07247v2](http://arxiv.org/abs/2303.07247v2)|null|
-|**2023-03-14**|**Meaningful human command: Advance control directives as a method to enable moral and legal responsibility for autonomous weapons systems**|Susannah Kate Devitt et.al.|[2303.06813v2](http://arxiv.org/abs/2303.06813v2)|null|
+|**2023-08-04**|**Meaningful human command: Advance control directives as a method to enable moral and legal responsibility for autonomous weapons systems**|Susannah Kate Devitt et.al.|[2303.06813v3](http://arxiv.org/abs/2303.06813v3)|null|
 |**2023-03-07**|**German BERT Model for Legal Named Entity Recognition**|Harshil Darji, Jelena Mitrović, Michael Granitzer et.al.|[2303.05388v1](http://arxiv.org/abs/2303.05388v1)|null|
 |**2023-03-08**|**Automatic Detection of Industry Sectors in Legal Articles Using Machine Learning Approaches**|Hui Yang, Stella Hadjiantoni, Yunfei Long, Ruta Petraityte, Berthold Lausen et.al.|[2303.05387v1](http://arxiv.org/abs/2303.05387v1)|null|
 |**2023-02-23**|**Natural Language Processing in the Legal Domain**|Daniel Martin Katz, Dirk Hartung, Lauritz Gerlach, Abhik Jana, Michael J. Bommarito II et.al.|[2302.12039v1](http://arxiv.org/abs/2302.12039v1)|null|
@@ -382,7 +382,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230806>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230807>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
