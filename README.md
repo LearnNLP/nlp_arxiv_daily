@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**End-to-End Evaluation for Low-Latency Simultaneous Speech Translation**|Christian Huber, Tu Anh Dinh, Carlos Mullov, Ngoc Quan Pham, Thai Binh Nguyen, Fabian Retkowski, Stefan Constantin, Enes Yavuz Ugan, Danni Liu, Zhaolin Li, Sai Koneru, Jan Niehues, Alexander Waibel et.al.|[2308.03415v1](http://arxiv.org/abs/2308.03415v1)|null|
 |**2023-07-17**|**Multilingual Speech-to-Speech Translation into Multiple Target Languages**|Hongyu Gong, Ning Dong, Sravya Popuri, Vedanuj Goswami, Ann Lee, Juan Pino et.al.|[2307.08655v1](http://arxiv.org/abs/2307.08655v1)|null|
 |**2023-07-17**|**Improving End-to-End Speech Translation by Imitation-Based Knowledge Distillation with Synthetic Transcripts**|Rebekka Hubert, Artem Sokolov, Stefan Riezler et.al.|[2307.08426v1](http://arxiv.org/abs/2307.08426v1)|**[link](https://github.com/hubreb/imitkd_ast)**|
 |**2023-07-10**|**The NPU-MSXF Speech-to-Speech Translation System for IWSLT 2023 Speech-to-Speech Translation Task**|Kun Song, Yi lei, Peikun Chen, Yiqing Cao, Kun Wei, Yongmao Zhang, Lei Xie, Ning Jiang, Guoqing Zhao et.al.|[2307.04630v1](http://arxiv.org/abs/2307.04630v1)|null|
