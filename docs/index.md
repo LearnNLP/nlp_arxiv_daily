@@ -185,6 +185,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**SILO Language Models: Isolating Legal Risk In a Nonparametric Datastore**|Sewon Min, Suchin Gururangan, Eric Wallace, Hannaneh Hajishirzi, Noah A. Smith, Luke Zettlemoyer et.al.|[2308.04430v1](http://arxiv.org/abs/2308.04430v1)|**[link](https://github.com/kernelmachine/silo-lm)**|
+|**2023-08-04**|**Legal Summarisation through LLMs: The PRODIGIT Project**|Thiago Dal Pont, Federico Galli, Andrea Loreggia, Giuseppe Pisano, Riccardo Rovatti, Giovanni Sartor et.al.|[2308.04416v1](http://arxiv.org/abs/2308.04416v1)|null|
+|**2023-08-08**|**Large Language Model Prompt Chaining for Long Legal Document Classification**|Dietrich Trautmann et.al.|[2308.04138v1](http://arxiv.org/abs/2308.04138v1)|null|
 |**2023-08-02**|**Exploring the psychology of GPT-4's Moral and Legal Reasoning**|Guilherme F. C. F. Almeida, José Luiz Nunes, Neele Engelmann, Alex Wiegmann, Marcelo de Araújo et.al.|[2308.01264v1](http://arxiv.org/abs/2308.01264v1)|null|
 |**2023-07-31**|**Adversarially Robust Neural Legal Judgement Systems**|Rohit Raj, V Susheela Devi et.al.|[2308.00165v1](http://arxiv.org/abs/2308.00165v1)|null|
 |**2023-07-27**|**Exploration of legal implications of air and space travel for international and domestic travel and the Environment**|Jayanthi Vajiram, Negha Senthil, Nean Adhith. P, Ritikaa. VN et.al.|[2307.14661v1](http://arxiv.org/abs/2307.14661v1)|null|
