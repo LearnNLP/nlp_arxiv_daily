@@ -227,8 +227,10 @@ if __name__ == "__main__":
     
     keywords = dict()
     keywords["Speech Translation"]  = "ti:\"speech translation\""+"OR"+"ti:\"speech-to-text translation\""
-    keywords["Legal"]                 = "ti:legal"
-
+    keywords["Speech Recognition"]  = "ti:speech recognition"
+    keywords["Audio Forenisc"]       = "ti:\"Audio Splicing Detection\""+"OR"+"ti:\"Speech Deepfake Detection\""
+    keywords["Legal"]               = "ti:legal"
+    
     for topic,keyword in keywords.items():
  
         # topic = keyword.replace("\"","")
