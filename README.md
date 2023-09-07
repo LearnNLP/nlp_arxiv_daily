@@ -183,6 +183,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**Prompt-based Effective Input Reformulation for Legal Case Retrieval**|Yanran Tang, Ruihong Qiu, Xue Li et.al.|[2309.02962v1](http://arxiv.org/abs/2309.02962v1)|null|
 |**2023-09-01**|**ALJP: An Arabic Legal Judgment Prediction in Personal Status Cases Using Machine Learning Models**|Salwa Abbara, Mona Hafez, Aya Kazzaz, Areej Alhothali, Alhanouf Alsolami et.al.|[2309.00238v1](http://arxiv.org/abs/2309.00238v1)|null|
 |**2023-09-05**|**Is the U.S. Legal System Ready for AI's Challenges to Human Values?**|Inyoung Cheong, Aylin Caliskan, Tadayoshi Kohno et.al.|[2308.15906v3](http://arxiv.org/abs/2308.15906v3)|null|
 |**2023-08-20**|**LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models**|Neel Guha, Julian Nyarko, Daniel E. Ho, Christopher Ré, Adam Chilton, Aditya Narayana, Alex Chohlas-Wood, Austin Peters, Brandon Waldon, Daniel N. Rockmore, Diego Zambrano, Dmitry Talisman, Enam Hoque, Faiz Surani, Frank Fagan, Galit Sarfaty, Gregory M. Dickinson, Haggai Porat, Jason Hegland, Jessica Wu, Joe Nudell, Joel Niklaus, John Nay, Jonathan H. Choi, Kevin Tobia, Margaret Hagan, Megan Ma, Michael Livermore, Nikon Rasumov-Rahe, Nils Holzenberger, Noam Kolt, Peter Henderson, Sean Rehaag, Sharad Goel, Shang Gao, Spencer Williams, Sunny Gandhi, Tom Zur, Varun Iyer, Zehua Li et.al.|[2308.11462v1](http://arxiv.org/abs/2308.11462v1)|**[link](https://github.com/hazyresearch/legalbench)**|
@@ -393,6 +394,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-04**|**Text-Only Domain Adaptation for End-to-End Speech Recognition through Down-Sampling Acoustic Representation**|Jiaxu Zhu, Weinan Tong, Yaoxun Xu, Changhe Song, Zhiyong Wu, Zhao You, Dan Su, Dong Yu, Helen Meng et.al.|[2309.02459v1](http://arxiv.org/abs/2309.02459v1)|null|
 |**2023-09-05**|**Bring the Noise: Introducing Noise Robustness to Pretrained Automatic Speech Recognition**|Patrick Eickhoff, Matthias Möller, Theresa Pekarek Rosin, Johannes Twiefel, Stefan Wermter et.al.|[2309.02145v1](http://arxiv.org/abs/2309.02145v1)|null|
 |**2023-09-04**|**SememeASR: Boosting Performance of End-to-End Speech Recognition against Domain and Long-Tailed Data Shift with Sememe Semantic Knowledge**|Jiaxu Zhu, Changhe Song, Zhiyong Wu, Helen Meng et.al.|[2309.01437v1](http://arxiv.org/abs/2309.01437v1)|null|
 |**2023-09-01**|**OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation**|Zhening Huang, Xiaoyang Wu, Xi Chen, Hengshuang Zhao, Lei Zhu, Joan Lasenby et.al.|[2309.00616v1](http://arxiv.org/abs/2309.00616v1)|**[link](https://github.com/Pointcept/OpenIns3D)**|
