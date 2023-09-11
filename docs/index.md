@@ -187,6 +187,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**NESTLE: a No-Code Tool for Statistical Analysis of Legal Corpus**|Kyoungyeon Cho, Seungkum Han, Wonseok Hwang et.al.|[2309.04146v1](http://arxiv.org/abs/2309.04146v1)|null|
 |**2023-09-06**|**Prompt-based Effective Input Reformulation for Legal Case Retrieval**|Yanran Tang, Ruihong Qiu, Xue Li et.al.|[2309.02962v1](http://arxiv.org/abs/2309.02962v1)|null|
 |**2023-09-01**|**ALJP: An Arabic Legal Judgment Prediction in Personal Status Cases Using Machine Learning Models**|Salwa Abbara, Mona Hafez, Aya Kazzaz, Areej Alhothali, Alhanouf Alsolami et.al.|[2309.00238v1](http://arxiv.org/abs/2309.00238v1)|null|
 |**2023-09-05**|**Is the U.S. Legal System Ready for AI's Challenges to Human Values?**|Inyoung Cheong, Aylin Caliskan, Tadayoshi Kohno et.al.|[2308.15906v3](http://arxiv.org/abs/2308.15906v3)|null|
