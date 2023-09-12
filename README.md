@@ -183,6 +183,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**Black-Box Analysis: GPTs Across Time in Legal Textual Entailment Task**|Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis, Ken Satoh et.al.|[2309.05501v1](http://arxiv.org/abs/2309.05501v1)|null|
+|**2023-09-11**|**NeCo@ALQAC 2023: Legal Domain Knowledge Acquisition for Low-Resource Languages through Data Enrichment**|Hai-Long Nguyen, Dieu-Quynh Nguyen, Hoang-Trung Nguyen, Thu-Trang Pham, Huu-Dong Nguyen, Thach-Anh Nguyen, Thi-Hai-Yen Vuong, Ha-Thanh Nguyen et.al.|[2309.05500v1](http://arxiv.org/abs/2309.05500v1)|null|
 |**2023-09-08**|**NESTLE: a No-Code Tool for Statistical Analysis of Legal Corpus**|Kyoungyeon Cho, Seungkum Han, Wonseok Hwang et.al.|[2309.04146v1](http://arxiv.org/abs/2309.04146v1)|null|
 |**2023-09-06**|**Prompt-based Effective Input Reformulation for Legal Case Retrieval**|Yanran Tang, Ruihong Qiu, Xue Li et.al.|[2309.02962v1](http://arxiv.org/abs/2309.02962v1)|**[link](https://github.com/yanran-tang/promptcase)**|
 |**2023-09-01**|**ALJP: An Arabic Legal Judgment Prediction in Personal Status Cases Using Machine Learning Models**|Salwa Abbara, Mona Hafez, Aya Kazzaz, Areej Alhothali, Alhanouf Alsolami et.al.|[2309.00238v1](http://arxiv.org/abs/2309.00238v1)|null|
@@ -395,6 +397,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-09**|**Mask-CTC-based Encoder Pre-training for Streaming End-to-End Speech Recognition**|Huaibo Zhao, Yosuke Higuchi, Yusuke Kida, Tetsuji Ogawa, Tetsunori Kobayashi et.al.|[2309.04654v1](http://arxiv.org/abs/2309.04654v1)|null|
+|**2023-09-08**|**End-to-End Speech Recognition and Disfluency Removal with Acoustic Language Model Pretraining**|Saksham Bassi, Giulio Duregon, Siddhartha Jalagam, David Roth et.al.|[2309.04516v1](http://arxiv.org/abs/2309.04516v1)|**[link](https://github.com/davidsroth/hubert-disfl)**|
 |**2023-09-04**|**Text-Only Domain Adaptation for End-to-End Speech Recognition through Down-Sampling Acoustic Representation**|Jiaxu Zhu, Weinan Tong, Yaoxun Xu, Changhe Song, Zhiyong Wu, Zhao You, Dan Su, Dong Yu, Helen Meng et.al.|[2309.02459v1](http://arxiv.org/abs/2309.02459v1)|null|
 |**2023-09-05**|**Bring the Noise: Introducing Noise Robustness to Pretrained Automatic Speech Recognition**|Patrick Eickhoff, Matthias Möller, Theresa Pekarek Rosin, Johannes Twiefel, Stefan Wermter et.al.|[2309.02145v1](http://arxiv.org/abs/2309.02145v1)|null|
 |**2023-09-04**|**SememeASR: Boosting Performance of End-to-End Speech Recognition against Domain and Long-Tailed Data Shift with Sememe Semantic Knowledge**|Jiaxu Zhu, Changhe Song, Zhiyong Wu, Helen Meng et.al.|[2309.01437v1](http://arxiv.org/abs/2309.01437v1)|null|
