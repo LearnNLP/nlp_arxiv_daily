@@ -183,6 +183,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-11**|**India's Progress in Space Exploration and International Legal Challenges in Meeting Goals within International Space Boundaries: A Review**|Jayanthi Vajiram, Utkarsh Maurya, Negha Senthil et.al.|[2309.06560v1](http://arxiv.org/abs/2309.06560v1)|null|
 |**2023-09-11**|**Black-Box Analysis: GPTs Across Time in Legal Textual Entailment Task**|Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis, Ken Satoh et.al.|[2309.05501v1](http://arxiv.org/abs/2309.05501v1)|null|
 |**2023-09-11**|**NeCo@ALQAC 2023: Legal Domain Knowledge Acquisition for Low-Resource Languages through Data Enrichment**|Hai-Long Nguyen, Dieu-Quynh Nguyen, Hoang-Trung Nguyen, Thu-Trang Pham, Huu-Dong Nguyen, Thach-Anh Nguyen, Thi-Hai-Yen Vuong, Ha-Thanh Nguyen et.al.|[2309.05500v1](http://arxiv.org/abs/2309.05500v1)|null|
 |**2023-09-08**|**NESTLE: a No-Code Tool for Statistical Analysis of Legal Corpus**|Kyoungyeon Cho, Seungkum Han, Wonseok Hwang et.al.|[2309.04146v1](http://arxiv.org/abs/2309.04146v1)|null|
