@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**Speech-to-Speech Translation with Discrete-Unit-Based Style Transfer**|Yongqi Wang, Jionghao Bai, Rongjie Huang, Ruiqi Li, Zhiqing Hong, Zhou Zhao et.al.|[2309.07566v1](http://arxiv.org/abs/2309.07566v1)|null|
+|**2023-09-14**|**Direct Text to Speech Translation System using Acoustic Units**|Victoria Mingote, Pablo Gimeno, Luis Vicente, Sameer Khurana, Antoine Laurent, Jarod Duret et.al.|[2309.07478v1](http://arxiv.org/abs/2309.07478v1)|null|
 |**2023-08-07**|**End-to-End Evaluation for Low-Latency Simultaneous Speech Translation**|Christian Huber, Tu Anh Dinh, Carlos Mullov, Ngoc Quan Pham, Thai Binh Nguyen, Fabian Retkowski, Stefan Constantin, Enes Yavuz Ugan, Danni Liu, Zhaolin Li, Sai Koneru, Jan Niehues, Alexander Waibel et.al.|[2308.03415v1](http://arxiv.org/abs/2308.03415v1)|null|
 |**2023-07-17**|**Multilingual Speech-to-Speech Translation into Multiple Target Languages**|Hongyu Gong, Ning Dong, Sravya Popuri, Vedanuj Goswami, Ann Lee, Juan Pino et.al.|[2307.08655v1](http://arxiv.org/abs/2307.08655v1)|null|
 |**2023-07-17**|**Improving End-to-End Speech Translation by Imitation-Based Knowledge Distillation with Synthetic Transcripts**|Rebekka Hubert, Artem Sokolov, Stefan Riezler et.al.|[2307.08426v1](http://arxiv.org/abs/2307.08426v1)|**[link](https://github.com/hubreb/imitkd_ast)**|
@@ -398,6 +400,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**CPPF: A contextual and post-processing-free model for automatic speech recognition**|Lei Zhang, Zhengkun Tian, Xiang Chen, Jiaming Sun, Hongyu Xiang, Ke Ding, Guanglu Wan et.al.|[2309.07413v1](http://arxiv.org/abs/2309.07413v1)|null|
 |**2023-09-09**|**Mask-CTC-based Encoder Pre-training for Streaming End-to-End Speech Recognition**|Huaibo Zhao, Yosuke Higuchi, Yusuke Kida, Tetsuji Ogawa, Tetsunori Kobayashi et.al.|[2309.04654v1](http://arxiv.org/abs/2309.04654v1)|null|
 |**2023-09-08**|**End-to-End Speech Recognition and Disfluency Removal with Acoustic Language Model Pretraining**|Saksham Bassi, Giulio Duregon, Siddhartha Jalagam, David Roth et.al.|[2309.04516v1](http://arxiv.org/abs/2309.04516v1)|**[link](https://github.com/davidsroth/hubert-disfl)**|
 |**2023-09-04**|**Text-Only Domain Adaptation for End-to-End Speech Recognition through Down-Sampling Acoustic Representation**|Jiaxu Zhu, Weinan Tong, Yaoxun Xu, Changhe Song, Zhiyong Wu, Zhao You, Dan Su, Dong Yu, Helen Meng et.al.|[2309.02459v1](http://arxiv.org/abs/2309.02459v1)|null|
