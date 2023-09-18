@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**DiariST: Streaming Speech Translation with Speaker Diarization**|Mu Yang, Naoyuki Kanda, Xiaofei Wang, Junkun Chen, Peidong Wang, Jian Xue, Jinyu Li, Takuya Yoshioka et.al.|[2309.08007v1](http://arxiv.org/abs/2309.08007v1)|**[link](https://github.com/mu-y/diarist)**|
 |**2023-09-14**|**Speech-to-Speech Translation with Discrete-Unit-Based Style Transfer**|Yongqi Wang, Jionghao Bai, Rongjie Huang, Ruiqi Li, Zhiqing Hong, Zhou Zhao et.al.|[2309.07566v1](http://arxiv.org/abs/2309.07566v1)|null|
 |**2023-09-14**|**Direct Text to Speech Translation System using Acoustic Units**|Victoria Mingote, Pablo Gimeno, Luis Vicente, Sameer Khurana, Antoine Laurent, Jarod Duret et.al.|[2309.07478v1](http://arxiv.org/abs/2309.07478v1)|null|
 |**2023-08-07**|**End-to-End Evaluation for Low-Latency Simultaneous Speech Translation**|Christian Huber, Tu Anh Dinh, Carlos Mullov, Ngoc Quan Pham, Thai Binh Nguyen, Fabian Retkowski, Stefan Constantin, Enes Yavuz Ugan, Danni Liu, Zhaolin Li, Sai Koneru, Jan Niehues, Alexander Waibel et.al.|[2308.03415v1](http://arxiv.org/abs/2308.03415v1)|null|
@@ -185,6 +186,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Encoded Summarization: Summarizing Documents into Continuous Vector Space for Legal Case Retrieval**|Vu Tran, Minh Le Nguyen, Satoshi Tojo, Ken Satoh et.al.|[2309.08187v1](http://arxiv.org/abs/2309.08187v1)|null|
+|**2023-09-15**|**FedJudge: Federated Legal Large Language Model**|Linan Yue, Qi Liu, Yichao Du, Weibo Gao, Ye Liu, Fangzhou Yao et.al.|[2309.08173v1](http://arxiv.org/abs/2309.08173v1)|**[link](https://github.com/yuelinan/fedjudge)**|
 |**2023-08-11**|**India's Progress in Space Exploration and International Legal Challenges in Meeting Goals within International Space Boundaries: A Review**|Jayanthi Vajiram, Utkarsh Maurya, Negha Senthil et.al.|[2309.06560v1](http://arxiv.org/abs/2309.06560v1)|null|
 |**2023-09-11**|**Black-Box Analysis: GPTs Across Time in Legal Textual Entailment Task**|Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis, Ken Satoh et.al.|[2309.05501v1](http://arxiv.org/abs/2309.05501v1)|null|
 |**2023-09-11**|**NeCo@ALQAC 2023: Legal Domain Knowledge Acquisition for Low-Resource Languages through Data Enrichment**|Hai-Long Nguyen, Dieu-Quynh Nguyen, Hoang-Trung Nguyen, Thu-Trang Pham, Huu-Dong Nguyen, Thach-Anh Nguyen, Thi-Hai-Yen Vuong, Ha-Thanh Nguyen et.al.|[2309.05500v1](http://arxiv.org/abs/2309.05500v1)|null|
@@ -400,6 +403,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Augmenting conformers with structured state space models for online speech recognition**|Haozhe Shan, Albert Gu, Zhong Meng, Weiran Wang, Krzysztof Choromanski, Tara Sainath et.al.|[2309.08551v1](http://arxiv.org/abs/2309.08551v1)|null|
+|**2023-09-15**|**Visual Speech Recognition for Low-resource Languages with Automatic Labels From Whisper Model**|Jeong Hun Yeo, Minsu Kim, Shinji Watanabe, Yong Man Ro et.al.|[2309.08535v1](http://arxiv.org/abs/2309.08535v1)|**[link](https://github.com/jeonghun0716/visual-speech-recognition-for-low-resource-languages)**|
+|**2023-09-15**|**Chunked Attention-based Encoder-Decoder Model for Streaming Speech Recognition**|Mohammad Zeineldeen, Albert Zeyer, Ralf Schlüter, Hermann Ney et.al.|[2309.08436v1](http://arxiv.org/abs/2309.08436v1)|null|
+|**2023-09-15**|**Unimodal Aggregation for CTC-based Speech Recognition**|Ying Fang, Xiaofei Li et.al.|[2309.08150v1](http://arxiv.org/abs/2309.08150v1)|**[link](https://github.com/Audio-WestlakeU/UMA-ASR)**|
+|**2023-09-14**|**Folding Attention: Memory and Power Optimization for On-Device Transformer-based Streaming Speech Recognition**|Yang Li, Liangzhen Lai, Yuan Shangguan, Forrest N. Iandola, Ernie Chang, Yangyang Shi, Vikas Chandra et.al.|[2309.07988v1](http://arxiv.org/abs/2309.07988v1)|null|
+|**2023-09-14**|**Voxtlm: unified decoder-only models for consolidating speech recognition/synthesis and speech/text continuation tasks**|Soumi Maiti, Yifan Peng, Shukjae Choi, Jee-weon Jung, Xuankai Chang, Shinji Watanabe et.al.|[2309.07937v1](http://arxiv.org/abs/2309.07937v1)|null|
+|**2023-09-12**|**Kid-Whisper: Towards Bridging the Performance Gap in Automatic Speech Recognition for Children VS. Adults**|Ahmed Adel Attia, Jing Liu, Wei Ai, Dorottya Demszky, Carol Espy-Wilson et.al.|[2309.07927v1](http://arxiv.org/abs/2309.07927v1)|null|
 |**2023-09-14**|**CPPF: A contextual and post-processing-free model for automatic speech recognition**|Lei Zhang, Zhengkun Tian, Xiang Chen, Jiaming Sun, Hongyu Xiang, Ke Ding, Guanglu Wan et.al.|[2309.07413v1](http://arxiv.org/abs/2309.07413v1)|null|
 |**2023-09-09**|**Mask-CTC-based Encoder Pre-training for Streaming End-to-End Speech Recognition**|Huaibo Zhao, Yosuke Higuchi, Yusuke Kida, Tetsuji Ogawa, Tetsunori Kobayashi et.al.|[2309.04654v1](http://arxiv.org/abs/2309.04654v1)|null|
 |**2023-09-08**|**End-to-End Speech Recognition and Disfluency Removal with Acoustic Language Model Pretraining**|Saksham Bassi, Giulio Duregon, Siddhartha Jalagam, David Roth et.al.|[2309.04516v1](http://arxiv.org/abs/2309.04516v1)|**[link](https://github.com/davidsroth/hubert-disfl)**|
