@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.17
+## Updated on 2023.09.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -183,7 +183,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230917>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
 
 ## Legal
 
@@ -251,7 +251,7 @@ layout: default
 |**2023-04-22**|**SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval**|Haitao Li, Qingyao Ai, Jia Chen, Qian Dong, Yueyue Wu, Yiqun Liu, Chong Chen, Qi Tian et.al.|[2304.11370v1](http://arxiv.org/abs/2304.11370v1)|**[link](https://github.com/cshaitao/sailer)**|
 |**2023-05-01**|**SemEval 2023 Task 6: LegalEval - Understanding Legal Texts**|Ashutosh Modi, Prathamesh Kalamkar, Saurabh Karn, Aman Tiwari, Abhinav Joshi, Sai Kiran Tanikella, Shouvik Kumar Guha, Sachin Malhan, Vivek Raghavan et.al.|[2304.09548v3](http://arxiv.org/abs/2304.09548v3)|null|
 |**2023-06-29**|**How well do SOTA legal reasoning models support abductive reasoning?**|Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis, Ken Satoh et.al.|[2304.06912v2](http://arxiv.org/abs/2304.06912v2)|null|
-|**2023-04-14**|**Exploring the State of the Art in Legal QA Systems**|Abdelrahman Abdallah, Bhawna Piryani, Adam Jatowt et.al.|[2304.06623v2](http://arxiv.org/abs/2304.06623v2)|**[link](https://github.com/abdoelsayed2016/legal-question-answering-review)**|
+|**2023-09-15**|**Exploring the State of the Art in Legal QA Systems**|Abdelrahman Abdallah, Bhawna Piryani, Adam Jatowt et.al.|[2304.06623v3](http://arxiv.org/abs/2304.06623v3)|**[link](https://github.com/abdoelsayed2016/legal-question-answering-review)**|
 |**2023-04-12**|**FALQU: Finding Answers to Legal Questions**|Behrooz Mansouri, Ricardo Campos et.al.|[2304.05611v1](http://arxiv.org/abs/2304.05611v1)|**[link](https://github.com/aiirlab/falqu)**|
 |**2023-04-25**|**Context-Aware Classification of Legal Document Pages**|Pavlos Fragkogiannis, Martina Forster, Grace E. Lee, Dell Zhang et.al.|[2304.02787v2](http://arxiv.org/abs/2304.02787v2)|null|
 |**2023-03-25**|**(Legal Design) Research through Litigation**|Reuben Kirkham et.al.|[2303.14336v1](http://arxiv.org/abs/2303.14336v1)|null|
@@ -398,7 +398,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230917>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -610,7 +610,7 @@ layout: default
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230917>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -620,7 +620,7 @@ layout: default
 |**2023-03-31**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v3](http://arxiv.org/abs/2207.14682v3)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230917>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
