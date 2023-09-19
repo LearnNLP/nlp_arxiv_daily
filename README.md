@@ -186,6 +186,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-16**|**NOWJ1@ALQAC 2023: Enhancing Legal Task Performance with Classic Statistical Models and Pre-trained Language Models**|Tan-Minh Nguyen, Xuan-Hoa Nguyen, Ngoc-Duy Mai, Minh-Quan Hoang, Van-Huan Nguyen, Hoang-Viet Nguyen, Ha-Thanh Nguyen, Thi-Hai-Yen Vuong et.al.|[2309.09070v1](http://arxiv.org/abs/2309.09070v1)|null|
+|**2023-09-16**|**Constructing a Knowledge Graph for Vietnamese Legal Cases with Heterogeneous Graphs**|Thi-Hai-Yen Vuong, Minh-Quan Hoang, Tan-Minh Nguyen, Hoang-Trung Nguyen, Ha-Thanh Nguyen et.al.|[2309.09069v1](http://arxiv.org/abs/2309.09069v1)|null|
+|**2023-09-15**|**Resolving Legalese: A Multilingual Exploration of Negation Scope Resolution in Legal Documents**|Ramona Christen, Anastassia Shaitarova, Matthias Stürmer, Joel Niklaus et.al.|[2309.08695v1](http://arxiv.org/abs/2309.08695v1)|null|
 |**2023-09-15**|**Encoded Summarization: Summarizing Documents into Continuous Vector Space for Legal Case Retrieval**|Vu Tran, Minh Le Nguyen, Satoshi Tojo, Ken Satoh et.al.|[2309.08187v1](http://arxiv.org/abs/2309.08187v1)|null|
 |**2023-09-15**|**FedJudge: Federated Legal Large Language Model**|Linan Yue, Qi Liu, Yichao Du, Weibo Gao, Ye Liu, Fangzhou Yao et.al.|[2309.08173v1](http://arxiv.org/abs/2309.08173v1)|**[link](https://github.com/yuelinan/fedjudge)**|
 |**2023-08-11**|**India's Progress in Space Exploration and International Legal Challenges in Meeting Goals within International Space Boundaries: A Review**|Jayanthi Vajiram, Utkarsh Maurya, Negha Senthil et.al.|[2309.06560v1](http://arxiv.org/abs/2309.06560v1)|null|
@@ -403,6 +406,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**Instruction-Following Speech Recognition**|Cheng-I Jeff Lai, Zhiyun Lu, Liangliang Cao, Ruoming Pang et.al.|[2309.09843v1](http://arxiv.org/abs/2309.09843v1)|null|
+|**2023-09-18**|**Training dynamic models using early exits for automatic speech recognition on resource-constrained devices**|George August Wright, Umberto Cappellazzo, Salah Zaiem, Desh Raj, Lucas Ondel Yang, Daniele Falavigna, Alessio Brutti et.al.|[2309.09546v1](http://arxiv.org/abs/2309.09546v1)|null|
+|**2023-09-18**|**Enhancing Multilingual Speech Recognition through Language Prompt Tuning and Frame-Level Language Adapter**|Song Li, Yonbin You, Xuezhi Wang, Ke Ding, Guanglu Wan et.al.|[2309.09443v1](http://arxiv.org/abs/2309.09443v1)|null|
+|**2023-09-18**|**Are Soft Prompts Good Zero-shot Learners for Speech Recognition?**|Dianwen Ng, Chong Zhang, Ruixi Zhang, Yukun Ma, Fabian Ritter-Gutierrez, Trung Hieu Nguyen, Chongjia Ni, Shengkui Zhao, Eng Siong Chng, Bin Ma et.al.|[2309.09413v1](http://arxiv.org/abs/2309.09413v1)|null|
+|**2023-09-16**|**Decoder-only Architecture for Speech Recognition with CTC Prompts and Text Data Augmentation**|Emiru Tsunoo, Hayato Futami, Yosuke Kashiwagi, Siddhant Arora, Shinji Watanabe et.al.|[2309.08876v1](http://arxiv.org/abs/2309.08876v1)|null|
 |**2023-09-15**|**Augmenting conformers with structured state space models for online speech recognition**|Haozhe Shan, Albert Gu, Zhong Meng, Weiran Wang, Krzysztof Choromanski, Tara Sainath et.al.|[2309.08551v1](http://arxiv.org/abs/2309.08551v1)|null|
 |**2023-09-15**|**Visual Speech Recognition for Low-resource Languages with Automatic Labels From Whisper Model**|Jeong Hun Yeo, Minsu Kim, Shinji Watanabe, Yong Man Ro et.al.|[2309.08535v1](http://arxiv.org/abs/2309.08535v1)|**[link](https://github.com/jeonghun0716/visual-speech-recognition-for-low-resource-languages)**|
 |**2023-09-15**|**Chunked Attention-based Encoder-Decoder Model for Streaming Speech Recognition**|Mohammad Zeineldeen, Albert Zeyer, Ralf Schlüter, Hermann Ney et.al.|[2309.08436v1](http://arxiv.org/abs/2309.08436v1)|null|
