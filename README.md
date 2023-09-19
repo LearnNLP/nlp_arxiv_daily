@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.18
+## Updated on 2023.09.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -180,7 +180,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
 ## Legal
 
@@ -397,7 +397,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -408,8 +408,8 @@
 |**2023-09-15**|**Chunked Attention-based Encoder-Decoder Model for Streaming Speech Recognition**|Mohammad Zeineldeen, Albert Zeyer, Ralf Schlüter, Hermann Ney et.al.|[2309.08436v1](http://arxiv.org/abs/2309.08436v1)|null|
 |**2023-09-15**|**Unimodal Aggregation for CTC-based Speech Recognition**|Ying Fang, Xiaofei Li et.al.|[2309.08150v1](http://arxiv.org/abs/2309.08150v1)|**[link](https://github.com/Audio-WestlakeU/UMA-ASR)**|
 |**2023-09-14**|**Folding Attention: Memory and Power Optimization for On-Device Transformer-based Streaming Speech Recognition**|Yang Li, Liangzhen Lai, Yuan Shangguan, Forrest N. Iandola, Ernie Chang, Yangyang Shi, Vikas Chandra et.al.|[2309.07988v1](http://arxiv.org/abs/2309.07988v1)|null|
-|**2023-09-14**|**Voxtlm: unified decoder-only models for consolidating speech recognition/synthesis and speech/text continuation tasks**|Soumi Maiti, Yifan Peng, Shukjae Choi, Jee-weon Jung, Xuankai Chang, Shinji Watanabe et.al.|[2309.07937v1](http://arxiv.org/abs/2309.07937v1)|null|
-|**2023-09-12**|**Kid-Whisper: Towards Bridging the Performance Gap in Automatic Speech Recognition for Children VS. Adults**|Ahmed Adel Attia, Jing Liu, Wei Ai, Dorottya Demszky, Carol Espy-Wilson et.al.|[2309.07927v1](http://arxiv.org/abs/2309.07927v1)|null|
+|**2023-09-18**|**Voxtlm: unified decoder-only models for consolidating speech recognition/synthesis and speech/text continuation tasks**|Soumi Maiti, Yifan Peng, Shukjae Choi, Jee-weon Jung, Xuankai Chang, Shinji Watanabe et.al.|[2309.07937v2](http://arxiv.org/abs/2309.07937v2)|null|
+|**2023-09-18**|**Kid-Whisper: Towards Bridging the Performance Gap in Automatic Speech Recognition for Children VS. Adults**|Ahmed Adel Attia, Jing Liu, Wei Ai, Dorottya Demszky, Carol Espy-Wilson et.al.|[2309.07927v2](http://arxiv.org/abs/2309.07927v2)|null|
 |**2023-09-14**|**CPPF: A contextual and post-processing-free model for automatic speech recognition**|Lei Zhang, Zhengkun Tian, Xiang Chen, Jiaming Sun, Hongyu Xiang, Ke Ding, Guanglu Wan et.al.|[2309.07413v1](http://arxiv.org/abs/2309.07413v1)|null|
 |**2023-09-09**|**Mask-CTC-based Encoder Pre-training for Streaming End-to-End Speech Recognition**|Huaibo Zhao, Yosuke Higuchi, Yusuke Kida, Tetsuji Ogawa, Tetsunori Kobayashi et.al.|[2309.04654v1](http://arxiv.org/abs/2309.04654v1)|null|
 |**2023-09-08**|**End-to-End Speech Recognition and Disfluency Removal with Acoustic Language Model Pretraining**|Saksham Bassi, Giulio Duregon, Siddhartha Jalagam, David Roth et.al.|[2309.04516v1](http://arxiv.org/abs/2309.04516v1)|**[link](https://github.com/davidsroth/hubert-disfl)**|
@@ -574,7 +574,7 @@
 |**2023-06-18**|**SURT 2.0: Advances in Transducer-based Multi-talker Speech Recognition**|Desh Raj, Daniel Povey, Sanjeev Khudanpur et.al.|[2306.10559v1](http://arxiv.org/abs/2306.10559v1)|null|
 |**2023-06-15**|**Distillation Strategies for Discriminative Speech Recognition Rescoring**|Prashanth Gurunath Shivakumar, Jari Kolehmainen, Yile Gu, Ankur Gandhe, Ariya Rastrow, Ivan Bulyko et.al.|[2306.09452v1](http://arxiv.org/abs/2306.09452v1)|null|
 |**2023-06-15**|**MobileASR: A resource-aware on-device personalisation framework for automatic speech recognition in mobile phones**|Zitha Sasindran, Harsha Yelchuri, Pooja Rao, T. V. Prabhakar et.al.|[2306.09384v1](http://arxiv.org/abs/2306.09384v1)|null|
-|**2023-09-11**|**Towards training Bilingual and Code-Switched Speech Recognition models from Monolingual data sources**|Kunal Dhawan, Dima Rekesh, Boris Ginsburg et.al.|[2306.08753v2](http://arxiv.org/abs/2306.08753v2)|null|
+|**2023-09-16**|**Unified model for code-switching speech recognition and language identification based on a concatenated tokenizer**|Kunal Dhawan, Dima Rekesh, Boris Ginsburg et.al.|[2306.08753v3](http://arxiv.org/abs/2306.08753v3)|null|
 |**2023-06-14**|**Learning Cross-lingual Mappings for Data Augmentation to Improve Low-Resource Speech Recognition**|Muhammad Umar Farooq, Thomas Hain et.al.|[2306.08577v1](http://arxiv.org/abs/2306.08577v1)|null|
 |**2023-06-14**|**Research on an improved Conformer end-to-end Speech Recognition Model with R-Drop Structure**|Weidong Ji, Shijie Zan, Guohui Zhou, Xu Wang et.al.|[2306.08329v1](http://arxiv.org/abs/2306.08329v1)|null|
 |**2023-06-14**|**Automated Speaker Independent Visual Speech Recognition: A Comprehensive Survey**|Praneeth Nemani, G. Sai Krishna, Supriya Kundrapu et.al.|[2306.08314v1](http://arxiv.org/abs/2306.08314v1)|null|
@@ -616,7 +616,7 @@
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -626,7 +626,7 @@
 |**2023-03-31**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v3](http://arxiv.org/abs/2207.14682v3)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
