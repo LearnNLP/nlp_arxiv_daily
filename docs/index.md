@@ -190,6 +190,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**A Hierarchical Neural Framework for Classification and its Explanation in Large Unstructured Legal Documents**|Nishchal Prasad, Mohand Boughanem, Taoufik Dkaki et.al.|[2309.10563v1](http://arxiv.org/abs/2309.10563v1)|null|
 |**2023-09-16**|**NOWJ1@ALQAC 2023: Enhancing Legal Task Performance with Classic Statistical Models and Pre-trained Language Models**|Tan-Minh Nguyen, Xuan-Hoa Nguyen, Ngoc-Duy Mai, Minh-Quan Hoang, Van-Huan Nguyen, Hoang-Viet Nguyen, Ha-Thanh Nguyen, Thi-Hai-Yen Vuong et.al.|[2309.09070v1](http://arxiv.org/abs/2309.09070v1)|null|
 |**2023-09-16**|**Constructing a Knowledge Graph for Vietnamese Legal Cases with Heterogeneous Graphs**|Thi-Hai-Yen Vuong, Minh-Quan Hoang, Tan-Minh Nguyen, Hoang-Trung Nguyen, Ha-Thanh Nguyen et.al.|[2309.09069v1](http://arxiv.org/abs/2309.09069v1)|null|
 |**2023-09-15**|**Resolving Legalese: A Multilingual Exploration of Negation Scope Resolution in Legal Documents**|Ramona Christen, Anastassia Shaitarova, Matthias Stürmer, Joel Niklaus et.al.|[2309.08695v1](http://arxiv.org/abs/2309.08695v1)|null|
@@ -410,6 +411,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**Harnessing the Zero-Shot Power of Instruction-Tuned Large Language Model in End-to-End Speech Recognition**|Yosuke Higuchi, Tetsuji Ogawa, Tetsunori Kobayashi et.al.|[2309.10524v1](http://arxiv.org/abs/2309.10524v1)|null|
+|**2023-09-16**|**Improving Speech Recognition for African American English With Audio Classification**|Shefali Garg, Zhouyuan Huo, Khe Chai Sim, Suzan Schwartz, Mason Chua, Alëna Aksënova, Tsendsuren Munkhdalai, Levi King, Darryl Wright, Zion Mengesha, Dongseong Hwang, Tara Sainath, Françoise Beaufays, Pedro Moreno Mengibar et.al.|[2309.09996v1](http://arxiv.org/abs/2309.09996v1)|null|
 |**2023-09-18**|**Instruction-Following Speech Recognition**|Cheng-I Jeff Lai, Zhiyun Lu, Liangliang Cao, Ruoming Pang et.al.|[2309.09843v1](http://arxiv.org/abs/2309.09843v1)|null|
 |**2023-09-18**|**Training dynamic models using early exits for automatic speech recognition on resource-constrained devices**|George August Wright, Umberto Cappellazzo, Salah Zaiem, Desh Raj, Lucas Ondel Yang, Daniele Falavigna, Alessio Brutti et.al.|[2309.09546v1](http://arxiv.org/abs/2309.09546v1)|null|
 |**2023-09-19**|**Enhancing Multilingual Speech Recognition through Language Prompt Tuning and Frame-Level Language Adapter**|Song Li, Yongbin You, Xuezhi Wang, Ke Ding, Guanglu Wan et.al.|[2309.09443v2](http://arxiv.org/abs/2309.09443v2)|null|
