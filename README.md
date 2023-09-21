@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -180,7 +180,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 ## Legal
 
@@ -189,7 +189,7 @@
 |**2023-09-19**|**A Hierarchical Neural Framework for Classification and its Explanation in Large Unstructured Legal Documents**|Nishchal Prasad, Mohand Boughanem, Taoufik Dkaki et.al.|[2309.10563v1](http://arxiv.org/abs/2309.10563v1)|null|
 |**2023-09-16**|**NOWJ1@ALQAC 2023: Enhancing Legal Task Performance with Classic Statistical Models and Pre-trained Language Models**|Tan-Minh Nguyen, Xuan-Hoa Nguyen, Ngoc-Duy Mai, Minh-Quan Hoang, Van-Huan Nguyen, Hoang-Viet Nguyen, Ha-Thanh Nguyen, Thi-Hai-Yen Vuong et.al.|[2309.09070v1](http://arxiv.org/abs/2309.09070v1)|null|
 |**2023-09-16**|**Constructing a Knowledge Graph for Vietnamese Legal Cases with Heterogeneous Graphs**|Thi-Hai-Yen Vuong, Minh-Quan Hoang, Tan-Minh Nguyen, Hoang-Trung Nguyen, Ha-Thanh Nguyen et.al.|[2309.09069v1](http://arxiv.org/abs/2309.09069v1)|null|
-|**2023-09-15**|**Resolving Legalese: A Multilingual Exploration of Negation Scope Resolution in Legal Documents**|Ramona Christen, Anastassia Shaitarova, Matthias Stürmer, Joel Niklaus et.al.|[2309.08695v1](http://arxiv.org/abs/2309.08695v1)|null|
+|**2023-09-15**|**Resolving Legalese: A Multilingual Exploration of Negation Scope Resolution in Legal Documents**|Ramona Christen, Anastassia Shaitarova, Matthias Stürmer, Joel Niklaus et.al.|[2309.08695v1](http://arxiv.org/abs/2309.08695v1)|**[link](https://github.com/ramonachristen/multilingual_negation_scope_resolution_on_legal_data)**|
 |**2023-09-15**|**Encoded Summarization: Summarizing Documents into Continuous Vector Space for Legal Case Retrieval**|Vu Tran, Minh Le Nguyen, Satoshi Tojo, Ken Satoh et.al.|[2309.08187v1](http://arxiv.org/abs/2309.08187v1)|null|
 |**2023-09-15**|**FedJudge: Federated Legal Large Language Model**|Linan Yue, Qi Liu, Yichao Du, Weibo Gao, Ye Liu, Fangzhou Yao et.al.|[2309.08173v1](http://arxiv.org/abs/2309.08173v1)|**[link](https://github.com/yuelinan/fedjudge)**|
 |**2023-08-11**|**India's Progress in Space Exploration and International Legal Challenges in Meeting Goals within International Space Boundaries: A Review**|Jayanthi Vajiram, Utkarsh Maurya, Negha Senthil et.al.|[2309.06560v1](http://arxiv.org/abs/2309.06560v1)|null|
@@ -401,7 +401,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -585,7 +585,7 @@
 |**2023-09-19**|**SURT 2.0: Advances in Transducer-based Multi-talker Speech Recognition**|Desh Raj, Daniel Povey, Sanjeev Khudanpur et.al.|[2306.10559v2](http://arxiv.org/abs/2306.10559v2)|**[link](https://github.com/k2-fsa/icefall/tree/master/egs/libricss/SURT)**|
 |**2023-06-15**|**Distillation Strategies for Discriminative Speech Recognition Rescoring**|Prashanth Gurunath Shivakumar, Jari Kolehmainen, Yile Gu, Ankur Gandhe, Ariya Rastrow, Ivan Bulyko et.al.|[2306.09452v1](http://arxiv.org/abs/2306.09452v1)|null|
 |**2023-06-15**|**MobileASR: A resource-aware on-device personalisation framework for automatic speech recognition in mobile phones**|Zitha Sasindran, Harsha Yelchuri, Pooja Rao, T. V. Prabhakar et.al.|[2306.09384v1](http://arxiv.org/abs/2306.09384v1)|null|
-|**2023-09-16**|**Unified model for code-switching speech recognition and language identification based on a concatenated tokenizer**|Kunal Dhawan, Dima Rekesh, Boris Ginsburg et.al.|[2306.08753v3](http://arxiv.org/abs/2306.08753v3)|null|
+|**2023-09-16**|**Unified model for code-switching speech recognition and language identification based on a concatenated tokenizer**|Kunal Dhawan, Dima Rekesh, Boris Ginsburg et.al.|[2306.08753v3](http://arxiv.org/abs/2306.08753v3)|**[link](https://github.com/NVIDIA/NeMo)**|
 |**2023-06-14**|**Learning Cross-lingual Mappings for Data Augmentation to Improve Low-Resource Speech Recognition**|Muhammad Umar Farooq, Thomas Hain et.al.|[2306.08577v1](http://arxiv.org/abs/2306.08577v1)|null|
 |**2023-06-14**|**Research on an improved Conformer end-to-end Speech Recognition Model with R-Drop Structure**|Weidong Ji, Shijie Zan, Guohui Zhou, Xu Wang et.al.|[2306.08329v1](http://arxiv.org/abs/2306.08329v1)|null|
 |**2023-06-14**|**Automated Speaker Independent Visual Speech Recognition: A Comprehensive Survey**|Praneeth Nemani, G. Sai Krishna, Supriya Kundrapu et.al.|[2306.08314v1](http://arxiv.org/abs/2306.08314v1)|null|
@@ -627,7 +627,7 @@
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -637,7 +637,7 @@
 |**2023-03-31**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v3](http://arxiv.org/abs/2207.14682v3)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
