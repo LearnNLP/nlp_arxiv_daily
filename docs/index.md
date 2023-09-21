@@ -23,6 +23,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**Long-Form End-to-End Speech Translation via Latent Alignment Segmentation**|Peter Polák, Ondřej Bojar et.al.|[2309.11384v1](http://arxiv.org/abs/2309.11384v1)|null|
+|**2023-09-20**|**Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff**|Peter Polák, Brian Yan, Shinji Watanabe, Alex Waibel, Ondřej Bojar et.al.|[2309.11379v1](http://arxiv.org/abs/2309.11379v1)|null|
 |**2023-09-14**|**DiariST: Streaming Speech Translation with Speaker Diarization**|Mu Yang, Naoyuki Kanda, Xiaofei Wang, Junkun Chen, Peidong Wang, Jian Xue, Jinyu Li, Takuya Yoshioka et.al.|[2309.08007v1](http://arxiv.org/abs/2309.08007v1)|**[link](https://github.com/mu-y/diarist)**|
 |**2023-09-14**|**Speech-to-Speech Translation with Discrete-Unit-Based Style Transfer**|Yongqi Wang, Jionghao Bai, Rongjie Huang, Ruiqi Li, Zhiqing Hong, Zhou Zhao et.al.|[2309.07566v1](http://arxiv.org/abs/2309.07566v1)|null|
 |**2023-09-14**|**Direct Text to Speech Translation System using Acoustic Units**|Victoria Mingote, Pablo Gimeno, Luis Vicente, Sameer Khurana, Antoine Laurent, Jarod Duret et.al.|[2309.07478v1](http://arxiv.org/abs/2309.07478v1)|null|
@@ -190,6 +192,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services**|Shengbin Yue, Wei Chen, Siyuan Wang, Bingxuan Li, Chenchen Shen, Shujun Liu, Yuxuan Zhou, Yao Xiao, Song Yun, Wei Lin, Xuanjing Huang, Zhongyu Wei et.al.|[2309.11325v1](http://arxiv.org/abs/2309.11325v1)|null|
 |**2023-09-19**|**A Hierarchical Neural Framework for Classification and its Explanation in Large Unstructured Legal Documents**|Nishchal Prasad, Mohand Boughanem, Taoufik Dkaki et.al.|[2309.10563v1](http://arxiv.org/abs/2309.10563v1)|null|
 |**2023-09-16**|**NOWJ1@ALQAC 2023: Enhancing Legal Task Performance with Classic Statistical Models and Pre-trained Language Models**|Tan-Minh Nguyen, Xuan-Hoa Nguyen, Ngoc-Duy Mai, Minh-Quan Hoang, Van-Huan Nguyen, Hoang-Viet Nguyen, Ha-Thanh Nguyen, Thi-Hai-Yen Vuong et.al.|[2309.09070v1](http://arxiv.org/abs/2309.09070v1)|null|
 |**2023-09-16**|**Constructing a Knowledge Graph for Vietnamese Legal Cases with Heterogeneous Graphs**|Thi-Hai-Yen Vuong, Minh-Quan Hoang, Tan-Minh Nguyen, Hoang-Trung Nguyen, Ha-Thanh Nguyen et.al.|[2309.09069v1](http://arxiv.org/abs/2309.09069v1)|null|
@@ -411,6 +414,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**AudioFool: Fast, Universal and synchronization-free Cross-Domain Attack on Speech Recognition**|Mohamad Fakih, Rouwaida Kanj, Fadi Kurdahi, Mohammed E. Fouda et.al.|[2309.11462v1](http://arxiv.org/abs/2309.11462v1)|null|
+|**2023-09-20**|**Leveraging Data Collection and Unsupervised Learning for Code-switched Tunisian Arabic Automatic Speech Recognition**|Ahmed Amine Ben Abdallah, Ata Kabboudi, Amir Kanoun, Salah Zaiem et.al.|[2309.11327v1](http://arxiv.org/abs/2309.11327v1)|null|
+|**2023-09-20**|**Directional Source Separation for Robust Speech Recognition on Smart Glasses**|Tiantian Feng, Ju Lin, Yiteng Huang, Weipeng He, Kaustubh Kalgaonkar, Niko Moritz, Li Wan, Xin Lei, Ming Sun, Frank Seide et.al.|[2309.10993v1](http://arxiv.org/abs/2309.10993v1)|null|
+|**2023-09-19**|**Discrete Audio Representation as an Alternative to Mel-Spectrograms for Speaker and Speech Recognition**|Krishna C. Puvvada, Nithin Rao Koluguri, Kunal Dhawan, Jagadeesh Balam, Boris Ginsburg et.al.|[2309.10922v1](http://arxiv.org/abs/2309.10922v1)|null|
+|**2023-09-19**|**End-to-End Speech Recognition Contextualization with Large Language Models**|Egor Lakomkin, Chunyang Wu, Yassir Fathullah, Ozlem Kalinli, Michael L. Seltzer, Christian Fuegen et.al.|[2309.10917v1](http://arxiv.org/abs/2309.10917v1)|null|
 |**2023-09-19**|**Harnessing the Zero-Shot Power of Instruction-Tuned Large Language Model in End-to-End Speech Recognition**|Yosuke Higuchi, Tetsuji Ogawa, Tetsunori Kobayashi et.al.|[2309.10524v1](http://arxiv.org/abs/2309.10524v1)|null|
 |**2023-09-16**|**Improving Speech Recognition for African American English With Audio Classification**|Shefali Garg, Zhouyuan Huo, Khe Chai Sim, Suzan Schwartz, Mason Chua, Alëna Aksënova, Tsendsuren Munkhdalai, Levi King, Darryl Wright, Zion Mengesha, Dongseong Hwang, Tara Sainath, Françoise Beaufays, Pedro Moreno Mengibar et.al.|[2309.09996v1](http://arxiv.org/abs/2309.09996v1)|null|
 |**2023-09-18**|**Instruction-Following Speech Recognition**|Cheng-I Jeff Lai, Zhiyun Lu, Liangliang Cao, Ruoming Pang et.al.|[2309.09843v1](http://arxiv.org/abs/2309.09843v1)|null|
