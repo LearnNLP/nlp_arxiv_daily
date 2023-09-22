@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Bridging the Gaps of Both Modality and Language: Synchronous Bilingual CTC for Speech Translation and Speech Recognition**|Chen Xu, Xiaoqian Liu, Erfeng He, Yuhao Zhang, Qianqian Dong, Tong Xiao, Jingbo Zhu, Dapeng Man, Wu Yang et.al.|[2309.12234v1](http://arxiv.org/abs/2309.12234v1)|null|
+|**2023-09-20**|**SpeechAlign: a Framework for Speech Translation Alignment Evaluation**|Belen Alastruey, Aleix Sant, Gerard I. Gállego, David Dale, Marta R. Costa-jussà et.al.|[2309.11585v1](http://arxiv.org/abs/2309.11585v1)|null|
 |**2023-09-20**|**Long-Form End-to-End Speech Translation via Latent Alignment Segmentation**|Peter Polák, Ondřej Bojar et.al.|[2309.11384v1](http://arxiv.org/abs/2309.11384v1)|null|
 |**2023-09-20**|**Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff**|Peter Polák, Brian Yan, Shinji Watanabe, Alex Waibel, Ondřej Bojar et.al.|[2309.11379v1](http://arxiv.org/abs/2309.11379v1)|null|
 |**2023-09-14**|**DiariST: Streaming Speech Translation with Speaker Diarization**|Mu Yang, Naoyuki Kanda, Xiaofei Wang, Junkun Chen, Peidong Wang, Jian Xue, Jinyu Li, Takuya Yoshioka et.al.|[2309.08007v1](http://arxiv.org/abs/2309.08007v1)|**[link](https://github.com/mu-y/diarist)**|
@@ -188,6 +190,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**The Cambridge Law Corpus: A Corpus for Legal AI Research**|Andreas Östling, Holli Sargeant, Huiyuan Xie, Ludwig Bull, Alexander Terenin, Leif Jonsson, Måns Magnusson, Felix Steffek et.al.|[2309.12269v1](http://arxiv.org/abs/2309.12269v1)|null|
+|**2023-09-20**|**Legitimate Interest is the New Consent -- Large-Scale Measurement and Legal Compliance of IAB TCF Paywalls**|Victor Morel, Cristiana Santos, Viktor Fredholm, Adam Thunberg et.al.|[2309.11625v1](http://arxiv.org/abs/2309.11625v1)|null|
 |**2023-09-20**|**DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services**|Shengbin Yue, Wei Chen, Siyuan Wang, Bingxuan Li, Chenchen Shen, Shujun Liu, Yuxuan Zhou, Yao Xiao, Song Yun, Wei Lin, Xuanjing Huang, Zhongyu Wei et.al.|[2309.11325v1](http://arxiv.org/abs/2309.11325v1)|null|
 |**2023-09-19**|**A Hierarchical Neural Framework for Classification and its Explanation in Large Unstructured Legal Documents**|Nishchal Prasad, Mohand Boughanem, Taoufik Dkaki et.al.|[2309.10563v1](http://arxiv.org/abs/2309.10563v1)|null|
 |**2023-09-16**|**NOWJ1@ALQAC 2023: Enhancing Legal Task Performance with Classic Statistical Models and Pre-trained Language Models**|Tan-Minh Nguyen, Xuan-Hoa Nguyen, Ngoc-Duy Mai, Minh-Quan Hoang, Van-Huan Nguyen, Hoang-Viet Nguyen, Ha-Thanh Nguyen, Thi-Hai-Yen Vuong et.al.|[2309.09070v1](http://arxiv.org/abs/2309.09070v1)|null|
@@ -410,6 +414,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Bridging the Gaps of Both Modality and Language: Synchronous Bilingual CTC for Speech Translation and Speech Recognition**|Chen Xu, Xiaoqian Liu, Erfeng He, Yuhao Zhang, Qianqian Dong, Tong Xiao, Jingbo Zhu, Dapeng Man, Wu Yang et.al.|[2309.12234v1](http://arxiv.org/abs/2309.12234v1)|null|
+|**2023-09-21**|**Sparsely Shared LoRA on Whisper for Child Speech Recognition**|Wei Liu, Ying Qin, Zhiyuan Peng, Tan Lee et.al.|[2309.11756v1](http://arxiv.org/abs/2309.11756v1)|null|
 |**2023-09-20**|**AudioFool: Fast, Universal and synchronization-free Cross-Domain Attack on Speech Recognition**|Mohamad Fakih, Rouwaida Kanj, Fadi Kurdahi, Mohammed E. Fouda et.al.|[2309.11462v1](http://arxiv.org/abs/2309.11462v1)|null|
 |**2023-09-20**|**Leveraging Data Collection and Unsupervised Learning for Code-switched Tunisian Arabic Automatic Speech Recognition**|Ahmed Amine Ben Abdallah, Ata Kabboudi, Amir Kanoun, Salah Zaiem et.al.|[2309.11327v1](http://arxiv.org/abs/2309.11327v1)|null|
 |**2023-09-20**|**Directional Source Separation for Robust Speech Recognition on Smart Glasses**|Tiantian Feng, Ju Lin, Yiteng Huang, Weipeng He, Kaustubh Kalgaonkar, Niko Moritz, Li Wan, Xin Lei, Ming Sun, Frank Seide et.al.|[2309.10993v1](http://arxiv.org/abs/2309.10993v1)|null|
