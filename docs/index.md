@@ -194,6 +194,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Question-Answering Approach to Evaluate Legal Summaries**|Huihui Xu, Kevin Ashley et.al.|[2309.15016v1](http://arxiv.org/abs/2309.15016v1)|null|
+|**2023-09-26**|**Comparative Analysis of Artificial Intelligence for Indian Legal Question Answering (AILQA) Using Different Retrieval and QA Models**|Shubham Kumar Nigam, Shubham Kumar Mishra, Ayush Kumar Mishra, Noel Shallum, Arnab Bhattacharya et.al.|[2309.14735v1](http://arxiv.org/abs/2309.14735v1)|null|
 |**2023-09-22**|**The Cambridge Law Corpus: A Corpus for Legal AI Research**|Andreas Östling, Holli Sargeant, Huiyuan Xie, Ludwig Bull, Alexander Terenin, Leif Jonsson, Måns Magnusson, Felix Steffek et.al.|[2309.12269v2](http://arxiv.org/abs/2309.12269v2)|null|
 |**2023-09-25**|**Legitimate Interest is the New Consent -- Large-Scale Measurement and Legal Compliance of IAB Europe TCF Paywalls**|Victor Morel, Cristiana Santos, Viktor Fredholm, Adam Thunberg et.al.|[2309.11625v2](http://arxiv.org/abs/2309.11625v2)|null|
 |**2023-09-23**|**DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services**|Shengbin Yue, Wei Chen, Siyuan Wang, Bingxuan Li, Chenchen Shen, Shujun Liu, Yuxuan Zhou, Yao Xiao, Song Yun, Xuanjing Huang, Zhongyu Wei et.al.|[2309.11325v2](http://arxiv.org/abs/2309.11325v2)|**[link](https://github.com/fudandisc/disc-lawllm)**|
@@ -418,6 +420,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Updated Corpora and Benchmarks for Long-Form Speech Recognition**|Jennifer Drexler Fox, Desh Raj, Natalie Delworth, Quinn McNamara, Corey Miller, Migüel Jetté et.al.|[2309.15013v1](http://arxiv.org/abs/2309.15013v1)|null|
+|**2023-09-25**|**On the Impact of Quantization and Pruning of Self-Supervised Speech Models for Downstream Speech Recognition Tasks "In-the-Wild''**|Arthur Pimentel, Heitor Guimarães, Anderson R. Avila, Mehdi Rezagholizadeh, Tiago H. Falk et.al.|[2309.14462v1](http://arxiv.org/abs/2309.14462v1)|null|
 |**2023-09-21**|**Bridging the Gaps of Both Modality and Language: Synchronous Bilingual CTC for Speech Translation and Speech Recognition**|Chen Xu, Xiaoqian Liu, Erfeng He, Yuhao Zhang, Qianqian Dong, Tong Xiao, Jingbo Zhu, Dapeng Man, Wu Yang et.al.|[2309.12234v1](http://arxiv.org/abs/2309.12234v1)|null|
 |**2023-09-21**|**Sparsely Shared LoRA on Whisper for Child Speech Recognition**|Wei Liu, Ying Qin, Zhiyuan Peng, Tan Lee et.al.|[2309.11756v1](http://arxiv.org/abs/2309.11756v1)|null|
 |**2023-09-20**|**AudioFool: Fast, Universal and synchronization-free Cross-Domain Attack on Speech Recognition**|Mohamad Fakih, Rouwaida Kanj, Fadi Kurdahi, Mohammed E. Fouda et.al.|[2309.11462v1](http://arxiv.org/abs/2309.11462v1)|null|
