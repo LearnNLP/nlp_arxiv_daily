@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**LAE-ST-MoE: Boosted Language-Aware Encoder Using Speech Translation Auxiliary Task for E2E Code-switching ASR**|Guodong Ma, Wenxuan Wang, Yuke Li, Yuting Yang, Binbin Du, Haoran Fu et.al.|[2309.16178v1](http://arxiv.org/abs/2309.16178v1)|null|
 |**2023-09-27**|**Enhancing End-to-End Conversational Speech Translation Through Target Language Context Utilization**|Amir Hussein, Brian Yan, Antonios Anastasopoulos, Shinji Watanabe, Sanjeev Khudanpur et.al.|[2309.15686v1](http://arxiv.org/abs/2309.15686v1)|null|
 |**2023-09-21**|**Bridging the Gaps of Both Modality and Language: Synchronous Bilingual CTC for Speech Translation and Speech Recognition**|Chen Xu, Xiaoqian Liu, Erfeng He, Yuhao Zhang, Qianqian Dong, Tong Xiao, Jingbo Zhu, Dapeng Man, Wu Yang et.al.|[2309.12234v1](http://arxiv.org/abs/2309.12234v1)|null|
 |**2023-09-20**|**SpeechAlign: a Framework for Speech Translation Alignment Evaluation**|Belen Alastruey, Aleix Sant, Gerard I. Gállego, David Dale, Marta R. Costa-jussà et.al.|[2309.11585v1](http://arxiv.org/abs/2309.11585v1)|null|
@@ -195,6 +196,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**LawBench: Benchmarking Legal Knowledge of Large Language Models**|Zhiwei Fei, Xiaoyu Shen, Dawei Zhu, Fengzhe Zhou, Zhuo Han, Songyang Zhang, Kai Chen, Zongwen Shen, Jidong Ge et.al.|[2309.16289v1](http://arxiv.org/abs/2309.16289v1)|**[link](https://github.com/open-compass/lawbench)**|
 |**2023-09-26**|**Question-Answering Approach to Evaluate Legal Summaries**|Huihui Xu, Kevin Ashley et.al.|[2309.15016v1](http://arxiv.org/abs/2309.15016v1)|null|
 |**2023-09-26**|**Comparative Analysis of Artificial Intelligence for Indian Legal Question Answering (AILQA) Using Different Retrieval and QA Models**|Shubham Kumar Nigam, Shubham Kumar Mishra, Ayush Kumar Mishra, Noel Shallum, Arnab Bhattacharya et.al.|[2309.14735v1](http://arxiv.org/abs/2309.14735v1)|null|
 |**2023-09-22**|**The Cambridge Law Corpus: A Corpus for Legal AI Research**|Andreas Östling, Holli Sargeant, Huiyuan Xie, Ludwig Bull, Alexander Terenin, Leif Jonsson, Måns Magnusson, Felix Steffek et.al.|[2309.12269v2](http://arxiv.org/abs/2309.12269v2)|null|
@@ -421,6 +423,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Unsupervised Pre-Training for Vietnamese Automatic Speech Recognition in the HYKIST Project**|Khai Le-Duc et.al.|[2309.15869v1](http://arxiv.org/abs/2309.15869v1)|null|
 |**2023-09-27**|**Exploring Speech Recognition, Translation, and Understanding with Discrete Speech Units: A Comparative Study**|Xuankai Chang, Brian Yan, Kwanghee Choi, Jeeweon Jung, Yichen Lu, Soumi Maiti, Roshan Sharma, Jiatong Shi, Jinchuan Tian, Shinji Watanabe, Yuya Fujita, Takashi Maekaku, Pengcheng Guo, Yao-Fei Cheng, Pavel Denisov, Kohei Saijo, Hsiu-Hsuan Wang et.al.|[2309.15800v1](http://arxiv.org/abs/2309.15800v1)|null|
 |**2023-09-26**|**Learning from Flawed Data: Weakly Supervised Automatic Speech Recognition**|Dongji Gao, Hainan Xu, Desh Raj, Leibny Paola Garcia Perera, Daniel Povey, Sanjeev Khudanpur et.al.|[2309.15796v1](http://arxiv.org/abs/2309.15796v1)|**[link](https://github.com/k2-fsa/icefall)**|
 |**2023-09-27**|**HyPoradise: An Open Baseline for Generative Speech Recognition with Large Language Models**|Chen Chen, Yuchen Hu, Chao-Han Huck Yang, Sabato Macro Siniscalchi, Pin-Yu Chen, Eng Siong Chng et.al.|[2309.15701v1](http://arxiv.org/abs/2309.15701v1)|null|
