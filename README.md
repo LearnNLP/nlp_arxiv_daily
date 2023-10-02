@@ -192,6 +192,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**STRONG -- Structure Controllable Legal Opinion Summary Generation**|Yang Zhong, Diane Litman et.al.|[2309.17280v1](http://arxiv.org/abs/2309.17280v1)|null|
+|**2023-09-29**|**Interpretable Long-Form Legal Question Answering with Retrieval-Augmented Large Language Models**|Antoine Louis, Gijs van Dijck, Gerasimos Spanakis et.al.|[2309.17050v1](http://arxiv.org/abs/2309.17050v1)|**[link](https://github.com/maastrichtlawtech/lleqa)**|
 |**2023-09-28**|**LawBench: Benchmarking Legal Knowledge of Large Language Models**|Zhiwei Fei, Xiaoyu Shen, Dawei Zhu, Fengzhe Zhou, Zhuo Han, Songyang Zhang, Kai Chen, Zongwen Shen, Jidong Ge et.al.|[2309.16289v1](http://arxiv.org/abs/2309.16289v1)|**[link](https://github.com/open-compass/lawbench)**|
 |**2023-09-26**|**Question-Answering Approach to Evaluate Legal Summaries**|Huihui Xu, Kevin Ashley et.al.|[2309.15016v1](http://arxiv.org/abs/2309.15016v1)|null|
 |**2023-09-26**|**Comparative Analysis of Artificial Intelligence for Indian Legal Question Answering (AILQA) Using Different Retrieval and QA Models**|Shubham Kumar Nigam, Shubham Kumar Mishra, Ayush Kumar Mishra, Noel Shallum, Arnab Bhattacharya et.al.|[2309.14735v1](http://arxiv.org/abs/2309.14735v1)|null|
@@ -419,6 +421,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**AV-CPL: Continuous Pseudo-Labeling for Audio-Visual Speech Recognition**|Andrew Rouditchenko, Ronan Collobert, Tatiana Likhomanenko et.al.|[2309.17395v1](http://arxiv.org/abs/2309.17395v1)|null|
+|**2023-09-29**|**Enhancing Code-switching Speech Recognition with Interactive Language Biases**|Hexin Liu, Leibny Paola Garcia, Xiangyu Zhang, Andy W. H. Khong, Sanjeev Khudanpur et.al.|[2309.16953v1](http://arxiv.org/abs/2309.16953v1)|null|
+|**2023-09-29**|**SSHR: Leveraging Self-supervised Hierarchical Representations for Multilingual Automatic Speech Recognition**|Hongfei Xue, Qijie Shao, Kaixun Huang, Peikun Chen, Lei Xie, Jie Liu et.al.|[2309.16937v1](http://arxiv.org/abs/2309.16937v1)|null|
 |**2023-09-26**|**Unsupervised Pre-Training for Vietnamese Automatic Speech Recognition in the HYKIST Project**|Khai Le-Duc et.al.|[2309.15869v1](http://arxiv.org/abs/2309.15869v1)|null|
 |**2023-09-27**|**Exploring Speech Recognition, Translation, and Understanding with Discrete Speech Units: A Comparative Study**|Xuankai Chang, Brian Yan, Kwanghee Choi, Jeeweon Jung, Yichen Lu, Soumi Maiti, Roshan Sharma, Jiatong Shi, Jinchuan Tian, Shinji Watanabe, Yuya Fujita, Takashi Maekaku, Pengcheng Guo, Yao-Fei Cheng, Pavel Denisov, Kohei Saijo, Hsiu-Hsuan Wang et.al.|[2309.15800v1](http://arxiv.org/abs/2309.15800v1)|null|
 |**2023-09-26**|**Learning from Flawed Data: Weakly Supervised Automatic Speech Recognition**|Dongji Gao, Hainan Xu, Desh Raj, Leibny Paola Garcia Perera, Daniel Povey, Sanjeev Khudanpur et.al.|[2309.15796v1](http://arxiv.org/abs/2309.15796v1)|**[link](https://github.com/k2-fsa/icefall)**|
