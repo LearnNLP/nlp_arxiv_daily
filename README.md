@@ -424,6 +424,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**The North System for Formosa Speech Recognition Challenge 2023**|Li-Wei Chen, Kai-Chen Cheng, Hung-Shin Lee et.al.|[2310.03443v1](http://arxiv.org/abs/2310.03443v1)|null|
+|**2023-10-05**|**Neural Language Model Pruning for Automatic Speech Recognition**|Leonardo Emili, Thiago Fraga-Silva, Ernest Pusateri, Markus Nußbaum-Thom, Youssef Oualil et.al.|[2310.03424v1](http://arxiv.org/abs/2310.03424v1)|null|
 |**2023-10-04**|**BA-MoE: Boundary-Aware Mixture-of-Experts Adapter for Code-Switching Speech Recognition**|Peikun Chen, Fan Yu, Yuhao Lian, Hongfei Xue, Xucheng Wan, Naijun Zheng, Huan Zhou, Lei Xie et.al.|[2310.02629v1](http://arxiv.org/abs/2310.02629v1)|null|
 |**2023-10-03**|**Unsupervised Speech Recognition with N-Skipgram and Positional Unigram Matching**|Liming Wang, Mark Hasegawa-Johnson, Chang D. Yoo et.al.|[2310.02382v1](http://arxiv.org/abs/2310.02382v1)|**[link](https://github.com/lwang114/graphunsupasr)**|
 |**2023-10-02**|**One model to rule them all ? Towards End-to-End Joint Speaker Diarization and Speech Recognition**|Samuele Cornell, Jee-weon Jung, Shinji Watanabe, Stefano Squartini et.al.|[2310.01688v1](http://arxiv.org/abs/2310.01688v1)|null|
