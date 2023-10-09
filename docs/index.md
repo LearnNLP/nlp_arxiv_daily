@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Improving Stability in Simultaneous Speech Translation: A Revision-Controllable Decoding Approach**|Junkun Chen, Jian Xue, Peidong Wang, Jing Pan, Jinyu Li et.al.|[2310.04399v1](http://arxiv.org/abs/2310.04399v1)|null|
 |**2023-10-03**|**Tuning Large language model for End-to-end Speech Translation**|Hao Zhang, Nianwen Si, Yaqi Chen, Wenlin Zhang, Xukui Yang, Dan Qu, Xiaolin Jiao et.al.|[2310.02050v1](http://arxiv.org/abs/2310.02050v1)|null|
 |**2023-09-28**|**LAE-ST-MoE: Boosted Language-Aware Encoder Using Speech Translation Auxiliary Task for E2E Code-switching ASR**|Guodong Ma, Wenxuan Wang, Yuke Li, Yuting Yang, Binbin Du, Haoran Fu et.al.|[2309.16178v1](http://arxiv.org/abs/2309.16178v1)|null|
 |**2023-09-27**|**Enhancing End-to-End Conversational Speech Translation Through Target Language Context Utilization**|Amir Hussein, Brian Yan, Antonios Anastasopoulos, Shinji Watanabe, Sanjeev Khudanpur et.al.|[2309.15686v1](http://arxiv.org/abs/2309.15686v1)|null|
@@ -197,6 +198,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Marketing to Children Through Online Targeted Advertising: Targeting Mechanisms and Legal Aspects**|Tinhinane Medjkoune, Oana Goga, Juliette Senechal et.al.|[2310.04104v1](http://arxiv.org/abs/2310.04104v1)|null|
 |**2023-10-02**|**LEEC: A Legal Element Extraction Dataset with an Extensive Domain-Specific Label System**|Xue Zongyue, Liu Huanghai, Hu Yiran, Kong Kangle, Wang Chenlu, Liu Yun, Shen Weixing et.al.|[2310.01271v1](http://arxiv.org/abs/2310.01271v1)|**[link](https://github.com/thulawtech/leec)**|
 |**2023-10-02**|**Comparative Analysis of Technical and Legal Frameworks of Various National Digial Identity Solutions**|Montassar Naghmouchi, Maryline Laurent, Claire Levallois-Barth, Nesrine Kaaniche et.al.|[2310.01006v1](http://arxiv.org/abs/2310.01006v1)|null|
 |**2023-09-29**|**STRONG -- Structure Controllable Legal Opinion Summary Generation**|Yang Zhong, Diane Litman et.al.|[2309.17280v1](http://arxiv.org/abs/2309.17280v1)|null|
@@ -428,6 +430,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Dementia Assessment Using Mandarin Speech with an Attention-based Speech Recognition Encoder**|Zih-Jyun Lin, Yi-Ju Chen, Po-Chih Kuo, Likai Huang, Chaur-Jong Hu, Cheng-Yu Chen et.al.|[2310.03985v1](http://arxiv.org/abs/2310.03985v1)|**[link](https://github.com/jason7580/End-to-End-ASR-and-Dementia-detection-system)**|
 |**2023-10-06**|**The North System for Formosa Speech Recognition Challenge 2023**|Li-Wei Chen, Kai-Chen Cheng, Hung-Shin Lee et.al.|[2310.03443v2](http://arxiv.org/abs/2310.03443v2)|null|
 |**2023-10-05**|**Neural Language Model Pruning for Automatic Speech Recognition**|Leonardo Emili, Thiago Fraga-Silva, Ernest Pusateri, Markus Nußbaum-Thom, Youssef Oualil et.al.|[2310.03424v1](http://arxiv.org/abs/2310.03424v1)|null|
 |**2023-10-04**|**BA-MoE: Boundary-Aware Mixture-of-Experts Adapter for Code-Switching Speech Recognition**|Peikun Chen, Fan Yu, Yuhao Lian, Hongfei Xue, Xucheng Wan, Naijun Zheng, Huan Zhou, Lei Xie et.al.|[2310.02629v1](http://arxiv.org/abs/2310.02629v1)|null|
