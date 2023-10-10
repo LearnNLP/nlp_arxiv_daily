@@ -194,6 +194,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**Automated Argument Generation from Legal Facts**|Oscar Tuvey, Procheta Sen et.al.|[2310.05680v1](http://arxiv.org/abs/2310.05680v1)|null|
+|**2023-10-09**|**LAiW: A Chinese Legal Large Language Models Benchmark (A Technical Report)**|Yongfu Dai, Duanyu Feng, Jimin Huang, Haochen Jia, Qianqian Xie, Yifang Zhang, Weiguang Han, Wei Tian, Hao Wang et.al.|[2310.05620v1](http://arxiv.org/abs/2310.05620v1)|null|
+|**2023-10-08**|**Enhancing Pre-Trained Language Models with Sentence Position Embeddings for Rhetorical Roles Recognition in Legal Opinions**|Anas Belfathi, Nicolas Hernandez, Laura Monceaux et.al.|[2310.05276v1](http://arxiv.org/abs/2310.05276v1)|null|
+|**2023-10-07**|**Investigating the Influence of Legal Case Retrieval Systems on Users' Decision Process**|Beining Wang, Ruizhe Zhang, Yueyue Wu, Qingyao Ai, Min Zhang, Yiqun Liu et.al.|[2310.04735v1](http://arxiv.org/abs/2310.04735v1)|null|
 |**2023-10-06**|**Marketing to Children Through Online Targeted Advertising: Targeting Mechanisms and Legal Aspects**|Tinhinane Medjkoune, Oana Goga, Juliette Senechal et.al.|[2310.04104v1](http://arxiv.org/abs/2310.04104v1)|null|
 |**2023-10-02**|**LEEC: A Legal Element Extraction Dataset with an Extensive Domain-Specific Label System**|Xue Zongyue, Liu Huanghai, Hu Yiran, Kong Kangle, Wang Chenlu, Liu Yun, Shen Weixing et.al.|[2310.01271v1](http://arxiv.org/abs/2310.01271v1)|**[link](https://github.com/thulawtech/leec)**|
 |**2023-10-02**|**Comparative Analysis of Technical and Legal Frameworks of Various National Digial Identity Solutions**|Montassar Naghmouchi, Maryline Laurent, Claire Levallois-Barth, Nesrine Kaaniche et.al.|[2310.01006v1](http://arxiv.org/abs/2310.01006v1)|null|
@@ -426,6 +430,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-07**|**Spike-Triggered Contextual Biasing for End-to-End Mandarin Speech Recognition**|Kaixun Huang, Ao Zhang, Binbin Zhang, Tianyi Xu, Xingchen Song, Lei Xie et.al.|[2310.04657v1](http://arxiv.org/abs/2310.04657v1)|null|
 |**2023-10-06**|**Dementia Assessment Using Mandarin Speech with an Attention-based Speech Recognition Encoder**|Zih-Jyun Lin, Yi-Ju Chen, Po-Chih Kuo, Likai Huang, Chaur-Jong Hu, Cheng-Yu Chen et.al.|[2310.03985v1](http://arxiv.org/abs/2310.03985v1)|**[link](https://github.com/jason7580/End-to-End-ASR-and-Dementia-detection-system)**|
 |**2023-10-06**|**The North System for Formosa Speech Recognition Challenge 2023**|Li-Wei Chen, Kai-Chen Cheng, Hung-Shin Lee et.al.|[2310.03443v2](http://arxiv.org/abs/2310.03443v2)|null|
 |**2023-10-05**|**Neural Language Model Pruning for Automatic Speech Recognition**|Leonardo Emili, Thiago Fraga-Silva, Ernest Pusateri, Markus Nußbaum-Thom, Youssef Oualil et.al.|[2310.03424v1](http://arxiv.org/abs/2310.03424v1)|null|
