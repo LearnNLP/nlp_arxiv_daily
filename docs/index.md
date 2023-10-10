@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.09
+## Updated on 2023.10.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -25,7 +25,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-06**|**Improving Stability in Simultaneous Speech Translation: A Revision-Controllable Decoding Approach**|Junkun Chen, Jian Xue, Peidong Wang, Jing Pan, Jinyu Li et.al.|[2310.04399v1](http://arxiv.org/abs/2310.04399v1)|null|
 |**2023-10-03**|**Tuning Large language model for End-to-end Speech Translation**|Hao Zhang, Nianwen Si, Yaqi Chen, Wenlin Zhang, Xukui Yang, Dan Qu, Xiaolin Jiao et.al.|[2310.02050v1](http://arxiv.org/abs/2310.02050v1)|null|
-|**2023-09-28**|**LAE-ST-MoE: Boosted Language-Aware Encoder Using Speech Translation Auxiliary Task for E2E Code-switching ASR**|Guodong Ma, Wenxuan Wang, Yuke Li, Yuting Yang, Binbin Du, Haoran Fu et.al.|[2309.16178v1](http://arxiv.org/abs/2309.16178v1)|null|
+|**2023-10-07**|**LAE-ST-MoE: Boosted Language-Aware Encoder Using Speech Translation Auxiliary Task for E2E Code-switching ASR**|Guodong Ma, Wenxuan Wang, Yuke Li, Yuting Yang, Binbin Du, Haoran Fu et.al.|[2309.16178v2](http://arxiv.org/abs/2309.16178v2)|null|
 |**2023-09-27**|**Enhancing End-to-End Conversational Speech Translation Through Target Language Context Utilization**|Amir Hussein, Brian Yan, Antonios Anastasopoulos, Shinji Watanabe, Sanjeev Khudanpur et.al.|[2309.15686v1](http://arxiv.org/abs/2309.15686v1)|null|
 |**2023-09-21**|**Bridging the Gaps of Both Modality and Language: Synchronous Bilingual CTC for Speech Translation and Speech Recognition**|Chen Xu, Xiaoqian Liu, Erfeng He, Yuhao Zhang, Qianqian Dong, Tong Xiao, Jingbo Zhu, Dapeng Man, Wu Yang et.al.|[2309.12234v1](http://arxiv.org/abs/2309.12234v1)|**[link](https://github.com/xuchennlp/s2t)**|
 |**2023-09-20**|**SpeechAlign: a Framework for Speech Translation Alignment Evaluation**|Belen Alastruey, Aleix Sant, Gerard I. Gállego, David Dale, Marta R. Costa-jussà et.al.|[2309.11585v1](http://arxiv.org/abs/2309.11585v1)|null|
@@ -192,7 +192,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## Legal
 
@@ -424,7 +424,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -433,7 +433,7 @@ layout: default
 |**2023-10-06**|**Dementia Assessment Using Mandarin Speech with an Attention-based Speech Recognition Encoder**|Zih-Jyun Lin, Yi-Ju Chen, Po-Chih Kuo, Likai Huang, Chaur-Jong Hu, Cheng-Yu Chen et.al.|[2310.03985v1](http://arxiv.org/abs/2310.03985v1)|**[link](https://github.com/jason7580/End-to-End-ASR-and-Dementia-detection-system)**|
 |**2023-10-06**|**The North System for Formosa Speech Recognition Challenge 2023**|Li-Wei Chen, Kai-Chen Cheng, Hung-Shin Lee et.al.|[2310.03443v2](http://arxiv.org/abs/2310.03443v2)|null|
 |**2023-10-05**|**Neural Language Model Pruning for Automatic Speech Recognition**|Leonardo Emili, Thiago Fraga-Silva, Ernest Pusateri, Markus Nußbaum-Thom, Youssef Oualil et.al.|[2310.03424v1](http://arxiv.org/abs/2310.03424v1)|null|
-|**2023-10-04**|**BA-MoE: Boundary-Aware Mixture-of-Experts Adapter for Code-Switching Speech Recognition**|Peikun Chen, Fan Yu, Yuhao Lian, Hongfei Xue, Xucheng Wan, Naijun Zheng, Huan Zhou, Lei Xie et.al.|[2310.02629v1](http://arxiv.org/abs/2310.02629v1)|null|
+|**2023-10-08**|**BA-MoE: Boundary-Aware Mixture-of-Experts Adapter for Code-Switching Speech Recognition**|Peikun Chen, Fan Yu, Yuhao Lian, Hongfei Xue, Xucheng Wan, Naijun Zheng, Huan Zhou, Lei Xie et.al.|[2310.02629v2](http://arxiv.org/abs/2310.02629v2)|null|
 |**2023-10-03**|**Unsupervised Speech Recognition with N-Skipgram and Positional Unigram Matching**|Liming Wang, Mark Hasegawa-Johnson, Chang D. Yoo et.al.|[2310.02382v1](http://arxiv.org/abs/2310.02382v1)|**[link](https://github.com/lwang114/graphunsupasr)**|
 |**2023-10-02**|**One model to rule them all ? Towards End-to-End Joint Speaker Diarization and Speech Recognition**|Samuele Cornell, Jee-weon Jung, Shinji Watanabe, Stefano Squartini et.al.|[2310.01688v1](http://arxiv.org/abs/2310.01688v1)|null|
 |**2023-09-29**|**Federated Learning with Differential Privacy for End-to-End Speech Recognition**|Martin Pelikan, Sheikh Shams Azam, Vitaly Feldman, Jan "Honza" Silovsky, Kunal Talwar, Tatiana Likhomanenko et.al.|[2310.00098v1](http://arxiv.org/abs/2310.00098v1)|null|
@@ -472,9 +472,9 @@ layout: default
 |**2023-09-21**|**CPPF: A contextual and post-processing-free model for automatic speech recognition**|Lei Zhang, Zhengkun Tian, Xiang Chen, Jiaming Sun, Hongyu Xiang, Ke Ding, Guanglu Wan et.al.|[2309.07413v2](http://arxiv.org/abs/2309.07413v2)|null|
 |**2023-09-09**|**Mask-CTC-based Encoder Pre-training for Streaming End-to-End Speech Recognition**|Huaibo Zhao, Yosuke Higuchi, Yusuke Kida, Tetsuji Ogawa, Tetsunori Kobayashi et.al.|[2309.04654v1](http://arxiv.org/abs/2309.04654v1)|null|
 |**2023-09-08**|**End-to-End Speech Recognition and Disfluency Removal with Acoustic Language Model Pretraining**|Saksham Bassi, Giulio Duregon, Siddhartha Jalagam, David Roth et.al.|[2309.04516v1](http://arxiv.org/abs/2309.04516v1)|**[link](https://github.com/davidsroth/hubert-disfl)**|
-|**2023-09-04**|**Text-Only Domain Adaptation for End-to-End Speech Recognition through Down-Sampling Acoustic Representation**|Jiaxu Zhu, Weinan Tong, Yaoxun Xu, Changhe Song, Zhiyong Wu, Zhao You, Dan Su, Dong Yu, Helen Meng et.al.|[2309.02459v1](http://arxiv.org/abs/2309.02459v1)|null|
+|**2023-10-07**|**Text-Only Domain Adaptation for End-to-End Speech Recognition through Down-Sampling Acoustic Representation**|Jiaxu Zhu, Weinan Tong, Yaoxun Xu, Changhe Song, Zhiyong Wu, Zhao You, Dan Su, Dong Yu, Helen Meng et.al.|[2309.02459v2](http://arxiv.org/abs/2309.02459v2)|null|
 |**2023-09-05**|**Bring the Noise: Introducing Noise Robustness to Pretrained Automatic Speech Recognition**|Patrick Eickhoff, Matthias Möller, Theresa Pekarek Rosin, Johannes Twiefel, Stefan Wermter et.al.|[2309.02145v1](http://arxiv.org/abs/2309.02145v1)|null|
-|**2023-09-04**|**SememeASR: Boosting Performance of End-to-End Speech Recognition against Domain and Long-Tailed Data Shift with Sememe Semantic Knowledge**|Jiaxu Zhu, Changhe Song, Zhiyong Wu, Helen Meng et.al.|[2309.01437v1](http://arxiv.org/abs/2309.01437v1)|null|
+|**2023-10-07**|**SememeASR: Boosting Performance of End-to-End Speech Recognition against Domain and Long-Tailed Data Shift with Sememe Semantic Knowledge**|Jiaxu Zhu, Changhe Song, Zhiyong Wu, Helen Meng et.al.|[2309.01437v2](http://arxiv.org/abs/2309.01437v2)|null|
 |**2023-09-01**|**OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation**|Zhening Huang, Xiaoyang Wu, Xi Chen, Hengshuang Zhao, Lei Zhu, Joan Lasenby et.al.|[2309.00616v1](http://arxiv.org/abs/2309.00616v1)|**[link](https://github.com/Pointcept/OpenIns3D)**|
 |**2023-09-01**|**Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following**|Ziyu Guo, Renrui Zhang, Xiangyang Zhu, Yiwen Tang, Xianzheng Ma, Jiaming Han, Kexin Chen, Peng Gao, Xianzhi Li, Hongsheng Li, Pheng-Ann Heng et.al.|[2309.00615v1](http://arxiv.org/abs/2309.00615v1)|**[link](https://github.com/ziyuguo99/point-bind_point-llm)**|
 |**2023-09-01**|**Iterative Multi-granular Image Editing using Diffusion Models**|K J Joseph, Prateksha Udhayanan, Tripti Shukla, Aishwarya Agarwal, Srikrishna Karanam, Koustava Goswami, Balaji Vasan Srinivasan et.al.|[2309.00613v1](http://arxiv.org/abs/2309.00613v1)|null|
@@ -675,7 +675,7 @@ layout: default
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -685,7 +685,7 @@ layout: default
 |**2023-03-31**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v3](http://arxiv.org/abs/2207.14682v3)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
