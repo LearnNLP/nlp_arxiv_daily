@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.10
+## Updated on 2023.10.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -188,7 +188,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
 
 ## Legal
 
@@ -199,7 +199,7 @@
 |**2023-10-08**|**Enhancing Pre-Trained Language Models with Sentence Position Embeddings for Rhetorical Roles Recognition in Legal Opinions**|Anas Belfathi, Nicolas Hernandez, Laura Monceaux et.al.|[2310.05276v1](http://arxiv.org/abs/2310.05276v1)|null|
 |**2023-10-07**|**Investigating the Influence of Legal Case Retrieval Systems on Users' Decision Process**|Beining Wang, Ruizhe Zhang, Yueyue Wu, Qingyao Ai, Min Zhang, Yiqun Liu et.al.|[2310.04735v1](http://arxiv.org/abs/2310.04735v1)|null|
 |**2023-10-06**|**Marketing to Children Through Online Targeted Advertising: Targeting Mechanisms and Legal Aspects**|Tinhinane Medjkoune, Oana Goga, Juliette Senechal et.al.|[2310.04104v1](http://arxiv.org/abs/2310.04104v1)|null|
-|**2023-10-02**|**LEEC: A Legal Element Extraction Dataset with an Extensive Domain-Specific Label System**|Xue Zongyue, Liu Huanghai, Hu Yiran, Kong Kangle, Wang Chenlu, Liu Yun, Shen Weixing et.al.|[2310.01271v1](http://arxiv.org/abs/2310.01271v1)|**[link](https://github.com/thulawtech/leec)**|
+|**2023-10-10**|**LEEC: A Legal Element Extraction Dataset with an Extensive Domain-Specific Label System**|Xue Zongyue, Liu Huanghai, Hu Yiran, Kong Kangle, Wang Chenlu, Liu Yun, Shen Weixing et.al.|[2310.01271v2](http://arxiv.org/abs/2310.01271v2)|**[link](https://github.com/thulawtech/leec)**|
 |**2023-10-02**|**Comparative Analysis of Technical and Legal Frameworks of Various National Digial Identity Solutions**|Montassar Naghmouchi, Maryline Laurent, Claire Levallois-Barth, Nesrine Kaaniche et.al.|[2310.01006v1](http://arxiv.org/abs/2310.01006v1)|null|
 |**2023-09-29**|**STRONG -- Structure Controllable Legal Opinion Summary Generation**|Yang Zhong, Diane Litman et.al.|[2309.17280v1](http://arxiv.org/abs/2309.17280v1)|null|
 |**2023-09-29**|**Interpretable Long-Form Legal Question Answering with Retrieval-Augmented Large Language Models**|Antoine Louis, Gijs van Dijck, Gerasimos Spanakis et.al.|[2309.17050v1](http://arxiv.org/abs/2309.17050v1)|**[link](https://github.com/maastrichtlawtech/lleqa)**|
@@ -424,7 +424,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -445,8 +445,8 @@
 |**2023-09-27**|**Exploring Speech Recognition, Translation, and Understanding with Discrete Speech Units: A Comparative Study**|Xuankai Chang, Brian Yan, Kwanghee Choi, Jeeweon Jung, Yichen Lu, Soumi Maiti, Roshan Sharma, Jiatong Shi, Jinchuan Tian, Shinji Watanabe, Yuya Fujita, Takashi Maekaku, Pengcheng Guo, Yao-Fei Cheng, Pavel Denisov, Kohei Saijo, Hsiu-Hsuan Wang et.al.|[2309.15800v1](http://arxiv.org/abs/2309.15800v1)|null|
 |**2023-09-26**|**Learning from Flawed Data: Weakly Supervised Automatic Speech Recognition**|Dongji Gao, Hainan Xu, Desh Raj, Leibny Paola Garcia Perera, Daniel Povey, Sanjeev Khudanpur et.al.|[2309.15796v1](http://arxiv.org/abs/2309.15796v1)|**[link](https://github.com/k2-fsa/icefall)**|
 |**2023-09-27**|**HyPoradise: An Open Baseline for Generative Speech Recognition with Large Language Models**|Chen Chen, Yuchen Hu, Chao-Han Huck Yang, Sabato Macro Siniscalchi, Pin-Yu Chen, Eng Siong Chng et.al.|[2309.15701v1](http://arxiv.org/abs/2309.15701v1)|null|
-|**2023-09-27**|**Generative Speech Recognition Error Correction with Large Language Models**|Chao-Han Huck Yang, Yile Gu, Yi-Chieh Liu, Shalini Ghosh, Ivan Bulyko, Andreas Stolcke et.al.|[2309.15649v1](http://arxiv.org/abs/2309.15649v1)|null|
-|**2023-09-26**|**Low-rank Adaptation of Large Language Model Rescoring for Parameter-Efficient Speech Recognition**|Yu Yu, Chao-Han Huck Yang, Jari Kolehmainen, Prashanth G. Shivakumar, Yile Gu, Sungho Ryu, Roger Ren, Qi Luo, Aditya Gourav, I-Fan Chen, Yi-Chieh Liu, Tuan Dinh, Ankur Gandhe, Denis Filimonov, Shalini Ghosh, Andreas Stolcke, Ariya Rastow, Ivan Bulyko et.al.|[2309.15223v1](http://arxiv.org/abs/2309.15223v1)|null|
+|**2023-10-10**|**Generative Speech Recognition Error Correction with Large Language Models and Task-Activating Prompting**|Chao-Han Huck Yang, Yile Gu, Yi-Chieh Liu, Shalini Ghosh, Ivan Bulyko, Andreas Stolcke et.al.|[2309.15649v2](http://arxiv.org/abs/2309.15649v2)|null|
+|**2023-10-10**|**Low-rank Adaptation of Large Language Model Rescoring for Parameter-Efficient Speech Recognition**|Yu Yu, Chao-Han Huck Yang, Jari Kolehmainen, Prashanth G. Shivakumar, Yile Gu, Sungho Ryu, Roger Ren, Qi Luo, Aditya Gourav, I-Fan Chen, Yi-Chieh Liu, Tuan Dinh, Ankur Gandhe, Denis Filimonov, Shalini Ghosh, Andreas Stolcke, Ariya Rastow, Ivan Bulyko et.al.|[2309.15223v2](http://arxiv.org/abs/2309.15223v2)|null|
 |**2023-09-26**|**Updated Corpora and Benchmarks for Long-Form Speech Recognition**|Jennifer Drexler Fox, Desh Raj, Natalie Delworth, Quinn McNamara, Corey Miller, Migüel Jetté et.al.|[2309.15013v1](http://arxiv.org/abs/2309.15013v1)|**[link](https://github.com/revdotcom/speech-datasets)**|
 |**2023-09-25**|**On the Impact of Quantization and Pruning of Self-Supervised Speech Models for Downstream Speech Recognition Tasks "In-the-Wild''**|Arthur Pimentel, Heitor Guimarães, Anderson R. Avila, Mehdi Rezagholizadeh, Tiago H. Falk et.al.|[2309.14462v1](http://arxiv.org/abs/2309.14462v1)|null|
 |**2023-09-21**|**Bridging the Gaps of Both Modality and Language: Synchronous Bilingual CTC for Speech Translation and Speech Recognition**|Chen Xu, Xiaoqian Liu, Erfeng He, Yuhao Zhang, Qianqian Dong, Tong Xiao, Jingbo Zhu, Dapeng Man, Wu Yang et.al.|[2309.12234v1](http://arxiv.org/abs/2309.12234v1)|**[link](https://github.com/xuchennlp/s2t)**|
@@ -676,7 +676,7 @@
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -686,7 +686,7 @@
 |**2023-03-31**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v3](http://arxiv.org/abs/2207.14682v3)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
