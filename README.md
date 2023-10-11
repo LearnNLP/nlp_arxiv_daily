@@ -430,6 +430,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**No Pitch Left Behind: Addressing Gender Unbalance in Automatic Speech Recognition through Pitch Manipulation**|Dennis Fucci, Marco Gaido, Matteo Negri, Mauro Cettolo, Luisa Bentivogli et.al.|[2310.06590v1](http://arxiv.org/abs/2310.06590v1)|null|
+|**2023-10-10**|**Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition**|Srijith Radhakrishnan, Chao-Han Huck Yang, Sumeer Ahmad Khan, Rohit Kumar, Narsis A. Kiani, David Gomez-Cabrero, Jesper N. Tegner et.al.|[2310.06434v1](http://arxiv.org/abs/2310.06434v1)|**[link](https://github.com/srijith-rkr/whispering-llama)**|
+|**2023-10-10**|**Discriminative Speech Recognition Rescoring with Pre-trained Language Models**|Prashanth Gurunath Shivakumar, Jari Kolehmainen, Yile Gu, Ankur Gandhe, Ariya Rastrow, Ivan Bulyko et.al.|[2310.06248v1](http://arxiv.org/abs/2310.06248v1)|null|
 |**2023-10-07**|**Spike-Triggered Contextual Biasing for End-to-End Mandarin Speech Recognition**|Kaixun Huang, Ao Zhang, Binbin Zhang, Tianyi Xu, Xingchen Song, Lei Xie et.al.|[2310.04657v1](http://arxiv.org/abs/2310.04657v1)|null|
 |**2023-10-06**|**Dementia Assessment Using Mandarin Speech with an Attention-based Speech Recognition Encoder**|Zih-Jyun Lin, Yi-Ju Chen, Po-Chih Kuo, Likai Huang, Chaur-Jong Hu, Cheng-Yu Chen et.al.|[2310.03985v1](http://arxiv.org/abs/2310.03985v1)|**[link](https://github.com/jason7580/End-to-End-ASR-and-Dementia-detection-system)**|
 |**2023-10-06**|**The North System for Formosa Speech Recognition Challenge 2023**|Li-Wei Chen, Kai-Chen Cheng, Hung-Shin Lee et.al.|[2310.03443v2](http://arxiv.org/abs/2310.03443v2)|null|
