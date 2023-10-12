@@ -23,6 +23,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**DASpeech: Directed Acyclic Transformer for Fast and High-quality Speech-to-Speech Translation**|Qingkai Fang, Yan Zhou, Yang Feng et.al.|[2310.07403v1](http://arxiv.org/abs/2310.07403v1)|**[link](https://github.com/ictnlp/daspeech)**|
+|**2023-10-11**|**Enhancing expressivity transfer in textless speech-to-speech translation**|Jarod Duret, Benjamin O'Brien, Yannick Estève, Titouan Parcollet et.al.|[2310.07279v1](http://arxiv.org/abs/2310.07279v1)|null|
 |**2023-10-06**|**Improving Stability in Simultaneous Speech Translation: A Revision-Controllable Decoding Approach**|Junkun Chen, Jian Xue, Peidong Wang, Jing Pan, Jinyu Li et.al.|[2310.04399v1](http://arxiv.org/abs/2310.04399v1)|null|
 |**2023-10-03**|**Tuning Large language model for End-to-end Speech Translation**|Hao Zhang, Nianwen Si, Yaqi Chen, Wenlin Zhang, Xukui Yang, Dan Qu, Xiaolin Jiao et.al.|[2310.02050v1](http://arxiv.org/abs/2310.02050v1)|null|
 |**2023-10-07**|**LAE-ST-MoE: Boosted Language-Aware Encoder Using Speech Translation Auxiliary Task for E2E Code-switching ASR**|Guodong Ma, Wenxuan Wang, Yuke Li, Yuting Yang, Binbin Du, Haoran Fu et.al.|[2309.16178v2](http://arxiv.org/abs/2309.16178v2)|null|
@@ -198,6 +200,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**Empirical Analysis of the Impact of Legal Tender Digital Currency on Monetary Policy -Based on China's Data**|Ruimin Song, TIntian Zhao, Chunhui Zhou et.al.|[2310.07326v1](http://arxiv.org/abs/2310.07326v1)|null|
 |**2023-10-10**|**Automated Argument Generation from Legal Facts**|Oscar Tuvey, Procheta Sen et.al.|[2310.05680v2](http://arxiv.org/abs/2310.05680v2)|null|
 |**2023-10-09**|**LAiW: A Chinese Legal Large Language Models Benchmark (A Technical Report)**|Yongfu Dai, Duanyu Feng, Jimin Huang, Haochen Jia, Qianqian Xie, Yifang Zhang, Weiguang Han, Wei Tian, Hao Wang et.al.|[2310.05620v1](http://arxiv.org/abs/2310.05620v1)|null|
 |**2023-10-08**|**Enhancing Pre-Trained Language Models with Sentence Position Embeddings for Rhetorical Roles Recognition in Legal Opinions**|Anas Belfathi, Nicolas Hernandez, Laura Monceaux et.al.|[2310.05276v1](http://arxiv.org/abs/2310.05276v1)|null|
@@ -434,6 +437,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**Acoustic Model Fusion for End-to-end Speech Recognition**|Zhihong Lei, Mingbin Xu, Shiyi Han, Leo Liu, Zhen Huang, Tim Ng, Yuanyuan Zhang, Ernest Pusateri, Mirko Hannemann, Yaqiao Deng, Man-Hung Siu et.al.|[2310.07062v1](http://arxiv.org/abs/2310.07062v1)|null|
 |**2023-10-10**|**No Pitch Left Behind: Addressing Gender Unbalance in Automatic Speech Recognition through Pitch Manipulation**|Dennis Fucci, Marco Gaido, Matteo Negri, Mauro Cettolo, Luisa Bentivogli et.al.|[2310.06590v1](http://arxiv.org/abs/2310.06590v1)|null|
 |**2023-10-10**|**Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition**|Srijith Radhakrishnan, Chao-Han Huck Yang, Sumeer Ahmad Khan, Rohit Kumar, Narsis A. Kiani, David Gomez-Cabrero, Jesper N. Tegner et.al.|[2310.06434v1](http://arxiv.org/abs/2310.06434v1)|**[link](https://github.com/srijith-rkr/whispering-llama)**|
 |**2023-10-10**|**Discriminative Speech Recognition Rescoring with Pre-trained Language Models**|Prashanth Gurunath Shivakumar, Jari Kolehmainen, Yile Gu, Ankur Gandhe, Ariya Rastrow, Ivan Bulyko et.al.|[2310.06248v1](http://arxiv.org/abs/2310.06248v1)|null|
