@@ -433,6 +433,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**On the Relevance of Phoneme Duration Variability of Synthesized Training Data for Automatic Speech Recognition**|Nick Rossenbach, Benedikt Hilmes, Ralf Schlüter et.al.|[2310.08132v1](http://arxiv.org/abs/2310.08132v1)|null|
 |**2023-10-10**|**Acoustic Model Fusion for End-to-end Speech Recognition**|Zhihong Lei, Mingbin Xu, Shiyi Han, Leo Liu, Zhen Huang, Tim Ng, Yuanyuan Zhang, Ernest Pusateri, Mirko Hannemann, Yaqiao Deng, Man-Hung Siu et.al.|[2310.07062v1](http://arxiv.org/abs/2310.07062v1)|null|
 |**2023-10-10**|**No Pitch Left Behind: Addressing Gender Unbalance in Automatic Speech Recognition through Pitch Manipulation**|Dennis Fucci, Marco Gaido, Matteo Negri, Mauro Cettolo, Luisa Bentivogli et.al.|[2310.06590v1](http://arxiv.org/abs/2310.06590v1)|null|
 |**2023-10-10**|**Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition**|Srijith Radhakrishnan, Chao-Han Huck Yang, Sumeer Ahmad Khan, Rohit Kumar, Narsis A. Kiani, David Gomez-Cabrero, Jesper N. Tegner et.al.|[2310.06434v1](http://arxiv.org/abs/2310.06434v1)|**[link](https://github.com/srijith-rkr/whispering-llama)**|
