@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**Dialect Transfer for Swiss German Speech Translation**|Claudio Paonessa, Yanick Schraner, Jan Deriu, Manuela Hürlimann, Manfred Vogel, Mark Cieliebak et.al.|[2310.09088v1](http://arxiv.org/abs/2310.09088v1)|null|
 |**2023-10-11**|**DASpeech: Directed Acyclic Transformer for Fast and High-quality Speech-to-Speech Translation**|Qingkai Fang, Yan Zhou, Yang Feng et.al.|[2310.07403v1](http://arxiv.org/abs/2310.07403v1)|**[link](https://github.com/ictnlp/daspeech)**|
 |**2023-10-11**|**Enhancing expressivity transfer in textless speech-to-speech translation**|Jarod Duret, Benjamin O'Brien, Yannick Estève, Titouan Parcollet et.al.|[2310.07279v1](http://arxiv.org/abs/2310.07279v1)|null|
 |**2023-10-06**|**Improving Stability in Simultaneous Speech Translation: A Revision-Controllable Decoding Approach**|Junkun Chen, Jian Xue, Peidong Wang, Jing Pan, Jinyu Li et.al.|[2310.04399v1](http://arxiv.org/abs/2310.04399v1)|null|
@@ -200,6 +201,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration**|Yiquan Wu, Siying Zhou, Yifei Liu, Weiming Lu, Xiaozhong Liu, Yating Zhang, Changlong Sun, Fei Wu, Kun Kuang et.al.|[2310.09241v1](http://arxiv.org/abs/2310.09241v1)|null|
 |**2023-10-11**|**Empirical Analysis of the Impact of Legal Tender Digital Currency on Monetary Policy -Based on China's Data**|Ruimin Song, TIntian Zhao, Chunhui Zhou et.al.|[2310.07326v1](http://arxiv.org/abs/2310.07326v1)|null|
 |**2023-10-12**|**Automated Argument Generation from Legal Facts**|Oscar Tuvey, Procheta Sen et.al.|[2310.05680v3](http://arxiv.org/abs/2310.05680v3)|null|
 |**2023-10-09**|**LAiW: A Chinese Legal Large Language Models Benchmark (A Technical Report)**|Yongfu Dai, Duanyu Feng, Jimin Huang, Haochen Jia, Qianqian Xie, Yifang Zhang, Weiguang Han, Wei Tian, Hao Wang et.al.|[2310.05620v1](http://arxiv.org/abs/2310.05620v1)|**[link](https://github.com/dai-shen/laiw)**|
@@ -214,7 +216,7 @@ layout: default
 |**2023-09-26**|**Question-Answering Approach to Evaluate Legal Summaries**|Huihui Xu, Kevin Ashley et.al.|[2309.15016v1](http://arxiv.org/abs/2309.15016v1)|null|
 |**2023-09-26**|**Comparative Analysis of Artificial Intelligence for Indian Legal Question Answering (AILQA) Using Different Retrieval and QA Models**|Shubham Kumar Nigam, Shubham Kumar Mishra, Ayush Kumar Mishra, Noel Shallum, Arnab Bhattacharya et.al.|[2309.14735v1](http://arxiv.org/abs/2309.14735v1)|null|
 |**2023-09-22**|**The Cambridge Law Corpus: A Corpus for Legal AI Research**|Andreas Östling, Holli Sargeant, Huiyuan Xie, Ludwig Bull, Alexander Terenin, Leif Jonsson, Måns Magnusson, Felix Steffek et.al.|[2309.12269v2](http://arxiv.org/abs/2309.12269v2)|null|
-|**2023-09-25**|**Legitimate Interest is the New Consent -- Large-Scale Measurement and Legal Compliance of IAB Europe TCF Paywalls**|Victor Morel, Cristiana Santos, Viktor Fredholm, Adam Thunberg et.al.|[2309.11625v2](http://arxiv.org/abs/2309.11625v2)|null|
+|**2023-10-13**|**Legitimate Interest is the New Consent -- Large-Scale Measurement and Legal Compliance of IAB Europe TCF Paywalls**|Victor Morel, Cristiana Santos, Viktor Fredholm, Adam Thunberg et.al.|[2309.11625v3](http://arxiv.org/abs/2309.11625v3)|null|
 |**2023-09-23**|**DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services**|Shengbin Yue, Wei Chen, Siyuan Wang, Bingxuan Li, Chenchen Shen, Shujun Liu, Yuxuan Zhou, Yao Xiao, Song Yun, Xuanjing Huang, Zhongyu Wei et.al.|[2309.11325v2](http://arxiv.org/abs/2309.11325v2)|**[link](https://github.com/fudandisc/disc-lawllm)**|
 |**2023-09-25**|**A Hierarchical Neural Framework for Classification and its Explanation in Large Unstructured Legal Documents**|Nishchal Prasad, Mohand Boughanem, Taoufik Dkaki et.al.|[2309.10563v2](http://arxiv.org/abs/2309.10563v2)|null|
 |**2023-09-16**|**NOWJ1@ALQAC 2023: Enhancing Legal Task Performance with Classic Statistical Models and Pre-trained Language Models**|Tan-Minh Nguyen, Xuan-Hoa Nguyen, Ngoc-Duy Mai, Minh-Quan Hoang, Van-Huan Nguyen, Hoang-Viet Nguyen, Ha-Thanh Nguyen, Thi-Hai-Yen Vuong et.al.|[2309.09070v1](http://arxiv.org/abs/2309.09070v1)|null|
