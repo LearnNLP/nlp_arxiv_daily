@@ -201,6 +201,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**Prediction of Arabic Legal Rulings using Large Language Models**|Adel Ammar, Anis Koubaa, Bilel Benjdira, Omar Najar, Serry Sibaee et.al.|[2310.10260v1](http://arxiv.org/abs/2310.10260v1)|null|
+|**2023-10-15**|**Improving Access to Justice for the Indian Population: A Benchmark for Evaluating Translation of Legal Text to Indian Languages**|Sayan Mahapatra, Debtanu Datta, Shubham Soni, Adrijit Goswami, Saptarshi Ghosh et.al.|[2310.09765v1](http://arxiv.org/abs/2310.09765v1)|null|
 |**2023-10-13**|**Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration**|Yiquan Wu, Siying Zhou, Yifei Liu, Weiming Lu, Xiaozhong Liu, Yating Zhang, Changlong Sun, Fei Wu, Kun Kuang et.al.|[2310.09241v1](http://arxiv.org/abs/2310.09241v1)|null|
 |**2023-10-11**|**Empirical Analysis of the Impact of Legal Tender Digital Currency on Monetary Policy -Based on China's Data**|Ruimin Song, TIntian Zhao, Chunhui Zhou et.al.|[2310.07326v1](http://arxiv.org/abs/2310.07326v1)|null|
 |**2023-10-12**|**Automated Argument Generation from Legal Facts**|Oscar Tuvey, Procheta Sen et.al.|[2310.05680v3](http://arxiv.org/abs/2310.05680v3)|null|
@@ -439,6 +441,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**Personalization of CTC-based End-to-End Speech Recognition Using Pronunciation-Driven Subword Tokenization**|Zhihong Lei, Ernest Pusateri, Shiyi Han, Leo Liu, Mingbin Xu, Tim Ng, Ruchir Travadi, Youyuan Zhang, Mirko Hannemann, Man-Hung Siu, Zhen Huang et.al.|[2310.09988v1](http://arxiv.org/abs/2310.09988v1)|null|
+|**2023-10-14**|**Improved Contextual Recognition In Automatic Speech Recognition Systems By Semantic Lattice Rescoring**|Ankitha Sudarshan, Vinay Samuel, Parth Patwa, Ibtihel Amara, Aman Chadha et.al.|[2310.09680v1](http://arxiv.org/abs/2310.09680v1)|null|
+|**2023-10-13**|**SALM: Speech-augmented Language Model with In-context Learning for Speech Recognition and Translation**|Zhehuai Chen, He Huang, Andrei Andrusenko, Oleksii Hrinchuk, Krishna C. Puvvada, Jason Li, Subhankar Ghosh, Jagadeesh Balam, Boris Ginsburg et.al.|[2310.09424v1](http://arxiv.org/abs/2310.09424v1)|null|
 |**2023-10-12**|**On the Relevance of Phoneme Duration Variability of Synthesized Training Data for Automatic Speech Recognition**|Nick Rossenbach, Benedikt Hilmes, Ralf Schlüter et.al.|[2310.08132v1](http://arxiv.org/abs/2310.08132v1)|null|
 |**2023-10-10**|**Acoustic Model Fusion for End-to-end Speech Recognition**|Zhihong Lei, Mingbin Xu, Shiyi Han, Leo Liu, Zhen Huang, Tim Ng, Yuanyuan Zhang, Ernest Pusateri, Mirko Hannemann, Yaqiao Deng, Man-Hung Siu et.al.|[2310.07062v1](http://arxiv.org/abs/2310.07062v1)|null|
 |**2023-10-10**|**No Pitch Left Behind: Addressing Gender Unbalance in Automatic Speech Recognition through Pitch Manipulation**|Dennis Fucci, Marco Gaido, Matteo Negri, Mauro Cettolo, Luisa Bentivogli et.al.|[2310.06590v1](http://arxiv.org/abs/2310.06590v1)|null|
