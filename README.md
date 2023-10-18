@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Long-form Simultaneous Speech Translation: Thesis Proposal**|Peter Polák et.al.|[2310.11141v1](http://arxiv.org/abs/2310.11141v1)|null|
 |**2023-10-13**|**Dialect Transfer for Swiss German Speech Translation**|Claudio Paonessa, Yanick Schraner, Jan Deriu, Manuela Hürlimann, Manfred Vogel, Mark Cieliebak et.al.|[2310.09088v1](http://arxiv.org/abs/2310.09088v1)|null|
 |**2023-10-11**|**DASpeech: Directed Acyclic Transformer for Fast and High-quality Speech-to-Speech Translation**|Qingkai Fang, Yan Zhou, Yang Feng et.al.|[2310.07403v1](http://arxiv.org/abs/2310.07403v1)|**[link](https://github.com/ictnlp/daspeech)**|
 |**2023-10-11**|**Enhancing expressivity transfer in textless speech-to-speech translation**|Jarod Duret, Benjamin O'Brien, Yannick Estève, Titouan Parcollet et.al.|[2310.07279v1](http://arxiv.org/abs/2310.07279v1)|null|
@@ -61,7 +62,7 @@
 |**2023-05-22**|**Duplex Diffusion Models Improve Speech-to-Speech Translation**|Xianchao Wu et.al.|[2305.12628v1](http://arxiv.org/abs/2305.12628v1)|null|
 |**2023-05-19**|**DUB: Discrete Unit Back-translation for Speech Translation**|Dong Zhang, Rong Ye, Tom Ko, Mingxuan Wang, Yaqian Zhou et.al.|[2305.11411v1](http://arxiv.org/abs/2305.11411v1)|**[link](https://github.com/0nutation/dub)**|
 |**2023-07-20**|**AlignAtt: Using Attention-based Audio-Translation Alignments as a Guide for Simultaneous Speech Translation**|Sara Papi, Marco Turchi, Matteo Negri et.al.|[2305.11408v2](http://arxiv.org/abs/2305.11408v2)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
-|**2023-10-17**|**The Interpreter Understands Your Meaning: End-to-end Spoken Language Understanding Aided by Speech Translation**|Mutian He, Philip N. Garner et.al.|[2305.09652v2](http://arxiv.org/abs/2305.09652v2)|null|
+|**2023-10-17**|**The Interpreter Understands Your Meaning: End-to-end Spoken Language Understanding Aided by Speech Translation**|Mutian He, Philip N. Garner et.al.|[2305.09652v2](http://arxiv.org/abs/2305.09652v2)|**[link](https://github.com/idiap/translation-aided-slu)**|
 |**2023-05-15**|**Understanding and Bridging the Modality Gap for Speech Translation**|Qingkai Fang, Yang Feng et.al.|[2305.08706v1](http://arxiv.org/abs/2305.08706v1)|**[link](https://github.com/ictnlp/cress)**|
 |**2023-05-12**|**Improving Cascaded Unsupervised Speech Translation with Denoising Back-translation**|Yu-Kuan Fu, Liang-Hsuan Tseng, Jiatong Shi, Chen-An Li, Tsu-Yuan Hsu, Shinji Watanabe, Hung-yi Lee et.al.|[2305.07455v1](http://arxiv.org/abs/2305.07455v1)|null|
 |**2023-04-25**|**Improving Speech Translation Accuracy and Time Efficiency with Fine-tuned wav2vec 2.0-based Speech Segmentation**|Ryo Fukuda, Katsuhito Sudoh, Satoshi Nakamura et.al.|[2304.12659v1](http://arxiv.org/abs/2304.12659v1)|null|
@@ -197,6 +198,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Nonet at SemEval-2023 Task 6: Methodologies for Legal Evaluation**|Shubham Kumar Nigam, Aniket Deroy, Noel Shallum, Ayush Kumar Mishra, Anup Roy, Shubham Kumar Mishra, Arnab Bhattacharya, Saptarshi Ghosh, Kripabandhu Ghosh et.al.|[2310.11049v1](http://arxiv.org/abs/2310.11049v1)|null|
 |**2023-10-16**|**Prediction of Arabic Legal Rulings using Large Language Models**|Adel Ammar, Anis Koubaa, Bilel Benjdira, Omar Najar, Serry Sibaee et.al.|[2310.10260v1](http://arxiv.org/abs/2310.10260v1)|null|
 |**2023-10-15**|**Improving Access to Justice for the Indian Population: A Benchmark for Evaluating Translation of Legal Text to Indian Languages**|Sayan Mahapatra, Debtanu Datta, Shubham Soni, Adrijit Goswami, Saptarshi Ghosh et.al.|[2310.09765v1](http://arxiv.org/abs/2310.09765v1)|null|
 |**2023-10-13**|**Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration**|Yiquan Wu, Siying Zhou, Yifei Liu, Weiming Lu, Xiaozhong Liu, Yating Zhang, Changlong Sun, Fei Wu, Kun Kuang et.al.|[2310.09241v1](http://arxiv.org/abs/2310.09241v1)|null|
@@ -437,6 +439,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Zipformer: A faster and better encoder for automatic speech recognition**|Zengwei Yao, Liyong Guo, Xiaoyu Yang, Wei Kang, Fangjun Kuang, Yifan Yang, Zengrui Jin, Long Lin, Daniel Povey et.al.|[2310.11230v1](http://arxiv.org/abs/2310.11230v1)|**[link](https://github.com/k2-fsa/icefall)**|
+|**2023-10-17**|**VoxArabica: A Robust Dialect-Aware Arabic Speech Recognition System**|Abdul Waheed, Bashar Talafha, Peter Suvellin, Abdelrahman Elmadney, Muhammad Abdul-Mageed et.al.|[2310.11069v1](http://arxiv.org/abs/2310.11069v1)|null|
+|**2023-10-17**|**Iterative Shallow Fusion of Backward Language Model for End-to-End Speech Recognition**|Atsunori Ogawa, Takafumi Moriya, Naoyuki Kamo, Naohiro Tawara, Marc Delcroix et.al.|[2310.11010v1](http://arxiv.org/abs/2310.11010v1)|null|
+|**2023-10-17**|**Advanced accent/dialect identification and accentedness assessment with multi-embedding models and automatic speech recognition**|Shahram Ghorbani, John H. L. Hansen et.al.|[2310.11004v1](http://arxiv.org/abs/2310.11004v1)|null|
+|**2023-10-17**|**Correction Focused Language Model Training for Speech Recognition**|Yingyi Ma, Zhe Liu, Ozlem Kalinli et.al.|[2310.11003v1](http://arxiv.org/abs/2310.11003v1)|null|
 |**2023-10-16**|**Personalization of CTC-based End-to-End Speech Recognition Using Pronunciation-Driven Subword Tokenization**|Zhihong Lei, Ernest Pusateri, Shiyi Han, Leo Liu, Mingbin Xu, Tim Ng, Ruchir Travadi, Youyuan Zhang, Mirko Hannemann, Man-Hung Siu, Zhen Huang et.al.|[2310.09988v1](http://arxiv.org/abs/2310.09988v1)|null|
 |**2023-10-17**|**Improved Contextual Recognition In Automatic Speech Recognition Systems By Semantic Lattice Rescoring**|Ankitha Sudarshan, Vinay Samuel, Parth Patwa, Ibtihel Amara, Aman Chadha et.al.|[2310.09680v2](http://arxiv.org/abs/2310.09680v2)|null|
 |**2023-10-13**|**SALM: Speech-augmented Language Model with In-context Learning for Speech Recognition and Translation**|Zhehuai Chen, He Huang, Andrei Andrusenko, Oleksii Hrinchuk, Krishna C. Puvvada, Jason Li, Subhankar Ghosh, Jagadeesh Balam, Boris Ginsburg et.al.|[2310.09424v1](http://arxiv.org/abs/2310.09424v1)|**[link](https://github.com/NVIDIA/NeMo)**|
