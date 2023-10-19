@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.18
+## Updated on 2023.10.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -196,13 +196,13 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
 
 ## Legal
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-17**|**Nonet at SemEval-2023 Task 6: Methodologies for Legal Evaluation**|Shubham Kumar Nigam, Aniket Deroy, Noel Shallum, Ayush Kumar Mishra, Anup Roy, Shubham Kumar Mishra, Arnab Bhattacharya, Saptarshi Ghosh, Kripabandhu Ghosh et.al.|[2310.11049v1](http://arxiv.org/abs/2310.11049v1)|null|
+|**2023-10-17**|**Nonet at SemEval-2023 Task 6: Methodologies for Legal Evaluation**|Shubham Kumar Nigam, Aniket Deroy, Noel Shallum, Ayush Kumar Mishra, Anup Roy, Shubham Kumar Mishra, Arnab Bhattacharya, Saptarshi Ghosh, Kripabandhu Ghosh et.al.|[2310.11049v1](http://arxiv.org/abs/2310.11049v1)|**[link](https://github.com/shubhamkumarnigam/legaleval23_nonet)**|
 |**2023-10-16**|**Prediction of Arabic Legal Rulings using Large Language Models**|Adel Ammar, Anis Koubaa, Bilel Benjdira, Omar Najar, Serry Sibaee et.al.|[2310.10260v1](http://arxiv.org/abs/2310.10260v1)|null|
 |**2023-10-15**|**Improving Access to Justice for the Indian Population: A Benchmark for Evaluating Translation of Legal Text to Indian Languages**|Sayan Mahapatra, Debtanu Datta, Shubham Soni, Adrijit Goswami, Saptarshi Ghosh et.al.|[2310.09765v1](http://arxiv.org/abs/2310.09765v1)|null|
 |**2023-10-13**|**Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration**|Yiquan Wu, Siying Zhou, Yifei Liu, Weiming Lu, Xiaozhong Liu, Yating Zhang, Changlong Sun, Fei Wu, Kun Kuang et.al.|[2310.09241v1](http://arxiv.org/abs/2310.09241v1)|null|
@@ -437,7 +437,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -470,7 +470,7 @@ layout: default
 |**2023-09-26**|**Unsupervised Pre-Training for Vietnamese Automatic Speech Recognition in the HYKIST Project**|Khai Le-Duc et.al.|[2309.15869v1](http://arxiv.org/abs/2309.15869v1)|null|
 |**2023-09-27**|**Exploring Speech Recognition, Translation, and Understanding with Discrete Speech Units: A Comparative Study**|Xuankai Chang, Brian Yan, Kwanghee Choi, Jeeweon Jung, Yichen Lu, Soumi Maiti, Roshan Sharma, Jiatong Shi, Jinchuan Tian, Shinji Watanabe, Yuya Fujita, Takashi Maekaku, Pengcheng Guo, Yao-Fei Cheng, Pavel Denisov, Kohei Saijo, Hsiu-Hsuan Wang et.al.|[2309.15800v1](http://arxiv.org/abs/2309.15800v1)|null|
 |**2023-09-26**|**Learning from Flawed Data: Weakly Supervised Automatic Speech Recognition**|Dongji Gao, Hainan Xu, Desh Raj, Leibny Paola Garcia Perera, Daniel Povey, Sanjeev Khudanpur et.al.|[2309.15796v1](http://arxiv.org/abs/2309.15796v1)|**[link](https://github.com/k2-fsa/icefall)**|
-|**2023-10-16**|**HyPoradise: An Open Baseline for Generative Speech Recognition with Large Language Models**|Chen Chen, Yuchen Hu, Chao-Han Huck Yang, Sabato Macro Siniscalchi, Pin-Yu Chen, Eng Siong Chng et.al.|[2309.15701v2](http://arxiv.org/abs/2309.15701v2)|null|
+|**2023-10-16**|**HyPoradise: An Open Baseline for Generative Speech Recognition with Large Language Models**|Chen Chen, Yuchen Hu, Chao-Han Huck Yang, Sabato Macro Siniscalchi, Pin-Yu Chen, Eng Siong Chng et.al.|[2309.15701v2](http://arxiv.org/abs/2309.15701v2)|**[link](https://github.com/hypotheses-paradise/hypo2trans)**|
 |**2023-10-10**|**Generative Speech Recognition Error Correction with Large Language Models and Task-Activating Prompting**|Chao-Han Huck Yang, Yile Gu, Yi-Chieh Liu, Shalini Ghosh, Ivan Bulyko, Andreas Stolcke et.al.|[2309.15649v2](http://arxiv.org/abs/2309.15649v2)|null|
 |**2023-10-10**|**Low-rank Adaptation of Large Language Model Rescoring for Parameter-Efficient Speech Recognition**|Yu Yu, Chao-Han Huck Yang, Jari Kolehmainen, Prashanth G. Shivakumar, Yile Gu, Sungho Ryu, Roger Ren, Qi Luo, Aditya Gourav, I-Fan Chen, Yi-Chieh Liu, Tuan Dinh, Ankur Gandhe, Denis Filimonov, Shalini Ghosh, Andreas Stolcke, Ariya Rastow, Ivan Bulyko et.al.|[2309.15223v2](http://arxiv.org/abs/2309.15223v2)|null|
 |**2023-09-26**|**Updated Corpora and Benchmarks for Long-Form Speech Recognition**|Jennifer Drexler Fox, Desh Raj, Natalie Delworth, Quinn McNamara, Corey Miller, Migüel Jetté et.al.|[2309.15013v1](http://arxiv.org/abs/2309.15013v1)|**[link](https://github.com/revdotcom/speech-datasets)**|
@@ -633,7 +633,7 @@ layout: default
 |**2023-08-03**|**Adapting Large Language Model with Speech for Fully Formatted End-to-End Speech Recognition**|Shaoshi Ling, Yuxuan Hu, Shuangbei Qian, Guoli Ye, Yao Qian, Yifan Gong, Ed Lin, Michael Zeng et.al.|[2307.08234v2](http://arxiv.org/abs/2307.08234v2)|**[link](https://github.com/openai/whisper)**|
 |**2023-07-17**|**Towards Stealthy Backdoor Attacks against Speech Recognition via Elements of Sound**|Hanbo Cai, Pengcheng Zhang, Hai Dong, Yan Xiao, Stefanos Koffas, Yiming Li et.al.|[2307.08208v1](http://arxiv.org/abs/2307.08208v1)|**[link](https://github.com/hanbocai/badspeech_soe)**|
 |**2023-07-12**|**Sumformer: A Linear-Complexity Alternative to Self-Attention for Speech Recognition**|Titouan Parcollet, Rogier van Dalen, Shucong Zhang, Sourav Bhattacharya et.al.|[2307.07421v1](http://arxiv.org/abs/2307.07421v1)|null|
-|**2023-07-14**|**Replay to Remember: Continual Layer-Specific Fine-tuning for German Speech Recognition**|Theresa Pekarek Rosin, Stefan Wermter et.al.|[2307.07280v1](http://arxiv.org/abs/2307.07280v1)|null|
+|**2023-10-18**|**Replay to Remember: Continual Layer-Specific Fine-tuning for German Speech Recognition**|Theresa Pekarek Rosin, Stefan Wermter et.al.|[2307.07280v2](http://arxiv.org/abs/2307.07280v2)|null|
 |**2023-07-13**|**Personalization for BERT-based Discriminative Speech Recognition Rescoring**|Jari Kolehmainen, Yile Gu, Aditya Gourav, Prashanth Gurunath Shivakumar, Ankur Gandhe, Ariya Rastrow, Ivan Bulyko et.al.|[2307.06832v1](http://arxiv.org/abs/2307.06832v1)|null|
 |**2023-07-13**|**Exploring the Integration of Large Language Models into Automatic Speech Recognition Systems: An Empirical Study**|Zeping Min, Jinbo Wang et.al.|[2307.06530v1](http://arxiv.org/abs/2307.06530v1)|null|
 |**2023-07-14**|**Language-Routing Mixture of Experts for Multilingual and Code-Switching Speech Recognition**|Wenxuan Wang, Guodong Ma, Yuke Li, Binbin Du et.al.|[2307.05956v2](http://arxiv.org/abs/2307.05956v2)|null|
@@ -702,7 +702,7 @@ layout: default
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -712,7 +712,7 @@ layout: default
 |**2023-03-31**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v3](http://arxiv.org/abs/2207.14682v3)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
