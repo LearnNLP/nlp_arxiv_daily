@@ -198,6 +198,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Automated Attribute Extraction from Legal Proceedings**|Subinay Adhikary, Sagnik Das, Sagnik Saha, Procheta Sen, Dwaipayan Roy, Kripabandhu Ghosh et.al.|[2310.12131v1](http://arxiv.org/abs/2310.12131v1)|null|
+|**2023-10-18**|**A Comprehensive Evaluation of Large Language Models on Legal Judgment Prediction**|Ruihao Shui, Yixin Cao, Xiang Wang, Tat-Seng Chua et.al.|[2310.11761v1](http://arxiv.org/abs/2310.11761v1)|**[link](https://github.com/srhthu/lm-compeval-legal)**|
 |**2023-10-17**|**Nonet at SemEval-2023 Task 6: Methodologies for Legal Evaluation**|Shubham Kumar Nigam, Aniket Deroy, Noel Shallum, Ayush Kumar Mishra, Anup Roy, Shubham Kumar Mishra, Arnab Bhattacharya, Saptarshi Ghosh, Kripabandhu Ghosh et.al.|[2310.11049v1](http://arxiv.org/abs/2310.11049v1)|**[link](https://github.com/shubhamkumarnigam/legaleval23_nonet)**|
 |**2023-10-16**|**Prediction of Arabic Legal Rulings using Large Language Models**|Adel Ammar, Anis Koubaa, Bilel Benjdira, Omar Najar, Serry Sibaee et.al.|[2310.10260v1](http://arxiv.org/abs/2310.10260v1)|null|
 |**2023-10-15**|**Improving Access to Justice for the Indian Population: A Benchmark for Evaluating Translation of Legal Text to Indian Languages**|Sayan Mahapatra, Debtanu Datta, Shubham Soni, Adrijit Goswami, Saptarshi Ghosh et.al.|[2310.09765v1](http://arxiv.org/abs/2310.09765v1)|null|
@@ -439,6 +441,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Multi-stage Large Language Model Correction for Speech Recognition**|Jie Pu, Thai-Son Nguyen, Sebastian Stüker et.al.|[2310.11532v1](http://arxiv.org/abs/2310.11532v1)|null|
 |**2023-10-17**|**Zipformer: A faster and better encoder for automatic speech recognition**|Zengwei Yao, Liyong Guo, Xiaoyu Yang, Wei Kang, Fangjun Kuang, Yifan Yang, Zengrui Jin, Long Lin, Daniel Povey et.al.|[2310.11230v1](http://arxiv.org/abs/2310.11230v1)|**[link](https://github.com/k2-fsa/icefall)**|
 |**2023-10-17**|**VoxArabica: A Robust Dialect-Aware Arabic Speech Recognition System**|Abdul Waheed, Bashar Talafha, Peter Suvellin, Abdelrahman Elmadney, Muhammad Abdul-Mageed et.al.|[2310.11069v1](http://arxiv.org/abs/2310.11069v1)|null|
 |**2023-10-17**|**Iterative Shallow Fusion of Backward Language Model for End-to-End Speech Recognition**|Atsunori Ogawa, Takafumi Moriya, Naoyuki Kamo, Naohiro Tawara, Marc Delcroix et.al.|[2310.11010v1](http://arxiv.org/abs/2310.11010v1)|null|
