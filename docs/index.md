@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**Towards Real-World Streaming Speech Translation for Code-Switched Speech**|Belen Alastruey, Matthias Sperber, Christian Gollan, Dominic Telaar, Tim Ng, Aashish Agargwal et.al.|[2310.12648v1](http://arxiv.org/abs/2310.12648v1)|**[link](https://github.com/apple/ml-codeswitching-translations)**|
 |**2023-10-17**|**Long-form Simultaneous Speech Translation: Thesis Proposal**|Peter Polák et.al.|[2310.11141v1](http://arxiv.org/abs/2310.11141v1)|null|
 |**2023-10-13**|**Dialect Transfer for Swiss German Speech Translation**|Claudio Paonessa, Yanick Schraner, Jan Deriu, Manuela Hürlimann, Manfred Vogel, Mark Cieliebak et.al.|[2310.09088v1](http://arxiv.org/abs/2310.09088v1)|null|
 |**2023-10-11**|**DASpeech: Directed Acyclic Transformer for Fast and High-quality Speech-to-Speech Translation**|Qingkai Fang, Yan Zhou, Yang Feng et.al.|[2310.07403v1](http://arxiv.org/abs/2310.07403v1)|**[link](https://github.com/ictnlp/daspeech)**|
@@ -202,6 +203,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**Exploring Graph Neural Networks for Indian Legal Judgment Prediction**|Mann Khatri, Mirza Yusuf, Yaman Kumar, Rajiv Ratn Shah, Ponnurangam Kumaraguru et.al.|[2310.12800v1](http://arxiv.org/abs/2310.12800v1)|null|
+|**2023-10-19**|**Transformer-based Entity Legal Form Classification**|Alexander Arimond, Mauro Molteni, Dominik Jany, Zornitsa Manolova, Damian Borth, Andreas G. F. Hoepner et.al.|[2310.12766v1](http://arxiv.org/abs/2310.12766v1)|null|
 |**2023-10-18**|**Automated Attribute Extraction from Legal Proceedings**|Subinay Adhikary, Sagnik Das, Sagnik Saha, Procheta Sen, Dwaipayan Roy, Kripabandhu Ghosh et.al.|[2310.12131v1](http://arxiv.org/abs/2310.12131v1)|null|
 |**2023-10-18**|**A Comprehensive Evaluation of Large Language Models on Legal Judgment Prediction**|Ruihao Shui, Yixin Cao, Xiang Wang, Tat-Seng Chua et.al.|[2310.11761v1](http://arxiv.org/abs/2310.11761v1)|**[link](https://github.com/srhthu/lm-compeval-legal)**|
 |**2023-10-17**|**Nonet at SemEval-2023 Task 6: Methodologies for Legal Evaluation**|Shubham Kumar Nigam, Aniket Deroy, Noel Shallum, Ayush Kumar Mishra, Anup Roy, Shubham Kumar Mishra, Arnab Bhattacharya, Saptarshi Ghosh, Kripabandhu Ghosh et.al.|[2310.11049v1](http://arxiv.org/abs/2310.11049v1)|**[link](https://github.com/shubhamkumarnigam/legaleval23_nonet)**|
