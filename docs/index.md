@@ -204,7 +204,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-19**|**Exploring Graph Neural Networks for Indian Legal Judgment Prediction**|Mann Khatri, Mirza Yusuf, Yaman Kumar, Rajiv Ratn Shah, Ponnurangam Kumaraguru et.al.|[2310.12800v1](http://arxiv.org/abs/2310.12800v1)|null|
-|**2023-10-19**|**Transformer-based Entity Legal Form Classification**|Alexander Arimond, Mauro Molteni, Dominik Jany, Zornitsa Manolova, Damian Borth, Andreas G. F. Hoepner et.al.|[2310.12766v1](http://arxiv.org/abs/2310.12766v1)|null|
+|**2023-10-19**|**Transformer-based Entity Legal Form Classification**|Alexander Arimond, Mauro Molteni, Dominik Jany, Zornitsa Manolova, Damian Borth, Andreas G. F. Hoepner et.al.|[2310.12766v1](http://arxiv.org/abs/2310.12766v1)|**[link](https://github.com/sociovestix/lenu)**|
 |**2023-10-18**|**Automated Attribute Extraction from Legal Proceedings**|Subinay Adhikary, Sagnik Das, Sagnik Saha, Procheta Sen, Dwaipayan Roy, Kripabandhu Ghosh et.al.|[2310.12131v1](http://arxiv.org/abs/2310.12131v1)|null|
 |**2023-10-18**|**A Comprehensive Evaluation of Large Language Models on Legal Judgment Prediction**|Ruihao Shui, Yixin Cao, Xiang Wang, Tat-Seng Chua et.al.|[2310.11761v1](http://arxiv.org/abs/2310.11761v1)|**[link](https://github.com/srhthu/lm-compeval-legal)**|
 |**2023-10-17**|**Nonet at SemEval-2023 Task 6: Methodologies for Legal Evaluation**|Shubham Kumar Nigam, Aniket Deroy, Noel Shallum, Ayush Kumar Mishra, Anup Roy, Shubham Kumar Mishra, Arnab Bhattacharya, Saptarshi Ghosh, Kripabandhu Ghosh et.al.|[2310.11049v1](http://arxiv.org/abs/2310.11049v1)|**[link](https://github.com/shubhamkumarnigam/legaleval23_nonet)**|
