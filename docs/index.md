@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Improving Long-form Speech Translation through Segmentation with Large Language Models and Finite State Decoding Constraints**|Arya D. McCarthy, Hao Zhang, Shankar Kumar, Felix Stahlberg, Ke Wu et.al.|[2310.13678v1](http://arxiv.org/abs/2310.13678v1)|null|
 |**2023-10-19**|**Towards Real-World Streaming Speech Translation for Code-Switched Speech**|Belen Alastruey, Matthias Sperber, Christian Gollan, Dominic Telaar, Tim Ng, Aashish Agargwal et.al.|[2310.12648v1](http://arxiv.org/abs/2310.12648v1)|**[link](https://github.com/apple/ml-codeswitching-translations)**|
 |**2023-10-17**|**Long-form Simultaneous Speech Translation: Thesis Proposal**|Peter Polák et.al.|[2310.11141v1](http://arxiv.org/abs/2310.11141v1)|null|
 |**2023-10-13**|**Dialect Transfer for Swiss German Speech Translation**|Claudio Paonessa, Yanick Schraner, Jan Deriu, Manuela Hürlimann, Manfred Vogel, Mark Cieliebak et.al.|[2310.09088v1](http://arxiv.org/abs/2310.09088v1)|null|
@@ -203,6 +204,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**Do Language Models Learn about Legal Entity Types during Pretraining?**|Claire Barale, Michael Rovatsos, Nehal Bhuta et.al.|[2310.13092v1](http://arxiv.org/abs/2310.13092v1)|**[link](https://github.com/clairebarale/probing_legal_entity_types)**|
 |**2023-10-19**|**Exploring Graph Neural Networks for Indian Legal Judgment Prediction**|Mann Khatri, Mirza Yusuf, Yaman Kumar, Rajiv Ratn Shah, Ponnurangam Kumaraguru et.al.|[2310.12800v1](http://arxiv.org/abs/2310.12800v1)|null|
 |**2023-10-19**|**Transformer-based Entity Legal Form Classification**|Alexander Arimond, Mauro Molteni, Dominik Jany, Zornitsa Manolova, Damian Borth, Andreas G. F. Hoepner et.al.|[2310.12766v1](http://arxiv.org/abs/2310.12766v1)|**[link](https://github.com/sociovestix/lenu)**|
 |**2023-10-18**|**Automated Attribute Extraction from Legal Proceedings**|Subinay Adhikary, Sagnik Das, Sagnik Saha, Procheta Sen, Dwaipayan Roy, Kripabandhu Ghosh et.al.|[2310.12131v1](http://arxiv.org/abs/2310.12131v1)|null|
@@ -448,6 +450,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-17**|**Audio-AdapterFusion: A Task-ID-free Approach for Efficient and Non-Destructive Multi-task Speech Recognition**|Hillary Ngai, Rohan Agrawal, Neeraj Gaur, Ronny Huang, Parisa Haghani, Pedro Moreno Mengibar et.al.|[2310.13015v1](http://arxiv.org/abs/2310.13015v1)|null|
+|**2023-10-17**|**Generative error correction for code-switching speech recognition using large language models**|Chen Chen, Yuchen Hu, Chao-Han Huck Yang, Hexin Liu, Sabato Marco Siniscalchi, Eng Siong Chng et.al.|[2310.13013v1](http://arxiv.org/abs/2310.13013v1)|null|
 |**2023-10-17**|**Multi-stage Large Language Model Correction for Speech Recognition**|Jie Pu, Thai-Son Nguyen, Sebastian Stüker et.al.|[2310.11532v1](http://arxiv.org/abs/2310.11532v1)|null|
 |**2023-10-17**|**Zipformer: A faster and better encoder for automatic speech recognition**|Zengwei Yao, Liyong Guo, Xiaoyu Yang, Wei Kang, Fangjun Kuang, Yifan Yang, Zengrui Jin, Long Lin, Daniel Povey et.al.|[2310.11230v1](http://arxiv.org/abs/2310.11230v1)|**[link](https://github.com/k2-fsa/icefall)**|
 |**2023-10-17**|**VoxArabica: A Robust Dialect-Aware Arabic Speech Recognition System**|Abdul Waheed, Bashar Talafha, Peter Suvellin, Abdelrahman Elmadney, Muhammad Abdul-Mageed et.al.|[2310.11069v1](http://arxiv.org/abs/2310.11069v1)|null|
