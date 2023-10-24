@@ -23,8 +23,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-20**|**Improving Long-form Speech Translation through Segmentation with Large Language Models and Finite State Decoding Constraints**|Arya D. McCarthy, Hao Zhang, Shankar Kumar, Felix Stahlberg, Ke Wu et.al.|[2310.13678v1](http://arxiv.org/abs/2310.13678v1)|null|
-|**2023-10-19**|**Towards Real-World Streaming Speech Translation for Code-Switched Speech**|Belen Alastruey, Matthias Sperber, Christian Gollan, Dominic Telaar, Tim Ng, Aashish Agargwal et.al.|[2310.12648v1](http://arxiv.org/abs/2310.12648v1)|**[link](https://github.com/apple/ml-codeswitching-translations)**|
+|**2023-10-23**|**How To Build Competitive Multi-gender Speech Translation Models For Controlling Speaker Gender Translation**|Marco Gaido, Dennis Fucci, Matteo Negri, Luisa Bentivogli et.al.|[2310.15114v1](http://arxiv.org/abs/2310.15114v1)|null|
+|**2023-10-23**|**Long-Form Speech Translation through Segmentation with Finite-State Decoding Constraints on Large Language Models**|Arya D. McCarthy, Hao Zhang, Shankar Kumar, Felix Stahlberg, Ke Wu et.al.|[2310.13678v2](http://arxiv.org/abs/2310.13678v2)|null|
+|**2023-10-23**|**Towards Real-World Streaming Speech Translation for Code-Switched Speech**|Belen Alastruey, Matthias Sperber, Christian Gollan, Dominic Telaar, Tim Ng, Aashish Agarwal et.al.|[2310.12648v2](http://arxiv.org/abs/2310.12648v2)|**[link](https://github.com/apple/ml-codeswitching-translations)**|
 |**2023-10-17**|**Long-form Simultaneous Speech Translation: Thesis Proposal**|Peter Polák et.al.|[2310.11141v1](http://arxiv.org/abs/2310.11141v1)|null|
 |**2023-10-13**|**Dialect Transfer for Swiss German Speech Translation**|Claudio Paonessa, Yanick Schraner, Jan Deriu, Manuela Hürlimann, Manfred Vogel, Mark Cieliebak et.al.|[2310.09088v1](http://arxiv.org/abs/2310.09088v1)|null|
 |**2023-10-11**|**DASpeech: Directed Acyclic Transformer for Fast and High-quality Speech-to-Speech Translation**|Qingkai Fang, Yan Zhou, Yang Feng et.al.|[2310.07403v1](http://arxiv.org/abs/2310.07403v1)|**[link](https://github.com/ictnlp/daspeech)**|
@@ -40,7 +41,7 @@ layout: default
 |**2023-09-14**|**DiariST: Streaming Speech Translation with Speaker Diarization**|Mu Yang, Naoyuki Kanda, Xiaofei Wang, Junkun Chen, Peidong Wang, Jian Xue, Jinyu Li, Takuya Yoshioka et.al.|[2309.08007v1](http://arxiv.org/abs/2309.08007v1)|**[link](https://github.com/mu-y/diarist)**|
 |**2023-09-14**|**Speech-to-Speech Translation with Discrete-Unit-Based Style Transfer**|Yongqi Wang, Jionghao Bai, Rongjie Huang, Ruiqi Li, Zhiqing Hong, Zhou Zhao et.al.|[2309.07566v1](http://arxiv.org/abs/2309.07566v1)|null|
 |**2023-09-14**|**Direct Text to Speech Translation System using Acoustic Units**|Victoria Mingote, Pablo Gimeno, Luis Vicente, Sameer Khurana, Antoine Laurent, Jarod Duret et.al.|[2309.07478v1](http://arxiv.org/abs/2309.07478v1)|null|
-|**2023-08-07**|**End-to-End Evaluation for Low-Latency Simultaneous Speech Translation**|Christian Huber, Tu Anh Dinh, Carlos Mullov, Ngoc Quan Pham, Thai Binh Nguyen, Fabian Retkowski, Stefan Constantin, Enes Yavuz Ugan, Danni Liu, Zhaolin Li, Sai Koneru, Jan Niehues, Alexander Waibel et.al.|[2308.03415v1](http://arxiv.org/abs/2308.03415v1)|null|
+|**2023-10-23**|**End-to-End Evaluation for Low-Latency Simultaneous Speech Translation**|Christian Huber, Tu Anh Dinh, Carlos Mullov, Ngoc Quan Pham, Thai Binh Nguyen, Fabian Retkowski, Stefan Constantin, Enes Yavuz Ugan, Danni Liu, Zhaolin Li, Sai Koneru, Jan Niehues, Alexander Waibel et.al.|[2308.03415v2](http://arxiv.org/abs/2308.03415v2)|null|
 |**2023-07-17**|**Multilingual Speech-to-Speech Translation into Multiple Target Languages**|Hongyu Gong, Ning Dong, Sravya Popuri, Vedanuj Goswami, Ann Lee, Juan Pino et.al.|[2307.08655v1](http://arxiv.org/abs/2307.08655v1)|null|
 |**2023-07-17**|**Improving End-to-End Speech Translation by Imitation-Based Knowledge Distillation with Synthetic Transcripts**|Rebekka Hubert, Artem Sokolov, Stefan Riezler et.al.|[2307.08426v1](http://arxiv.org/abs/2307.08426v1)|**[link](https://github.com/hubreb/imitkd_ast)**|
 |**2023-07-10**|**The NPU-MSXF Speech-to-Speech Translation System for IWSLT 2023 Speech-to-Speech Translation Task**|Kun Song, Yi lei, Peikun Chen, Yiqing Cao, Kun Wei, Yongmao Zhang, Lei Xie, Ning Jiang, Guoqing Zhao et.al.|[2307.04630v1](http://arxiv.org/abs/2307.04630v1)|null|
@@ -204,6 +205,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Can ChatGPT Perform Reasoning Using the IRAC Method in Analyzing Legal Scenarios Like a Lawyer?**|Xiaoxi Kang, Lizhen Qu, Lay-Ki Soon, Adnan Trakic, Terry Yue Zhuo, Patrick Charles Emerton, Genevieve Grant et.al.|[2310.14880v1](http://arxiv.org/abs/2310.14880v1)|**[link](https://github.com/christinakang/sirac)**|
 |**2023-10-19**|**Do Language Models Learn about Legal Entity Types during Pretraining?**|Claire Barale, Michael Rovatsos, Nehal Bhuta et.al.|[2310.13092v1](http://arxiv.org/abs/2310.13092v1)|**[link](https://github.com/clairebarale/probing_legal_entity_types)**|
 |**2023-10-19**|**Exploring Graph Neural Networks for Indian Legal Judgment Prediction**|Mann Khatri, Mirza Yusuf, Yaman Kumar, Rajiv Ratn Shah, Ponnurangam Kumaraguru et.al.|[2310.12800v1](http://arxiv.org/abs/2310.12800v1)|null|
 |**2023-10-19**|**Transformer-based Entity Legal Form Classification**|Alexander Arimond, Mauro Molteni, Dominik Jany, Zornitsa Manolova, Damian Borth, Andreas G. F. Hoepner et.al.|[2310.12766v1](http://arxiv.org/abs/2310.12766v1)|**[link](https://github.com/sociovestix/lenu)**|
@@ -450,6 +452,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Key Frame Mechanism For Efficient Conformer Based End-to-end Speech Recognition**|Peng Fan, Changhao Shan, Jianwei Zhang, Sining Sun, Qing Yang et.al.|[2310.14954v1](http://arxiv.org/abs/2310.14954v1)|**[link](https://github.com/scufan1990/key-frame-mechanism-for-efficient-conformer)**|
+|**2023-10-23**|**Intuitive Multilingual Audio-Visual Speech Recognition with a Single-Trained Model**|Joanna Hong, Se Jin Park, Yong Man Ro et.al.|[2310.14946v1](http://arxiv.org/abs/2310.14946v1)|null|
+|**2023-10-22**|**Conversational Speech Recognition by Learning Audio-textual Cross-modal Contextual Representation**|Kun Wei, Bei Li, Hang Lv, Quan Lu, Ning Jiang, Lei Xie et.al.|[2310.14278v1](http://arxiv.org/abs/2310.14278v1)|null|
 |**2023-10-17**|**Audio-AdapterFusion: A Task-ID-free Approach for Efficient and Non-Destructive Multi-task Speech Recognition**|Hillary Ngai, Rohan Agrawal, Neeraj Gaur, Ronny Huang, Parisa Haghani, Pedro Moreno Mengibar et.al.|[2310.13015v1](http://arxiv.org/abs/2310.13015v1)|null|
 |**2023-10-17**|**Generative error correction for code-switching speech recognition using large language models**|Chen Chen, Yuchen Hu, Chao-Han Huck Yang, Hexin Liu, Sabato Marco Siniscalchi, Eng Siong Chng et.al.|[2310.13013v1](http://arxiv.org/abs/2310.13013v1)|null|
 |**2023-10-17**|**Multi-stage Large Language Model Correction for Speech Recognition**|Jie Pu, Thai-Son Nguyen, Sebastian Stüker et.al.|[2310.11532v1](http://arxiv.org/abs/2310.11532v1)|null|
