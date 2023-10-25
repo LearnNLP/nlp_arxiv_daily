@@ -23,7 +23,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-23**|**How To Build Competitive Multi-gender Speech Translation Models For Controlling Speaker Gender Translation**|Marco Gaido, Dennis Fucci, Matteo Negri, Luisa Bentivogli et.al.|[2310.15114v1](http://arxiv.org/abs/2310.15114v1)|null|
+|**2023-10-24**|**Integrating Language Models into Direct Speech Translation: An Inference-Time Solution to Control Gender Inflection**|Dennis Fucci, Marco Gaido, Sara Papi, Mauro Cettolo, Matteo Negri, Luisa Bentivogli et.al.|[2310.15752v1](http://arxiv.org/abs/2310.15752v1)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
+|**2023-10-23**|**How To Build Competitive Multi-gender Speech Translation Models For Controlling Speaker Gender Translation**|Marco Gaido, Dennis Fucci, Matteo Negri, Luisa Bentivogli et.al.|[2310.15114v1](http://arxiv.org/abs/2310.15114v1)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2023-10-23**|**Long-Form Speech Translation through Segmentation with Finite-State Decoding Constraints on Large Language Models**|Arya D. McCarthy, Hao Zhang, Shankar Kumar, Felix Stahlberg, Ke Wu et.al.|[2310.13678v2](http://arxiv.org/abs/2310.13678v2)|null|
 |**2023-10-23**|**Towards Real-World Streaming Speech Translation for Code-Switched Speech**|Belen Alastruey, Matthias Sperber, Christian Gollan, Dominic Telaar, Tim Ng, Aashish Agarwal et.al.|[2310.12648v2](http://arxiv.org/abs/2310.12648v2)|**[link](https://github.com/apple/ml-codeswitching-translations)**|
 |**2023-10-17**|**Long-form Simultaneous Speech Translation: Thesis Proposal**|Peter Polák et.al.|[2310.11141v1](http://arxiv.org/abs/2310.11141v1)|null|
@@ -205,6 +206,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**DALE: Generative Data Augmentation for Low-Resource Legal NLP**|Sreyan Ghosh, Chandra Kiran Evuru, Sonal Kumar, S Ramaneswaran, S Sakshi, Utkarsh Tyagi, Dinesh Manocha et.al.|[2310.15799v1](http://arxiv.org/abs/2310.15799v1)|null|
+|**2023-10-24**|**Navigating ICT In-House Procurement in Finland: Evaluating Legal Frameworks and Practical Challenges**|Reetta Ghezzi, Minnamaria Korhonen, Hannu Vilpponen, Tommi Mikkonen et.al.|[2310.15643v1](http://arxiv.org/abs/2310.15643v1)|null|
 |**2023-10-23**|**Can ChatGPT Perform Reasoning Using the IRAC Method in Analyzing Legal Scenarios Like a Lawyer?**|Xiaoxi Kang, Lizhen Qu, Lay-Ki Soon, Adnan Trakic, Terry Yue Zhuo, Patrick Charles Emerton, Genevieve Grant et.al.|[2310.14880v1](http://arxiv.org/abs/2310.14880v1)|**[link](https://github.com/christinakang/sirac)**|
 |**2023-10-19**|**Do Language Models Learn about Legal Entity Types during Pretraining?**|Claire Barale, Michael Rovatsos, Nehal Bhuta et.al.|[2310.13092v1](http://arxiv.org/abs/2310.13092v1)|**[link](https://github.com/clairebarale/probing_legal_entity_types)**|
 |**2023-10-19**|**Exploring Graph Neural Networks for Indian Legal Judgment Prediction**|Mann Khatri, Mirza Yusuf, Yaman Kumar, Rajiv Ratn Shah, Ponnurangam Kumaraguru et.al.|[2310.12800v1](http://arxiv.org/abs/2310.12800v1)|null|
@@ -452,6 +455,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**Accented Speech Recognition With Accent-specific Codebooks**|Darshan Prabhu, Preethi Jyothi, Sriram Ganapathy, Vinit Unni et.al.|[2310.15970v1](http://arxiv.org/abs/2310.15970v1)|**[link](https://github.com/csalt-research/accented-codebooks-asr)**|
 |**2023-10-23**|**Key Frame Mechanism For Efficient Conformer Based End-to-end Speech Recognition**|Peng Fan, Changhao Shan, Jianwei Zhang, Sining Sun, Qing Yang et.al.|[2310.14954v1](http://arxiv.org/abs/2310.14954v1)|**[link](https://github.com/scufan1990/key-frame-mechanism-for-efficient-conformer)**|
 |**2023-10-23**|**Intuitive Multilingual Audio-Visual Speech Recognition with a Single-Trained Model**|Joanna Hong, Se Jin Park, Yong Man Ro et.al.|[2310.14946v1](http://arxiv.org/abs/2310.14946v1)|null|
 |**2023-10-22**|**Conversational Speech Recognition by Learning Audio-textual Cross-modal Contextual Representation**|Kun Wei, Bei Li, Hang Lv, Quan Lu, Ning Jiang, Lei Xie et.al.|[2310.14278v1](http://arxiv.org/abs/2310.14278v1)|null|
