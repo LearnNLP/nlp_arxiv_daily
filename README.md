@@ -202,6 +202,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**Human-centred explanation of rule-based decision-making systems in the legal domain**|Suzan Zuurmond, AnneMarie Borg, Matthijs van Kempen, Remi Wieten et.al.|[2310.16704v1](http://arxiv.org/abs/2310.16704v1)|null|
 |**2023-10-24**|**DALE: Generative Data Augmentation for Low-Resource Legal NLP**|Sreyan Ghosh, Chandra Kiran Evuru, Sonal Kumar, S Ramaneswaran, S Sakshi, Utkarsh Tyagi, Dinesh Manocha et.al.|[2310.15799v1](http://arxiv.org/abs/2310.15799v1)|**[link](https://github.com/sreyan88/dale)**|
 |**2023-10-24**|**Navigating ICT In-House Procurement in Finland: Evaluating Legal Frameworks and Practical Challenges**|Reetta Ghezzi, Minnamaria Korhonen, Hannu Vilpponen, Tommi Mikkonen et.al.|[2310.15643v1](http://arxiv.org/abs/2310.15643v1)|null|
 |**2023-10-23**|**Can ChatGPT Perform Reasoning Using the IRAC Method in Analyzing Legal Scenarios Like a Lawyer?**|Xiaoxi Kang, Lizhen Qu, Lay-Ki Soon, Adnan Trakic, Terry Yue Zhuo, Patrick Charles Emerton, Genevieve Grant et.al.|[2310.14880v1](http://arxiv.org/abs/2310.14880v1)|**[link](https://github.com/christinakang/sirac)**|
@@ -211,6 +212,7 @@
 |**2023-10-18**|**Automated Attribute Extraction from Legal Proceedings**|Subinay Adhikary, Sagnik Das, Sagnik Saha, Procheta Sen, Dwaipayan Roy, Kripabandhu Ghosh et.al.|[2310.12131v1](http://arxiv.org/abs/2310.12131v1)|null|
 |**2023-10-18**|**A Comprehensive Evaluation of Large Language Models on Legal Judgment Prediction**|Ruihao Shui, Yixin Cao, Xiang Wang, Tat-Seng Chua et.al.|[2310.11761v1](http://arxiv.org/abs/2310.11761v1)|**[link](https://github.com/srhthu/lm-compeval-legal)**|
 |**2023-10-17**|**Nonet at SemEval-2023 Task 6: Methodologies for Legal Evaluation**|Shubham Kumar Nigam, Aniket Deroy, Noel Shallum, Ayush Kumar Mishra, Anup Roy, Shubham Kumar Mishra, Arnab Bhattacharya, Saptarshi Ghosh, Kripabandhu Ghosh et.al.|[2310.11049v1](http://arxiv.org/abs/2310.11049v1)|**[link](https://github.com/shubhamkumarnigam/legaleval23_nonet)**|
+|**2023-10-25**|**Legal NLP Meets MiCAR: Advancing the Analysis of Crypto White Papers**|Carolina Camassa et.al.|[2310.10333v3](http://arxiv.org/abs/2310.10333v3)|null|
 |**2023-10-16**|**Prediction of Arabic Legal Rulings using Large Language Models**|Adel Ammar, Anis Koubaa, Bilel Benjdira, Omar Najar, Serry Sibaee et.al.|[2310.10260v1](http://arxiv.org/abs/2310.10260v1)|null|
 |**2023-10-15**|**Improving Access to Justice for the Indian Population: A Benchmark for Evaluating Translation of Legal Text to Indian Languages**|Sayan Mahapatra, Debtanu Datta, Shubham Soni, Adrijit Goswami, Saptarshi Ghosh et.al.|[2310.09765v1](http://arxiv.org/abs/2310.09765v1)|null|
 |**2023-10-13**|**Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration**|Yiquan Wu, Siying Zhou, Yifei Liu, Weiming Lu, Xiaozhong Liu, Yating Zhang, Changlong Sun, Fei Wu, Kun Kuang et.al.|[2310.09241v1](http://arxiv.org/abs/2310.09241v1)|null|
@@ -451,6 +453,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**Back Transcription as a Method for Evaluating Robustness of Natural Language Understanding Models to Speech Recognition Errors**|Marek Kubis, Paweł Skórzewski, Marcin Sowański, Tomasz Ziętkiewicz et.al.|[2310.16609v1](http://arxiv.org/abs/2310.16609v1)|null|
 |**2023-10-25**|**Accented Speech Recognition With Accent-specific Codebooks**|Darshan Prabhu, Preethi Jyothi, Sriram Ganapathy, Vinit Unni et.al.|[2310.15970v2](http://arxiv.org/abs/2310.15970v2)|**[link](https://github.com/csalt-research/accented-codebooks-asr)**|
 |**2023-10-23**|**Key Frame Mechanism For Efficient Conformer Based End-to-end Speech Recognition**|Peng Fan, Changhao Shan, Jianwei Zhang, Sining Sun, Qing Yang et.al.|[2310.14954v1](http://arxiv.org/abs/2310.14954v1)|**[link](https://github.com/scufan1990/key-frame-mechanism-for-efficient-conformer)**|
 |**2023-10-23**|**Intuitive Multilingual Audio-Visual Speech Recognition with a Single-Trained Model**|Joanna Hong, Se Jin Park, Yong Man Ro et.al.|[2310.14946v1](http://arxiv.org/abs/2310.14946v1)|null|
