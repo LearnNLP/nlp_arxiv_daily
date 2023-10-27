@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation**|Yongxin Zhu, Zhujin Gao, Xinyuan Zhou, Zhongyi Ye, Linli Xu et.al.|[2310.17570v1](http://arxiv.org/abs/2310.17570v1)|null|
 |**2023-10-24**|**Integrating Language Models into Direct Speech Translation: An Inference-Time Solution to Control Gender Inflection**|Dennis Fucci, Marco Gaido, Sara Papi, Mauro Cettolo, Matteo Negri, Luisa Bentivogli et.al.|[2310.15752v1](http://arxiv.org/abs/2310.15752v1)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2023-10-23**|**How To Build Competitive Multi-gender Speech Translation Models For Controlling Speaker Gender Translation**|Marco Gaido, Dennis Fucci, Matteo Negri, Luisa Bentivogli et.al.|[2310.15114v1](http://arxiv.org/abs/2310.15114v1)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2023-10-23**|**Long-Form Speech Translation through Segmentation with Finite-State Decoding Constraints on Large Language Models**|Arya D. McCarthy, Hao Zhang, Shankar Kumar, Felix Stahlberg, Ke Wu et.al.|[2310.13678v2](http://arxiv.org/abs/2310.13678v2)|null|
@@ -74,7 +75,7 @@
 |**2023-04-20**|**Decouple Non-parametric Knowledge Distillation For End-to-end Speech Translation**|Hao Zhang, Nianwen Si, Yaqi Chen, Wenlin Zhang, Xukui Yang, Dan Qu, Zhen Li et.al.|[2304.10295v1](http://arxiv.org/abs/2304.10295v1)|null|
 |**2023-04-10**|**Enhancing Speech-to-Speech Translation with Multiple TTS Targets**|Jiatong Shi, Yun Tang, Ann Lee, Hirofumi Inaguma, Changhan Wang, Juan Pino, Shinji Watanabe et.al.|[2304.04618v1](http://arxiv.org/abs/2304.04618v1)|null|
 |**2023-04-25**|**Selective Data Augmentation for Robust Speech Translation**|Rajul Acharya, Ashish Panda, Sunil Kumar Kopparapu et.al.|[2304.03169v2](http://arxiv.org/abs/2304.03169v2)|null|
-|**2023-10-26**|**Adapting Offline Speech Translation Models for Streaming with Future-Aware Distillation and Inference**|Biao Fu, Minpeng Liao, Kai Fan, Zhongqiang Huang, Boxing Chen, Yidong Chen, Xiaodong Shi et.al.|[2303.07914v2](http://arxiv.org/abs/2303.07914v2)|null|
+|**2023-10-26**|**Adapting Offline Speech Translation Models for Streaming with Future-Aware Distillation and Inference**|Biao Fu, Minpeng Liao, Kai Fan, Zhongqiang Huang, Boxing Chen, Yidong Chen, Xiaodong Shi et.al.|[2303.07914v2](http://arxiv.org/abs/2303.07914v2)|**[link](https://github.com/biaofuxmu/fast)**|
 |**2023-03-09**|**MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition**|Xize Cheng, Linjun Li, Tao Jin, Rongjie Huang, Wang Lin, Zehan Wang, Huangdai Liu, Ye Wang, Aoxiong Yin, Zhou Zhao et.al.|[2303.05309v1](http://arxiv.org/abs/2303.05309v1)|**[link](https://github.com/exgc/avmust-ted)**|
 |**2023-02-21**|**Efficient CTC Regularization via Coarse Labels for End-to-End Speech Translation**|Biao Zhang, Barry Haddow, Rico Sennrich et.al.|[2302.10871v1](http://arxiv.org/abs/2302.10871v1)|**[link](https://github.com/bzhangGo/zero)**|
 |**2023-06-05**|**Pre-training for Speech Translation: CTC Meets Optimal Transport**|Phuong-Hang Le, Hongyu Gong, Changhan Wang, Juan Pino, Benjamin Lecouteux, Didier Schwab et.al.|[2301.11716v3](http://arxiv.org/abs/2301.11716v3)|**[link](https://github.com/formiel/fairseq)**|
@@ -202,6 +203,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**LeCaRDv2: A Large-Scale Chinese Legal Case Retrieval Dataset**|Haitao Li, Yunqiu Shao, Yueyue Wu, Qingyao Ai, Yixiao Ma, Yiqun Liu et.al.|[2310.17609v1](http://arxiv.org/abs/2310.17609v1)|null|
+|**2023-10-26**|**Harnessing GPT-3.5-turbo for Rhetorical Role Prediction in Legal Cases**|Anas Belfathi, Nicolas Hernandez, Laura Monceaux et.al.|[2310.17413v1](http://arxiv.org/abs/2310.17413v1)|null|
 |**2023-10-25**|**Human-centred explanation of rule-based decision-making systems in the legal domain**|Suzan Zuurmond, AnneMarie Borg, Matthijs van Kempen, Remi Wieten et.al.|[2310.16704v1](http://arxiv.org/abs/2310.16704v1)|null|
 |**2023-10-24**|**DALE: Generative Data Augmentation for Low-Resource Legal NLP**|Sreyan Ghosh, Chandra Kiran Evuru, Sonal Kumar, S Ramaneswaran, S Sakshi, Utkarsh Tyagi, Dinesh Manocha et.al.|[2310.15799v1](http://arxiv.org/abs/2310.15799v1)|**[link](https://github.com/sreyan88/dale)**|
 |**2023-10-24**|**Navigating ICT In-House Procurement in Finland: Evaluating Legal Frameworks and Practical Challenges**|Reetta Ghezzi, Minnamaria Korhonen, Hannu Vilpponen, Tommi Mikkonen et.al.|[2310.15643v1](http://arxiv.org/abs/2310.15643v1)|null|
