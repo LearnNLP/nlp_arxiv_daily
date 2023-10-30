@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.29
+## Updated on 2023.10.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -201,7 +201,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20231029>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231030>back to top</a>)</p>
 
 ## Legal
 
@@ -454,14 +454,14 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231029>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231030>back to top</a>)</p>
 
 ## Speech Recognition
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-25**|**Back Transcription as a Method for Evaluating Robustness of Natural Language Understanding Models to Speech Recognition Errors**|Marek Kubis, Paweł Skórzewski, Marcin Sowański, Tomasz Ziętkiewicz et.al.|[2310.16609v1](http://arxiv.org/abs/2310.16609v1)|null|
-|**2023-10-25**|**Accented Speech Recognition With Accent-specific Codebooks**|Darshan Prabhu, Preethi Jyothi, Sriram Ganapathy, Vinit Unni et.al.|[2310.15970v2](http://arxiv.org/abs/2310.15970v2)|**[link](https://github.com/csalt-research/accented-codebooks-asr)**|
+|**2023-10-27**|**Accented Speech Recognition With Accent-specific Codebooks**|Darshan Prabhu, Preethi Jyothi, Sriram Ganapathy, Vinit Unni et.al.|[2310.15970v3](http://arxiv.org/abs/2310.15970v3)|**[link](https://github.com/csalt-research/accented-codebooks-asr)**|
 |**2023-10-23**|**Key Frame Mechanism For Efficient Conformer Based End-to-end Speech Recognition**|Peng Fan, Changhao Shan, Jianwei Zhang, Sining Sun, Qing Yang et.al.|[2310.14954v1](http://arxiv.org/abs/2310.14954v1)|**[link](https://github.com/scufan1990/key-frame-mechanism-for-efficient-conformer)**|
 |**2023-10-23**|**Intuitive Multilingual Audio-Visual Speech Recognition with a Single-Trained Model**|Joanna Hong, Se Jin Park, Yong Man Ro et.al.|[2310.14946v1](http://arxiv.org/abs/2310.14946v1)|null|
 |**2023-10-22**|**Conversational Speech Recognition by Learning Audio-textual Cross-modal Contextual Representation**|Kun Wei, Bei Li, Hang Lv, Quan Lu, Ning Jiang, Lei Xie et.al.|[2310.14278v1](http://arxiv.org/abs/2310.14278v1)|null|
@@ -469,7 +469,7 @@ layout: default
 |**2023-10-17**|**Generative error correction for code-switching speech recognition using large language models**|Chen Chen, Yuchen Hu, Chao-Han Huck Yang, Hexin Liu, Sabato Marco Siniscalchi, Eng Siong Chng et.al.|[2310.13013v1](http://arxiv.org/abs/2310.13013v1)|null|
 |**2023-10-17**|**Multi-stage Large Language Model Correction for Speech Recognition**|Jie Pu, Thai-Son Nguyen, Sebastian Stüker et.al.|[2310.11532v1](http://arxiv.org/abs/2310.11532v1)|null|
 |**2023-10-17**|**Zipformer: A faster and better encoder for automatic speech recognition**|Zengwei Yao, Liyong Guo, Xiaoyu Yang, Wei Kang, Fangjun Kuang, Yifan Yang, Zengrui Jin, Long Lin, Daniel Povey et.al.|[2310.11230v1](http://arxiv.org/abs/2310.11230v1)|**[link](https://github.com/k2-fsa/icefall)**|
-|**2023-10-25**|**VoxArabica: A Robust Dialect-Aware Arabic Speech Recognition System**|Abdul Waheed, Bashar Talafha, Peter Suvellin, AbdelRahim Elmadany, Muhammad Abdul-Mageed et.al.|[2310.11069v3](http://arxiv.org/abs/2310.11069v3)|null|
+|**2023-10-27**|**VoxArabica: A Robust Dialect-Aware Arabic Speech Recognition System**|Abdul Waheed, Bashar Talafha, Peter Sullivan, AbdelRahim Elmadany, Muhammad Abdul-Mageed et.al.|[2310.11069v4](http://arxiv.org/abs/2310.11069v4)|null|
 |**2023-10-17**|**Iterative Shallow Fusion of Backward Language Model for End-to-End Speech Recognition**|Atsunori Ogawa, Takafumi Moriya, Naoyuki Kamo, Naohiro Tawara, Marc Delcroix et.al.|[2310.11010v1](http://arxiv.org/abs/2310.11010v1)|null|
 |**2023-10-17**|**Advanced accent/dialect identification and accentedness assessment with multi-embedding models and automatic speech recognition**|Shahram Ghorbani, John H. L. Hansen et.al.|[2310.11004v1](http://arxiv.org/abs/2310.11004v1)|null|
 |**2023-10-17**|**Correction Focused Language Model Training for Speech Recognition**|Yingyi Ma, Zhe Liu, Ozlem Kalinli et.al.|[2310.11003v1](http://arxiv.org/abs/2310.11003v1)|null|
@@ -727,7 +727,7 @@ layout: default
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231029>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231030>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -737,7 +737,7 @@ layout: default
 |**2023-03-31**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v3](http://arxiv.org/abs/2207.14682v3)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231029>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231030>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
