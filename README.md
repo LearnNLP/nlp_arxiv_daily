@@ -456,6 +456,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**TorchAudio 2.1: Advancing speech recognition, self-supervised learning, and audio processing components for PyTorch**|Jeff Hwang, Moto Hira, Caroline Chen, Xiaohui Zhang, Zhaoheng Ni, Guangzhi Sun, Pingchuan Ma, Ruizhe Huang, Vineel Pratap, Yuekai Zhang, Anurag Kumar, Chin-Yun Yu, Chuang Zhu, Chunxi Liu, Jacob Kahn, Mirco Ravanelli, Peng Sun, Shinji Watanabe, Yangyang Shi, Yumeng Tao, Robin Scheibler, Samuele Cornell, Sean Kim, Stavros Petridis et.al.|[2310.17864v1](http://arxiv.org/abs/2310.17864v1)|null|
 |**2023-10-25**|**Back Transcription as a Method for Evaluating Robustness of Natural Language Understanding Models to Speech Recognition Errors**|Marek Kubis, Paweł Skórzewski, Marcin Sowański, Tomasz Ziętkiewicz et.al.|[2310.16609v1](http://arxiv.org/abs/2310.16609v1)|null|
 |**2023-10-27**|**Accented Speech Recognition With Accent-specific Codebooks**|Darshan Prabhu, Preethi Jyothi, Sriram Ganapathy, Vinit Unni et.al.|[2310.15970v3](http://arxiv.org/abs/2310.15970v3)|**[link](https://github.com/csalt-research/accented-codebooks-asr)**|
 |**2023-10-23**|**Key Frame Mechanism For Efficient Conformer Based End-to-end Speech Recognition**|Peng Fan, Changhao Shan, Jianwei Zhang, Sining Sun, Qing Yang et.al.|[2310.14954v1](http://arxiv.org/abs/2310.14954v1)|**[link](https://github.com/scufan1990/key-frame-mechanism-for-efficient-conformer)**|
