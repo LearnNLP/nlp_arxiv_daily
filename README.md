@@ -203,6 +203,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-28**|**Using Large Language Models to Support Thematic Analysis in Empirical Legal Studies**|Jakub Drápal, Hannes Westermann, Jaromir Savelka et.al.|[2310.18729v1](http://arxiv.org/abs/2310.18729v1)|null|
+|**2023-10-28**|**MILDSum: A Novel Benchmark Dataset for Multilingual Summarization of Indian Legal Case Judgments**|Debtanu Datta, Shubham Soni, Rajdeep Mukherjee, Saptarshi Ghosh et.al.|[2310.18600v1](http://arxiv.org/abs/2310.18600v1)|**[link](https://github.com/law-ai/mildsum)**|
+|**2023-10-27**|**Modeling Legal Reasoning: LM Annotation at the Edge of Human Agreement**|Rosamond Thalken, Edward H. Stiglitz, David Mimno, Matthew Wilkens et.al.|[2310.18440v1](http://arxiv.org/abs/2310.18440v1)|null|
 |**2023-10-26**|**LeCaRDv2: A Large-Scale Chinese Legal Case Retrieval Dataset**|Haitao Li, Yunqiu Shao, Yueyue Wu, Qingyao Ai, Yixiao Ma, Yiqun Liu et.al.|[2310.17609v1](http://arxiv.org/abs/2310.17609v1)|null|
 |**2023-10-26**|**Harnessing GPT-3.5-turbo for Rhetorical Role Prediction in Legal Cases**|Anas Belfathi, Nicolas Hernandez, Laura Monceaux et.al.|[2310.17413v1](http://arxiv.org/abs/2310.17413v1)|null|
 |**2023-10-25**|**Human-centred explanation of rule-based decision-making systems in the legal domain**|Suzan Zuurmond, AnneMarie Borg, Matthijs van Kempen, Remi Wieten et.al.|[2310.16704v1](http://arxiv.org/abs/2310.16704v1)|null|
@@ -456,6 +459,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**MUST: A Multilingual Student-Teacher Learning approach for low-resource speech recognition**|Muhammad Umar Farooq, Rehan Ahmad, Thomas Hain et.al.|[2310.18865v1](http://arxiv.org/abs/2310.18865v1)|null|
+|**2023-10-27**|**MixRep: Hidden Representation Mixup for Low-Resource Speech Recognition**|Jiamin Xie, John H. L. Hansen et.al.|[2310.18450v1](http://arxiv.org/abs/2310.18450v1)|null|
 |**2023-10-27**|**TorchAudio 2.1: Advancing speech recognition, self-supervised learning, and audio processing components for PyTorch**|Jeff Hwang, Moto Hira, Caroline Chen, Xiaohui Zhang, Zhaoheng Ni, Guangzhi Sun, Pingchuan Ma, Ruizhe Huang, Vineel Pratap, Yuekai Zhang, Anurag Kumar, Chin-Yun Yu, Chuang Zhu, Chunxi Liu, Jacob Kahn, Mirco Ravanelli, Peng Sun, Shinji Watanabe, Yangyang Shi, Yumeng Tao, Robin Scheibler, Samuele Cornell, Sean Kim, Stavros Petridis et.al.|[2310.17864v1](http://arxiv.org/abs/2310.17864v1)|null|
 |**2023-10-25**|**Back Transcription as a Method for Evaluating Robustness of Natural Language Understanding Models to Speech Recognition Errors**|Marek Kubis, Paweł Skórzewski, Marcin Sowański, Tomasz Ziętkiewicz et.al.|[2310.16609v1](http://arxiv.org/abs/2310.16609v1)|null|
 |**2023-10-27**|**Accented Speech Recognition With Accent-specific Codebooks**|Darshan Prabhu, Preethi Jyothi, Sriram Ganapathy, Vinit Unni et.al.|[2310.15970v3](http://arxiv.org/abs/2310.15970v3)|**[link](https://github.com/csalt-research/accented-codebooks-asr)**|
