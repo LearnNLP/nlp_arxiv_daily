@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**Towards a Deep Understanding of Multilingual End-to-End Speech Translation**|Haoran Sun, Xiaohu Zhao, Yikun Lei, Shaolin Zhu, Deyi Xiong et.al.|[2310.20456v1](http://arxiv.org/abs/2310.20456v1)|null|
 |**2023-10-26**|**DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation**|Yongxin Zhu, Zhujin Gao, Xinyuan Zhou, Zhongyi Ye, Linli Xu et.al.|[2310.17570v1](http://arxiv.org/abs/2310.17570v1)|null|
 |**2023-10-24**|**Integrating Language Models into Direct Speech Translation: An Inference-Time Solution to Control Gender Inflection**|Dennis Fucci, Marco Gaido, Sara Papi, Mauro Cettolo, Matteo Negri, Luisa Bentivogli et.al.|[2310.15752v1](http://arxiv.org/abs/2310.15752v1)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2023-10-23**|**How To Build Competitive Multi-gender Speech Translation Models For Controlling Speaker Gender Translation**|Marco Gaido, Dennis Fucci, Matteo Negri, Luisa Bentivogli et.al.|[2310.15114v1](http://arxiv.org/abs/2310.15114v1)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
@@ -459,9 +460,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**Intelligibility prediction with a pretrained noise-robust automatic speech recognition model**|Zehai Tu, Ning Ma, Jon Barker et.al.|[2310.19817v1](http://arxiv.org/abs/2310.19817v1)|null|
 |**2023-10-29**|**MUST: A Multilingual Student-Teacher Learning approach for low-resource speech recognition**|Muhammad Umar Farooq, Rehan Ahmad, Thomas Hain et.al.|[2310.18865v1](http://arxiv.org/abs/2310.18865v1)|null|
-|**2023-10-27**|**MixRep: Hidden Representation Mixup for Low-Resource Speech Recognition**|Jiamin Xie, John H. L. Hansen et.al.|[2310.18450v1](http://arxiv.org/abs/2310.18450v1)|null|
-|**2023-10-27**|**TorchAudio 2.1: Advancing speech recognition, self-supervised learning, and audio processing components for PyTorch**|Jeff Hwang, Moto Hira, Caroline Chen, Xiaohui Zhang, Zhaoheng Ni, Guangzhi Sun, Pingchuan Ma, Ruizhe Huang, Vineel Pratap, Yuekai Zhang, Anurag Kumar, Chin-Yun Yu, Chuang Zhu, Chunxi Liu, Jacob Kahn, Mirco Ravanelli, Peng Sun, Shinji Watanabe, Yangyang Shi, Yumeng Tao, Robin Scheibler, Samuele Cornell, Sean Kim, Stavros Petridis et.al.|[2310.17864v1](http://arxiv.org/abs/2310.17864v1)|null|
+|**2023-10-27**|**MixRep: Hidden Representation Mixup for Low-Resource Speech Recognition**|Jiamin Xie, John H. L. Hansen et.al.|[2310.18450v1](http://arxiv.org/abs/2310.18450v1)|**[link](https://github.com/jiamin1013/mixrep-espnet)**|
+|**2023-10-27**|**TorchAudio 2.1: Advancing speech recognition, self-supervised learning, and audio processing components for PyTorch**|Jeff Hwang, Moto Hira, Caroline Chen, Xiaohui Zhang, Zhaoheng Ni, Guangzhi Sun, Pingchuan Ma, Ruizhe Huang, Vineel Pratap, Yuekai Zhang, Anurag Kumar, Chin-Yun Yu, Chuang Zhu, Chunxi Liu, Jacob Kahn, Mirco Ravanelli, Peng Sun, Shinji Watanabe, Yangyang Shi, Yumeng Tao, Robin Scheibler, Samuele Cornell, Sean Kim, Stavros Petridis et.al.|[2310.17864v1](http://arxiv.org/abs/2310.17864v1)|**[link](https://github.com/pytorch/audio)**|
 |**2023-10-25**|**Back Transcription as a Method for Evaluating Robustness of Natural Language Understanding Models to Speech Recognition Errors**|Marek Kubis, Paweł Skórzewski, Marcin Sowański, Tomasz Ziętkiewicz et.al.|[2310.16609v1](http://arxiv.org/abs/2310.16609v1)|null|
 |**2023-10-27**|**Accented Speech Recognition With Accent-specific Codebooks**|Darshan Prabhu, Preethi Jyothi, Sriram Ganapathy, Vinit Unni et.al.|[2310.15970v3](http://arxiv.org/abs/2310.15970v3)|**[link](https://github.com/csalt-research/accented-codebooks-asr)**|
 |**2023-10-28**|**Key Frame Mechanism For Efficient Conformer Based End-to-end Speech Recognition**|Peng Fan, Changhao Shan, Sining Sun, Qing Yang, Jianwei Zhang et.al.|[2310.14954v2](http://arxiv.org/abs/2310.14954v2)|**[link](https://github.com/scufan1990/key-frame-mechanism-for-efficient-conformer)**|
