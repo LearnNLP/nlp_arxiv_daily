@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**End-to-End Single-Channel Speaker-Turn Aware Conversational Speech Translation**|Juan Zuluaga-Gomez, Zhaocheng Huang, Xing Niu, Rohit Paturi, Sundararajan Srinivasan, Prashant Mathur, Brian Thompson, Marcello Federico et.al.|[2311.00697v1](http://arxiv.org/abs/2311.00697v1)|**[link](https://github.com/amazon-science/stac-speech-translation)**|
 |**2023-10-31**|**Towards a Deep Understanding of Multilingual End-to-End Speech Translation**|Haoran Sun, Xiaohu Zhao, Yikun Lei, Shaolin Zhu, Deyi Xiong et.al.|[2310.20456v1](http://arxiv.org/abs/2310.20456v1)|null|
 |**2023-10-26**|**DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation**|Yongxin Zhu, Zhujin Gao, Xinyuan Zhou, Zhongyi Ye, Linli Xu et.al.|[2310.17570v1](http://arxiv.org/abs/2310.17570v1)|null|
 |**2023-10-24**|**Integrating Language Models into Direct Speech Translation: An Inference-Time Solution to Control Gender Inflection**|Dennis Fucci, Marco Gaido, Sara Papi, Mauro Cettolo, Matteo Negri, Luisa Bentivogli et.al.|[2310.15752v1](http://arxiv.org/abs/2310.15752v1)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
@@ -208,6 +209,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**Caseformer: Pre-training for Legal Case Retrieval**|Weihang Su, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu et.al.|[2311.00333v1](http://arxiv.org/abs/2311.00333v1)|**[link](https://github.com/caseformer/caseformer)**|
 |**2023-10-28**|**Using Large Language Models to Support Thematic Analysis in Empirical Legal Studies**|Jakub Drápal, Hannes Westermann, Jaromir Savelka et.al.|[2310.18729v1](http://arxiv.org/abs/2310.18729v1)|null|
 |**2023-10-28**|**MILDSum: A Novel Benchmark Dataset for Multilingual Summarization of Indian Legal Case Judgments**|Debtanu Datta, Shubham Soni, Rajdeep Mukherjee, Saptarshi Ghosh et.al.|[2310.18600v1](http://arxiv.org/abs/2310.18600v1)|**[link](https://github.com/law-ai/mildsum)**|
 |**2023-10-27**|**Modeling Legal Reasoning: LM Annotation at the Edge of Human Agreement**|Rosamond Thalken, Edward H. Stiglitz, David Mimno, Matthew Wilkens et.al.|[2310.18440v1](http://arxiv.org/abs/2310.18440v1)|null|
