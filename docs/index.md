@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.02
+## Updated on 2023.11.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -203,7 +203,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231103>back to top</a>)</p>
 
 ## Legal
 
@@ -292,7 +292,7 @@ layout: default
 |**2023-05-25**|**Prototype-Based Interpretability for Legal Citation Prediction**|Chu Fei Luo, Rohan Bhambhoria, Samuel Dahan, Xiaodan Zhu et.al.|[2305.16490v1](http://arxiv.org/abs/2305.16490v1)|null|
 |**2023-05-24**|**Automated Refugee Case Analysis: An NLP Pipeline for Supporting Legal Practitioners**|Claire Barale, Michael Rovatsos, Nehal Bhuta et.al.|[2305.15533v1](http://arxiv.org/abs/2305.15533v1)|**[link](https://github.com/clairebarale/refugee_cases_ner)**|
 |**2023-05-23**|**Adversarial Machine Learning and Cybersecurity: Risks, Challenges, and Legal Implications**|Micah Musser, Andrew Lohn, James X. Dempsey, Jonathan Spring, Ram Shankar Siva Kumar, Brenda Leong, Christina Liaghati, Cindy Martinez, Crystal D. Grant, Daniel Rohrer, Heather Frase, Jonathan Elliott, John Bansemer, Mikel Rodriguez, Mitt Regan, Rumman Chowdhury, Stefan Hermanek et.al.|[2305.14553v1](http://arxiv.org/abs/2305.14553v1)|null|
-|**2023-05-23**|**Towards Legally Enforceable Hate Speech Detection for Public Forums**|Chu Fei Luo, Rohan Bhambhoria, Xiaodan Zhu, Samuel Dahan et.al.|[2305.13677v1](http://arxiv.org/abs/2305.13677v1)|null|
+|**2023-11-01**|**Towards Legally Enforceable Hate Speech Detection for Public Forums**|Chu Fei Luo, Rohan Bhambhoria, Xiaodan Zhu, Samuel Dahan et.al.|[2305.13677v2](http://arxiv.org/abs/2305.13677v2)|null|
 |**2023-05-20**|**Proceedings of the International Workshop on Methodologies for Translating Legal Norms into Formal Representations (LN2FR 2022) in association with 35th International Conference on Legal Knowledge and Information Systems (JURIX 2022)**|Georg Borges, Ken Satoh, Erich Schweighofer et.al.|[2305.12203v1](http://arxiv.org/abs/2305.12203v1)|null|
 |**2023-05-04**|**Late-Binding Scholarship in the Age of AI: Navigating Legal and Normative Challenges of a New Form of Knowledge Production**|Bill Tomlinson, Andrew W. Torrance, Rebecca W. Black, Donald J. Patterson et.al.|[2305.11058v1](http://arxiv.org/abs/2305.11058v1)|null|
 |**2023-05-15**|**Legal Extractive Summarization of U.S. Court Opinions**|Emmanuel Bauer, Dominik Stammbach, Nianlong Gu, Elliott Ash et.al.|[2305.08428v1](http://arxiv.org/abs/2305.08428v1)|**[link](https://github.com/bauerem/legal_memsum)**|
@@ -460,7 +460,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231103>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -737,7 +737,7 @@ layout: default
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231103>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -747,7 +747,7 @@ layout: default
 |**2023-03-31**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v3](http://arxiv.org/abs/2207.14682v3)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231103>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
