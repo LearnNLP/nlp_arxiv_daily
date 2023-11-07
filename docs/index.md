@@ -467,6 +467,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Pseudo-Labeling for Domain-Agnostic Bangla Automatic Speech Recognition**|Rabindra Nath Nandi, Mehadi Hasan Menon, Tareq Al Muntasir, Sagor Sarker, Quazi Sarwar Muhtaseem, Md. Tariqul Islam, Shammur Absar Chowdhury, Firoj Alam et.al.|[2311.03196v1](http://arxiv.org/abs/2311.03196v1)|**[link](https://github.com/hishab-nlp/pseudo-labeling-for-domain-agnostic-bangla-asr)**|
 |**2023-10-20**|**Intelligibility prediction with a pretrained noise-robust automatic speech recognition model**|Zehai Tu, Ning Ma, Jon Barker et.al.|[2310.19817v1](http://arxiv.org/abs/2310.19817v1)|null|
 |**2023-10-29**|**MUST: A Multilingual Student-Teacher Learning approach for low-resource speech recognition**|Muhammad Umar Farooq, Rehan Ahmad, Thomas Hain et.al.|[2310.18865v1](http://arxiv.org/abs/2310.18865v1)|null|
 |**2023-10-27**|**MixRep: Hidden Representation Mixup for Low-Resource Speech Recognition**|Jiamin Xie, John H. L. Hansen et.al.|[2310.18450v1](http://arxiv.org/abs/2310.18450v1)|**[link](https://github.com/jiamin1013/mixrep-espnet)**|
