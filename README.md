@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Rethinking and Improving Multi-task Learning for End-to-end Speech Translation**|Yuhao Zhang, Chen Xu, Bei Li, Hao Chen, Tong Xiao, Chunliang Zhang, Jingbo Zhu et.al.|[2311.03810v1](http://arxiv.org/abs/2311.03810v1)|**[link](https://github.com/xiaozhang521/imtl)**|
 |**2023-11-01**|**End-to-End Single-Channel Speaker-Turn Aware Conversational Speech Translation**|Juan Zuluaga-Gomez, Zhaocheng Huang, Xing Niu, Rohit Paturi, Sundararajan Srinivasan, Prashant Mathur, Brian Thompson, Marcello Federico et.al.|[2311.00697v1](http://arxiv.org/abs/2311.00697v1)|**[link](https://github.com/amazon-science/stac-speech-translation)**|
 |**2023-10-31**|**Towards a Deep Understanding of Multilingual End-to-End Speech Translation**|Haoran Sun, Xiaohu Zhao, Yikun Lei, Shaolin Zhu, Deyi Xiong et.al.|[2310.20456v1](http://arxiv.org/abs/2310.20456v1)|null|
 |**2023-10-26**|**DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation**|Yongxin Zhu, Zhujin Gao, Xinyuan Zhou, Zhongyi Ye, Linli Xu et.al.|[2310.17570v1](http://arxiv.org/abs/2310.17570v1)|null|
@@ -463,6 +464,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Fine-tuning convergence model in Bengali speech recognition**|Zhu Ruiying, Shen Meng et.al.|[2311.04122v1](http://arxiv.org/abs/2311.04122v1)|null|
 |**2023-11-06**|**Pseudo-Labeling for Domain-Agnostic Bangla Automatic Speech Recognition**|Rabindra Nath Nandi, Mehadi Hasan Menon, Tareq Al Muntasir, Sagor Sarker, Quazi Sarwar Muhtaseem, Md. Tariqul Islam, Shammur Absar Chowdhury, Firoj Alam et.al.|[2311.03196v1](http://arxiv.org/abs/2311.03196v1)|**[link](https://github.com/hishab-nlp/pseudo-labeling-for-domain-agnostic-bangla-asr)**|
 |**2023-10-20**|**Intelligibility prediction with a pretrained noise-robust automatic speech recognition model**|Zehai Tu, Ning Ma, Jon Barker et.al.|[2310.19817v1](http://arxiv.org/abs/2310.19817v1)|null|
 |**2023-10-29**|**MUST: A Multilingual Student-Teacher Learning approach for low-resource speech recognition**|Muhammad Umar Farooq, Rehan Ahmad, Thomas Hain et.al.|[2310.18865v1](http://arxiv.org/abs/2310.18865v1)|null|
