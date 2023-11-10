@@ -206,6 +206,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**Legal-HNet: Mixing Legal Long-Context Tokens with Hartley Transform**|Daniele Giofré, Sneha Ghantasala et.al.|[2311.05089v1](http://arxiv.org/abs/2311.05089v1)|null|
+|**2023-11-01**|**From Text to Structure: Using Large Language Models to Support the Development of Legal Expert Systems**|Samyar Janatian, Hannes Westermann, Jinzhe Tan, Jaromir Savelka, Karim Benyekhlef et.al.|[2311.04911v1](http://arxiv.org/abs/2311.04911v1)|null|
 |**2023-11-02**|**An energy-based comparative analysis of common approaches to text classification in the Legal domain**|Sinan Gultekin, Achille Globo, Andrea Zugarini, Marco Ernandes, Leonardo Rigutini et.al.|[2311.01256v1](http://arxiv.org/abs/2311.01256v1)|null|
 |**2023-11-01**|**Caseformer: Pre-training for Legal Case Retrieval**|Weihang Su, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu et.al.|[2311.00333v1](http://arxiv.org/abs/2311.00333v1)|**[link](https://github.com/caseformer/caseformer)**|
 |**2023-10-28**|**Using Large Language Models to Support Thematic Analysis in Empirical Legal Studies**|Jakub Drápal, Hannes Westermann, Jaromir Savelka et.al.|[2310.18729v1](http://arxiv.org/abs/2310.18729v1)|null|
@@ -464,6 +466,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**Improving Whispered Speech Recognition Performance using Pseudo-whispered based Data Augmentation**|Zhaofeng Lin, Tanvina Patel, Odette Scharenborg et.al.|[2311.05179v1](http://arxiv.org/abs/2311.05179v1)|null|
+|**2023-11-08**|**GPU-Accelerated WFST Beam Search Decoder for CTC-based Speech Recognition**|Daniel Galvez, Tim Kaldewey et.al.|[2311.04996v1](http://arxiv.org/abs/2311.04996v1)|**[link](https://github.com/nvidia-riva/riva-asrlib-decoder)**|
+|**2023-11-07**|**A comparative analysis between Conformer-Transducer, Whisper, and wav2vec2 for improving the child speech recognition**|Andrei Barcovschi, Rishabh Jain, Peter Corcoran et.al.|[2311.04936v1](http://arxiv.org/abs/2311.04936v1)|**[link](https://github.com/c3imaging/child_asr_conformer)**|
 |**2023-11-07**|**Fine-tuning convergence model in Bengali speech recognition**|Zhu Ruiying, Shen Meng et.al.|[2311.04122v1](http://arxiv.org/abs/2311.04122v1)|null|
 |**2023-11-06**|**Pseudo-Labeling for Domain-Agnostic Bangla Automatic Speech Recognition**|Rabindra Nath Nandi, Mehadi Hasan Menon, Tareq Al Muntasir, Sagor Sarker, Quazi Sarwar Muhtaseem, Md. Tariqul Islam, Shammur Absar Chowdhury, Firoj Alam et.al.|[2311.03196v1](http://arxiv.org/abs/2311.03196v1)|**[link](https://github.com/hishab-nlp/pseudo-labeling-for-domain-agnostic-bangla-asr)**|
 |**2023-10-20**|**Intelligibility prediction with a pretrained noise-robust automatic speech recognition model**|Zehai Tu, Ning Ma, Jon Barker et.al.|[2310.19817v1](http://arxiv.org/abs/2310.19817v1)|null|
