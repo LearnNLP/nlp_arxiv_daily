@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.11
+## Updated on 2023.11.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -204,14 +204,14 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20231111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231112>back to top</a>)</p>
 
 ## Legal
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-09**|**Legal-HNet: Mixing Legal Long-Context Tokens with Hartley Transform**|Daniele Giofré, Sneha Ghantasala et.al.|[2311.05089v1](http://arxiv.org/abs/2311.05089v1)|null|
-|**2023-11-01**|**From Text to Structure: Using Large Language Models to Support the Development of Legal Expert Systems**|Samyar Janatian, Hannes Westermann, Jinzhe Tan, Jaromir Savelka, Karim Benyekhlef et.al.|[2311.04911v1](http://arxiv.org/abs/2311.04911v1)|null|
+|**2023-11-01**|**From Text to Structure: Using Large Language Models to Support the Development of Legal Expert Systems**|Samyar Janatian, Hannes Westermann, Jinzhe Tan, Jaromir Savelka, Karim Benyekhlef et.al.|[2311.04911v1](http://arxiv.org/abs/2311.04911v1)|**[link](https://github.com/samyarj/jcapg-jurix2023)**|
 |**2023-11-02**|**An energy-based comparative analysis of common approaches to text classification in the Legal domain**|Sinan Gultekin, Achille Globo, Andrea Zugarini, Marco Ernandes, Leonardo Rigutini et.al.|[2311.01256v1](http://arxiv.org/abs/2311.01256v1)|null|
 |**2023-11-01**|**Caseformer: Pre-training for Legal Case Retrieval**|Weihang Su, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu et.al.|[2311.00333v1](http://arxiv.org/abs/2311.00333v1)|**[link](https://github.com/caseformer/caseformer)**|
 |**2023-10-28**|**Using Large Language Models to Support Thematic Analysis in Empirical Legal Studies**|Jakub Drápal, Hannes Westermann, Jaromir Savelka et.al.|[2310.18729v1](http://arxiv.org/abs/2310.18729v1)|null|
@@ -464,7 +464,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231112>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -746,7 +746,7 @@ layout: default
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231112>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -756,7 +756,7 @@ layout: default
 |**2023-03-31**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v3](http://arxiv.org/abs/2207.14682v3)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231112>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
