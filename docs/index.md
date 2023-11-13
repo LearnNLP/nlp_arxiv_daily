@@ -210,6 +210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Citation Recommendation on Scholarly Legal Articles**|Doğukan Arslan, Saadet Sena Erdoğan, Gülşen Eryiğit et.al.|[2311.05902v1](http://arxiv.org/abs/2311.05902v1)|**[link](https://github.com/dgknrsln/legalcitationrecommendation)**|
 |**2023-11-09**|**Legal-HNet: Mixing Legal Long-Context Tokens with Hartley Transform**|Daniele Giofré, Sneha Ghantasala et.al.|[2311.05089v1](http://arxiv.org/abs/2311.05089v1)|null|
 |**2023-11-01**|**From Text to Structure: Using Large Language Models to Support the Development of Legal Expert Systems**|Samyar Janatian, Hannes Westermann, Jinzhe Tan, Jaromir Savelka, Karim Benyekhlef et.al.|[2311.04911v1](http://arxiv.org/abs/2311.04911v1)|**[link](https://github.com/samyarj/jcapg-jurix2023)**|
 |**2023-11-02**|**An energy-based comparative analysis of common approaches to text classification in the Legal domain**|Sinan Gultekin, Achille Globo, Andrea Zugarini, Marco Ernandes, Leonardo Rigutini et.al.|[2311.01256v1](http://arxiv.org/abs/2311.01256v1)|null|
