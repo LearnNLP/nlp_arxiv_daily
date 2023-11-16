@@ -206,6 +206,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-15**|**Explainable Text Classification Techniques in Legal Document Review: Locating Rationales without Using Human Annotated Training Text Snippets**|Christian Mahoney, Peter Gronvall, Nathaniel Huber-Fliflet, Jianping Zhang et.al.|[2311.09133v1](http://arxiv.org/abs/2311.09133v1)|null|
+|**2023-11-15**|**Large Language Models are legal but they are not: Making the case for a powerful LegalLLM**|Thanmay Jayakumar, Fauzan Farooqui, Luqman Farooqui et.al.|[2311.08890v1](http://arxiv.org/abs/2311.08890v1)|null|
 |**2023-11-14**|**Exploring Semi-supervised Hierarchical Stacked Encoder for Legal Judgement Prediction**|Nishchal Prasad, Mohand Boughanem, Taoufiq Dkaki et.al.|[2311.08103v1](http://arxiv.org/abs/2311.08103v1)|**[link](https://github.com/nishchalprasad/semi-supervised-stacked-encoder)**|
 |**2023-11-10**|**Citation Recommendation on Scholarly Legal Articles**|Doğukan Arslan, Saadet Sena Erdoğan, Gülşen Eryiğit et.al.|[2311.05902v1](http://arxiv.org/abs/2311.05902v1)|**[link](https://github.com/dgknrsln/legalcitationrecommendation)**|
 |**2023-11-09**|**Legal-HNet: Mixing Legal Long-Context Tokens with Hartley Transform**|Daniele Giofré, Sneha Ghantasala et.al.|[2311.05089v1](http://arxiv.org/abs/2311.05089v1)|null|
