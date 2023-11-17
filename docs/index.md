@@ -210,6 +210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**BLT: Can Large Language Models Handle Basic Legal Text?**|Andrew Blair-Stanek, Nils Holzenberger, Benjamin Van Durme et.al.|[2311.09693v1](http://arxiv.org/abs/2311.09693v1)|**[link](https://github.com/blairstanek/blt)**|
 |**2023-11-15**|**Explainable Text Classification Techniques in Legal Document Review: Locating Rationales without Using Human Annotated Training Text Snippets**|Christian Mahoney, Peter Gronvall, Nathaniel Huber-Fliflet, Jianping Zhang et.al.|[2311.09133v1](http://arxiv.org/abs/2311.09133v1)|null|
 |**2023-11-15**|**Large Language Models are legal but they are not: Making the case for a powerful LegalLLM**|Thanmay Jayakumar, Fauzan Farooqui, Luqman Farooqui et.al.|[2311.08890v1](http://arxiv.org/abs/2311.08890v1)|null|
 |**2023-11-14**|**Exploring Semi-supervised Hierarchical Stacked Encoder for Legal Judgement Prediction**|Nishchal Prasad, Mohand Boughanem, Taoufiq Dkaki et.al.|[2311.08103v1](http://arxiv.org/abs/2311.08103v1)|**[link](https://github.com/nishchalprasad/semi-supervised-stacked-encoder)**|
