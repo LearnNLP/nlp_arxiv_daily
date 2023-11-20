@@ -471,6 +471,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**GhostVec: A New Threat to Speaker Privacy of End-to-End Speech Recognition System**|Xiaojiao Chen, Sheng Li, Jiyi Li, Hao Huang, Yang Cao, Liang He et.al.|[2311.10689v1](http://arxiv.org/abs/2311.10689v1)|null|
 |**2023-11-09**|**Improving Whispered Speech Recognition Performance using Pseudo-whispered based Data Augmentation**|Zhaofeng Lin, Tanvina Patel, Odette Scharenborg et.al.|[2311.05179v1](http://arxiv.org/abs/2311.05179v1)|null|
 |**2023-11-08**|**GPU-Accelerated WFST Beam Search Decoder for CTC-based Speech Recognition**|Daniel Galvez, Tim Kaldewey et.al.|[2311.04996v1](http://arxiv.org/abs/2311.04996v1)|**[link](https://github.com/nvidia-riva/riva-asrlib-decoder)**|
 |**2023-11-07**|**A comparative analysis between Conformer-Transducer, Whisper, and wav2vec2 for improving the child speech recognition**|Andrei Barcovschi, Rishabh Jain, Peter Corcoran et.al.|[2311.04936v1](http://arxiv.org/abs/2311.04936v1)|**[link](https://github.com/c3imaging/child_asr_conformer)**|
