@@ -206,6 +206,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**Multi-Task Faces (MTF) Data Set: A Legally and Ethically Compliant Collection of Face Images for Various Classification Tasks**|Rami Haffar, David Sánchez, Josep Domingo-Ferrer et.al.|[2311.11882v1](http://arxiv.org/abs/2311.11882v1)|**[link](https://github.com/ramihaf/mtf_data_set)**|
+|**2023-10-19**|**Proceedings of the 3rd International Workshop on Mining and Learning in the Legal Domain (MLLD-23)**|Masoud Makrehchi, Dell Zhang, Alina Petrova, John Armour et.al.|[2311.10733v1](http://arxiv.org/abs/2311.10733v1)|null|
 |**2023-11-16**|**BLT: Can Large Language Models Handle Basic Legal Text?**|Andrew Blair-Stanek, Nils Holzenberger, Benjamin Van Durme et.al.|[2311.09693v1](http://arxiv.org/abs/2311.09693v1)|**[link](https://github.com/blairstanek/blt)**|
 |**2023-11-15**|**Explainable Text Classification Techniques in Legal Document Review: Locating Rationales without Using Human Annotated Training Text Snippets**|Christian Mahoney, Peter Gronvall, Nathaniel Huber-Fliflet, Jianping Zhang et.al.|[2311.09133v1](http://arxiv.org/abs/2311.09133v1)|null|
 |**2023-11-15**|**Large Language Models are legal but they are not: Making the case for a powerful LegalLLM**|Thanmay Jayakumar, Fauzan Farooqui, Luqman Farooqui et.al.|[2311.08890v1](http://arxiv.org/abs/2311.08890v1)|null|
@@ -471,6 +473,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**How does end-to-end speech recognition training impact speech enhancement artifacts?**|Kazuma Iwamoto, Tsubasa Ochiai, Marc Delcroix, Rintaro Ikeshita, Hiroshi Sato, Shoko Araki, Shigeru Katagiri et.al.|[2311.11599v1](http://arxiv.org/abs/2311.11599v1)|null|
+|**2023-11-19**|**Label-Synchronous Neural Transducer for Adaptable Online E2E Speech Recognition**|Keqi Deng, Philip C. Woodland et.al.|[2311.11353v1](http://arxiv.org/abs/2311.11353v1)|null|
 |**2023-11-17**|**GhostVec: A New Threat to Speaker Privacy of End-to-End Speech Recognition System**|Xiaojiao Chen, Sheng Li, Jiyi Li, Hao Huang, Yang Cao, Liang He et.al.|[2311.10689v1](http://arxiv.org/abs/2311.10689v1)|null|
 |**2023-11-09**|**Improving Whispered Speech Recognition Performance using Pseudo-whispered based Data Augmentation**|Zhaofeng Lin, Tanvina Patel, Odette Scharenborg et.al.|[2311.05179v1](http://arxiv.org/abs/2311.05179v1)|null|
 |**2023-11-08**|**GPU-Accelerated WFST Beam Search Decoder for CTC-based Speech Recognition**|Daniel Galvez, Tim Kaldewey et.al.|[2311.04996v1](http://arxiv.org/abs/2311.04996v1)|**[link](https://github.com/nvidia-riva/riva-asrlib-decoder)**|
