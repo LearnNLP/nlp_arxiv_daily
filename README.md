@@ -206,6 +206,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**Development of a Legal Document AI-Chatbot**|Pranav Nataraj Devaraj, Rakesh Teja P V, Aaryav Gangrade, Manoj Kumar R et.al.|[2311.12719v1](http://arxiv.org/abs/2311.12719v1)|null|
 |**2023-11-20**|**Multi-Task Faces (MTF) Data Set: A Legally and Ethically Compliant Collection of Face Images for Various Classification Tasks**|Rami Haffar, David Sánchez, Josep Domingo-Ferrer et.al.|[2311.11882v1](http://arxiv.org/abs/2311.11882v1)|**[link](https://github.com/ramihaf/mtf_data_set)**|
 |**2023-10-19**|**Proceedings of the 3rd International Workshop on Mining and Learning in the Legal Domain (MLLD-23)**|Masoud Makrehchi, Dell Zhang, Alina Petrova, John Armour et.al.|[2311.10733v1](http://arxiv.org/abs/2311.10733v1)|null|
 |**2023-11-16**|**BLT: Can Large Language Models Handle Basic Legal Text?**|Andrew Blair-Stanek, Nils Holzenberger, Benjamin Van Durme et.al.|[2311.09693v1](http://arxiv.org/abs/2311.09693v1)|**[link](https://github.com/blairstanek/blt)**|
@@ -473,6 +474,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**Speaker-Adapted End-to-End Visual Speech Recognition for Continuous Spanish**|David Gimeno-Gómez, Carlos-D. Martínez-Hinarejos et.al.|[2311.12480v1](http://arxiv.org/abs/2311.12480v1)|null|
 |**2023-11-20**|**How does end-to-end speech recognition training impact speech enhancement artifacts?**|Kazuma Iwamoto, Tsubasa Ochiai, Marc Delcroix, Rintaro Ikeshita, Hiroshi Sato, Shoko Araki, Shigeru Katagiri et.al.|[2311.11599v1](http://arxiv.org/abs/2311.11599v1)|null|
 |**2023-11-19**|**Label-Synchronous Neural Transducer for Adaptable Online E2E Speech Recognition**|Keqi Deng, Philip C. Woodland et.al.|[2311.11353v1](http://arxiv.org/abs/2311.11353v1)|null|
 |**2023-11-17**|**GhostVec: A New Threat to Speaker Privacy of End-to-End Speech Recognition System**|Xiaojiao Chen, Sheng Li, Jiyi Li, Hao Huang, Yang Cao, Liang He et.al.|[2311.10689v1](http://arxiv.org/abs/2311.10689v1)|null|
