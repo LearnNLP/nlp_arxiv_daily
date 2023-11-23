@@ -210,6 +210,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**Intention and Context Elicitation with Large Language Models in the Legal Aid Intake Process**|Nick Goodson, Rongfei Lu et.al.|[2311.13281v1](http://arxiv.org/abs/2311.13281v1)|null|
+|**2023-11-22**|**Enhancing Logical Reasoning in Large Language Models to Facilitate Legal Applications**|Ha-Thanh Nguyen, Wachara Fungwacharakorn, Ken Satoh et.al.|[2311.13095v1](http://arxiv.org/abs/2311.13095v1)|null|
 |**2023-11-21**|**Development of a Legal Document AI-Chatbot**|Pranav Nataraj Devaraj, Rakesh Teja P V, Aaryav Gangrade, Manoj Kumar R et.al.|[2311.12719v1](http://arxiv.org/abs/2311.12719v1)|null|
 |**2023-11-20**|**Multi-Task Faces (MTF) Data Set: A Legally and Ethically Compliant Collection of Face Images for Various Classification Tasks**|Rami Haffar, David Sánchez, Josep Domingo-Ferrer et.al.|[2311.11882v1](http://arxiv.org/abs/2311.11882v1)|**[link](https://github.com/ramihaf/mtf_data_set)**|
 |**2023-10-19**|**Proceedings of the 3rd International Workshop on Mining and Learning in the Legal Domain (MLLD-23)**|Masoud Makrehchi, Dell Zhang, Alina Petrova, John Armour et.al.|[2311.10733v1](http://arxiv.org/abs/2311.10733v1)|null|
