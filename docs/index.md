@@ -210,6 +210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-23**|**Legal Requirements Analysis**|Sallam Abualhaija, Marcello Ceci, Lionel Briand et.al.|[2311.13871v1](http://arxiv.org/abs/2311.13871v1)|null|
 |**2023-11-22**|**Intention and Context Elicitation with Large Language Models in the Legal Aid Intake Process**|Nick Goodson, Rongfei Lu et.al.|[2311.13281v1](http://arxiv.org/abs/2311.13281v1)|null|
 |**2023-11-22**|**Enhancing Logical Reasoning in Large Language Models to Facilitate Legal Applications**|Ha-Thanh Nguyen, Wachara Fungwacharakorn, Ken Satoh et.al.|[2311.13095v1](http://arxiv.org/abs/2311.13095v1)|null|
 |**2023-11-21**|**Development of a Legal Document AI-Chatbot**|Pranav Nataraj Devaraj, Rakesh Teja P V, Aaryav Gangrade, Manoj Kumar R et.al.|[2311.12719v1](http://arxiv.org/abs/2311.12719v1)|null|
