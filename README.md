@@ -206,6 +206,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Justifiable Artificial Intelligence: Engineering Large Language Models for Legal Applications**|Sabine Wehnert et.al.|[2311.15716v1](http://arxiv.org/abs/2311.15716v1)|null|
 |**2023-11-23**|**Legal Requirements Analysis**|Sallam Abualhaija, Marcello Ceci, Lionel Briand et.al.|[2311.13871v1](http://arxiv.org/abs/2311.13871v1)|null|
 |**2023-11-22**|**Intention and Context Elicitation with Large Language Models in the Legal Aid Intake Process**|Nick Goodson, Rongfei Lu et.al.|[2311.13281v1](http://arxiv.org/abs/2311.13281v1)|null|
 |**2023-11-22**|**Enhancing Logical Reasoning in Large Language Models to Facilitate Legal Applications**|Ha-Thanh Nguyen, Wachara Fungwacharakorn, Ken Satoh et.al.|[2311.13095v1](http://arxiv.org/abs/2311.13095v1)|null|
@@ -477,6 +478,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-25**|**Multilingual self-supervised speech representations improve the speech recognition of low-resource African languages with codeswitching**|Tolúlopé Ògúnrèmí, Christopher D. Manning, Dan Jurafsky et.al.|[2311.15077v1](http://arxiv.org/abs/2311.15077v1)|null|
 |**2023-11-21**|**Speaker-Adapted End-to-End Visual Speech Recognition for Continuous Spanish**|David Gimeno-Gómez, Carlos-D. Martínez-Hinarejos et.al.|[2311.12480v1](http://arxiv.org/abs/2311.12480v1)|null|
 |**2023-11-20**|**How does end-to-end speech recognition training impact speech enhancement artifacts?**|Kazuma Iwamoto, Tsubasa Ochiai, Marc Delcroix, Rintaro Ikeshita, Hiroshi Sato, Shoko Araki, Shigeru Katagiri et.al.|[2311.11599v1](http://arxiv.org/abs/2311.11599v1)|null|
 |**2023-11-19**|**Label-Synchronous Neural Transducer for Adaptable Online E2E Speech Recognition**|Keqi Deng, Philip C. Woodland et.al.|[2311.11353v1](http://arxiv.org/abs/2311.11353v1)|null|
