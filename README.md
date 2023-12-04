@@ -206,6 +206,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**The Ethics of Automating Legal Actors**|Josef Valvoda, Alec Thompson, Ryan Cotterell, Simone Teufel et.al.|[2312.00584v1](http://arxiv.org/abs/2312.00584v1)|null|
+|**2023-12-01**|**Questioning Biases in Case Judgment Summaries: Legal Datasets or Large Language Models?**|Aniket Deroy, Subhankar Maity et.al.|[2312.00554v1](http://arxiv.org/abs/2312.00554v1)|null|
+|**2023-12-01**|**Japanese Tort-case Dataset for Rationale-supported Legal Judgment Prediction**|Hiroaki Yamada, Takenobu Tokunaga, Ryutaro Ohara, Akira Tokutsu, Keisuke Takeshita, Mihoko Sumida et.al.|[2312.00480v1](http://arxiv.org/abs/2312.00480v1)|null|
 |**2023-11-27**|**Justifiable Artificial Intelligence: Engineering Large Language Models for Legal Applications**|Sabine Wehnert et.al.|[2311.15716v1](http://arxiv.org/abs/2311.15716v1)|null|
 |**2023-11-23**|**Legal Requirements Analysis**|Sallam Abualhaija, Marcello Ceci, Lionel Briand et.al.|[2311.13871v1](http://arxiv.org/abs/2311.13871v1)|null|
 |**2023-11-22**|**Intention and Context Elicitation with Large Language Models in the Legal Aid Intake Process**|Nick Goodson, Rongfei Lu et.al.|[2311.13281v1](http://arxiv.org/abs/2311.13281v1)|null|
