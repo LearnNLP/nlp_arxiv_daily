@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**AV2AV: Direct Audio-Visual Speech to Audio-Visual Speech Translation with Unified Audio-Visual Speech Representation**|Jeongsoo Choi, Se Jin Park, Minsu Kim, Yong Man Ro et.al.|[2312.02512v1](http://arxiv.org/abs/2312.02512v1)|null|
 |**2023-11-07**|**Rethinking and Improving Multi-task Learning for End-to-end Speech Translation**|Yuhao Zhang, Chen Xu, Bei Li, Hao Chen, Tong Xiao, Chunliang Zhang, Jingbo Zhu et.al.|[2311.03810v1](http://arxiv.org/abs/2311.03810v1)|**[link](https://github.com/xiaozhang521/imtl)**|
 |**2023-11-01**|**End-to-End Single-Channel Speaker-Turn Aware Conversational Speech Translation**|Juan Zuluaga-Gomez, Zhaocheng Huang, Xing Niu, Rohit Paturi, Sundararajan Srinivasan, Prashant Mathur, Brian Thompson, Marcello Federico et.al.|[2311.00697v1](http://arxiv.org/abs/2311.00697v1)|**[link](https://github.com/amazon-science/stac-speech-translation)**|
 |**2023-10-31**|**Towards a Deep Understanding of Multilingual End-to-End Speech Translation**|Haoran Sun, Xiaohu Zhao, Yikun Lei, Shaolin Zhu, Deyi Xiong et.al.|[2310.20456v1](http://arxiv.org/abs/2310.20456v1)|null|
