@@ -207,6 +207,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Boosting legal case retrieval by query content selection with large language models**|Youchao Zhou, Heyan Huang, Zhijing Wu et.al.|[2312.03494v1](http://arxiv.org/abs/2312.03494v1)|**[link](https://github.com/zuochao912/legalsearchsum)**|
 |**2023-12-03**|**Towards Mitigating Perceived Unfairness in Contracts from a Non-Legal Stakeholder's Perspective**|Anmol Singhal, Preethu Rose Anish, Shirish Karande, Smita Ghaisas et.al.|[2312.01398v1](http://arxiv.org/abs/2312.01398v1)|null|
 |**2023-12-01**|**The Ethics of Automating Legal Actors**|Josef Valvoda, Alec Thompson, Ryan Cotterell, Simone Teufel et.al.|[2312.00584v1](http://arxiv.org/abs/2312.00584v1)|null|
 |**2023-12-01**|**Questioning Biases in Case Judgment Summaries: Legal Datasets or Large Language Models?**|Aniket Deroy, Subhankar Maity et.al.|[2312.00554v1](http://arxiv.org/abs/2312.00554v1)|null|
@@ -483,6 +484,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**An Integration of Pre-Trained Speech and Language Models for End-to-End Speech Recognition**|Yukiya Hono, Koh Mitsuda, Tianyu Zhao, Kentaro Mitsui, Toshiaki Wakatsuki, Kei Sawada et.al.|[2312.03668v1](http://arxiv.org/abs/2312.03668v1)|null|
 |**2023-11-29**|**FAT-HuBERT: Front-end Adaptive Training of Hidden-unit BERT for Distortion-Invariant Robust Speech Recognition**|Dongning Yang, Wei Wang, Yanmin Qian et.al.|[2311.17790v1](http://arxiv.org/abs/2311.17790v1)|null|
 |**2023-11-29**|**Adapting OpenAI's Whisper for Speech Recognition on Code-Switch Mandarin-English SEAME and ASRU2019 Datasets**|Yuhang Yang, Yizhou Peng, Xionghu Zhong, Hao Huang, Eng Siong Chng et.al.|[2311.17382v1](http://arxiv.org/abs/2311.17382v1)|null|
 |**2023-11-25**|**Multilingual self-supervised speech representations improve the speech recognition of low-resource African languages with codeswitching**|Tolúlopé Ògúnrèmí, Christopher D. Manning, Dan Jurafsky et.al.|[2311.15077v1](http://arxiv.org/abs/2311.15077v1)|null|
@@ -507,7 +509,7 @@
 |**2023-10-17**|**Audio-AdapterFusion: A Task-ID-free Approach for Efficient and Non-Destructive Multi-task Speech Recognition**|Hillary Ngai, Rohan Agrawal, Neeraj Gaur, Ronny Huang, Parisa Haghani, Pedro Moreno Mengibar et.al.|[2310.13015v1](http://arxiv.org/abs/2310.13015v1)|null|
 |**2023-10-17**|**Generative error correction for code-switching speech recognition using large language models**|Chen Chen, Yuchen Hu, Chao-Han Huck Yang, Hexin Liu, Sabato Marco Siniscalchi, Eng Siong Chng et.al.|[2310.13013v1](http://arxiv.org/abs/2310.13013v1)|null|
 |**2023-10-17**|**Multi-stage Large Language Model Correction for Speech Recognition**|Jie Pu, Thai-Son Nguyen, Sebastian Stüker et.al.|[2310.11532v1](http://arxiv.org/abs/2310.11532v1)|null|
-|**2023-10-17**|**Zipformer: A faster and better encoder for automatic speech recognition**|Zengwei Yao, Liyong Guo, Xiaoyu Yang, Wei Kang, Fangjun Kuang, Yifan Yang, Zengrui Jin, Long Lin, Daniel Povey et.al.|[2310.11230v1](http://arxiv.org/abs/2310.11230v1)|**[link](https://github.com/k2-fsa/icefall)**|
+|**2023-12-06**|**Zipformer: A faster and better encoder for automatic speech recognition**|Zengwei Yao, Liyong Guo, Xiaoyu Yang, Wei Kang, Fangjun Kuang, Yifan Yang, Zengrui Jin, Long Lin, Daniel Povey et.al.|[2310.11230v2](http://arxiv.org/abs/2310.11230v2)|**[link](https://github.com/k2-fsa/icefall)**|
 |**2023-10-27**|**VoxArabica: A Robust Dialect-Aware Arabic Speech Recognition System**|Abdul Waheed, Bashar Talafha, Peter Sullivan, AbdelRahim Elmadany, Muhammad Abdul-Mageed et.al.|[2310.11069v4](http://arxiv.org/abs/2310.11069v4)|null|
 |**2023-10-17**|**Iterative Shallow Fusion of Backward Language Model for End-to-End Speech Recognition**|Atsunori Ogawa, Takafumi Moriya, Naoyuki Kamo, Naohiro Tawara, Marc Delcroix et.al.|[2310.11010v1](http://arxiv.org/abs/2310.11010v1)|null|
 |**2023-10-17**|**Advanced accent/dialect identification and accentedness assessment with multi-embedding models and automatic speech recognition**|Shahram Ghorbani, John H. L. Hansen et.al.|[2310.11004v1](http://arxiv.org/abs/2310.11004v1)|null|
