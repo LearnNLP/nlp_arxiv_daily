@@ -208,6 +208,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-10**|**Multi-Defendant Legal Judgment Prediction via Hierarchical Reasoning**|Yougang Lyu, Jitai Hao, Zihan Wang, Kai Zhao, Shen Gao, Pengjie Ren, Zhumin Chen, Fang Wang, Zhaochun Ren et.al.|[2312.05762v1](http://arxiv.org/abs/2312.05762v1)|**[link](https://github.com/currentf/hrn)**|
 |**2023-12-06**|**Boosting legal case retrieval by query content selection with large language models**|Youchao Zhou, Heyan Huang, Zhijing Wu et.al.|[2312.03494v1](http://arxiv.org/abs/2312.03494v1)|**[link](https://github.com/zuochao912/legalsearchsum)**|
 |**2023-12-03**|**Towards Mitigating Perceived Unfairness in Contracts from a Non-Legal Stakeholder's Perspective**|Anmol Singhal, Preethu Rose Anish, Shirish Karande, Smita Ghaisas et.al.|[2312.01398v1](http://arxiv.org/abs/2312.01398v1)|null|
 |**2023-12-01**|**The Ethics of Automating Legal Actors**|Josef Valvoda, Alec Thompson, Ryan Cotterell, Simone Teufel et.al.|[2312.00584v1](http://arxiv.org/abs/2312.00584v1)|null|
@@ -485,6 +486,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**Deep Photonic Reservoir Computer for Speech Recognition**|Enrico Picco, Alessandro Lupo, Serge Massar et.al.|[2312.06558v1](http://arxiv.org/abs/2312.06558v1)|null|
 |**2023-12-06**|**An Integration of Pre-Trained Speech and Language Models for End-to-End Speech Recognition**|Yukiya Hono, Koh Mitsuda, Tianyu Zhao, Kentaro Mitsui, Toshiaki Wakatsuki, Kei Sawada et.al.|[2312.03668v1](http://arxiv.org/abs/2312.03668v1)|null|
 |**2023-11-29**|**FAT-HuBERT: Front-end Adaptive Training of Hidden-unit BERT for Distortion-Invariant Robust Speech Recognition**|Dongning Yang, Wei Wang, Yanmin Qian et.al.|[2311.17790v1](http://arxiv.org/abs/2311.17790v1)|null|
 |**2023-11-29**|**Adapting OpenAI's Whisper for Speech Recognition on Code-Switch Mandarin-English SEAME and ASRU2019 Datasets**|Yuhang Yang, Yizhou Peng, Xionghu Zhong, Hao Huang, Eng Siong Chng et.al.|[2311.17382v1](http://arxiv.org/abs/2311.17382v1)|null|
