@@ -208,6 +208,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**SLJP: Semantic Extraction based Legal Judgment Prediction**|Prameela Madambakam, Shathanaa Rajmohan, Himangshu Sharma, Tummepalli Anka Chandrahas Purushotham Gupta et.al.|[2312.07979v1](http://arxiv.org/abs/2312.07979v1)|null|
 |**2023-12-10**|**Multi-Defendant Legal Judgment Prediction via Hierarchical Reasoning**|Yougang Lyu, Jitai Hao, Zihan Wang, Kai Zhao, Shen Gao, Pengjie Ren, Zhumin Chen, Fang Wang, Zhaochun Ren et.al.|[2312.05762v1](http://arxiv.org/abs/2312.05762v1)|**[link](https://github.com/currentf/hrn)**|
 |**2023-12-06**|**Boosting legal case retrieval by query content selection with large language models**|Youchao Zhou, Heyan Huang, Zhijing Wu et.al.|[2312.03494v1](http://arxiv.org/abs/2312.03494v1)|**[link](https://github.com/zuochao912/legalsearchsum)**|
 |**2023-12-03**|**Towards Mitigating Perceived Unfairness in Contracts from a Non-Legal Stakeholder's Perspective**|Anmol Singhal, Preethu Rose Anish, Shirish Karande, Smita Ghaisas et.al.|[2312.01398v1](http://arxiv.org/abs/2312.01398v1)|null|
