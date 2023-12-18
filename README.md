@@ -208,6 +208,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Social, Legal, Ethical, Empathetic, and Cultural Rules: Compilation and Reasoning (Extended Version)**|Nicolas Troquard, Martina De Sanctis, Paola Inverardi, Patrizio Pelliccione, Gian Luca Scoccia et.al.|[2312.09699v1](http://arxiv.org/abs/2312.09699v1)|null|
+|**2023-12-15**|**Incorporating Judgment Prediction into Legal Case Retrieval via Law-aware Generative Retrieval**|Weicong Qin, Zelin Cao, Weijie Yu, Zihua Si, Sirui Chen, Jun Xu et.al.|[2312.09591v1](http://arxiv.org/abs/2312.09591v1)|null|
 |**2023-12-14**|**Weaving Pathways for Justice with GPT: LLM-driven automated drafting of interactive legal applications**|Quinten Steenhuis, David Colarusso, Bryce Willey et.al.|[2312.09198v1](http://arxiv.org/abs/2312.09198v1)|**[link](https://github.com/suffolklitlab/formfyxer)**|
 |**2023-12-13**|**SLJP: Semantic Extraction based Legal Judgment Prediction**|Prameela Madambakam, Shathanaa Rajmohan, Himangshu Sharma, Tummepalli Anka Chandrahas Purushotham Gupta et.al.|[2312.07979v1](http://arxiv.org/abs/2312.07979v1)|null|
 |**2023-12-10**|**Multi-Defendant Legal Judgment Prediction via Hierarchical Reasoning**|Yougang Lyu, Jitai Hao, Zihan Wang, Kai Zhao, Shen Gao, Pengjie Ren, Zhumin Chen, Fang Wang, Zhaochun Ren et.al.|[2312.05762v1](http://arxiv.org/abs/2312.05762v1)|**[link](https://github.com/currentf/hrn)**|
@@ -488,6 +490,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**On the compression of shallow non-causal ASR models using knowledge distillation and tied-and-reduced decoder for low-latency on-device speech recognition**|Nagaraj Adiga, Jinhwan Park, Chintigari Shiva Kumar, Shatrughan Singh, Kyungmin Lee, Chanwoo Kim, Dhananjaya Gowda et.al.|[2312.09842v1](http://arxiv.org/abs/2312.09842v1)|null|
+|**2023-12-15**|**Automatic channel selection and spatial feature integration for multi-channel speech recognition across various array topologies**|Bingshen Mu, Pengcheng Guo, Dake Guo, Pan Zhou, Wei Chen, Lei Xie et.al.|[2312.09746v1](http://arxiv.org/abs/2312.09746v1)|null|
+|**2023-12-15**|**LiteVSR: Efficient Visual Speech Recognition by Learning from Speech Representations of Unlabeled Data**|Hendrik Laux, Emil Mededovic, Ahmed Hallawa, Lukas Martin, Arne Peine, Anke Schmeink et.al.|[2312.09727v1](http://arxiv.org/abs/2312.09727v1)|null|
+|**2023-12-15**|**Leveraging Language ID to Calculate Intermediate CTC Loss for Enhanced Code-Switching Speech Recognition**|Tzu-Ting Yang, Hsin-Wei Wang, Berlin Chen et.al.|[2312.09583v1](http://arxiv.org/abs/2312.09583v1)|null|
+|**2023-12-15**|**IR-UWB Radar-Based Contactless Silent Speech Recognition of Vowels, Consonants, Words, and Phrases**|Sunghwa Lee, Younghoon Shin, Myungjong Kim, Jiwon Seo et.al.|[2312.09572v1](http://arxiv.org/abs/2312.09572v1)|null|
 |**2023-12-14**|**Attention-Guided Adaptation for Code-Switching Speech Recognition**|Bobbi Aditya, Mahdin Rohmatillah, Liang-Hsuan Tai, Jen-Tzung Chien et.al.|[2312.08856v1](http://arxiv.org/abs/2312.08856v1)|null|
 |**2023-12-14**|**Hourglass-AVSR: Down-Up Sampling-based Computational Efficiency Model for Audio-Visual Speech Recognition**|Fan Yu, Haoxu Wang, Ziyang Ma, Shiliang Zhang et.al.|[2312.08850v1](http://arxiv.org/abs/2312.08850v1)|null|
 |**2023-12-14**|**Towards Automatic Data Augmentation for Disordered Speech Recognition**|Zengrui Jin, Xurong Xie, Tianzi Wang, Mengzhe Geng, Jiajun Deng, Guinan Li, Shujie Hu, Xunying Liu et.al.|[2312.08641v1](http://arxiv.org/abs/2312.08641v1)|null|
@@ -533,7 +540,7 @@
 |**2023-10-16**|**Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition**|Srijith Radhakrishnan, Chao-Han Huck Yang, Sumeer Ahmad Khan, Rohit Kumar, Narsis A. Kiani, David Gomez-Cabrero, Jesper N. Tegner et.al.|[2310.06434v2](http://arxiv.org/abs/2310.06434v2)|**[link](https://github.com/srijith-rkr/whispering-llama)**|
 |**2023-10-10**|**Discriminative Speech Recognition Rescoring with Pre-trained Language Models**|Prashanth Gurunath Shivakumar, Jari Kolehmainen, Yile Gu, Ankur Gandhe, Ariya Rastrow, Ivan Bulyko et.al.|[2310.06248v1](http://arxiv.org/abs/2310.06248v1)|null|
 |**2023-10-07**|**Spike-Triggered Contextual Biasing for End-to-End Mandarin Speech Recognition**|Kaixun Huang, Ao Zhang, Binbin Zhang, Tianyi Xu, Xingchen Song, Lei Xie et.al.|[2310.04657v1](http://arxiv.org/abs/2310.04657v1)|null|
-|**2023-10-06**|**Dementia Assessment Using Mandarin Speech with an Attention-based Speech Recognition Encoder**|Zih-Jyun Lin, Yi-Ju Chen, Po-Chih Kuo, Likai Huang, Chaur-Jong Hu, Cheng-Yu Chen et.al.|[2310.03985v1](http://arxiv.org/abs/2310.03985v1)|**[link](https://github.com/jason7580/End-to-End-ASR-and-Dementia-detection-system)**|
+|**2023-12-15**|**Dementia Assessment Using Mandarin Speech with an Attention-based Speech Recognition Encoder**|Zih-Jyun Lin, Yi-Ju Chen, Po-Chih Kuo, Likai Huang, Chaur-Jong Hu, Cheng-Yu Chen et.al.|[2310.03985v2](http://arxiv.org/abs/2310.03985v2)|**[link](https://github.com/jason7580/End-to-End-ASR-and-Dementia-detection-system)**|
 |**2023-10-06**|**The North System for Formosa Speech Recognition Challenge 2023**|Li-Wei Chen, Kai-Chen Cheng, Hung-Shin Lee et.al.|[2310.03443v2](http://arxiv.org/abs/2310.03443v2)|null|
 |**2023-10-05**|**Neural Language Model Pruning for Automatic Speech Recognition**|Leonardo Emili, Thiago Fraga-Silva, Ernest Pusateri, Markus Nußbaum-Thom, Youssef Oualil et.al.|[2310.03424v1](http://arxiv.org/abs/2310.03424v1)|null|
 |**2023-10-08**|**BA-MoE: Boundary-Aware Mixture-of-Experts Adapter for Code-Switching Speech Recognition**|Peikun Chen, Fan Yu, Yuhao Lian, Hongfei Xue, Xucheng Wan, Naijun Zheng, Huan Zhou, Lei Xie et.al.|[2310.02629v2](http://arxiv.org/abs/2310.02629v2)|null|
