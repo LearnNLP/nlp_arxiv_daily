@@ -75,7 +75,7 @@
 |**2023-10-17**|**The Interpreter Understands Your Meaning: End-to-end Spoken Language Understanding Aided by Speech Translation**|Mutian He, Philip N. Garner et.al.|[2305.09652v2](http://arxiv.org/abs/2305.09652v2)|**[link](https://github.com/idiap/translation-aided-slu)**|
 |**2023-05-15**|**Understanding and Bridging the Modality Gap for Speech Translation**|Qingkai Fang, Yang Feng et.al.|[2305.08706v1](http://arxiv.org/abs/2305.08706v1)|**[link](https://github.com/ictnlp/cress)**|
 |**2023-05-12**|**Improving Cascaded Unsupervised Speech Translation with Denoising Back-translation**|Yu-Kuan Fu, Liang-Hsuan Tseng, Jiatong Shi, Chen-An Li, Tsu-Yuan Hsu, Shinji Watanabe, Hung-yi Lee et.al.|[2305.07455v1](http://arxiv.org/abs/2305.07455v1)|null|
-|**2023-04-25**|**Improving Speech Translation Accuracy and Time Efficiency with Fine-tuned wav2vec 2.0-based Speech Segmentation**|Ryo Fukuda, Katsuhito Sudoh, Satoshi Nakamura et.al.|[2304.12659v1](http://arxiv.org/abs/2304.12659v1)|null|
+|**2023-12-18**|**Improving Speech Translation Accuracy and Time Efficiency with Fine-tuned wav2vec 2.0-based Speech Segmentation**|Ryo Fukuda, Katsuhito Sudoh, Satoshi Nakamura et.al.|[2304.12659v2](http://arxiv.org/abs/2304.12659v2)|null|
 |**2023-04-20**|**Improving Speech Translation by Cross-Modal Multi-Grained Contrastive Learning**|Hao Zhang, Nianwen Si, Yaqi Chen, Wenlin Zhang, Xukui Yang, Dan Qu, Wei-Qiang Zhang et.al.|[2304.10309v1](http://arxiv.org/abs/2304.10309v1)|null|
 |**2023-04-20**|**Decouple Non-parametric Knowledge Distillation For End-to-end Speech Translation**|Hao Zhang, Nianwen Si, Yaqi Chen, Wenlin Zhang, Xukui Yang, Dan Qu, Zhen Li et.al.|[2304.10295v1](http://arxiv.org/abs/2304.10295v1)|null|
 |**2023-04-10**|**Enhancing Speech-to-Speech Translation with Multiple TTS Targets**|Jiatong Shi, Yun Tang, Ann Lee, Hirofumi Inaguma, Changhan Wang, Juan Pino, Shinji Watanabe et.al.|[2304.04618v1](http://arxiv.org/abs/2304.04618v1)|null|
@@ -490,6 +490,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-16**|**Conformer-Based Speech Recognition On Extreme Edge-Computing Devices**|Mingbin Xu, Alex Jin, Sicheng Wang, Mu Su, Tim Ng, Henry Mason, Shiyi Han, Yaqiao Deng, Zhen Huang, Mahesh Krishnamoorthy et.al.|[2312.10359v1](http://arxiv.org/abs/2312.10359v1)|null|
+|**2023-12-13**|**On Robustness to Missing Video for Audiovisual Speech Recognition**|Oscar Chang, Otavio Braga, Hank Liao, Dmitriy Serdyuk, Olivier Siohan et.al.|[2312.10088v1](http://arxiv.org/abs/2312.10088v1)|null|
+|**2023-12-13**|**Revisiting the Entropy Semiring for Neural Speech Recognition**|Oscar Chang, Dongseong Hwang, Olivier Siohan et.al.|[2312.10087v1](http://arxiv.org/abs/2312.10087v1)|null|
 |**2023-12-15**|**On the compression of shallow non-causal ASR models using knowledge distillation and tied-and-reduced decoder for low-latency on-device speech recognition**|Nagaraj Adiga, Jinhwan Park, Chintigari Shiva Kumar, Shatrughan Singh, Kyungmin Lee, Chanwoo Kim, Dhananjaya Gowda et.al.|[2312.09842v1](http://arxiv.org/abs/2312.09842v1)|null|
 |**2023-12-15**|**Automatic channel selection and spatial feature integration for multi-channel speech recognition across various array topologies**|Bingshen Mu, Pengcheng Guo, Dake Guo, Pan Zhou, Wei Chen, Lei Xie et.al.|[2312.09746v1](http://arxiv.org/abs/2312.09746v1)|null|
 |**2023-12-15**|**LiteVSR: Efficient Visual Speech Recognition by Learning from Speech Representations of Unlabeled Data**|Hendrik Laux, Emil Mededovic, Ahmed Hallawa, Lukas Martin, Arne Peine, Anke Schmeink et.al.|[2312.09727v1](http://arxiv.org/abs/2312.09727v1)|null|
