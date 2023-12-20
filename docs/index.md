@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**Soft Alignment of Modality Space for End-to-end Speech Translation**|Yuhao Zhang, Kaiqi Kou, Bei Li, Chen Xu, Chunliang Zhang, Tong Xiao, Jingbo Zhu et.al.|[2312.10952v1](http://arxiv.org/abs/2312.10952v1)|null|
 |**2023-12-08**|**Seamless: Multilingual Expressive and Streaming Speech Translation**|Seamless Communication, Loïc Barrault, Yu-An Chung, Mariano Coria Meglioli, David Dale, Ning Dong, Mark Duppenthaler, Paul-Ambroise Duquenne, Brian Ellis, Hady Elsahar, Justin Haaheim, John Hoffman, Min-Jae Hwang, Hirofumi Inaguma, Christopher Klaiber, Ilia Kulikov, Pengwei Li, Daniel Licht, Jean Maillard, Ruslan Mavlyutov, Alice Rakotoarison, Kaushik Ram Sadagopan, Abinesh Ramakrishnan, Tuan Tran, Guillaume Wenzek, Yilin Yang, Ethan Ye, Ivan Evtimov, Pierre Fernandez, Cynthia Gao, Prangthip Hansanti, Elahe Kalbassi, Amanda Kallet, Artyom Kozhevnikov, Gabriel Mejia Gonzalez, Robin San Roman, Christophe Touret, Corinne Wong, Carleigh Wood, Bokai Yu, Pierre Andrews, Can Balioglu, Peng-Jen Chen, Marta R. Costa-jussà, Maha Elbayad, Hongyu Gong, Francisco Guzmán, Kevin Heffernan, Somya Jain, Justine Kao, Ann Lee, Xutai Ma, Alex Mourachko, Benjamin Peloquin, Juan Pino, Sravya Popuri, Christophe Ropers, Safiyyah Saleem, Holger Schwenk, Anna Sun, Paden Tomasello, Changhan Wang, Jeff Wang, Skyler Wang, Mary Williamson et.al.|[2312.05187v1](http://arxiv.org/abs/2312.05187v1)|**[link](https://github.com/facebookresearch/seamless_communication)**|
 |**2023-12-05**|**AV2AV: Direct Audio-Visual Speech to Audio-Visual Speech Translation with Unified Audio-Visual Speech Representation**|Jeongsoo Choi, Se Jin Park, Minsu Kim, Yong Man Ro et.al.|[2312.02512v1](http://arxiv.org/abs/2312.02512v1)|null|
 |**2023-11-07**|**Rethinking and Improving Multi-task Learning for End-to-end Speech Translation**|Yuhao Zhang, Chen Xu, Bei Li, Hao Chen, Tong Xiao, Chunliang Zhang, Jingbo Zhu et.al.|[2311.03810v1](http://arxiv.org/abs/2311.03810v1)|**[link](https://github.com/xiaozhang521/imtl)**|
@@ -212,6 +213,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**CaseGNN: Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs**|Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang et.al.|[2312.11229v2](http://arxiv.org/abs/2312.11229v2)|null|
 |**2023-12-15**|**Social, Legal, Ethical, Empathetic, and Cultural Rules: Compilation and Reasoning (Extended Version)**|Nicolas Troquard, Martina De Sanctis, Paola Inverardi, Patrizio Pelliccione, Gian Luca Scoccia et.al.|[2312.09699v1](http://arxiv.org/abs/2312.09699v1)|null|
 |**2023-12-15**|**Incorporating Judgment Prediction into Legal Case Retrieval via Law-aware Generative Retrieval**|Weicong Qin, Zelin Cao, Weijie Yu, Zihua Si, Sirui Chen, Jun Xu et.al.|[2312.09591v1](http://arxiv.org/abs/2312.09591v1)|null|
 |**2023-12-14**|**Weaving Pathways for Justice with GPT: LLM-driven automated drafting of interactive legal applications**|Quinten Steenhuis, David Colarusso, Bryce Willey et.al.|[2312.09198v1](http://arxiv.org/abs/2312.09198v1)|**[link](https://github.com/suffolklitlab/formfyxer)**|
@@ -268,7 +270,7 @@ layout: default
 |**2023-09-29**|**STRONG -- Structure Controllable Legal Opinion Summary Generation**|Yang Zhong, Diane Litman et.al.|[2309.17280v1](http://arxiv.org/abs/2309.17280v1)|null|
 |**2023-09-29**|**Interpretable Long-Form Legal Question Answering with Retrieval-Augmented Large Language Models**|Antoine Louis, Gijs van Dijck, Gerasimos Spanakis et.al.|[2309.17050v1](http://arxiv.org/abs/2309.17050v1)|**[link](https://github.com/maastrichtlawtech/lleqa)**|
 |**2023-09-28**|**LawBench: Benchmarking Legal Knowledge of Large Language Models**|Zhiwei Fei, Xiaoyu Shen, Dawei Zhu, Fengzhe Zhou, Zhuo Han, Songyang Zhang, Kai Chen, Zongwen Shen, Jidong Ge et.al.|[2309.16289v1](http://arxiv.org/abs/2309.16289v1)|**[link](https://github.com/open-compass/lawbench)**|
-|**2023-12-18**|**Question-Answering Approach to Evaluating Legal Summaries**|Huihui Xu, Kevin Ashley et.al.|[2309.15016v2](http://arxiv.org/abs/2309.15016v2)|null|
+|**2023-12-18**|**Question-Answering Approach to Evaluating Legal Summaries**|Huihui Xu, Kevin Ashley et.al.|[2309.15016v2](http://arxiv.org/abs/2309.15016v2)|**[link](https://github.com/joycexu02/qa_evaluation)**|
 |**2023-10-16**|**Legal Question-Answering in the Indian Context: Efficacy, Challenges, and Potential of Modern AI Models**|Shubham Kumar Nigam, Shubham Kumar Mishra, Ayush Kumar Mishra, Noel Shallum, Arnab Bhattacharya et.al.|[2309.14735v2](http://arxiv.org/abs/2309.14735v2)|null|
 |**2023-10-29**|**The Cambridge Law Corpus: A Corpus for Legal AI Research**|Andreas Östling, Holli Sargeant, Huiyuan Xie, Ludwig Bull, Alexander Terenin, Leif Jonsson, Måns Magnusson, Felix Steffek et.al.|[2309.12269v3](http://arxiv.org/abs/2309.12269v3)|null|
 |**2023-10-13**|**Legitimate Interest is the New Consent -- Large-Scale Measurement and Legal Compliance of IAB Europe TCF Paywalls**|Victor Morel, Cristiana Santos, Viktor Fredholm, Adam Thunberg et.al.|[2309.11625v3](http://arxiv.org/abs/2309.11625v3)|null|
@@ -494,6 +496,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**Automated speech audiometry: Can it work using open-source pre-trained Kaldi-NL automatic speech recognition?**|Gloria Araiza-Illan, Luke Meyer, Khiet P. Truong, Deniz Baskent et.al.|[2312.12269v1](http://arxiv.org/abs/2312.12269v1)|null|
+|**2023-12-18**|**Improved Long-Form Speech Recognition by Jointly Modeling the Primary and Non-primary Speakers**|Guru Prakash Arumugam, Shuo-yiin Chang, Tara N. Sainath, Rohit Prabhavalkar, Quan Wang, Shaan Bijwadia et.al.|[2312.11123v1](http://arxiv.org/abs/2312.11123v1)|null|
+|**2023-12-18**|**Speaker Mask Transformer for Multi-talker Overlapped Speech Recognition**|Peng Shen, Xugang Lu, Hisashi Kawai et.al.|[2312.10959v1](http://arxiv.org/abs/2312.10959v1)|null|
 |**2023-12-16**|**Conformer-Based Speech Recognition On Extreme Edge-Computing Devices**|Mingbin Xu, Alex Jin, Sicheng Wang, Mu Su, Tim Ng, Henry Mason, Shiyi Han, Yaqiao Deng, Zhen Huang, Mahesh Krishnamoorthy et.al.|[2312.10359v1](http://arxiv.org/abs/2312.10359v1)|null|
 |**2023-12-19**|**On Robustness to Missing Video for Audiovisual Speech Recognition**|Oscar Chang, Otavio Braga, Hank Liao, Dmitriy Serdyuk, Olivier Siohan et.al.|[2312.10088v2](http://arxiv.org/abs/2312.10088v2)|null|
 |**2023-12-19**|**Revisiting the Entropy Semiring for Neural Speech Recognition**|Oscar Chang, Dongseong Hwang, Olivier Siohan et.al.|[2312.10087v2](http://arxiv.org/abs/2312.10087v2)|null|
