@@ -496,6 +496,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Stable Distillation: Regularizing Continued Pre-training for Low-Resource Automatic Speech Recognition**|Ashish Seth, Sreyan Ghosh, S. Umesh, Dinesh Manocha et.al.|[2312.12783v1](http://arxiv.org/abs/2312.12783v1)|**[link](https://github.com/cs20s030/stable_distillation)**|
 |**2023-12-19**|**Automated speech audiometry: Can it work using open-source pre-trained Kaldi-NL automatic speech recognition?**|Gloria Araiza-Illan, Luke Meyer, Khiet P. Truong, Deniz Baskent et.al.|[2312.12269v1](http://arxiv.org/abs/2312.12269v1)|null|
 |**2023-12-18**|**Improved Long-Form Speech Recognition by Jointly Modeling the Primary and Non-primary Speakers**|Guru Prakash Arumugam, Shuo-yiin Chang, Tara N. Sainath, Rohit Prabhavalkar, Quan Wang, Shaan Bijwadia et.al.|[2312.11123v1](http://arxiv.org/abs/2312.11123v1)|null|
 |**2023-12-18**|**Speaker Mask Transformer for Multi-talker Overlapped Speech Recognition**|Peng Shen, Xugang Lu, Hisashi Kawai et.al.|[2312.10959v1](http://arxiv.org/abs/2312.10959v1)|null|
