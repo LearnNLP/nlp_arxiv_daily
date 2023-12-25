@@ -497,6 +497,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**BLSTM-Based Confidence Estimation for End-to-End Speech Recognition**|Atsunori Ogawa, Naohiro Tawara, Takatomo Kano, Marc Delcroix et.al.|[2312.14609v1](http://arxiv.org/abs/2312.14609v1)|null|
+|**2023-12-22**|**Multimodal Attention Merging for Improved Speech Recognition and Audio Event Classification**|Anirudh S. Sundar, Chao-Han Huck Yang, David M. Chan, Shalini Ghosh, Venkatesh Ravichandran, Phani Sankar Nidadavolu et.al.|[2312.14378v1](http://arxiv.org/abs/2312.14378v1)|null|
 |**2023-12-21**|**BANSpEmo: A Bangla Emotional Speech Recognition Dataset**|Md Gulzar Hussain, Mahmuda Rahman, Babe Sultana, Ye Shiren et.al.|[2312.14020v1](http://arxiv.org/abs/2312.14020v1)|null|
 |**2023-12-20**|**Stable Distillation: Regularizing Continued Pre-training for Low-Resource Automatic Speech Recognition**|Ashish Seth, Sreyan Ghosh, S. Umesh, Dinesh Manocha et.al.|[2312.12783v1](http://arxiv.org/abs/2312.12783v1)|**[link](https://github.com/cs20s030/stable_distillation)**|
 |**2023-12-19**|**Automated speech audiometry: Can it work using open-source pre-trained Kaldi-NL automatic speech recognition?**|Gloria Araiza-Illan, Luke Meyer, Khiet P. Truong, Deniz Baskent et.al.|[2312.12269v1](http://arxiv.org/abs/2312.12269v1)|null|
