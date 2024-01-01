@@ -493,6 +493,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-27**|**Stateful FastConformer with Cache-based Inference for Streaming Automatic Speech Recognition**|Vahid Noroozi, Somshubra Majumdar, Ankur Kumar, Jagadeesh Balam, Boris Ginsburg et.al.|[2312.17279v1](http://arxiv.org/abs/2312.17279v1)|null|
 |**2023-12-22**|**BLSTM-Based Confidence Estimation for End-to-End Speech Recognition**|Atsunori Ogawa, Naohiro Tawara, Takatomo Kano, Marc Delcroix et.al.|[2312.14609v1](http://arxiv.org/abs/2312.14609v1)|null|
 |**2023-12-22**|**Multimodal Attention Merging for Improved Speech Recognition and Audio Event Classification**|Anirudh S. Sundar, Chao-Han Huck Yang, David M. Chan, Shalini Ghosh, Venkatesh Ravichandran, Phani Sankar Nidadavolu et.al.|[2312.14378v1](http://arxiv.org/abs/2312.14378v1)|null|
 |**2023-12-21**|**BANSpEmo: A Bangla Emotional Speech Recognition Dataset**|Md Gulzar Hussain, Mahmuda Rahman, Babe Sultana, Ye Shiren et.al.|[2312.14020v1](http://arxiv.org/abs/2312.14020v1)|null|
