@@ -214,6 +214,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models**|Matthew Dahl, Varun Magesh, Mirac Suzgun, Daniel E. Ho et.al.|[2401.01301v1](http://arxiv.org/abs/2401.01301v1)|null|
+|**2024-01-02**|**Discovering Significant Topics from Legal Decisions with Selective Inference**|Jerrold Soh et.al.|[2401.01068v1](http://arxiv.org/abs/2401.01068v1)|null|
+|**2023-12-31**|**Viz: A QLoRA-based Copyright Marketplace for Legally Compliant Generative AI**|Dipankar Sarkar et.al.|[2401.00503v1](http://arxiv.org/abs/2401.00503v1)|null|
 |**2023-12-19**|**CaseGNN: Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs**|Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang et.al.|[2312.11229v2](http://arxiv.org/abs/2312.11229v2)|null|
 |**2023-12-15**|**Social, Legal, Ethical, Empathetic, and Cultural Rules: Compilation and Reasoning (Extended Version)**|Nicolas Troquard, Martina De Sanctis, Paola Inverardi, Patrizio Pelliccione, Gian Luca Scoccia et.al.|[2312.09699v1](http://arxiv.org/abs/2312.09699v1)|null|
 |**2023-12-15**|**Incorporating Judgment Prediction into Legal Case Retrieval via Law-aware Generative Retrieval**|Weicong Qin, Zelin Cao, Weijie Yu, Zihua Si, Sirui Chen, Jun Xu et.al.|[2312.09591v1](http://arxiv.org/abs/2312.09591v1)|null|
@@ -240,7 +243,7 @@ layout: default
 |**2023-11-09**|**Legal-HNet: Mixing Legal Long-Context Tokens with Hartley Transform**|Daniele Giofré, Sneha Ghantasala et.al.|[2311.05089v1](http://arxiv.org/abs/2311.05089v1)|null|
 |**2023-11-01**|**From Text to Structure: Using Large Language Models to Support the Development of Legal Expert Systems**|Samyar Janatian, Hannes Westermann, Jinzhe Tan, Jaromir Savelka, Karim Benyekhlef et.al.|[2311.04911v1](http://arxiv.org/abs/2311.04911v1)|**[link](https://github.com/samyarj/jcapg-jurix2023)**|
 |**2023-11-02**|**An energy-based comparative analysis of common approaches to text classification in the Legal domain**|Sinan Gultekin, Achille Globo, Andrea Zugarini, Marco Ernandes, Leonardo Rigutini et.al.|[2311.01256v1](http://arxiv.org/abs/2311.01256v1)|null|
-|**2023-11-01**|**Caseformer: Pre-training for Legal Case Retrieval**|Weihang Su, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu et.al.|[2311.00333v1](http://arxiv.org/abs/2311.00333v1)|**[link](https://github.com/caseformer/caseformer)**|
+|**2024-01-02**|**Caseformer: Pre-training for Legal Case Retrieval Based on Inter-Case Distinctions**|Weihang Su, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu, Zhijing Wu, Min Zhang et.al.|[2311.00333v2](http://arxiv.org/abs/2311.00333v2)|**[link](https://github.com/oneal2000/caseformer)**|
 |**2023-10-28**|**Using Large Language Models to Support Thematic Analysis in Empirical Legal Studies**|Jakub Drápal, Hannes Westermann, Jaromir Savelka et.al.|[2310.18729v1](http://arxiv.org/abs/2310.18729v1)|null|
 |**2023-10-28**|**MILDSum: A Novel Benchmark Dataset for Multilingual Summarization of Indian Legal Case Judgments**|Debtanu Datta, Shubham Soni, Rajdeep Mukherjee, Saptarshi Ghosh et.al.|[2310.18600v1](http://arxiv.org/abs/2310.18600v1)|**[link](https://github.com/law-ai/mildsum)**|
 |**2023-10-27**|**Modeling Legal Reasoning: LM Annotation at the Edge of Human Agreement**|Rosamond Thalken, Edward H. Stiglitz, David Mimno, Matthew Wilkens et.al.|[2310.18440v1](http://arxiv.org/abs/2310.18440v1)|**[link](https://github.com/rosthalken/legal-interpretation)**|
@@ -273,7 +276,7 @@ layout: default
 |**2023-09-28**|**LawBench: Benchmarking Legal Knowledge of Large Language Models**|Zhiwei Fei, Xiaoyu Shen, Dawei Zhu, Fengzhe Zhou, Zhuo Han, Songyang Zhang, Kai Chen, Zongwen Shen, Jidong Ge et.al.|[2309.16289v1](http://arxiv.org/abs/2309.16289v1)|**[link](https://github.com/open-compass/lawbench)**|
 |**2023-12-18**|**Question-Answering Approach to Evaluating Legal Summaries**|Huihui Xu, Kevin Ashley et.al.|[2309.15016v2](http://arxiv.org/abs/2309.15016v2)|**[link](https://github.com/joycexu02/qa_evaluation)**|
 |**2023-10-16**|**Legal Question-Answering in the Indian Context: Efficacy, Challenges, and Potential of Modern AI Models**|Shubham Kumar Nigam, Shubham Kumar Mishra, Ayush Kumar Mishra, Noel Shallum, Arnab Bhattacharya et.al.|[2309.14735v2](http://arxiv.org/abs/2309.14735v2)|null|
-|**2023-10-29**|**The Cambridge Law Corpus: A Corpus for Legal AI Research**|Andreas Östling, Holli Sargeant, Huiyuan Xie, Ludwig Bull, Alexander Terenin, Leif Jonsson, Måns Magnusson, Felix Steffek et.al.|[2309.12269v3](http://arxiv.org/abs/2309.12269v3)|null|
+|**2024-01-01**|**The Cambridge Law Corpus: A Dataset for Legal AI Research**|Andreas Östling, Holli Sargeant, Huiyuan Xie, Ludwig Bull, Alexander Terenin, Leif Jonsson, Måns Magnusson, Felix Steffek et.al.|[2309.12269v4](http://arxiv.org/abs/2309.12269v4)|null|
 |**2023-10-13**|**Legitimate Interest is the New Consent -- Large-Scale Measurement and Legal Compliance of IAB Europe TCF Paywalls**|Victor Morel, Cristiana Santos, Viktor Fredholm, Adam Thunberg et.al.|[2309.11625v3](http://arxiv.org/abs/2309.11625v3)|null|
 |**2023-09-23**|**DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services**|Shengbin Yue, Wei Chen, Siyuan Wang, Bingxuan Li, Chenchen Shen, Shujun Liu, Yuxuan Zhou, Yao Xiao, Song Yun, Xuanjing Huang, Zhongyu Wei et.al.|[2309.11325v2](http://arxiv.org/abs/2309.11325v2)|**[link](https://github.com/fudandisc/disc-lawllm)**|
 |**2023-09-25**|**A Hierarchical Neural Framework for Classification and its Explanation in Large Unstructured Legal Documents**|Nishchal Prasad, Mohand Boughanem, Taoufik Dkaki et.al.|[2309.10563v2](http://arxiv.org/abs/2309.10563v2)|null|
@@ -497,6 +500,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-01**|**Enhancing Pre-trained ASR System Fine-tuning for Dysarthric Speech Recognition using Adversarial Data Augmentation**|Huimeng Wang, Zengrui Jin, Mengzhe Geng, Shujie Hu, Guinan Li, Tianzi Wang, Haoning Xu, Xunying Liu et.al.|[2401.00662v1](http://arxiv.org/abs/2401.00662v1)|null|
 |**2023-12-27**|**Stateful FastConformer with Cache-based Inference for Streaming Automatic Speech Recognition**|Vahid Noroozi, Somshubra Majumdar, Ankur Kumar, Jagadeesh Balam, Boris Ginsburg et.al.|[2312.17279v1](http://arxiv.org/abs/2312.17279v1)|null|
 |**2023-12-22**|**BLSTM-Based Confidence Estimation for End-to-End Speech Recognition**|Atsunori Ogawa, Naohiro Tawara, Takatomo Kano, Marc Delcroix et.al.|[2312.14609v1](http://arxiv.org/abs/2312.14609v1)|null|
 |**2023-12-22**|**Multimodal Attention Merging for Improved Speech Recognition and Audio Event Classification**|Anirudh S. Sundar, Chao-Han Huck Yang, David M. Chan, Shalini Ghosh, Venkatesh Ravichandran, Phani Sankar Nidadavolu et.al.|[2312.14378v1](http://arxiv.org/abs/2312.14378v1)|null|
