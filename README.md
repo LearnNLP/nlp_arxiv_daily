@@ -496,6 +496,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**Hallucinations in Neural Automatic Speech Recognition: Identifying Errors and Hallucinatory Models**|Rita Frieske, Bertram E. Shi et.al.|[2401.01572v1](http://arxiv.org/abs/2401.01572v1)|null|
 |**2024-01-01**|**Enhancing Pre-trained ASR System Fine-tuning for Dysarthric Speech Recognition using Adversarial Data Augmentation**|Huimeng Wang, Zengrui Jin, Mengzhe Geng, Shujie Hu, Guinan Li, Tianzi Wang, Haoning Xu, Xunying Liu et.al.|[2401.00662v1](http://arxiv.org/abs/2401.00662v1)|null|
 |**2023-12-27**|**Stateful FastConformer with Cache-based Inference for Streaming Automatic Speech Recognition**|Vahid Noroozi, Somshubra Majumdar, Ankur Kumar, Jagadeesh Balam, Boris Ginsburg et.al.|[2312.17279v1](http://arxiv.org/abs/2312.17279v1)|null|
 |**2023-12-22**|**BLSTM-Based Confidence Estimation for End-to-End Speech Recognition**|Atsunori Ogawa, Naohiro Tawara, Takatomo Kano, Marc Delcroix et.al.|[2312.14609v1](http://arxiv.org/abs/2312.14609v1)|null|
@@ -517,7 +518,7 @@
 |**2023-12-14**|**Hourglass-AVSR: Down-Up Sampling-based Computational Efficiency Model for Audio-Visual Speech Recognition**|Fan Yu, Haoxu Wang, Ziyang Ma, Shiliang Zhang et.al.|[2312.08850v1](http://arxiv.org/abs/2312.08850v1)|null|
 |**2023-12-14**|**Towards Automatic Data Augmentation for Disordered Speech Recognition**|Zengrui Jin, Xurong Xie, Tianzi Wang, Mengzhe Geng, Jiajun Deng, Guinan Li, Shujie Hu, Xunying Liu et.al.|[2312.08641v1](http://arxiv.org/abs/2312.08641v1)|null|
 |**2023-12-13**|**PhasePerturbation: Speech Data Augmentation via Phase Perturbation for Automatic Speech Recognition**|Chengxi Lei, Satwinder Singh, Feng Hou, Xiaoyun Jia, Ruili Wang et.al.|[2312.08571v1](http://arxiv.org/abs/2312.08571v1)|null|
-|**2023-12-13**|**USM-Lite: Quantization and Sparsity Aware Fine-tuning for Speech Recognition with Universal Speech Models**|Shaojin Ding, Qiu David, David Rim, Yanzhang He, Oleg Rybakov, Bo Li, Rohit Prabhavalkar, Weiran Wang, Tara N. Sainath, Shivani Agrawal, Zhonglin Han, Jian Li, Amir Yazdanbakhsh et.al.|[2312.08553v1](http://arxiv.org/abs/2312.08553v1)|null|
+|**2024-01-03**|**USM-Lite: Quantization and Sparsity Aware Fine-tuning for Speech Recognition with Universal Speech Models**|Shaojin Ding, David Qiu, David Rim, Yanzhang He, Oleg Rybakov, Bo Li, Rohit Prabhavalkar, Weiran Wang, Tara N. Sainath, Shivani Agrawal, Zhonglin Han, Jian Li, Amir Yazdanbakhsh et.al.|[2312.08553v2](http://arxiv.org/abs/2312.08553v2)|null|
 |**2023-12-11**|**Deep Photonic Reservoir Computer for Speech Recognition**|Enrico Picco, Alessandro Lupo, Serge Massar et.al.|[2312.06558v1](http://arxiv.org/abs/2312.06558v1)|null|
 |**2023-12-06**|**An Integration of Pre-Trained Speech and Language Models for End-to-End Speech Recognition**|Yukiya Hono, Koh Mitsuda, Tianyu Zhao, Kentaro Mitsui, Toshiaki Wakatsuki, Kei Sawada et.al.|[2312.03668v1](http://arxiv.org/abs/2312.03668v1)|null|
 |**2023-11-29**|**FAT-HuBERT: Front-end Adaptive Training of Hidden-unit BERT for Distortion-Invariant Robust Speech Recognition**|Dongning Yang, Wei Wang, Yanmin Qian et.al.|[2311.17790v1](http://arxiv.org/abs/2311.17790v1)|null|
