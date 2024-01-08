@@ -500,6 +500,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-05**|**A unified multichannel far-field speech recognition system: combining neural beamforming with attention based end-to-end model**|Dongdi Zhao, Jianbo Ma, Lu Lu, Jinke Li, Xuan Ji, Lei Zhu, Fuming Fang, Ming Liu, Feijun Jiang et.al.|[2401.02673v1](http://arxiv.org/abs/2401.02673v1)|null|
 |**2024-01-04**|**Task Oriented Dialogue as a Catalyst for Self-Supervised Automatic Speech Recognition**|David M. Chan, Shalini Ghosh, Hitesh Tulsiani, Ariya Rastrow, Björn Hoffmeister et.al.|[2401.02417v1](http://arxiv.org/abs/2401.02417v1)|**[link](https://github.com/amazon-science/amazon-od3)**|
 |**2024-01-04**|**CTC Blank Triggered Dynamic Layer-Skipping for Efficient CTC-based Speech Recognition**|Junfeng Hou, Peiyao Wang, Jincheng Zhang, Meng Yang, Minwei Feng, Jingcheng Yin et.al.|[2401.02046v1](http://arxiv.org/abs/2401.02046v1)|null|
 |**2024-01-03**|**Hallucinations in Neural Automatic Speech Recognition: Identifying Errors and Hallucinatory Models**|Rita Frieske, Bertram E. Shi et.al.|[2401.01572v1](http://arxiv.org/abs/2401.01572v1)|null|
