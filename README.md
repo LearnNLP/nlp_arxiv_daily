@@ -60,7 +60,7 @@
 |**2023-06-13**|**PolyVoice: Language Models for Speech to Speech Translation**|Qianqian Dong, Zhiying Huang, Qiao Tian, Chen Xu, Tom Ko, Yunlong Zhao, Siyuan Feng, Tang Li, Kexin Wang, Xuxin Cheng, Fengpeng Yue, Ye Bai, Xi Chen, Lu Lu, Zejun Ma, Yuping Wang, Mingxuan Wang, Yuxuan Wang et.al.|[2306.02982v2](http://arxiv.org/abs/2306.02982v2)|null|
 |**2023-06-02**|**Speech Translation with Foundation Models and Optimal Transport: UPC at IWSLT23**|Ioannis Tsiamas, Gerard I. Gállego, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2306.01327v1](http://arxiv.org/abs/2306.01327v1)|null|
 |**2023-06-01**|**Learning When to Speak: Latency and Quality Trade-offs for Simultaneous Speech-to-Speech Translation with Offline Models**|Liam Dugan, Anshul Wadhawan, Kyle Spence, Chris Callison-Burch, Morgan McGuire, Victor Zordan et.al.|[2306.01201v1](http://arxiv.org/abs/2306.01201v1)|**[link](https://github.com/liamdugan/speech-to-speech)**|
-|**2023-12-28**|**Cross-Lingual Transfer Learning for Low-Resource Speech Translation**|Sameer Khurana, Nauman Dawalatabad, Antoine Laurent, Luis Vicente, Pablo Gimeno, Victoria Mingote, Jonathan Le Roux, James Glass et.al.|[2306.00789v2](http://arxiv.org/abs/2306.00789v2)|null|
+|**2024-01-06**|**Cross-Lingual Transfer Learning for Low-Resource Speech Translation**|Sameer Khurana, Nauman Dawalatabad, Antoine Laurent, Luis Vicente, Pablo Gimeno, Victoria Mingote, James Glass et.al.|[2306.00789v3](http://arxiv.org/abs/2306.00789v3)|null|
 |**2023-07-25**|**StyleS2ST: Zero-shot Style Transfer for Direct Speech-to-speech Translation**|Kun Song, Yi Ren, Yi Lei, Chunfeng Wang, Kun Wei, Lei Xie, Xiang Yin, Zejun Ma et.al.|[2305.17732v4](http://arxiv.org/abs/2305.17732v4)|null|
 |**2023-06-01**|**Translatotron 3: Speech to Speech Translation with Monolingual Data**|Eliya Nachmani, Alon Levkovitch, Yifan Ding, Chulayuth Asawaroengchai, Heiga Zen, Michelle Tadmor Ramanovich et.al.|[2305.17547v2](http://arxiv.org/abs/2305.17547v2)|null|
 |**2023-05-27**|**CTC-based Non-autoregressive Speech Translation**|Chen Xu, Xiaoqian Liu, Xiaowen Liu, Qingxuan Sun, Yuhao Zhang, Murun Yang, Qianqian Dong, Tom Ko, Mingxuan Wang, Tong Xiao, Anxiang Ma, Jingbo Zhu et.al.|[2305.17358v1](http://arxiv.org/abs/2305.17358v1)|**[link](https://github.com/xuchennlp/s2t)**|
@@ -210,6 +210,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-07**|**CAPTAIN at COLIEE 2023: Efficient Methods for Legal Information Retrieval and Entailment Tasks**|Chau Nguyen, Phuong Nguyen, Thanh Tran, Dat Nguyen, An Trieu, Tin Pham, Anh Dang, Le-Minh Nguyen et.al.|[2401.03551v1](http://arxiv.org/abs/2401.03551v1)|**[link](https://github.com/nguyen2015/captain-coliee2023)**|
 |**2024-01-02**|**Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models**|Matthew Dahl, Varun Magesh, Mirac Suzgun, Daniel E. Ho et.al.|[2401.01301v1](http://arxiv.org/abs/2401.01301v1)|null|
 |**2024-01-02**|**Discovering Significant Topics from Legal Decisions with Selective Inference**|Jerrold Soh et.al.|[2401.01068v1](http://arxiv.org/abs/2401.01068v1)|null|
 |**2023-12-31**|**Viz: A QLoRA-based Copyright Marketplace for Legally Compliant Generative AI**|Dipankar Sarkar et.al.|[2401.00503v1](http://arxiv.org/abs/2401.00503v1)|null|
@@ -496,6 +497,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-07**|**ICMC-ASR: The ICASSP 2024 In-Car Multi-Channel Automatic Speech Recognition Challenge**|He Wang, Pengcheng Guo, Yue Li, Ao Zhang, Jiayao Sun, Lei Xie, Wei Chen, Pan Zhou, Hui Bu, Xin Xu, Binbin Zhang, Zhuo Chen, Jian Wu, Longbiao Wang, Eng Siong Chng, Sun Li et.al.|[2401.03473v1](http://arxiv.org/abs/2401.03473v1)|null|
+|**2024-01-07**|**MLCA-AVSR: Multi-Layer Cross Attention Fusion based Audio-Visual Speech Recognition**|He Wang, Pengcheng Guo, Pan Zhou, Lei Xie et.al.|[2401.03424v1](http://arxiv.org/abs/2401.03424v1)|null|
 |**2024-01-05**|**A unified multichannel far-field speech recognition system: combining neural beamforming with attention based end-to-end model**|Dongdi Zhao, Jianbo Ma, Lu Lu, Jinke Li, Xuan Ji, Lei Zhu, Fuming Fang, Ming Liu, Feijun Jiang et.al.|[2401.02673v1](http://arxiv.org/abs/2401.02673v1)|null|
 |**2024-01-04**|**Task Oriented Dialogue as a Catalyst for Self-Supervised Automatic Speech Recognition**|David M. Chan, Shalini Ghosh, Hitesh Tulsiani, Ariya Rastrow, Björn Hoffmeister et.al.|[2401.02417v1](http://arxiv.org/abs/2401.02417v1)|**[link](https://github.com/amazon-science/amazon-od3)**|
 |**2024-01-04**|**CTC Blank Triggered Dynamic Layer-Skipping for Efficient CTC-based Speech Recognition**|Junfeng Hou, Peiyao Wang, Jincheng Zhang, Meng Yang, Minwei Feng, Jingcheng Yin et.al.|[2401.02046v1](http://arxiv.org/abs/2401.02046v1)|null|
@@ -581,7 +584,7 @@
 |**2023-09-26**|**Updated Corpora and Benchmarks for Long-Form Speech Recognition**|Jennifer Drexler Fox, Desh Raj, Natalie Delworth, Quinn McNamara, Corey Miller, Migüel Jetté et.al.|[2309.15013v1](http://arxiv.org/abs/2309.15013v1)|**[link](https://github.com/revdotcom/speech-datasets)**|
 |**2023-09-25**|**On the Impact of Quantization and Pruning of Self-Supervised Speech Models for Downstream Speech Recognition Tasks "In-the-Wild''**|Arthur Pimentel, Heitor Guimarães, Anderson R. Avila, Mehdi Rezagholizadeh, Tiago H. Falk et.al.|[2309.14462v1](http://arxiv.org/abs/2309.14462v1)|null|
 |**2023-09-21**|**Bridging the Gaps of Both Modality and Language: Synchronous Bilingual CTC for Speech Translation and Speech Recognition**|Chen Xu, Xiaoqian Liu, Erfeng He, Yuhao Zhang, Qianqian Dong, Tong Xiao, Jingbo Zhu, Dapeng Man, Wu Yang et.al.|[2309.12234v1](http://arxiv.org/abs/2309.12234v1)|**[link](https://github.com/xuchennlp/s2t)**|
-|**2023-09-21**|**Sparsely Shared LoRA on Whisper for Child Speech Recognition**|Wei Liu, Ying Qin, Zhiyuan Peng, Tan Lee et.al.|[2309.11756v1](http://arxiv.org/abs/2309.11756v1)|null|
+|**2024-01-08**|**Sparsely Shared LoRA on Whisper for Child Speech Recognition**|Wei Liu, Ying Qin, Zhiyuan Peng, Tan Lee et.al.|[2309.11756v2](http://arxiv.org/abs/2309.11756v2)|null|
 |**2023-09-20**|**AudioFool: Fast, Universal and synchronization-free Cross-Domain Attack on Speech Recognition**|Mohamad Fakih, Rouwaida Kanj, Fadi Kurdahi, Mohammed E. Fouda et.al.|[2309.11462v1](http://arxiv.org/abs/2309.11462v1)|null|
 |**2023-09-25**|**Leveraging Data Collection and Unsupervised Learning for Code-switched Tunisian Arabic Automatic Speech Recognition**|Ahmed Amine Ben Abdallah, Ata Kabboudi, Amir Kanoun, Salah Zaiem et.al.|[2309.11327v2](http://arxiv.org/abs/2309.11327v2)|null|
 |**2023-09-20**|**Directional Source Separation for Robust Speech Recognition on Smart Glasses**|Tiantian Feng, Ju Lin, Yiteng Huang, Weipeng He, Kaustubh Kalgaonkar, Niko Moritz, Li Wan, Xin Lei, Ming Sun, Frank Seide et.al.|[2309.10993v1](http://arxiv.org/abs/2309.10993v1)|null|
