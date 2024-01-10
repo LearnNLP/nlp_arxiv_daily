@@ -501,6 +501,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Continuously Learning New Words in Automatic Speech Recognition**|Christian Huber, Alexander Waibel et.al.|[2401.04482v1](http://arxiv.org/abs/2401.04482v1)|null|
+|**2024-01-08**|**Cross-Speaker Encoding Network for Multi-Talker Speech Recognition**|Jiawen Kang, Lingwei Meng, Mingyu Cui, Haohan Guo, Xixin Wu, Xunying Liu, Helen Meng et.al.|[2401.04152v1](http://arxiv.org/abs/2401.04152v1)|null|
 |**2024-01-07**|**ICMC-ASR: The ICASSP 2024 In-Car Multi-Channel Automatic Speech Recognition Challenge**|He Wang, Pengcheng Guo, Yue Li, Ao Zhang, Jiayao Sun, Lei Xie, Wei Chen, Pan Zhou, Hui Bu, Xin Xu, Binbin Zhang, Zhuo Chen, Jian Wu, Longbiao Wang, Eng Siong Chng, Sun Li et.al.|[2401.03473v1](http://arxiv.org/abs/2401.03473v1)|null|
 |**2024-01-07**|**MLCA-AVSR: Multi-Layer Cross Attention Fusion based Audio-Visual Speech Recognition**|He Wang, Pengcheng Guo, Pan Zhou, Lei Xie et.al.|[2401.03424v1](http://arxiv.org/abs/2401.03424v1)|null|
 |**2024-01-05**|**A unified multichannel far-field speech recognition system: combining neural beamforming with attention based end-to-end model**|Dongdi Zhao, Jianbo Ma, Lu Lu, Jinke Li, Xuan Ji, Lei Zhu, Fuming Fang, Ming Liu, Feijun Jiang et.al.|[2401.02673v1](http://arxiv.org/abs/2401.02673v1)|null|
