@@ -503,6 +503,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-12**|**Dynamic Behaviour of Connectionist Speech Recognition with Strong Latency Constraints**|Giampiero Salvi et.al.|[2401.06588v1](http://arxiv.org/abs/2401.06588v1)|null|
+|**2024-01-12**|**LCB-net: Long-Context Biasing for Audio-Visual Speech Recognition**|Fan Yu, Haoxu Wang, Xian Shi, Shiliang Zhang et.al.|[2401.06390v1](http://arxiv.org/abs/2401.06390v1)|null|
 |**2024-01-11**|**UCorrect: An Unsupervised Framework for Automatic Speech Recognition Error Correction**|Jiaxin Guo, Minghan Wang, Xiaosong Qiao, Daimeng Wei, Hengchao Shang, Zongyao Li, Zhengzhe Yu, Yinglu Li, Chang Su, Min Zhang, Shimin Tao, Hao Yang et.al.|[2401.05689v1](http://arxiv.org/abs/2401.05689v1)|null|
 |**2024-01-10**|**Useful Blunders: Can Automated Speech Recognition Errors Improve Downstream Dementia Classification?**|Changye Li, Weizhe Xu, Trevor Cohen, Serguei Pakhomov et.al.|[2401.05551v1](http://arxiv.org/abs/2401.05551v1)|null|
 |**2024-01-09**|**Continuously Learning New Words in Automatic Speech Recognition**|Christian Huber, Alexander Waibel et.al.|[2401.04482v1](http://arxiv.org/abs/2401.04482v1)|null|
@@ -530,7 +532,7 @@ layout: default
 |**2023-12-15**|**LiteVSR: Efficient Visual Speech Recognition by Learning from Speech Representations of Unlabeled Data**|Hendrik Laux, Emil Mededovic, Ahmed Hallawa, Lukas Martin, Arne Peine, Anke Schmeink et.al.|[2312.09727v1](http://arxiv.org/abs/2312.09727v1)|null|
 |**2023-12-15**|**Leveraging Language ID to Calculate Intermediate CTC Loss for Enhanced Code-Switching Speech Recognition**|Tzu-Ting Yang, Hsin-Wei Wang, Berlin Chen et.al.|[2312.09583v1](http://arxiv.org/abs/2312.09583v1)|null|
 |**2023-12-15**|**IR-UWB Radar-Based Contactless Silent Speech Recognition of Vowels, Consonants, Words, and Phrases**|Sunghwa Lee, Younghoon Shin, Myungjong Kim, Jiwon Seo et.al.|[2312.09572v1](http://arxiv.org/abs/2312.09572v1)|null|
-|**2023-12-14**|**Attention-Guided Adaptation for Code-Switching Speech Recognition**|Bobbi Aditya, Mahdin Rohmatillah, Liang-Hsuan Tai, Jen-Tzung Chien et.al.|[2312.08856v1](http://arxiv.org/abs/2312.08856v1)|null|
+|**2024-01-12**|**Attention-Guided Adaptation for Code-Switching Speech Recognition**|Bobbi Aditya, Mahdin Rohmatillah, Liang-Hsuan Tai, Jen-Tzung Chien et.al.|[2312.08856v2](http://arxiv.org/abs/2312.08856v2)|null|
 |**2023-12-14**|**Hourglass-AVSR: Down-Up Sampling-based Computational Efficiency Model for Audio-Visual Speech Recognition**|Fan Yu, Haoxu Wang, Ziyang Ma, Shiliang Zhang et.al.|[2312.08850v1](http://arxiv.org/abs/2312.08850v1)|null|
 |**2023-12-14**|**Towards Automatic Data Augmentation for Disordered Speech Recognition**|Zengrui Jin, Xurong Xie, Tianzi Wang, Mengzhe Geng, Jiajun Deng, Guinan Li, Shujie Hu, Xunying Liu et.al.|[2312.08641v1](http://arxiv.org/abs/2312.08641v1)|null|
 |**2023-12-13**|**PhasePerturbation: Speech Data Augmentation via Phase Perturbation for Automatic Speech Recognition**|Chengxi Lei, Satwinder Singh, Feng Hou, Xiaoyun Jia, Ruili Wang et.al.|[2312.08571v1](http://arxiv.org/abs/2312.08571v1)|null|
