@@ -503,6 +503,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**Two-pass Endpoint Detection for Speech Recognition**|Anirudh Raju, Aparna Khare, Di He, Ilya Sklyar, Long Chen, Sam Alptekin, Viet Anh Trinh, Zhe Zhang, Colin Vaz, Venkatesh Ravichandran, Roland Maas, Ariya Rastrow et.al.|[2401.08916v1](http://arxiv.org/abs/2401.08916v1)|null|
 |**2024-01-15**|**SeMaScore : a new evaluation metric for automatic speech recognition tasks**|Zitha Sasindran, Harsha Yelchuri, T. V. Prabhakar et.al.|[2401.07506v1](http://arxiv.org/abs/2401.07506v1)|null|
 |**2024-01-13**|**Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization**|A F M Saif, Xiaodong Cui, Han Shen, Songtao Lu, Brian Kingsbury, Tianyi Chen et.al.|[2401.06980v1](http://arxiv.org/abs/2401.06980v1)|**[link](https://github.com/afmsaif/joint-unsupervised-and-supervised-training-for-automatic-speech-recognition-via-bilevel-optimization)**|
 |**2024-01-07**|**The NPU-ASLP-LiAuto System Description for Visual Speech Recognition in CNVSRC 2023**|He Wang, Pengcheng Guo, Wei Chen, Pan Zhou, Lei Xie et.al.|[2401.06788v1](http://arxiv.org/abs/2401.06788v1)|null|
