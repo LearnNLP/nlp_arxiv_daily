@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.17
+## Updated on 2024.01.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -209,7 +209,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240118>back to top</a>)</p>
 
 ## Legal
 
@@ -497,14 +497,14 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240118>back to top</a>)</p>
 
 ## Speech Recognition
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-15**|**SeMaScore : a new evaluation metric for automatic speech recognition tasks**|Zitha Sasindran, Harsha Yelchuri, T. V. Prabhakar et.al.|[2401.07506v1](http://arxiv.org/abs/2401.07506v1)|null|
-|**2024-01-13**|**Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization**|A F M Saif, Xiaodong Cui, Han Shen, Songtao Lu, Brian Kingsbury, Tianyi Chen et.al.|[2401.06980v1](http://arxiv.org/abs/2401.06980v1)|null|
+|**2024-01-13**|**Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization**|A F M Saif, Xiaodong Cui, Han Shen, Songtao Lu, Brian Kingsbury, Tianyi Chen et.al.|[2401.06980v1](http://arxiv.org/abs/2401.06980v1)|**[link](https://github.com/afmsaif/joint-unsupervised-and-supervised-training-for-automatic-speech-recognition-via-bilevel-optimization)**|
 |**2024-01-07**|**The NPU-ASLP-LiAuto System Description for Visual Speech Recognition in CNVSRC 2023**|He Wang, Pengcheng Guo, Wei Chen, Pan Zhou, Lei Xie et.al.|[2401.06788v1](http://arxiv.org/abs/2401.06788v1)|null|
 |**2024-01-12**|**Dynamic Behaviour of Connectionist Speech Recognition with Strong Latency Constraints**|Giampiero Salvi et.al.|[2401.06588v1](http://arxiv.org/abs/2401.06588v1)|null|
 |**2024-01-12**|**LCB-net: Long-Context Biasing for Audio-Visual Speech Recognition**|Fan Yu, Haoxu Wang, Xian Shi, Shiliang Zhang et.al.|[2401.06390v1](http://arxiv.org/abs/2401.06390v1)|null|
@@ -825,7 +825,7 @@ layout: default
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240118>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -835,7 +835,7 @@ layout: default
 |**2023-03-31**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v3](http://arxiv.org/abs/2207.14682v3)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240118>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
