@@ -503,6 +503,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**Contextualized Automatic Speech Recognition with Attention-Based Bias Phrase Boosted Beam Search**|Yui Sudo, Muhammad Shakeel, Yosuke Fukumoto, Yifan Peng, Shinji Watanabe et.al.|[2401.10449v1](http://arxiv.org/abs/2401.10449v1)|null|
+|**2024-01-19**|**Investigating Training Strategies and Model Robustness of Low-Rank Adaptation for Language Modeling in Speech Recognition**|Yu Yu, Chao-Han Huck Yang, Tuan Dinh, Sungho Ryu, Jari Kolehmainen, Roger Ren, Denis Filimonov, Prashanth G. Shivakumar, Ankur Gandhe, Ariya Rastow, Jia Xu, Ivan Bulyko, Andreas Stolcke et.al.|[2401.10447v1](http://arxiv.org/abs/2401.10447v1)|null|
+|**2024-01-19**|**Large Language Models are Efficient Learners of Noise-Robust Speech Recognition**|Yuchen Hu, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Chao Zhang, Pin-Yu Chen, EnSiong Chng et.al.|[2401.10446v1](http://arxiv.org/abs/2401.10446v1)|null|
+|**2024-01-18**|**AGADIR: Towards Array-Geometry Agnostic Directional Speech Recognition**|Ju Lin, Niko Moritz, Yiteng Huang, Ruiming Xie, Ming Sun, Christian Fuegen, Frank Seide et.al.|[2401.10411v1](http://arxiv.org/abs/2401.10411v1)|null|
 |**2024-01-18**|**Multilingual Visual Speech Recognition with a Single Model by Learning with Discrete Visual Speech Units**|Minsu Kim, Jeong Hun Yeo, Jeongsoo Choi, Se Jin Park, Yong Man Ro et.al.|[2401.09802v1](http://arxiv.org/abs/2401.09802v1)|null|
 |**2024-01-18**|**SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition**|Hao Wang, Shuhei Kurita, Shuichiro Shimizu, Daisuke Kawahara et.al.|[2401.09759v1](http://arxiv.org/abs/2401.09759v1)|null|
 |**2024-01-17**|**Two-pass Endpoint Detection for Speech Recognition**|Anirudh Raju, Aparna Khare, Di He, Ilya Sklyar, Long Chen, Sam Alptekin, Viet Anh Trinh, Zhe Zhang, Colin Vaz, Venkatesh Ravichandran, Roland Maas, Ariya Rastrow et.al.|[2401.08916v1](http://arxiv.org/abs/2401.08916v1)|null|
