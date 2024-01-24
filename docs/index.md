@@ -215,6 +215,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**Streamlining Advanced Taxi Assignment Strategies based on Legal Analysis**|Holger Billhardt, José-Antonio Santos, Alberto Fernández, Mar Moreno, Sascha Ossowski, José A. Rodríguez et.al.|[2401.12324v1](http://arxiv.org/abs/2401.12324v1)|null|
 |**2024-01-22**|**The Right Model for the Job: An Evaluation of Legal Multi-Label Classification Baselines**|Martina Forster, Claudia Schulz, Prudhvi Nokku, Melicaalsadat Mirsafian, Jaykumar Kasundra, Stavroula Skylaki et.al.|[2401.11852v1](http://arxiv.org/abs/2401.11852v1)|null|
 |**2024-01-09**|**Answer Retrieval in Legal Community Question Answering**|Arian Askari, Zihui Yang, Zhaochun Ren, Suzan Verberne et.al.|[2401.04852v1](http://arxiv.org/abs/2401.04852v1)|**[link](https://github.com/arian-askari/answerretrieval-legal)**|
 |**2024-01-07**|**CAPTAIN at COLIEE 2023: Efficient Methods for Legal Information Retrieval and Entailment Tasks**|Chau Nguyen, Phuong Nguyen, Thanh Tran, Dat Nguyen, An Trieu, Tin Pham, Anh Dang, Le-Minh Nguyen et.al.|[2401.03551v1](http://arxiv.org/abs/2401.03551v1)|**[link](https://github.com/nguyen2015/captain-coliee2023)**|
