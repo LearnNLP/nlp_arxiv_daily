@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-17**|**TranSentence: Speech-to-speech Translation via Language-agnostic Sentence-level Speech Encoding without Language-parallel Data**|Seung-Bin Kim, Sang-Hoon Lee, Seong-Whan Lee et.al.|[2401.12992v1](http://arxiv.org/abs/2401.12992v1)|null|
 |**2024-01-11**|**R-BI: Regularized Batched Inputs enhance Incremental Decoding Framework for Low-Latency Simultaneous Speech Translation**|Jiaxin Guo, Zhanglin Wu, Zongyao Li, Hengchao Shang, Daimeng Wei, Xiaoyu Chen, Zhiqiang Rao, Shaojun Li, Hao Yang et.al.|[2401.05700v1](http://arxiv.org/abs/2401.05700v1)|null|
 |**2023-12-21**|**Speech Translation with Large Language Models: An Industrial Practice**|Zhichao Huang, Rong Ye, Tom Ko, Qianqian Dong, Shanbo Cheng, Mingxuan Wang, Hang Li et.al.|[2312.13585v1](http://arxiv.org/abs/2312.13585v1)|null|
 |**2023-12-18**|**Soft Alignment of Modality Space for End-to-end Speech Translation**|Yuhao Zhang, Kaiqi Kou, Bei Li, Chen Xu, Chunliang Zhang, Tong Xiao, Jingbo Zhu et.al.|[2312.10952v1](http://arxiv.org/abs/2312.10952v1)|null|
