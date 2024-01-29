@@ -216,6 +216,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**A Korean Legal Judgment Prediction Dataset for Insurance Disputes**|Alice Saebom Kwak, Cheonkam Jeong, Ji Weon Lim, Byeongcheol Min et.al.|[2401.14654v1](http://arxiv.org/abs/2401.14654v1)|null|
+|**2024-01-25**|**Automated legal reasoning with discretion to act using s(LAW)**|Joaquín Arias, Mar Moreno-Rebato, José A. Rodríguez-García, Sascha Ossowski et.al.|[2401.14511v1](http://arxiv.org/abs/2401.14511v1)|null|
 |**2024-01-22**|**Streamlining Advanced Taxi Assignment Strategies based on Legal Analysis**|Holger Billhardt, José-Antonio Santos, Alberto Fernández, Mar Moreno, Sascha Ossowski, José A. Rodríguez et.al.|[2401.12324v1](http://arxiv.org/abs/2401.12324v1)|null|
 |**2024-01-22**|**The Right Model for the Job: An Evaluation of Legal Multi-Label Classification Baselines**|Martina Forster, Claudia Schulz, Prudhvi Nokku, Melicaalsadat Mirsafian, Jaykumar Kasundra, Stavroula Skylaki et.al.|[2401.11852v1](http://arxiv.org/abs/2401.11852v1)|null|
 |**2024-01-09**|**Answer Retrieval in Legal Community Question Answering**|Arian Askari, Zihui Yang, Zhaochun Ren, Suzan Verberne et.al.|[2401.04852v1](http://arxiv.org/abs/2401.04852v1)|**[link](https://github.com/arian-askari/answerretrieval-legal)**|
@@ -506,6 +508,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**Toward Practical Automatic Speech Recognition and Post-Processing: a Call for Explainable Error Benchmark Guideline**|Seonmin Koo, Chanjun Park, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim et.al.|[2401.14625v1](http://arxiv.org/abs/2401.14625v1)|null|
 |**2024-01-19**|**Contextualized Automatic Speech Recognition with Attention-Based Bias Phrase Boosted Beam Search**|Yui Sudo, Muhammad Shakeel, Yosuke Fukumoto, Yifan Peng, Shinji Watanabe et.al.|[2401.10449v1](http://arxiv.org/abs/2401.10449v1)|null|
 |**2024-01-19**|**Investigating Training Strategies and Model Robustness of Low-Rank Adaptation for Language Modeling in Speech Recognition**|Yu Yu, Chao-Han Huck Yang, Tuan Dinh, Sungho Ryu, Jari Kolehmainen, Roger Ren, Denis Filimonov, Prashanth G. Shivakumar, Ankur Gandhe, Ariya Rastow, Jia Xu, Ivan Bulyko, Andreas Stolcke et.al.|[2401.10447v1](http://arxiv.org/abs/2401.10447v1)|null|
 |**2024-01-19**|**Large Language Models are Efficient Learners of Noise-Robust Speech Recognition**|Yuchen Hu, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Chao Zhang, Pin-Yu Chen, EnSiong Chng et.al.|[2401.10446v1](http://arxiv.org/abs/2401.10446v1)|**[link](https://github.com/yuchen005/robustger)**|
