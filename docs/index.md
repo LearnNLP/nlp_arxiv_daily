@@ -216,6 +216,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-28**|**PILOT: Legal Case Outcome Prediction with Case Law**|Lang Cao, Zifeng Wang, Cao Xiao, Jimeng Sun et.al.|[2401.15770v1](http://arxiv.org/abs/2401.15770v1)|null|
+|**2024-01-27**|**LegalDuet: Learning Effective Representations for Legal Judgment Prediction through a Dual-View Legal Clue Reasoning**|Pengjie Liu, Zhenghao Liu, Xiaoyuan Yi, Liner Yang, Shuo Wang, Yu Gu, Ge Yu, Xing Xie, Shuang-hua Yang et.al.|[2401.15371v1](http://arxiv.org/abs/2401.15371v1)|null|
 |**2024-01-26**|**A Korean Legal Judgment Prediction Dataset for Insurance Disputes**|Alice Saebom Kwak, Cheonkam Jeong, Ji Weon Lim, Byeongcheol Min et.al.|[2401.14654v1](http://arxiv.org/abs/2401.14654v1)|null|
 |**2024-01-25**|**Automated legal reasoning with discretion to act using s(LAW)**|Joaquín Arias, Mar Moreno-Rebato, José A. Rodríguez-García, Sascha Ossowski et.al.|[2401.14511v1](http://arxiv.org/abs/2401.14511v1)|null|
 |**2024-01-22**|**Streamlining Advanced Taxi Assignment Strategies based on Legal Analysis**|Holger Billhardt, José-Antonio Santos, Alberto Fernández, Mar Moreno, Sascha Ossowski, José A. Rodríguez et.al.|[2401.12324v1](http://arxiv.org/abs/2401.12324v1)|null|
@@ -508,6 +510,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-28**|**Byte Pair Encoding Is All You Need For Automatic Bengali Speech Recognition**|Ahnaf Mozib Samin et.al.|[2401.15532v1](http://arxiv.org/abs/2401.15532v1)|null|
 |**2024-01-26**|**Toward Practical Automatic Speech Recognition and Post-Processing: a Call for Explainable Error Benchmark Guideline**|Seonmin Koo, Chanjun Park, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim et.al.|[2401.14625v1](http://arxiv.org/abs/2401.14625v1)|null|
 |**2024-01-19**|**Contextualized Automatic Speech Recognition with Attention-Based Bias Phrase Boosted Beam Search**|Yui Sudo, Muhammad Shakeel, Yosuke Fukumoto, Yifan Peng, Shinji Watanabe et.al.|[2401.10449v1](http://arxiv.org/abs/2401.10449v1)|null|
 |**2024-01-19**|**Investigating Training Strategies and Model Robustness of Low-Rank Adaptation for Language Modeling in Speech Recognition**|Yu Yu, Chao-Han Huck Yang, Tuan Dinh, Sungho Ryu, Jari Kolehmainen, Roger Ren, Denis Filimonov, Prashanth G. Shivakumar, Ankur Gandhe, Ariya Rastow, Jia Xu, Ivan Bulyko, Andreas Stolcke et.al.|[2401.10447v1](http://arxiv.org/abs/2401.10447v1)|null|
