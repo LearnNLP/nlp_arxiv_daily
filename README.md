@@ -507,6 +507,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-31**|**Exploring the limits of decoder-only models trained on public speech recognition corpora**|Ankit Gupta, George Saon, Brian Kingsbury et.al.|[2402.00235v1](http://arxiv.org/abs/2402.00235v1)|null|
 |**2024-01-31**|**Computation and Parameter Efficient Multi-Modal Fusion Transformer for Cued Speech Recognition**|Lei Liu, Li Liu, Haizhou Li et.al.|[2401.17604v1](http://arxiv.org/abs/2401.17604v1)|null|
 |**2024-01-28**|**Byte Pair Encoding Is All You Need For Automatic Bengali Speech Recognition**|Ahnaf Mozib Samin et.al.|[2401.15532v1](http://arxiv.org/abs/2401.15532v1)|null|
 |**2024-01-26**|**Toward Practical Automatic Speech Recognition and Post-Processing: a Call for Explainable Error Benchmark Guideline**|Seonmin Koo, Chanjun Park, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim et.al.|[2401.14625v1](http://arxiv.org/abs/2401.14625v1)|null|
