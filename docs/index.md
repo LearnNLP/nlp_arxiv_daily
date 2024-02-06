@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**A Case Study on Filtering for End-to-End Speech Translation**|Md Mahfuz Ibn Alam, Antonios Anastasopoulos et.al.|[2402.01945v1](http://arxiv.org/abs/2402.01945v1)|null|
 |**2024-01-17**|**TranSentence: Speech-to-speech Translation via Language-agnostic Sentence-level Speech Encoding without Language-parallel Data**|Seung-Bin Kim, Sang-Hoon Lee, Seong-Whan Lee et.al.|[2401.12992v1](http://arxiv.org/abs/2401.12992v1)|null|
 |**2024-01-11**|**R-BI: Regularized Batched Inputs enhance Incremental Decoding Framework for Low-Latency Simultaneous Speech Translation**|Jiaxin Guo, Zhanglin Wu, Zongyao Li, Hengchao Shang, Daimeng Wei, Xiaoyu Chen, Zhiqiang Rao, Shaojun Li, Hao Yang et.al.|[2401.05700v1](http://arxiv.org/abs/2401.05700v1)|null|
 |**2023-12-21**|**Speech Translation with Large Language Models: An Industrial Practice**|Zhichao Huang, Rong Ye, Tom Ko, Qianqian Dong, Shanbo Cheng, Mingxuan Wang, Hang Li et.al.|[2312.13585v1](http://arxiv.org/abs/2312.13585v1)|null|
@@ -216,6 +217,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**(A)I Am Not a Lawyer, But...: Engaging Legal Experts towards Responsible LLM Policies for Legal Advice**|Inyoung Cheong, King Xia, K. J. Kevin Feng, Quan Ze Chen, Amy X. Zhang et.al.|[2402.01864v1](http://arxiv.org/abs/2402.01864v1)|null|
+|**2024-01-30**|**Aalap: AI Assistant for Legal & Paralegal Functions in India**|Aman Tiwari, Prathamesh Kalamkar, Atreyo Banerjee, Saurabh Karn, Varun Hemachandran, Smita Gupta et.al.|[2402.01758v1](http://arxiv.org/abs/2402.01758v1)|null|
+|**2024-01-18**|**Legal and ethical implications of applications based on agreement technologies: the case of auction-based road intersections**|José-Antonio Santos, Alberto Fernández, Mar Moreno-Rebato, Holger Billhardt, José-A. Rodríguez-García, Sascha Ossowski et.al.|[2402.01673v1](http://arxiv.org/abs/2402.01673v1)|null|
+|**2024-01-10**|**Promises and pitfalls of artificial intelligence for legal applications**|Sayash Kapoor, Peter Henderson, Arvind Narayanan et.al.|[2402.01656v1](http://arxiv.org/abs/2402.01656v1)|null|
 |**2024-01-31**|**Employing Label Models on ChatGPT Answers Improves Legal Text Entailment Performance**|Chau Nguyen, Le-Minh Nguyen et.al.|[2401.17897v1](http://arxiv.org/abs/2401.17897v1)|null|
 |**2024-01-28**|**PILOT: Legal Case Outcome Prediction with Case Law**|Lang Cao, Zifeng Wang, Cao Xiao, Jimeng Sun et.al.|[2401.15770v1](http://arxiv.org/abs/2401.15770v1)|null|
 |**2024-01-27**|**LegalDuet: Learning Effective Representations for Legal Judgment Prediction through a Dual-View Legal Clue Reasoning**|Pengjie Liu, Zhenghao Liu, Xiaoyuan Yi, Liner Yang, Shuo Wang, Yu Gu, Ge Yu, Xing Xie, Shuang-hua Yang et.al.|[2401.15371v1](http://arxiv.org/abs/2401.15371v1)|null|
@@ -253,7 +258,7 @@ layout: default
 |**2023-11-10**|**Citation Recommendation on Scholarly Legal Articles**|Doğukan Arslan, Saadet Sena Erdoğan, Gülşen Eryiğit et.al.|[2311.05902v1](http://arxiv.org/abs/2311.05902v1)|**[link](https://github.com/dgknrsln/legalcitationrecommendation)**|
 |**2023-11-09**|**Legal-HNet: Mixing Legal Long-Context Tokens with Hartley Transform**|Daniele Giofré, Sneha Ghantasala et.al.|[2311.05089v1](http://arxiv.org/abs/2311.05089v1)|null|
 |**2023-11-01**|**From Text to Structure: Using Large Language Models to Support the Development of Legal Expert Systems**|Samyar Janatian, Hannes Westermann, Jinzhe Tan, Jaromir Savelka, Karim Benyekhlef et.al.|[2311.04911v1](http://arxiv.org/abs/2311.04911v1)|**[link](https://github.com/samyarj/jcapg-jurix2023)**|
-|**2023-11-02**|**An energy-based comparative analysis of common approaches to text classification in the Legal domain**|Sinan Gultekin, Achille Globo, Andrea Zugarini, Marco Ernandes, Leonardo Rigutini et.al.|[2311.01256v1](http://arxiv.org/abs/2311.01256v1)|null|
+|**2024-02-05**|**An energy-based comparative analysis of common approaches to text classification in the Legal domain**|Sinan Gultekin, Achille Globo, Andrea Zugarini, Marco Ernandes, Leonardo Rigutini et.al.|[2311.01256v2](http://arxiv.org/abs/2311.01256v2)|null|
 |**2024-01-02**|**Caseformer: Pre-training for Legal Case Retrieval Based on Inter-Case Distinctions**|Weihang Su, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu, Zhijing Wu, Min Zhang et.al.|[2311.00333v2](http://arxiv.org/abs/2311.00333v2)|**[link](https://github.com/oneal2000/caseformer)**|
 |**2023-10-28**|**Using Large Language Models to Support Thematic Analysis in Empirical Legal Studies**|Jakub Drápal, Hannes Westermann, Jaromir Savelka et.al.|[2310.18729v1](http://arxiv.org/abs/2310.18729v1)|null|
 |**2023-10-28**|**MILDSum: A Novel Benchmark Dataset for Multilingual Summarization of Indian Legal Case Judgments**|Debtanu Datta, Shubham Soni, Rajdeep Mukherjee, Saptarshi Ghosh et.al.|[2310.18600v1](http://arxiv.org/abs/2310.18600v1)|**[link](https://github.com/law-ai/mildsum)**|
@@ -511,6 +516,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**A Comprehensive Study of the Current State-of-the-Art in Nepali Automatic Speech Recognition Systems**|Rupak Raj Ghimire, Bal Krishna Bal, Prakash Poudyal et.al.|[2402.03050v1](http://arxiv.org/abs/2402.03050v1)|null|
+|**2024-02-03**|**Predicting positive transfer for improved low-resource speech recognition using acoustic pseudo-tokens**|Nay San, Georgios Paraskevopoulos, Aryaman Arora, Xiluo He, Prabhjot Kaur, Oliver Adams, Dan Jurafsky et.al.|[2402.02302v1](http://arxiv.org/abs/2402.02302v1)|null|
+|**2024-02-01**|**Introduction to speech recognition**|Gabriel Dauphin et.al.|[2402.01778v1](http://arxiv.org/abs/2402.01778v1)|null|
 |**2024-01-31**|**Exploring the limits of decoder-only models trained on public speech recognition corpora**|Ankit Gupta, George Saon, Brian Kingsbury et.al.|[2402.00235v1](http://arxiv.org/abs/2402.00235v1)|null|
 |**2024-01-31**|**Computation and Parameter Efficient Multi-Modal Fusion Transformer for Cued Speech Recognition**|Lei Liu, Li Liu, Haizhou Li et.al.|[2401.17604v1](http://arxiv.org/abs/2401.17604v1)|null|
 |**2024-01-28**|**Byte Pair Encoding Is All You Need For Automatic Bengali Speech Recognition**|Ahnaf Mozib Samin et.al.|[2401.15532v1](http://arxiv.org/abs/2401.15532v1)|null|
