@@ -217,6 +217,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-06**|**Advancing Legal Reasoning: The Integration of AI to Navigate Complexities and Biases in Global Jurisprudence with Semi-Automated Arbitration Processes (SAAPs)**|Michael De'Shazer et.al.|[2402.04140v1](http://arxiv.org/abs/2402.04140v1)|null|
 |**2024-02-02**|**(A)I Am Not a Lawyer, But...: Engaging Legal Experts towards Responsible LLM Policies for Legal Advice**|Inyoung Cheong, King Xia, K. J. Kevin Feng, Quan Ze Chen, Amy X. Zhang et.al.|[2402.01864v1](http://arxiv.org/abs/2402.01864v1)|null|
 |**2024-01-30**|**Aalap: AI Assistant for Legal & Paralegal Functions in India**|Aman Tiwari, Prathamesh Kalamkar, Atreyo Banerjee, Saurabh Karn, Varun Hemachandran, Smita Gupta et.al.|[2402.01758v1](http://arxiv.org/abs/2402.01758v1)|null|
 |**2024-01-18**|**Legal and ethical implications of applications based on agreement technologies: the case of auction-based road intersections**|José-Antonio Santos, Alberto Fernández, Mar Moreno-Rebato, Holger Billhardt, José-A. Rodríguez-García, Sascha Ossowski et.al.|[2402.01673v1](http://arxiv.org/abs/2402.01673v1)|null|
@@ -245,7 +246,7 @@ layout: default
 |**2023-12-01**|**Questioning Biases in Case Judgment Summaries: Legal Datasets or Large Language Models?**|Aniket Deroy, Subhankar Maity et.al.|[2312.00554v1](http://arxiv.org/abs/2312.00554v1)|null|
 |**2023-12-01**|**Japanese Tort-case Dataset for Rationale-supported Legal Judgment Prediction**|Hiroaki Yamada, Takenobu Tokunaga, Ryutaro Ohara, Akira Tokutsu, Keisuke Takeshita, Mihoko Sumida et.al.|[2312.00480v1](http://arxiv.org/abs/2312.00480v1)|null|
 |**2023-11-27**|**Justifiable Artificial Intelligence: Engineering Large Language Models for Legal Applications**|Sabine Wehnert et.al.|[2311.15716v1](http://arxiv.org/abs/2311.15716v1)|null|
-|**2023-11-23**|**Legal Requirements Analysis**|Sallam Abualhaija, Marcello Ceci, Lionel Briand et.al.|[2311.13871v1](http://arxiv.org/abs/2311.13871v1)|null|
+|**2024-02-06**|**Legal Requirements Analysis: A Regulatory Compliance Perspective**|Sallam Abualhaija, Marcello Ceci, Lionel Briand et.al.|[2311.13871v2](http://arxiv.org/abs/2311.13871v2)|null|
 |**2023-11-22**|**Intention and Context Elicitation with Large Language Models in the Legal Aid Intake Process**|Nick Goodson, Rongfei Lu et.al.|[2311.13281v1](http://arxiv.org/abs/2311.13281v1)|null|
 |**2023-11-22**|**Enhancing Logical Reasoning in Large Language Models to Facilitate Legal Applications**|Ha-Thanh Nguyen, Wachara Fungwacharakorn, Ken Satoh et.al.|[2311.13095v1](http://arxiv.org/abs/2311.13095v1)|null|
 |**2023-11-21**|**Development of a Legal Document AI-Chatbot**|Pranav Nataraj Devaraj, Rakesh Teja P V, Aaryav Gangrade, Manoj Kumar R et.al.|[2311.12719v1](http://arxiv.org/abs/2311.12719v1)|null|
@@ -304,7 +305,7 @@ layout: default
 |**2023-08-11**|**India's Progress in Space Exploration and International Legal Challenges in Meeting Goals within International Space Boundaries: A Review**|Jayanthi Vajiram, Utkarsh Maurya, Negha Senthil et.al.|[2309.06560v1](http://arxiv.org/abs/2309.06560v1)|null|
 |**2023-09-11**|**Black-Box Analysis: GPTs Across Time in Legal Textual Entailment Task**|Ha-Thanh Nguyen, Randy Goebel, Francesca Toni, Kostas Stathis, Ken Satoh et.al.|[2309.05501v1](http://arxiv.org/abs/2309.05501v1)|null|
 |**2023-09-11**|**NeCo@ALQAC 2023: Legal Domain Knowledge Acquisition for Low-Resource Languages through Data Enrichment**|Hai-Long Nguyen, Dieu-Quynh Nguyen, Hoang-Trung Nguyen, Thu-Trang Pham, Huu-Dong Nguyen, Thach-Anh Nguyen, Thi-Hai-Yen Vuong, Ha-Thanh Nguyen et.al.|[2309.05500v1](http://arxiv.org/abs/2309.05500v1)|null|
-|**2023-09-08**|**NESTLE: a No-Code Tool for Statistical Analysis of Legal Corpus**|Kyoungyeon Cho, Seungkum Han, Wonseok Hwang et.al.|[2309.04146v1](http://arxiv.org/abs/2309.04146v1)|null|
+|**2024-02-05**|**NESTLE: a No-Code Tool for Statistical Analysis of Legal Corpus**|Kyoungyeon Cho, Seungkum Han, Young Rok Choi, Wonseok Hwang et.al.|[2309.04146v2](http://arxiv.org/abs/2309.04146v2)|null|
 |**2023-09-06**|**Prompt-based Effective Input Reformulation for Legal Case Retrieval**|Yanran Tang, Ruihong Qiu, Xue Li et.al.|[2309.02962v1](http://arxiv.org/abs/2309.02962v1)|**[link](https://github.com/yanran-tang/promptcase)**|
 |**2023-09-01**|**ALJP: An Arabic Legal Judgment Prediction in Personal Status Cases Using Machine Learning Models**|Salwa Abbara, Mona Hafez, Aya Kazzaz, Areej Alhothali, Alhanouf Alsolami et.al.|[2309.00238v1](http://arxiv.org/abs/2309.00238v1)|null|
 |**2023-09-05**|**Is the U.S. Legal System Ready for AI's Challenges to Human Values?**|Inyoung Cheong, Aylin Caliskan, Tadayoshi Kohno et.al.|[2308.15906v3](http://arxiv.org/abs/2308.15906v3)|null|
@@ -576,7 +577,7 @@ layout: default
 |**2023-11-20**|**How does end-to-end speech recognition training impact speech enhancement artifacts?**|Kazuma Iwamoto, Tsubasa Ochiai, Marc Delcroix, Rintaro Ikeshita, Hiroshi Sato, Shoko Araki, Shigeru Katagiri et.al.|[2311.11599v1](http://arxiv.org/abs/2311.11599v1)|null|
 |**2023-11-19**|**Label-Synchronous Neural Transducer for Adaptable Online E2E Speech Recognition**|Keqi Deng, Philip C. Woodland et.al.|[2311.11353v1](http://arxiv.org/abs/2311.11353v1)|null|
 |**2023-11-17**|**GhostVec: A New Threat to Speaker Privacy of End-to-End Speech Recognition System**|Xiaojiao Chen, Sheng Li, Jiyi Li, Hao Huang, Yang Cao, Liang He et.al.|[2311.10689v1](http://arxiv.org/abs/2311.10689v1)|null|
-|**2023-11-09**|**Improving Whispered Speech Recognition Performance using Pseudo-whispered based Data Augmentation**|Zhaofeng Lin, Tanvina Patel, Odette Scharenborg et.al.|[2311.05179v1](http://arxiv.org/abs/2311.05179v1)|null|
+|**2023-11-09**|**Improving Whispered Speech Recognition Performance using Pseudo-whispered based Data Augmentation**|Zhaofeng Lin, Tanvina Patel, Odette Scharenborg et.al.|[2311.05179v1](http://arxiv.org/abs/2311.05179v1)|**[link](https://github.com/chaufanglin/Normal2Whisper)**|
 |**2023-11-08**|**GPU-Accelerated WFST Beam Search Decoder for CTC-based Speech Recognition**|Daniel Galvez, Tim Kaldewey et.al.|[2311.04996v1](http://arxiv.org/abs/2311.04996v1)|**[link](https://github.com/nvidia-riva/riva-asrlib-decoder)**|
 |**2023-11-07**|**A comparative analysis between Conformer-Transducer, Whisper, and wav2vec2 for improving the child speech recognition**|Andrei Barcovschi, Rishabh Jain, Peter Corcoran et.al.|[2311.04936v1](http://arxiv.org/abs/2311.04936v1)|**[link](https://github.com/c3imaging/child_asr_conformer)**|
 |**2023-11-07**|**Fine-tuning convergence model in Bengali speech recognition**|Zhu Ruiying, Shen Meng et.al.|[2311.04122v1](http://arxiv.org/abs/2311.04122v1)|null|
