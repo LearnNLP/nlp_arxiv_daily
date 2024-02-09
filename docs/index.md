@@ -518,12 +518,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition**|Chen Chen, Ruizhe Li, Yuchen Hu, Sabato Marco Siniscalchi, Pin-Yu Chen, Ensiong Chng, Chao-Han Huck Yang et.al.|[2402.05457v1](http://arxiv.org/abs/2402.05457v1)|null|
 |**2023-10-15**|**Large Vocabulary Spontaneous Speech Recognition for Tigrigna**|Ataklti Kahsu, Solomon Teferra et.al.|[2402.04254v1](http://arxiv.org/abs/2402.04254v1)|null|
 |**2024-02-05**|**A Comprehensive Study of the Current State-of-the-Art in Nepali Automatic Speech Recognition Systems**|Rupak Raj Ghimire, Bal Krishna Bal, Prakash Poudyal et.al.|[2402.03050v1](http://arxiv.org/abs/2402.03050v1)|null|
 |**2024-02-03**|**Predicting positive transfer for improved low-resource speech recognition using acoustic pseudo-tokens**|Nay San, Georgios Paraskevopoulos, Aryaman Arora, Xiluo He, Prabhjot Kaur, Oliver Adams, Dan Jurafsky et.al.|[2402.02302v1](http://arxiv.org/abs/2402.02302v1)|null|
 |**2024-02-01**|**Introduction to speech recognition**|Gabriel Dauphin et.al.|[2402.01778v1](http://arxiv.org/abs/2402.01778v1)|null|
 |**2024-01-31**|**Exploring the limits of decoder-only models trained on public speech recognition corpora**|Ankit Gupta, George Saon, Brian Kingsbury et.al.|[2402.00235v1](http://arxiv.org/abs/2402.00235v1)|null|
-|**2024-01-31**|**Computation and Parameter Efficient Multi-Modal Fusion Transformer for Cued Speech Recognition**|Lei Liu, Li Liu, Haizhou Li et.al.|[2401.17604v1](http://arxiv.org/abs/2401.17604v1)|null|
+|**2024-02-08**|**Computation and Parameter Efficient Multi-Modal Fusion Transformer for Cued Speech Recognition**|Lei Liu, Li Liu, Haizhou Li et.al.|[2401.17604v2](http://arxiv.org/abs/2401.17604v2)|null|
 |**2024-01-28**|**Byte Pair Encoding Is All You Need For Automatic Bengali Speech Recognition**|Ahnaf Mozib Samin et.al.|[2401.15532v1](http://arxiv.org/abs/2401.15532v1)|null|
 |**2024-01-26**|**Toward Practical Automatic Speech Recognition and Post-Processing: a Call for Explainable Error Benchmark Guideline**|Seonmin Koo, Chanjun Park, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim et.al.|[2401.14625v1](http://arxiv.org/abs/2401.14625v1)|null|
 |**2024-01-19**|**Contextualized Automatic Speech Recognition with Attention-Based Bias Phrase Boosted Beam Search**|Yui Sudo, Muhammad Shakeel, Yosuke Fukumoto, Yifan Peng, Shinji Watanabe et.al.|[2401.10449v1](http://arxiv.org/abs/2401.10449v1)|null|
