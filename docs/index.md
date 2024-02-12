@@ -518,6 +518,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-09**|**Self-consistent context aware conformer transducer for speech recognition**|Konstantin Kolokolov, Pavel Pekichev, Karthik Raghunathan et.al.|[2402.06592v1](http://arxiv.org/abs/2402.06592v1)|null|
 |**2024-02-08**|**It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition**|Chen Chen, Ruizhe Li, Yuchen Hu, Sabato Marco Siniscalchi, Pin-Yu Chen, Ensiong Chng, Chao-Han Huck Yang et.al.|[2402.05457v1](http://arxiv.org/abs/2402.05457v1)|null|
 |**2023-10-15**|**Large Vocabulary Spontaneous Speech Recognition for Tigrigna**|Ataklti Kahsu, Solomon Teferra et.al.|[2402.04254v1](http://arxiv.org/abs/2402.04254v1)|null|
 |**2024-02-05**|**A Comprehensive Study of the Current State-of-the-Art in Nepali Automatic Speech Recognition Systems**|Rupak Raj Ghimire, Bal Krishna Bal, Prakash Poudyal et.al.|[2402.03050v1](http://arxiv.org/abs/2402.03050v1)|null|
@@ -552,7 +553,7 @@ layout: default
 |**2024-01-01**|**Enhancing Pre-trained ASR System Fine-tuning for Dysarthric Speech Recognition using Adversarial Data Augmentation**|Huimeng Wang, Zengrui Jin, Mengzhe Geng, Shujie Hu, Guinan Li, Tianzi Wang, Haoning Xu, Xunying Liu et.al.|[2401.00662v1](http://arxiv.org/abs/2401.00662v1)|null|
 |**2024-01-11**|**Stateful Conformer with Cache-based Inference for Streaming Automatic Speech Recognition**|Vahid Noroozi, Somshubra Majumdar, Ankur Kumar, Jagadeesh Balam, Boris Ginsburg et.al.|[2312.17279v2](http://arxiv.org/abs/2312.17279v2)|null|
 |**2023-12-22**|**BLSTM-Based Confidence Estimation for End-to-End Speech Recognition**|Atsunori Ogawa, Naohiro Tawara, Takatomo Kano, Marc Delcroix et.al.|[2312.14609v1](http://arxiv.org/abs/2312.14609v1)|null|
-|**2023-12-22**|**Multimodal Attention Merging for Improved Speech Recognition and Audio Event Classification**|Anirudh S. Sundar, Chao-Han Huck Yang, David M. Chan, Shalini Ghosh, Venkatesh Ravichandran, Phani Sankar Nidadavolu et.al.|[2312.14378v1](http://arxiv.org/abs/2312.14378v1)|null|
+|**2024-02-09**|**Multimodal Attention Merging for Improved Speech Recognition and Audio Event Classification**|Anirudh S. Sundar, Chao-Han Huck Yang, David M. Chan, Shalini Ghosh, Venkatesh Ravichandran, Phani Sankar Nidadavolu et.al.|[2312.14378v2](http://arxiv.org/abs/2312.14378v2)|null|
 |**2023-12-21**|**BANSpEmo: A Bangla Emotional Speech Recognition Dataset**|Md Gulzar Hussain, Mahmuda Rahman, Babe Sultana, Ye Shiren et.al.|[2312.14020v1](http://arxiv.org/abs/2312.14020v1)|null|
 |**2023-12-20**|**Stable Distillation: Regularizing Continued Pre-training for Low-Resource Automatic Speech Recognition**|Ashish Seth, Sreyan Ghosh, S. Umesh, Dinesh Manocha et.al.|[2312.12783v1](http://arxiv.org/abs/2312.12783v1)|**[link](https://github.com/cs20s030/stable_distillation)**|
 |**2024-01-11**|**Automated speech audiometry: Can it work using open-source pre-trained Kaldi-NL automatic speech recognition?**|Gloria Araiza-Illan, Luke Meyer, Khiet P. Truong, Deniz Baskent et.al.|[2312.12269v2](http://arxiv.org/abs/2312.12269v2)|null|
