@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Speech Translation with Speech Foundation Models and Large Language Models: What is There and What is Missing?**|Marco Gaido, Sara Papi, Matteo Negri, Luisa Bentivogli et.al.|[2402.12025v1](http://arxiv.org/abs/2402.12025v1)|null|
 |**2024-02-16**|**Pushing the Limits of Zero-shot End-to-End Speech Translation**|Ioannis Tsiamas, Gerard I. Gállego, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2402.10422v1](http://arxiv.org/abs/2402.10422v1)|**[link](https://github.com/mt-upc/zeroswot)**|
 |**2024-02-02**|**A Case Study on Filtering for End-to-End Speech Translation**|Md Mahfuz Ibn Alam, Antonios Anastasopoulos et.al.|[2402.01945v1](http://arxiv.org/abs/2402.01945v1)|null|
 |**2024-01-17**|**TranSentence: Speech-to-speech Translation via Language-agnostic Sentence-level Speech Encoding without Language-parallel Data**|Seung-Bin Kim, Sang-Hoon Lee, Seong-Whan Lee et.al.|[2401.12992v1](http://arxiv.org/abs/2401.12992v1)|null|
@@ -218,7 +219,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-16**|**InSaAF: Incorporating Safety through Accuracy and Fairness | Are LLMs ready for the Indian Legal Domain?**|Yogesh Tripathi, Raghav Donakanti, Sahil Girhepuje, Ishan Kavathekar, Bhaskara Hanuma Vedula, Gokul S Krishnan, Shreya Goyal, Anmol Goel, Balaraman Ravindran, Ponnurangam Kumaraguru et.al.|[2402.10567v1](http://arxiv.org/abs/2402.10567v1)|null|
+|**2024-02-19**|**InSaAF: Incorporating Safety through Accuracy and Fairness | Are LLMs ready for the Indian Legal Domain?**|Yogesh Tripathi, Raghav Donakanti, Sahil Girhepuje, Ishan Kavathekar, Bhaskara Hanuma Vedula, Gokul S Krishnan, Shreya Goyal, Anmol Goel, Balaraman Ravindran, Ponnurangam Kumaraguru et.al.|[2402.10567v2](http://arxiv.org/abs/2402.10567v2)|null|
 |**2024-02-12**|**Large Language Models "Ad Referendum": How Good Are They at Machine Translation in the Legal Domain?**|Vicent Briva-Iglesias, Joao Lucas Cavalheiro Camargo, Gokhan Dogru et.al.|[2402.07681v1](http://arxiv.org/abs/2402.07681v1)|null|
 |**2024-02-16**|**Through the Lens of Split Vote: Exploring Disagreement, Difficulty and Calibration in Legal Case Outcome Classification**|Shanshan Xu, T. Y. S. S Santosh, Oana Ichim, Barbara Plank, Matthias Grabmair et.al.|[2402.07214v2](http://arxiv.org/abs/2402.07214v2)|null|
 |**2024-02-06**|**LegalLens: Leveraging LLMs for Legal Violation Identification in Unstructured Text**|Dor Bernsohn, Gil Semo, Yaron Vazana, Gila Hayat, Ben Hagag, Joel Niklaus, Rohit Saha, Kyryl Truskovskyi et.al.|[2402.04335v1](http://arxiv.org/abs/2402.04335v1)|**[link](https://github.com/darrow-labs/legallens)**|
@@ -251,7 +252,7 @@ layout: default
 |**2023-12-01**|**Questioning Biases in Case Judgment Summaries: Legal Datasets or Large Language Models?**|Aniket Deroy, Subhankar Maity et.al.|[2312.00554v1](http://arxiv.org/abs/2312.00554v1)|null|
 |**2023-12-01**|**Japanese Tort-case Dataset for Rationale-supported Legal Judgment Prediction**|Hiroaki Yamada, Takenobu Tokunaga, Ryutaro Ohara, Akira Tokutsu, Keisuke Takeshita, Mihoko Sumida et.al.|[2312.00480v1](http://arxiv.org/abs/2312.00480v1)|null|
 |**2023-11-27**|**Justifiable Artificial Intelligence: Engineering Large Language Models for Legal Applications**|Sabine Wehnert et.al.|[2311.15716v1](http://arxiv.org/abs/2311.15716v1)|null|
-|**2024-02-06**|**Legal Requirements Analysis: A Regulatory Compliance Perspective**|Sallam Abualhaija, Marcello Ceci, Lionel Briand et.al.|[2311.13871v2](http://arxiv.org/abs/2311.13871v2)|null|
+|**2024-02-17**|**Legal Requirements Analysis**|Sallam Abualhaija, Marcello Ceci, Lionel Briand et.al.|[2311.13871v3](http://arxiv.org/abs/2311.13871v3)|null|
 |**2023-11-22**|**Intention and Context Elicitation with Large Language Models in the Legal Aid Intake Process**|Nick Goodson, Rongfei Lu et.al.|[2311.13281v1](http://arxiv.org/abs/2311.13281v1)|null|
 |**2023-11-22**|**Enhancing Logical Reasoning in Large Language Models to Facilitate Legal Applications**|Ha-Thanh Nguyen, Wachara Fungwacharakorn, Ken Satoh et.al.|[2311.13095v1](http://arxiv.org/abs/2311.13095v1)|null|
 |**2023-11-21**|**Development of a Legal Document AI-Chatbot**|Pranav Nataraj Devaraj, Rakesh Teja P V, Aaryav Gangrade, Manoj Kumar R et.al.|[2311.12719v1](http://arxiv.org/abs/2311.12719v1)|null|
@@ -287,7 +288,7 @@ layout: default
 |**2023-10-13**|**Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration**|Yiquan Wu, Siying Zhou, Yifei Liu, Weiming Lu, Xiaozhong Liu, Yating Zhang, Changlong Sun, Fei Wu, Kun Kuang et.al.|[2310.09241v1](http://arxiv.org/abs/2310.09241v1)|null|
 |**2023-10-11**|**Empirical Analysis of the Impact of Legal Tender Digital Currency on Monetary Policy -Based on China's Data**|Ruimin Song, TIntian Zhao, Chunhui Zhou et.al.|[2310.07326v1](http://arxiv.org/abs/2310.07326v1)|null|
 |**2023-10-12**|**Automated Argument Generation from Legal Facts**|Oscar Tuvey, Procheta Sen et.al.|[2310.05680v3](http://arxiv.org/abs/2310.05680v3)|null|
-|**2023-10-09**|**LAiW: A Chinese Legal Large Language Models Benchmark (A Technical Report)**|Yongfu Dai, Duanyu Feng, Jimin Huang, Haochen Jia, Qianqian Xie, Yifang Zhang, Weiguang Han, Wei Tian, Hao Wang et.al.|[2310.05620v1](http://arxiv.org/abs/2310.05620v1)|**[link](https://github.com/dai-shen/laiw)**|
+|**2024-02-18**|**LAiW: A Chinese Legal Large Language Models Benchmark**|Yongfu Dai, Duanyu Feng, Jimin Huang, Haochen Jia, Qianqian Xie, Yifang Zhang, Weiguang Han, Wei Tian, Hao Wang et.al.|[2310.05620v2](http://arxiv.org/abs/2310.05620v2)|**[link](https://github.com/dai-shen/laiw)**|
 |**2023-10-08**|**Enhancing Pre-Trained Language Models with Sentence Position Embeddings for Rhetorical Roles Recognition in Legal Opinions**|Anas Belfathi, Nicolas Hernandez, Laura Monceaux et.al.|[2310.05276v1](http://arxiv.org/abs/2310.05276v1)|null|
 |**2023-10-07**|**Investigating the Influence of Legal Case Retrieval Systems on Users' Decision Process**|Beining Wang, Ruizhe Zhang, Yueyue Wu, Qingyao Ai, Min Zhang, Yiqun Liu et.al.|[2310.04735v1](http://arxiv.org/abs/2310.04735v1)|null|
 |**2023-10-06**|**Marketing to Children Through Online Targeted Advertising: Targeting Mechanisms and Legal Aspects**|Tinhinane Medjkoune, Oana Goga, Juliette Senechal et.al.|[2310.04104v1](http://arxiv.org/abs/2310.04104v1)|null|
