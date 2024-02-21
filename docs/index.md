@@ -75,7 +75,7 @@ layout: default
 |**2023-05-27**|**CTC-based Non-autoregressive Speech Translation**|Chen Xu, Xiaoqian Liu, Xiaowen Liu, Qingxuan Sun, Yuhao Zhang, Murun Yang, Qianqian Dong, Tom Ko, Mingxuan Wang, Tong Xiao, Anxiang Ma, Jingbo Zhu et.al.|[2305.17358v1](http://arxiv.org/abs/2305.17358v1)|**[link](https://github.com/xuchennlp/s2t)**|
 |**2023-05-26**|**Inter-connection: Effective Connection between Pre-trained Encoder and Decoder for Speech Translation**|Yuta Nishikawa, Satoshi Nakamura et.al.|[2305.16897v1](http://arxiv.org/abs/2305.16897v1)|null|
 |**2023-06-18**|**End-to-End Simultaneous Speech Translation with Differentiable Segmentation**|Shaolei Zhang, Yang Feng et.al.|[2305.16093v2](http://arxiv.org/abs/2305.16093v2)|**[link](https://github.com/ictnlp/diseg)**|
-|**2023-05-24**|**Unit-based Speech-to-Speech Translation Without Parallel Data**|Anuj Diwan, Anirudh Srinivasan, David Harwath, Eunsol Choi et.al.|[2305.15405v1](http://arxiv.org/abs/2305.15405v1)|**[link](https://github.com/ajd12342/unit-speech-translation)**|
+|**2024-02-20**|**Textless Low-Resource Speech-to-Speech Translation With Unit Language Models**|Anuj Diwan, Anirudh Srinivasan, David Harwath, Eunsol Choi et.al.|[2305.15405v2](http://arxiv.org/abs/2305.15405v2)|null|
 |**2023-05-24**|**AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation**|Rongjie Huang, Huadai Liu, Xize Cheng, Yi Ren, Linjun Li, Zhenhui Ye, Jinzheng He, Lichao Zhang, Jinglin Liu, Xiang Yin, Zhou Zhao et.al.|[2305.15403v1](http://arxiv.org/abs/2305.15403v1)|null|
 |**2023-05-25**|**CMOT: Cross-modal Mixup via Optimal Transport for Speech Translation**|Yan Zhou, Qingkai Fang, Yang Feng et.al.|[2305.14635v2](http://arxiv.org/abs/2305.14635v2)|**[link](https://github.com/ictnlp/cmot)**|
 |**2023-05-23**|**Improving speech translation by fusing speech and text**|Wenbiao Yin, Zhicheng Liu, Chengqi Zhao, Tao Wang, Jian Tong, Rong Ye et.al.|[2305.14042v1](http://arxiv.org/abs/2305.14042v1)|null|
@@ -523,6 +523,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**How do Hyenas deal with Human Speech? Speech Recognition and Translation with ConfHyena**|Marco Gaido, Sara Papi, Matteo Negri, Luisa Bentivogli et.al.|[2402.13208v1](http://arxiv.org/abs/2402.13208v1)|null|
+|**2024-02-20**|**Not All Weights Are Created Equal: Enhancing Energy Efficiency in On-Device Streaming Speech Recognition**|Yang Li, Yuan Shangguan, Yuhao Wang, Liangzhen Lai, Ernie Chang, Changsheng Zhao, Yangyang Shi, Vikas Chandra et.al.|[2402.13076v1](http://arxiv.org/abs/2402.13076v1)|null|
+|**2024-02-20**|**Comparison of Conventional Hybrid and CTC/Attention Decoders for Continuous Visual Speech Recognition**|David Gimeno-Gómez, Carlos-D. Martínez-Hinarejos et.al.|[2402.13004v1](http://arxiv.org/abs/2402.13004v1)|null|
+|**2024-02-20**|**OWSM-CTC: An Open Encoder-Only Speech Foundation Model for Speech Recognition, Translation, and Language Identification**|Yifan Peng, Yui Sudo, Muhammad Shakeel, Shinji Watanabe et.al.|[2402.12654v1](http://arxiv.org/abs/2402.12654v1)|null|
 |**2024-01-04**|**AntiDeepFake: AI for Deep Fake Speech Recognition**|Enkhtogtokh Togootogtokh, Christian Klasen et.al.|[2402.10218v1](http://arxiv.org/abs/2402.10218v1)|null|
 |**2024-02-09**|**Self-consistent context aware conformer transducer for speech recognition**|Konstantin Kolokolov, Pavel Pekichev, Karthik Raghunathan et.al.|[2402.06592v1](http://arxiv.org/abs/2402.06592v1)|null|
 |**2024-02-08**|**It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition**|Chen Chen, Ruizhe Li, Yuchen Hu, Sabato Marco Siniscalchi, Pin-Yu Chen, Ensiong Chng, Chao-Han Huck Yang et.al.|[2402.05457v1](http://arxiv.org/abs/2402.05457v1)|null|
