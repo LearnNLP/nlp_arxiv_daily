@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-25**|**Direct Punjabi to English speech translation using discrete units**|Prabhjot Kaur, L. Andrew M. Bush, Weisong Shi et.al.|[2402.15967v1](http://arxiv.org/abs/2402.15967v1)|null|
 |**2024-02-19**|**Speech Translation with Speech Foundation Models and Large Language Models: What is There and What is Missing?**|Marco Gaido, Sara Papi, Matteo Negri, Luisa Bentivogli et.al.|[2402.12025v1](http://arxiv.org/abs/2402.12025v1)|null|
 |**2024-02-16**|**Pushing the Limits of Zero-shot End-to-End Speech Translation**|Ioannis Tsiamas, Gerard I. Gállego, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2402.10422v1](http://arxiv.org/abs/2402.10422v1)|**[link](https://github.com/mt-upc/zeroswot)**|
 |**2024-02-02**|**A Case Study on Filtering for End-to-End Speech Translation**|Md Mahfuz Ibn Alam, Antonios Anastasopoulos et.al.|[2402.01945v1](http://arxiv.org/abs/2402.01945v1)|null|
@@ -523,6 +524,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-24**|**ArEEG_Chars: Dataset for Envisioned Speech Recognition using EEG for Arabic Characters**|Hazem Darwish, Abdalrahman Al Malah, Khloud Al Jallad, Nada Ghneim et.al.|[2402.15733v1](http://arxiv.org/abs/2402.15733v1)|null|
 |**2024-02-20**|**How do Hyenas deal with Human Speech? Speech Recognition and Translation with ConfHyena**|Marco Gaido, Sara Papi, Matteo Negri, Luisa Bentivogli et.al.|[2402.13208v1](http://arxiv.org/abs/2402.13208v1)|null|
 |**2024-02-20**|**Not All Weights Are Created Equal: Enhancing Energy Efficiency in On-Device Streaming Speech Recognition**|Yang Li, Yuan Shangguan, Yuhao Wang, Liangzhen Lai, Ernie Chang, Changsheng Zhao, Yangyang Shi, Vikas Chandra et.al.|[2402.13076v1](http://arxiv.org/abs/2402.13076v1)|null|
 |**2024-02-20**|**Comparison of Conventional Hybrid and CTC/Attention Decoders for Continuous Visual Speech Recognition**|David Gimeno-Gómez, Carlos-D. Martínez-Hinarejos et.al.|[2402.13004v1](http://arxiv.org/abs/2402.13004v1)|null|
