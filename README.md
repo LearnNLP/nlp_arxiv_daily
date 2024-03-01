@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Compact Speech Translation Models via Discrete Speech Units Pretraining**|Tsz Kin Lam, Alexandra Birch, Barry Haddow et.al.|[2402.19333v1](http://arxiv.org/abs/2402.19333v1)|null|
 |**2024-02-25**|**Direct Punjabi to English speech translation using discrete units**|Prabhjot Kaur, L. Andrew M. Bush, Weisong Shi et.al.|[2402.15967v1](http://arxiv.org/abs/2402.15967v1)|null|
 |**2024-02-19**|**Speech Translation with Speech Foundation Models and Large Language Models: What is There and What is Missing?**|Marco Gaido, Sara Papi, Matteo Negri, Luisa Bentivogli et.al.|[2402.12025v1](http://arxiv.org/abs/2402.12025v1)|null|
 |**2024-02-16**|**Pushing the Limits of Zero-shot End-to-End Speech Translation**|Ioannis Tsiamas, Gerard I. Gállego, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2402.10422v1](http://arxiv.org/abs/2402.10422v1)|**[link](https://github.com/mt-upc/zeroswot)**|
@@ -216,12 +217,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Improving Legal Judgement Prediction in Romanian with Long Text Encoders**|Mihai Masala, Traian Rebedea, Horia Velicu et.al.|[2402.19170v1](http://arxiv.org/abs/2402.19170v1)|null|
 |**2024-02-26**|**Leveraging Large Language Models for Learning Complex Legal Concepts through Storytelling**|Hang Jiang, Xiajie Zhang, Robert Mahari, Daniel Kessler, Eric Ma, Tal August, Irene Li, Alex 'Sandy' Pentland, Yoon Kim, Jad Kabbara, Deb Roy et.al.|[2402.17019v1](http://arxiv.org/abs/2402.17019v1)|**[link](https://github.com/hjian42/legalstories)**|
 |**2024-02-21**|**InSaAF: Incorporating Safety through Accuracy and Fairness | Are LLMs ready for the Indian Legal Domain?**|Yogesh Tripathi, Raghav Donakanti, Sahil Girhepuje, Ishan Kavathekar, Bhaskara Hanuma Vedula, Gokul S Krishnan, Shreya Goyal, Anmol Goel, Balaraman Ravindran, Ponnurangam Kumaraguru et.al.|[2402.10567v3](http://arxiv.org/abs/2402.10567v3)|null|
 |**2024-02-12**|**Large Language Models "Ad Referendum": How Good Are They at Machine Translation in the Legal Domain?**|Vicent Briva-Iglesias, Joao Lucas Cavalheiro Camargo, Gokhan Dogru et.al.|[2402.07681v1](http://arxiv.org/abs/2402.07681v1)|null|
 |**2024-02-16**|**Through the Lens of Split Vote: Exploring Disagreement, Difficulty and Calibration in Legal Case Outcome Classification**|Shanshan Xu, T. Y. S. S Santosh, Oana Ichim, Barbara Plank, Matthias Grabmair et.al.|[2402.07214v2](http://arxiv.org/abs/2402.07214v2)|null|
 |**2024-02-06**|**LegalLens: Leveraging LLMs for Legal Violation Identification in Unstructured Text**|Dor Bernsohn, Gil Semo, Yaron Vazana, Gila Hayat, Ben Hagag, Joel Niklaus, Rohit Saha, Kyryl Truskovskyi et.al.|[2402.04335v1](http://arxiv.org/abs/2402.04335v1)|**[link](https://github.com/darrow-labs/legallens)**|
-|**2024-02-07**|**Advancing Legal Reasoning: The Integration of AI to Navigate Complexities and Biases in Global Jurisprudence with Semi-Automated Arbitration Processes (SAAPs)**|Michael De'Shazer et.al.|[2402.04140v2](http://arxiv.org/abs/2402.04140v2)|null|
+|**2024-02-29**|**Advancing Legal Reasoning: The Integration of AI to Navigate Complexities and Biases in Global Jurisprudence with Semi-Automated Arbitration Processes (SAAPs)**|Michael De'Shazer et.al.|[2402.04140v3](http://arxiv.org/abs/2402.04140v3)|null|
 |**2024-02-02**|**(A)I Am Not a Lawyer, But...: Engaging Legal Experts towards Responsible LLM Policies for Legal Advice**|Inyoung Cheong, King Xia, K. J. Kevin Feng, Quan Ze Chen, Amy X. Zhang et.al.|[2402.01864v1](http://arxiv.org/abs/2402.01864v1)|null|
 |**2024-01-30**|**Aalap: AI Assistant for Legal & Paralegal Functions in India**|Aman Tiwari, Prathamesh Kalamkar, Atreyo Banerjee, Saurabh Karn, Varun Hemachandran, Smita Gupta et.al.|[2402.01758v1](http://arxiv.org/abs/2402.01758v1)|null|
 |**2024-01-18**|**Legal and ethical implications of applications based on agreement technologies: the case of auction-based road intersections**|José-Antonio Santos, Alberto Fernández, Mar Moreno-Rebato, Holger Billhardt, José-A. Rodríguez-García, Sascha Ossowski et.al.|[2402.01673v1](http://arxiv.org/abs/2402.01673v1)|null|
@@ -521,8 +523,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-28**|**Exploration of Adapter for Noise Robust Automatic Speech Recognition**|Hao Shi, Tatsuya Kawahara et.al.|[2402.18275v1](http://arxiv.org/abs/2402.18275v1)|null|
-|**2024-02-28**|**Multilingual Speech Models for Automatic Speech Recognition Exhibit Gender Performance Gaps**|Giuseppe Attanasio, Beatrice Savoldi, Dennis Fucci, Dirk Hovy et.al.|[2402.17954v1](http://arxiv.org/abs/2402.17954v1)|null|
+|**2024-02-29**|**Probing the Information Encoded in Neural-based Acoustic Models of Automatic Speech Recognition Systems**|Quentin Raymondaud, Mickael Rouvier, Richard Dufour et.al.|[2402.19443v1](http://arxiv.org/abs/2402.19443v1)|null|
+|**2024-02-29**|**Inappropriate Pause Detection In Dysarthric Speech Using Large-Scale Speech Recognition**|Jeehyun Lee, Yerin Choi, Tae-Jin Song, Myoung-Wan Koo et.al.|[2402.18923v1](http://arxiv.org/abs/2402.18923v1)|null|
+|**2024-02-29**|**Investigation of Adapter for Automatic Speech Recognition in Noisy Environment**|Hao Shi, Tatsuya Kawahara et.al.|[2402.18275v2](http://arxiv.org/abs/2402.18275v2)|null|
+|**2024-02-28**|**Multilingual Speech Models for Automatic Speech Recognition Exhibit Gender Performance Gaps**|Giuseppe Attanasio, Beatrice Savoldi, Dennis Fucci, Dirk Hovy et.al.|[2402.17954v1](http://arxiv.org/abs/2402.17954v1)|**[link](https://github.com/g8a9/multilingual-asr-gender-gap)**|
 |**2024-02-27**|**An Effective Mixture-Of-Experts Approach For Code-Switching Speech Recognition Leveraging Encoder Disentanglement**|Tzu-Ting Yang, Hsin-Wei Wang, Yi-Cheng Wang, Chi-Han Lin, Berlin Chen et.al.|[2402.17189v1](http://arxiv.org/abs/2402.17189v1)|null|
 |**2024-02-24**|**ArEEG_Chars: Dataset for Envisioned Speech Recognition using EEG for Arabic Characters**|Hazem Darwish, Abdalrahman Al Malah, Khloud Al Jallad, Nada Ghneim et.al.|[2402.15733v1](http://arxiv.org/abs/2402.15733v1)|null|
 |**2024-02-20**|**How do Hyenas deal with Human Speech? Speech Recognition and Translation with ConfHyena**|Marco Gaido, Sara Papi, Matteo Negri, Luisa Bentivogli et.al.|[2402.13208v1](http://arxiv.org/abs/2402.13208v1)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
@@ -549,7 +553,7 @@
 |**2024-01-17**|**Two-pass Endpoint Detection for Speech Recognition**|Anirudh Raju, Aparna Khare, Di He, Ilya Sklyar, Long Chen, Sam Alptekin, Viet Anh Trinh, Zhe Zhang, Colin Vaz, Venkatesh Ravichandran, Roland Maas, Ariya Rastrow et.al.|[2401.08916v1](http://arxiv.org/abs/2401.08916v1)|null|
 |**2024-01-15**|**SeMaScore : a new evaluation metric for automatic speech recognition tasks**|Zitha Sasindran, Harsha Yelchuri, T. V. Prabhakar et.al.|[2401.07506v1](http://arxiv.org/abs/2401.07506v1)|null|
 |**2024-01-13**|**Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization**|A F M Saif, Xiaodong Cui, Han Shen, Songtao Lu, Brian Kingsbury, Tianyi Chen et.al.|[2401.06980v1](http://arxiv.org/abs/2401.06980v1)|**[link](https://github.com/afmsaif/joint-unsupervised-and-supervised-training-for-automatic-speech-recognition-via-bilevel-optimization)**|
-|**2024-01-07**|**The NPU-ASLP-LiAuto System Description for Visual Speech Recognition in CNVSRC 2023**|He Wang, Pengcheng Guo, Wei Chen, Pan Zhou, Lei Xie et.al.|[2401.06788v1](http://arxiv.org/abs/2401.06788v1)|**[link](https://github.com/mkt-dataoceanai/cnvsrc2023baseline)**|
+|**2024-02-29**|**The NPU-ASLP-LiAuto System Description for Visual Speech Recognition in CNVSRC 2023**|He Wang, Pengcheng Guo, Wei Chen, Pan Zhou, Lei Xie et.al.|[2401.06788v2](http://arxiv.org/abs/2401.06788v2)|**[link](https://github.com/mkt-dataoceanai/cnvsrc2023baseline)**|
 |**2024-01-12**|**Dynamic Behaviour of Connectionist Speech Recognition with Strong Latency Constraints**|Giampiero Salvi et.al.|[2401.06588v1](http://arxiv.org/abs/2401.06588v1)|null|
 |**2024-01-12**|**LCB-net: Long-Context Biasing for Audio-Visual Speech Recognition**|Fan Yu, Haoxu Wang, Xian Shi, Shiliang Zhang et.al.|[2401.06390v1](http://arxiv.org/abs/2401.06390v1)|null|
 |**2024-01-11**|**UCorrect: An Unsupervised Framework for Automatic Speech Recognition Error Correction**|Jiaxin Guo, Minghan Wang, Xiaosong Qiao, Daimeng Wei, Hengchao Shang, Zongyao Li, Zhengzhe Yu, Yinglu Li, Chang Su, Min Zhang, Shimin Tao, Hao Yang et.al.|[2401.05689v1](http://arxiv.org/abs/2401.05689v1)|null|
