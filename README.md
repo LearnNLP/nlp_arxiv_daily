@@ -217,6 +217,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**Evault for legal records**|Anas S, Anuragav S, Abhishek R, Sachin K et.al.|[2403.01186v1](http://arxiv.org/abs/2403.01186v1)|null|
+|**2024-02-25**|**Gender Biased Legal Case Retrieval System on Users' Decision Process**|Ruizhe Zhang, Qingyao Ai, Yiqun Liu, Yueyue Wu, Beining Wang et.al.|[2403.00814v1](http://arxiv.org/abs/2403.00814v1)|null|
+|**2024-03-01**|**EUROPA: A Legal Multilingual Keyphrase Generation Dataset**|Olivier Salaün, Frédéric Piedboeuf, Guillaume Le Berre, David Alfonso Hermelo, Philippe Langlais et.al.|[2403.00252v1](http://arxiv.org/abs/2403.00252v1)|null|
 |**2024-02-29**|**Improving Legal Judgement Prediction in Romanian with Long Text Encoders**|Mihai Masala, Traian Rebedea, Horia Velicu et.al.|[2402.19170v1](http://arxiv.org/abs/2402.19170v1)|null|
 |**2024-02-26**|**Leveraging Large Language Models for Learning Complex Legal Concepts through Storytelling**|Hang Jiang, Xiajie Zhang, Robert Mahari, Daniel Kessler, Eric Ma, Tal August, Irene Li, Alex 'Sandy' Pentland, Yoon Kim, Jad Kabbara, Deb Roy et.al.|[2402.17019v1](http://arxiv.org/abs/2402.17019v1)|**[link](https://github.com/hjian42/legalstories)**|
 |**2024-02-21**|**InSaAF: Incorporating Safety through Accuracy and Fairness | Are LLMs ready for the Indian Legal Domain?**|Yogesh Tripathi, Raghav Donakanti, Sahil Girhepuje, Ishan Kavathekar, Bhaskara Hanuma Vedula, Gokul S Krishnan, Shreya Goyal, Anmol Goel, Balaraman Ravindran, Ponnurangam Kumaraguru et.al.|[2402.10567v3](http://arxiv.org/abs/2402.10567v3)|null|
@@ -262,6 +265,7 @@
 |**2023-11-15**|**Explainable Text Classification Techniques in Legal Document Review: Locating Rationales without Using Human Annotated Training Text Snippets**|Christian Mahoney, Peter Gronvall, Nathaniel Huber-Fliflet, Jianping Zhang et.al.|[2311.09133v1](http://arxiv.org/abs/2311.09133v1)|null|
 |**2023-11-15**|**Large Language Models are legal but they are not: Making the case for a powerful LegalLLM**|Thanmay Jayakumar, Fauzan Farooqui, Luqman Farooqui et.al.|[2311.08890v1](http://arxiv.org/abs/2311.08890v1)|null|
 |**2023-11-14**|**Exploring Semi-supervised Hierarchical Stacked Encoder for Legal Judgement Prediction**|Nishchal Prasad, Mohand Boughanem, Taoufiq Dkaki et.al.|[2311.08103v1](http://arxiv.org/abs/2311.08103v1)|**[link](https://github.com/nishchalprasad/semi-supervised-stacked-encoder)**|
+|**2024-03-02**|**Translating Legalese: Enhancing Public Understanding of Court Opinions with Legal Summarizers**|Elliott Ash, Aniket Kesari, Suresh Naidu, Lena Song, Dominik Stammbach et.al.|[2311.06534v2](http://arxiv.org/abs/2311.06534v2)|null|
 |**2023-11-10**|**Citation Recommendation on Scholarly Legal Articles**|Doğukan Arslan, Saadet Sena Erdoğan, Gülşen Eryiğit et.al.|[2311.05902v1](http://arxiv.org/abs/2311.05902v1)|**[link](https://github.com/dgknrsln/legalcitationrecommendation)**|
 |**2023-11-09**|**Legal-HNet: Mixing Legal Long-Context Tokens with Hartley Transform**|Daniele Giofré, Sneha Ghantasala et.al.|[2311.05089v1](http://arxiv.org/abs/2311.05089v1)|null|
 |**2023-11-01**|**From Text to Structure: Using Large Language Models to Support the Development of Legal Expert Systems**|Samyar Janatian, Hannes Westermann, Jinzhe Tan, Jaromir Savelka, Karim Benyekhlef et.al.|[2311.04911v1](http://arxiv.org/abs/2311.04911v1)|**[link](https://github.com/samyarj/jcapg-jurix2023)**|
@@ -523,6 +527,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**Automatic Speech Recognition using Advanced Deep Learning Approaches: A survey**|Hamza Kheddar, Mustapha Hemis, Yassine Himeur et.al.|[2403.01255v1](http://arxiv.org/abs/2403.01255v1)|null|
+|**2024-03-01**|**Post-decoder Biasing for End-to-End Speech Recognition of Multi-turn Medical Interview**|Heyang Liu, Yu Wang, Yanfeng Wang et.al.|[2403.00370v1](http://arxiv.org/abs/2403.00370v1)|null|
 |**2024-02-29**|**Probing the Information Encoded in Neural-based Acoustic Models of Automatic Speech Recognition Systems**|Quentin Raymondaud, Mickael Rouvier, Richard Dufour et.al.|[2402.19443v1](http://arxiv.org/abs/2402.19443v1)|null|
 |**2024-02-29**|**Inappropriate Pause Detection In Dysarthric Speech Using Large-Scale Speech Recognition**|Jeehyun Lee, Yerin Choi, Tae-Jin Song, Myoung-Wan Koo et.al.|[2402.18923v1](http://arxiv.org/abs/2402.18923v1)|null|
 |**2024-02-29**|**Investigation of Adapter for Automatic Speech Recognition in Noisy Environment**|Hao Shi, Tatsuya Kawahara et.al.|[2402.18275v2](http://arxiv.org/abs/2402.18275v2)|null|
@@ -620,7 +626,7 @@
 |**2023-10-17**|**Advanced accent/dialect identification and accentedness assessment with multi-embedding models and automatic speech recognition**|Shahram Ghorbani, John H. L. Hansen et.al.|[2310.11004v1](http://arxiv.org/abs/2310.11004v1)|null|
 |**2023-10-17**|**Correction Focused Language Model Training for Speech Recognition**|Yingyi Ma, Zhe Liu, Ozlem Kalinli et.al.|[2310.11003v1](http://arxiv.org/abs/2310.11003v1)|null|
 |**2023-10-16**|**Personalization of CTC-based End-to-End Speech Recognition Using Pronunciation-Driven Subword Tokenization**|Zhihong Lei, Ernest Pusateri, Shiyi Han, Leo Liu, Mingbin Xu, Tim Ng, Ruchir Travadi, Youyuan Zhang, Mirko Hannemann, Man-Hung Siu, Zhen Huang et.al.|[2310.09988v1](http://arxiv.org/abs/2310.09988v1)|null|
-|**2023-10-27**|**Improved Contextual Recognition In Automatic Speech Recognition Systems By Semantic Lattice Rescoring**|Ankitha Sudarshan, Vinay Samuel, Parth Patwa, Ibtihel Amara, Aman Chadha et.al.|[2310.09680v3](http://arxiv.org/abs/2310.09680v3)|null|
+|**2024-03-04**|**Improved Contextual Recognition In Automatic Speech Recognition Systems By Semantic Lattice Rescoring**|Ankitha Sudarshan, Vinay Samuel, Parth Patwa, Ibtihel Amara, Aman Chadha et.al.|[2310.09680v4](http://arxiv.org/abs/2310.09680v4)|null|
 |**2023-10-13**|**SALM: Speech-augmented Language Model with In-context Learning for Speech Recognition and Translation**|Zhehuai Chen, He Huang, Andrei Andrusenko, Oleksii Hrinchuk, Krishna C. Puvvada, Jason Li, Subhankar Ghosh, Jagadeesh Balam, Boris Ginsburg et.al.|[2310.09424v1](http://arxiv.org/abs/2310.09424v1)|**[link](https://github.com/NVIDIA/NeMo)**|
 |**2023-10-12**|**On the Relevance of Phoneme Duration Variability of Synthesized Training Data for Automatic Speech Recognition**|Nick Rossenbach, Benedikt Hilmes, Ralf Schlüter et.al.|[2310.08132v1](http://arxiv.org/abs/2310.08132v1)|null|
 |**2023-10-10**|**Acoustic Model Fusion for End-to-end Speech Recognition**|Zhihong Lei, Mingbin Xu, Shiyi Han, Leo Liu, Zhen Huang, Tim Ng, Yuanyuan Zhang, Ernest Pusateri, Mirko Hannemann, Yaqiao Deng, Man-Hung Siu et.al.|[2310.07062v1](http://arxiv.org/abs/2310.07062v1)|null|
