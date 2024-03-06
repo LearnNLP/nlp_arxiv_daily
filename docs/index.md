@@ -221,10 +221,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-03**|**Logic Rules as Explanations for Legal Case Retrieval**|Zhongxiang Sun, Kepu Zhang, Weijie Yu, Haoyu Wang, Jun Xu et.al.|[2403.01457v1](http://arxiv.org/abs/2403.01457v1)|**[link](https://github.com/ke-01/ns-lcr)**|
 |**2024-03-02**|**Evault for legal records**|Anas S, Anuragav S, Abhishek R, Sachin K et.al.|[2403.01186v1](http://arxiv.org/abs/2403.01186v1)|null|
 |**2024-02-25**|**Gender Biased Legal Case Retrieval System on Users' Decision Process**|Ruizhe Zhang, Qingyao Ai, Yiqun Liu, Yueyue Wu, Beining Wang et.al.|[2403.00814v1](http://arxiv.org/abs/2403.00814v1)|null|
 |**2024-03-01**|**EUROPA: A Legal Multilingual Keyphrase Generation Dataset**|Olivier Salaün, Frédéric Piedboeuf, Guillaume Le Berre, David Alfonso Hermelo, Philippe Langlais et.al.|[2403.00252v1](http://arxiv.org/abs/2403.00252v1)|null|
-|**2024-02-29**|**Improving Legal Judgement Prediction in Romanian with Long Text Encoders**|Mihai Masala, Traian Rebedea, Horia Velicu et.al.|[2402.19170v1](http://arxiv.org/abs/2402.19170v1)|null|
+|**2024-03-04**|**Improving Legal Judgement Prediction in Romanian with Long Text Encoders**|Mihai Masala, Traian Rebedea, Horia Velicu et.al.|[2402.19170v2](http://arxiv.org/abs/2402.19170v2)|null|
 |**2024-02-26**|**Leveraging Large Language Models for Learning Complex Legal Concepts through Storytelling**|Hang Jiang, Xiajie Zhang, Robert Mahari, Daniel Kessler, Eric Ma, Tal August, Irene Li, Alex 'Sandy' Pentland, Yoon Kim, Jad Kabbara, Deb Roy et.al.|[2402.17019v1](http://arxiv.org/abs/2402.17019v1)|**[link](https://github.com/hjian42/legalstories)**|
 |**2024-02-21**|**InSaAF: Incorporating Safety through Accuracy and Fairness | Are LLMs ready for the Indian Legal Domain?**|Yogesh Tripathi, Raghav Donakanti, Sahil Girhepuje, Ishan Kavathekar, Bhaskara Hanuma Vedula, Gokul S Krishnan, Shreya Goyal, Anmol Goel, Balaraman Ravindran, Ponnurangam Kumaraguru et.al.|[2402.10567v3](http://arxiv.org/abs/2402.10567v3)|null|
 |**2024-02-12**|**Large Language Models "Ad Referendum": How Good Are They at Machine Translation in the Legal Domain?**|Vicent Briva-Iglesias, Joao Lucas Cavalheiro Camargo, Gokhan Dogru et.al.|[2402.07681v1](http://arxiv.org/abs/2402.07681v1)|null|
@@ -531,6 +532,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**AIx Speed: Playback Speed Optimization Using Listening Comprehension of Speech Recognition Models**|Kazuki Kawamura, Jun Rekimoto et.al.|[2403.02938v1](http://arxiv.org/abs/2403.02938v1)|null|
 |**2024-03-02**|**Automatic Speech Recognition using Advanced Deep Learning Approaches: A survey**|Hamza Kheddar, Mustapha Hemis, Yassine Himeur et.al.|[2403.01255v1](http://arxiv.org/abs/2403.01255v1)|null|
 |**2024-03-01**|**Post-decoder Biasing for End-to-End Speech Recognition of Multi-turn Medical Interview**|Heyang Liu, Yu Wang, Yanfeng Wang et.al.|[2403.00370v1](http://arxiv.org/abs/2403.00370v1)|null|
 |**2024-02-29**|**Probing the Information Encoded in Neural-based Acoustic Models of Automatic Speech Recognition Systems**|Quentin Raymondaud, Mickael Rouvier, Richard Dufour et.al.|[2402.19443v1](http://arxiv.org/abs/2402.19443v1)|null|
@@ -565,7 +567,7 @@ layout: default
 |**2024-01-13**|**Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization**|A F M Saif, Xiaodong Cui, Han Shen, Songtao Lu, Brian Kingsbury, Tianyi Chen et.al.|[2401.06980v1](http://arxiv.org/abs/2401.06980v1)|**[link](https://github.com/afmsaif/joint-unsupervised-and-supervised-training-for-automatic-speech-recognition-via-bilevel-optimization)**|
 |**2024-02-29**|**The NPU-ASLP-LiAuto System Description for Visual Speech Recognition in CNVSRC 2023**|He Wang, Pengcheng Guo, Wei Chen, Pan Zhou, Lei Xie et.al.|[2401.06788v2](http://arxiv.org/abs/2401.06788v2)|**[link](https://github.com/mkt-dataoceanai/cnvsrc2023baseline)**|
 |**2024-01-12**|**Dynamic Behaviour of Connectionist Speech Recognition with Strong Latency Constraints**|Giampiero Salvi et.al.|[2401.06588v1](http://arxiv.org/abs/2401.06588v1)|null|
-|**2024-01-12**|**LCB-net: Long-Context Biasing for Audio-Visual Speech Recognition**|Fan Yu, Haoxu Wang, Xian Shi, Shiliang Zhang et.al.|[2401.06390v1](http://arxiv.org/abs/2401.06390v1)|null|
+|**2024-01-12**|**LCB-net: Long-Context Biasing for Audio-Visual Speech Recognition**|Fan Yu, Haoxu Wang, Xian Shi, Shiliang Zhang et.al.|[2401.06390v1](http://arxiv.org/abs/2401.06390v1)|**[link](https://github.com/alibaba-damo-academy/FunASR)**|
 |**2024-01-11**|**UCorrect: An Unsupervised Framework for Automatic Speech Recognition Error Correction**|Jiaxin Guo, Minghan Wang, Xiaosong Qiao, Daimeng Wei, Hengchao Shang, Zongyao Li, Zhengzhe Yu, Yinglu Li, Chang Su, Min Zhang, Shimin Tao, Hao Yang et.al.|[2401.05689v1](http://arxiv.org/abs/2401.05689v1)|null|
 |**2024-01-10**|**Useful Blunders: Can Automated Speech Recognition Errors Improve Downstream Dementia Classification?**|Changye Li, Weizhe Xu, Trevor Cohen, Serguei Pakhomov et.al.|[2401.05551v1](http://arxiv.org/abs/2401.05551v1)|null|
 |**2024-01-09**|**Continuously Learning New Words in Automatic Speech Recognition**|Christian Huber, Alexander Waibel et.al.|[2401.04482v1](http://arxiv.org/abs/2401.04482v1)|null|
@@ -624,7 +626,7 @@ layout: default
 |**2023-10-17**|**Audio-AdapterFusion: A Task-ID-free Approach for Efficient and Non-Destructive Multi-task Speech Recognition**|Hillary Ngai, Rohan Agrawal, Neeraj Gaur, Ronny Huang, Parisa Haghani, Pedro Moreno Mengibar et.al.|[2310.13015v1](http://arxiv.org/abs/2310.13015v1)|null|
 |**2023-10-17**|**Generative error correction for code-switching speech recognition using large language models**|Chen Chen, Yuchen Hu, Chao-Han Huck Yang, Hexin Liu, Sabato Marco Siniscalchi, Eng Siong Chng et.al.|[2310.13013v1](http://arxiv.org/abs/2310.13013v1)|null|
 |**2023-10-17**|**Multi-stage Large Language Model Correction for Speech Recognition**|Jie Pu, Thai-Son Nguyen, Sebastian Stüker et.al.|[2310.11532v1](http://arxiv.org/abs/2310.11532v1)|null|
-|**2023-12-06**|**Zipformer: A faster and better encoder for automatic speech recognition**|Zengwei Yao, Liyong Guo, Xiaoyu Yang, Wei Kang, Fangjun Kuang, Yifan Yang, Zengrui Jin, Long Lin, Daniel Povey et.al.|[2310.11230v2](http://arxiv.org/abs/2310.11230v2)|**[link](https://github.com/k2-fsa/icefall)**|
+|**2024-03-05**|**Zipformer: A faster and better encoder for automatic speech recognition**|Zengwei Yao, Liyong Guo, Xiaoyu Yang, Wei Kang, Fangjun Kuang, Yifan Yang, Zengrui Jin, Long Lin, Daniel Povey et.al.|[2310.11230v3](http://arxiv.org/abs/2310.11230v3)|**[link](https://github.com/k2-fsa/icefall)**|
 |**2023-10-27**|**VoxArabica: A Robust Dialect-Aware Arabic Speech Recognition System**|Abdul Waheed, Bashar Talafha, Peter Sullivan, AbdelRahim Elmadany, Muhammad Abdul-Mageed et.al.|[2310.11069v4](http://arxiv.org/abs/2310.11069v4)|null|
 |**2023-10-17**|**Iterative Shallow Fusion of Backward Language Model for End-to-End Speech Recognition**|Atsunori Ogawa, Takafumi Moriya, Naoyuki Kamo, Naohiro Tawara, Marc Delcroix et.al.|[2310.11010v1](http://arxiv.org/abs/2310.11010v1)|null|
 |**2023-10-17**|**Advanced accent/dialect identification and accentedness assessment with multi-embedding models and automatic speech recognition**|Shahram Ghorbani, John H. L. Hansen et.al.|[2310.11004v1](http://arxiv.org/abs/2310.11004v1)|null|
