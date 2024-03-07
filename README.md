@@ -217,6 +217,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**VLSP 2023 -- LTER: A Summary of the Challenge on Legal Textual Entailment Recognition**|Vu Tran, Ha-Thanh Nguyen, Trung Vo, Son T. Luu, Hoang-Anh Dang, Ngoc-Cam Le, Thi-Thuy Le, Minh-Tien Nguyen, Truong-Son Nguyen, Le-Minh Nguyen et.al.|[2403.03435v1](http://arxiv.org/abs/2403.03435v1)|null|
 |**2024-03-03**|**Logic Rules as Explanations for Legal Case Retrieval**|Zhongxiang Sun, Kepu Zhang, Weijie Yu, Haoyu Wang, Jun Xu et.al.|[2403.01457v1](http://arxiv.org/abs/2403.01457v1)|**[link](https://github.com/ke-01/ns-lcr)**|
 |**2024-03-02**|**Evault for legal records**|Anas S, Anuragav S, Abhishek R, Sachin K et.al.|[2403.01186v1](http://arxiv.org/abs/2403.01186v1)|null|
 |**2024-02-25**|**Gender Biased Legal Case Retrieval System on Users' Decision Process**|Ruizhe Zhang, Qingyao Ai, Yiqun Liu, Yueyue Wu, Beining Wang et.al.|[2403.00814v1](http://arxiv.org/abs/2403.00814v1)|null|
