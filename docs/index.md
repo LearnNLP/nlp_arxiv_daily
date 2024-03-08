@@ -533,6 +533,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**A New Benchmark for Evaluating Automatic Speech Recognition in the Arabic Call Domain**|Qusai Abo Obaidah, Muhy Eddin Zater, Adnan Jaljuli, Ali Mahboub, Asma Hakouz, Bashar Alfrou, Yazan Estaitia et.al.|[2403.04280v1](http://arxiv.org/abs/2403.04280v1)|null|
+|**2024-03-07**|**A Study of Dropout-Induced Modality Bias on Robustness to Missing Video Frames for Audio-Visual Speech Recognition**|Yusheng Dai, Hang Chen, Jun Du, Ruoyu Wang, Shihao Chen, Jiefeng Ma, Haotian Wang, Chin-Hui Lee et.al.|[2403.04245v1](http://arxiv.org/abs/2403.04245v1)|**[link](https://github.com/dalision/modalbiasavsr)**|
 |**2024-03-05**|**AIx Speed: Playback Speed Optimization Using Listening Comprehension of Speech Recognition Models**|Kazuki Kawamura, Jun Rekimoto et.al.|[2403.02938v1](http://arxiv.org/abs/2403.02938v1)|null|
 |**2024-03-02**|**Automatic Speech Recognition using Advanced Deep Learning Approaches: A survey**|Hamza Kheddar, Mustapha Hemis, Yassine Himeur et.al.|[2403.01255v1](http://arxiv.org/abs/2403.01255v1)|null|
 |**2024-03-01**|**Post-decoder Biasing for End-to-End Speech Recognition of Multi-turn Medical Interview**|Heyang Liu, Yu Wang, Yanfeng Wang et.al.|[2403.00370v1](http://arxiv.org/abs/2403.00370v1)|null|
