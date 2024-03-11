@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**FFSTC: Fongbe to French Speech Translation Corpus**|D. Fortune Kponou, Frejus A. A. Laleye, Eugene C. Ezin et.al.|[2403.05488v1](http://arxiv.org/abs/2403.05488v1)|null|
 |**2024-02-29**|**Compact Speech Translation Models via Discrete Speech Units Pretraining**|Tsz Kin Lam, Alexandra Birch, Barry Haddow et.al.|[2402.19333v1](http://arxiv.org/abs/2402.19333v1)|null|
 |**2024-02-25**|**Direct Punjabi to English speech translation using discrete units**|Prabhjot Kaur, L. Andrew M. Bush, Weisong Shi et.al.|[2402.15967v1](http://arxiv.org/abs/2402.15967v1)|null|
 |**2024-02-19**|**Speech Translation with Speech Foundation Models and Large Language Models: What is There and What is Missing?**|Marco Gaido, Sara Papi, Matteo Negri, Luisa Bentivogli et.al.|[2402.12025v1](http://arxiv.org/abs/2402.12025v1)|null|
