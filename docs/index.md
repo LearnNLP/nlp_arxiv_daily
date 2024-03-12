@@ -222,6 +222,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents**|Nishchal Prasad, Mohand Boughanem, Taoufiq Dkaki et.al.|[2403.06872v1](http://arxiv.org/abs/2403.06872v1)|null|
 |**2024-03-06**|**VLSP 2023 -- LTER: A Summary of the Challenge on Legal Textual Entailment Recognition**|Vu Tran, Ha-Thanh Nguyen, Trung Vo, Son T. Luu, Hoang-Anh Dang, Ngoc-Cam Le, Thi-Thuy Le, Minh-Tien Nguyen, Truong-Son Nguyen, Le-Minh Nguyen et.al.|[2403.03435v1](http://arxiv.org/abs/2403.03435v1)|null|
 |**2024-03-03**|**Logic Rules as Explanations for Legal Case Retrieval**|Zhongxiang Sun, Kepu Zhang, Weijie Yu, Haoyu Wang, Jun Xu et.al.|[2403.01457v1](http://arxiv.org/abs/2403.01457v1)|**[link](https://github.com/ke-01/ns-lcr)**|
 |**2024-03-08**|**Evault for legal records**|Jeba N, Anas S, Anuragav S, Abhishek R, Sachin K et.al.|[2403.01186v2](http://arxiv.org/abs/2403.01186v2)|null|
@@ -534,6 +535,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-09**|**Aligning Speech to Languages to Enhance Code-switching Speech Recognition**|Hexin Liu, Xiangyu Zhang, Leibny Paola Garcia, Andy W. H. Khong, Eng Siong Chng, Shinji Watanabe et.al.|[2403.05887v1](http://arxiv.org/abs/2403.05887v1)|null|
 |**2024-03-07**|**A New Benchmark for Evaluating Automatic Speech Recognition in the Arabic Call Domain**|Qusai Abo Obaidah, Muhy Eddin Zater, Adnan Jaljuli, Ali Mahboub, Asma Hakouz, Bashar Alfrou, Yazan Estaitia et.al.|[2403.04280v1](http://arxiv.org/abs/2403.04280v1)|null|
 |**2024-03-07**|**A Study of Dropout-Induced Modality Bias on Robustness to Missing Video Frames for Audio-Visual Speech Recognition**|Yusheng Dai, Hang Chen, Jun Du, Ruoyu Wang, Shihao Chen, Jiefeng Ma, Haotian Wang, Chin-Hui Lee et.al.|[2403.04245v1](http://arxiv.org/abs/2403.04245v1)|**[link](https://github.com/dalision/modalbiasavsr)**|
 |**2024-03-05**|**AIx Speed: Playback Speed Optimization Using Listening Comprehension of Speech Recognition Models**|Kazuki Kawamura, Jun Rekimoto et.al.|[2403.02938v1](http://arxiv.org/abs/2403.02938v1)|null|
