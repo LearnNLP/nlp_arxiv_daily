@@ -535,6 +535,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Beyond the Labels: Unveiling Text-Dependency in Paralinguistic Speech Recognition Datasets**|Jan Pešán, Santosh Kesiraju, Lukáš Burget, Jan ''Honza'' Černocký et.al.|[2403.07767v1](http://arxiv.org/abs/2403.07767v1)|null|
 |**2024-03-09**|**Aligning Speech to Languages to Enhance Code-switching Speech Recognition**|Hexin Liu, Xiangyu Zhang, Leibny Paola Garcia, Andy W. H. Khong, Eng Siong Chng, Shinji Watanabe et.al.|[2403.05887v1](http://arxiv.org/abs/2403.05887v1)|null|
 |**2024-03-07**|**A New Benchmark for Evaluating Automatic Speech Recognition in the Arabic Call Domain**|Qusai Abo Obaidah, Muhy Eddin Zater, Adnan Jaljuli, Ali Mahboub, Asma Hakouz, Bashar Alfrou, Yazan Estaitia et.al.|[2403.04280v1](http://arxiv.org/abs/2403.04280v1)|null|
 |**2024-03-07**|**A Study of Dropout-Induced Modality Bias on Robustness to Missing Video Frames for Audio-Visual Speech Recognition**|Yusheng Dai, Hang Chen, Jun Du, Ruoyu Wang, Shihao Chen, Jiefeng Ma, Haotian Wang, Chin-Hui Lee et.al.|[2403.04245v1](http://arxiv.org/abs/2403.04245v1)|**[link](https://github.com/dalision/modalbiasavsr)**|
