@@ -222,6 +222,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Legally Binding but Unfair? Towards Assessing Fairness of Privacy Policies**|Vincent Freiberger, Erik Buchmann et.al.|[2403.08115v1](http://arxiv.org/abs/2403.08115v1)|null|
 |**2024-03-11**|**Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents**|Nishchal Prasad, Mohand Boughanem, Taoufiq Dkaki et.al.|[2403.06872v1](http://arxiv.org/abs/2403.06872v1)|null|
 |**2024-03-06**|**VLSP 2023 -- LTER: A Summary of the Challenge on Legal Textual Entailment Recognition**|Vu Tran, Ha-Thanh Nguyen, Trung Vo, Son T. Luu, Hoang-Anh Dang, Ngoc-Cam Le, Thi-Thuy Le, Minh-Tien Nguyen, Truong-Son Nguyen, Le-Minh Nguyen et.al.|[2403.03435v1](http://arxiv.org/abs/2403.03435v1)|null|
 |**2024-03-03**|**Logic Rules as Explanations for Legal Case Retrieval**|Zhongxiang Sun, Kepu Zhang, Weijie Yu, Haoyu Wang, Jun Xu et.al.|[2403.01457v1](http://arxiv.org/abs/2403.01457v1)|**[link](https://github.com/ke-01/ns-lcr)**|
@@ -535,6 +536,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Skipformer: A Skip-and-Recover Strategy for Efficient Speech Recognition**|Wenjing Zhu, Sining Sun, Changhao Shan, Peng Fan, Qing Yang et.al.|[2403.08258v1](http://arxiv.org/abs/2403.08258v1)|null|
+|**2024-03-13**|**SpeechColab Leaderboard: An Open-Source Platform for Automatic Speech Recognition Evaluation**|Jiayu Du, Jinpeng Li, Guoguo Chen, Wei-Qiang Zhang et.al.|[2403.08196v1](http://arxiv.org/abs/2403.08196v1)|**[link](https://github.com/speechcolab/leaderboard)**|
+|**2024-03-13**|**Automatic Speech Recognition (ASR) for the Diagnosis of pronunciation of Speech Sound Disorders in Korean children**|Taekyung Ahn, Yeonjung Hong, Younggon Im, Do Hyung Kim, Dayoung Kang, Joo Won Jeong, Jae Won Kim, Min Jung Kim, Ah-ra Cho, Dae-Hyun Jang, Hosung Nam et.al.|[2403.08187v1](http://arxiv.org/abs/2403.08187v1)|null|
+|**2024-03-12**|**Gujarati-English Code-Switching Speech Recognition using ensemble prediction of spoken language**|Yash Sharma, Basil Abraham, Preethi Jyothi et.al.|[2403.08011v1](http://arxiv.org/abs/2403.08011v1)|null|
+|**2024-03-11**|**The evaluation of a code-switched Sepedi-English automatic speech recognition system**|Amanda Phaladi, Thipe Modipa et.al.|[2403.07947v1](http://arxiv.org/abs/2403.07947v1)|null|
+|**2024-03-08**|**Speech Robust Bench: A Robustness Benchmark For Speech Recognition**|Muhammad A. Shah, David Solans Noguero, Mikko A. Heikkila, Nicolas Kourtellis et.al.|[2403.07937v1](http://arxiv.org/abs/2403.07937v1)|null|
 |**2024-03-12**|**Beyond the Labels: Unveiling Text-Dependency in Paralinguistic Speech Recognition Datasets**|Jan Pešán, Santosh Kesiraju, Lukáš Burget, Jan ''Honza'' Černocký et.al.|[2403.07767v1](http://arxiv.org/abs/2403.07767v1)|null|
 |**2024-03-09**|**Aligning Speech to Languages to Enhance Code-switching Speech Recognition**|Hexin Liu, Xiangyu Zhang, Leibny Paola Garcia, Andy W. H. Khong, Eng Siong Chng, Shinji Watanabe et.al.|[2403.05887v1](http://arxiv.org/abs/2403.05887v1)|null|
 |**2024-03-07**|**A New Benchmark for Evaluating Automatic Speech Recognition in the Arabic Call Domain**|Qusai Abo Obaidah, Muhy Eddin Zater, Adnan Jaljuli, Ali Mahboub, Asma Hakouz, Bashar Alfrou, Yazan Estaitia et.al.|[2403.04280v1](http://arxiv.org/abs/2403.04280v1)|null|
