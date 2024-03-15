@@ -218,6 +218,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**Caveat Lector: Large Language Models in Legal Practice**|Eliza Mik et.al.|[2403.09163v1](http://arxiv.org/abs/2403.09163v1)|null|
 |**2024-03-12**|**Legally Binding but Unfair? Towards Assessing Fairness of Privacy Policies**|Vincent Freiberger, Erik Buchmann et.al.|[2403.08115v1](http://arxiv.org/abs/2403.08115v1)|null|
 |**2024-03-11**|**Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents**|Nishchal Prasad, Mohand Boughanem, Taoufiq Dkaki et.al.|[2403.06872v1](http://arxiv.org/abs/2403.06872v1)|null|
 |**2024-03-06**|**VLSP 2023 -- LTER: A Summary of the Challenge on Legal Textual Entailment Recognition**|Vu Tran, Ha-Thanh Nguyen, Trung Vo, Son T. Luu, Hoang-Anh Dang, Ngoc-Cam Le, Thi-Thuy Le, Minh-Tien Nguyen, Truong-Son Nguyen, Le-Minh Nguyen et.al.|[2403.03435v1](http://arxiv.org/abs/2403.03435v1)|null|
@@ -532,6 +533,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**More than words: Advancements and challenges in speech recognition for singing**|Anna Kruspe et.al.|[2403.09298v1](http://arxiv.org/abs/2403.09298v1)|null|
 |**2024-03-13**|**Skipformer: A Skip-and-Recover Strategy for Efficient Speech Recognition**|Wenjing Zhu, Sining Sun, Changhao Shan, Peng Fan, Qing Yang et.al.|[2403.08258v1](http://arxiv.org/abs/2403.08258v1)|null|
 |**2024-03-13**|**SpeechColab Leaderboard: An Open-Source Platform for Automatic Speech Recognition Evaluation**|Jiayu Du, Jinpeng Li, Guoguo Chen, Wei-Qiang Zhang et.al.|[2403.08196v1](http://arxiv.org/abs/2403.08196v1)|**[link](https://github.com/speechcolab/leaderboard)**|
 |**2024-03-13**|**Automatic Speech Recognition (ASR) for the Diagnosis of pronunciation of Speech Sound Disorders in Korean children**|Taekyung Ahn, Yeonjung Hong, Younggon Im, Do Hyung Kim, Dayoung Kang, Joo Won Jeong, Jae Won Kim, Min Jung Kim, Ah-ra Cho, Dae-Hyun Jang, Hosung Nam et.al.|[2403.08187v1](http://arxiv.org/abs/2403.08187v1)|null|
