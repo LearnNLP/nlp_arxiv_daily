@@ -224,7 +224,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-14**|**Caveat Lector: Large Language Models in Legal Practice**|Eliza Mik et.al.|[2403.09163v1](http://arxiv.org/abs/2403.09163v1)|null|
 |**2024-03-12**|**Legally Binding but Unfair? Towards Assessing Fairness of Privacy Policies**|Vincent Freiberger, Erik Buchmann et.al.|[2403.08115v1](http://arxiv.org/abs/2403.08115v1)|null|
-|**2024-03-11**|**Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents**|Nishchal Prasad, Mohand Boughanem, Taoufiq Dkaki et.al.|[2403.06872v1](http://arxiv.org/abs/2403.06872v1)|null|
+|**2024-03-11**|**Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents**|Nishchal Prasad, Mohand Boughanem, Taoufiq Dkaki et.al.|[2403.06872v1](http://arxiv.org/abs/2403.06872v1)|**[link](https://github.com/nishchalprasad/mesc)**|
 |**2024-03-06**|**VLSP 2023 -- LTER: A Summary of the Challenge on Legal Textual Entailment Recognition**|Vu Tran, Ha-Thanh Nguyen, Trung Vo, Son T. Luu, Hoang-Anh Dang, Ngoc-Cam Le, Thi-Thuy Le, Minh-Tien Nguyen, Truong-Son Nguyen, Le-Minh Nguyen et.al.|[2403.03435v1](http://arxiv.org/abs/2403.03435v1)|null|
 |**2024-03-03**|**Logic Rules as Explanations for Legal Case Retrieval**|Zhongxiang Sun, Kepu Zhang, Weijie Yu, Haoyu Wang, Jun Xu et.al.|[2403.01457v1](http://arxiv.org/abs/2403.01457v1)|**[link](https://github.com/ke-01/ns-lcr)**|
 |**2024-03-08**|**Evault for legal records**|Jeba N, Anas S, Anuragav S, Abhishek R, Sachin K et.al.|[2403.01186v2](http://arxiv.org/abs/2403.01186v2)|null|
