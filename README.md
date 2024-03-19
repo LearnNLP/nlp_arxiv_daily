@@ -218,6 +218,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-17**|**Evaluation Ethics of LLMs in Legal Domain**|Ruizhe Zhang, Haitao Li, Yueyue Wu, Qingyao Ai, Yiqun Liu, Min Zhang, Shaoping Ma et.al.|[2403.11152v1](http://arxiv.org/abs/2403.11152v1)|null|
+|**2024-03-16**|**Human Centered AI for Indian Legal Text Analytics**|Sudipto Ghosh, Devanshu Verma, Balaji Ganesan, Purnima Bindal, Vikas Kumar, Vasudha Bhatnagar et.al.|[2403.10944v1](http://arxiv.org/abs/2403.10944v1)|null|
 |**2024-03-14**|**Caveat Lector: Large Language Models in Legal Practice**|Eliza Mik et.al.|[2403.09163v1](http://arxiv.org/abs/2403.09163v1)|null|
 |**2024-03-12**|**Legally Binding but Unfair? Towards Assessing Fairness of Privacy Policies**|Vincent Freiberger, Erik Buchmann et.al.|[2403.08115v1](http://arxiv.org/abs/2403.08115v1)|null|
 |**2024-03-11**|**Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents**|Nishchal Prasad, Mohand Boughanem, Taoufiq Dkaki et.al.|[2403.06872v1](http://arxiv.org/abs/2403.06872v1)|**[link](https://github.com/nishchalprasad/mesc)**|
@@ -533,6 +535,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**AdaMER-CTC: Connectionist Temporal Classification with Adaptive Maximum Entropy Regularization for Automatic Speech Recognition**|SooHwan Eom, Eunseop Yoon, Hee Suk Yoon, Chanwoo Kim, Mark Hasegawa-Johnson, Chang D. Yoo et.al.|[2403.11578v1](http://arxiv.org/abs/2403.11578v1)|null|
 |**2024-03-14**|**More than words: Advancements and challenges in speech recognition for singing**|Anna Kruspe et.al.|[2403.09298v1](http://arxiv.org/abs/2403.09298v1)|null|
 |**2024-03-13**|**Skipformer: A Skip-and-Recover Strategy for Efficient Speech Recognition**|Wenjing Zhu, Sining Sun, Changhao Shan, Peng Fan, Qing Yang et.al.|[2403.08258v1](http://arxiv.org/abs/2403.08258v1)|null|
 |**2024-03-13**|**SpeechColab Leaderboard: An Open-Source Platform for Automatic Speech Recognition Evaluation**|Jiayu Du, Jinpeng Li, Guoguo Chen, Wei-Qiang Zhang et.al.|[2403.08196v1](http://arxiv.org/abs/2403.08196v1)|**[link](https://github.com/speechcolab/leaderboard)**|
