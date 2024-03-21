@@ -223,6 +223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**PARAMANU-AYN: An Efficient Novel Generative and Instruction-tuned Language Model for Indian Legal Case Documents**|Mitodru Niyogi, Arnab Bhattacharya et.al.|[2403.13681v1](http://arxiv.org/abs/2403.13681v1)|null|
+|**2024-03-20**|**Improving Legal Case Retrieval with Brain Signals**|Ruizhe Zhang, Qingyao Ai, Ziyi Ye, Yueyue Wu, Xiaohui Xie, Yiqun Liu et.al.|[2403.13242v1](http://arxiv.org/abs/2403.13242v1)|null|
+|**2024-03-19**|**Towards Unsupervised Question Answering System with Multi-level Summarization for Legal Text**|M Manvith Prabhu, Haricharana Srinivasa, Anand Kumar M et.al.|[2403.13107v1](http://arxiv.org/abs/2403.13107v1)|null|
 |**2024-03-17**|**Evaluation Ethics of LLMs in Legal Domain**|Ruizhe Zhang, Haitao Li, Yueyue Wu, Qingyao Ai, Yiqun Liu, Min Zhang, Shaoping Ma et.al.|[2403.11152v1](http://arxiv.org/abs/2403.11152v1)|null|
 |**2024-03-16**|**Human Centered AI for Indian Legal Text Analytics**|Sudipto Ghosh, Devanshu Verma, Balaji Ganesan, Purnima Bindal, Vikas Kumar, Vasudha Bhatnagar et.al.|[2403.10944v1](http://arxiv.org/abs/2403.10944v1)|null|
 |**2024-03-14**|**Caveat Lector: Large Language Models in Legal Practice**|Eliza Mik et.al.|[2403.09163v1](http://arxiv.org/abs/2403.09163v1)|null|
@@ -540,6 +543,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Advanced Long-Content Speech Recognition With Factorized Neural Transducer**|Xun Gong, Yu Wu, Jinyu Li, Shujie Liu, Rui Zhao, Xie Chen, Yanmin Qian et.al.|[2403.13423v1](http://arxiv.org/abs/2403.13423v1)|null|
 |**2024-03-18**|**AdaMER-CTC: Connectionist Temporal Classification with Adaptive Maximum Entropy Regularization for Automatic Speech Recognition**|SooHwan Eom, Eunseop Yoon, Hee Suk Yoon, Chanwoo Kim, Mark Hasegawa-Johnson, Chang D. Yoo et.al.|[2403.11578v1](http://arxiv.org/abs/2403.11578v1)|null|
 |**2024-03-14**|**More than words: Advancements and challenges in speech recognition for singing**|Anna Kruspe et.al.|[2403.09298v1](http://arxiv.org/abs/2403.09298v1)|null|
 |**2024-03-13**|**Skipformer: A Skip-and-Recover Strategy for Efficient Speech Recognition**|Wenjing Zhu, Sining Sun, Changhao Shan, Peng Fan, Qing Yang et.al.|[2403.08258v1](http://arxiv.org/abs/2403.08258v1)|null|
