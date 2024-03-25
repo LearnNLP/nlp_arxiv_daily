@@ -219,6 +219,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**"The Law Doesn't Work Like a Computer": Exploring Software Licensing Issues Faced by Legal Practitioners**|Nathan Wintersgill, Trevor Stalnaker, Laura A. Heymann, Oscar Chaparro, Denys Poshyvanyk et.al.|[2403.14927v1](http://arxiv.org/abs/2403.14927v1)|null|
 |**2024-03-20**|**PARAMANU-AYN: An Efficient Novel Generative and Instruction-tuned Language Model for Indian Legal Case Documents**|Mitodru Niyogi, Arnab Bhattacharya et.al.|[2403.13681v1](http://arxiv.org/abs/2403.13681v1)|null|
 |**2024-03-20**|**Improving Legal Case Retrieval with Brain Signals**|Ruizhe Zhang, Qingyao Ai, Ziyi Ye, Yueyue Wu, Xiaohui Xie, Yiqun Liu et.al.|[2403.13242v1](http://arxiv.org/abs/2403.13242v1)|null|
 |**2024-03-19**|**Towards Unsupervised Question Answering System with Multi-level Summarization for Legal Text**|M Manvith Prabhu, Haricharana Srinivasa, Anand Kumar M et.al.|[2403.13107v1](http://arxiv.org/abs/2403.13107v1)|null|
