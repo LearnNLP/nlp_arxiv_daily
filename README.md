@@ -219,6 +219,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Beyond Borders: Investigating Cross-Jurisdiction Transfer in Legal Case Summarization**|T. Y. S. S Santosh, Vatsal Venkatkrishna, Saptarshi Ghosh, Matthias Grabmair et.al.|[2403.19317v1](http://arxiv.org/abs/2403.19317v1)|null|
+|**2024-03-27**|**High Recall, Small Data: The Challenges of Within-System Evaluation in a Live Legal Search System**|Gineke Wiggers, Suzan Verberne, Arjen de Vries, Roel van der Burg et.al.|[2403.18962v1](http://arxiv.org/abs/2403.18962v1)|null|
 |**2024-03-27**|**A Path Towards Legal Autonomy: An interoperable and explainable approach to extracting, transforming, loading and computing legal information using large language models, expert systems and Bayesian networks**|Axel Constant, Hannes Westermann, Bryan Wilson, Alex Kiefer, Ines Hipolito, Sylvain Pronovost, Steven Swanson, Mahault Albarracin, Maxwell J. D. Ramstead et.al.|[2403.18537v1](http://arxiv.org/abs/2403.18537v1)|null|
 |**2024-03-27**|**DELTA: Pre-train a Discriminative Encoder for Legal Case Retrieval via Structural Word Alignment**|Haitao Li, Qingyao Ai, Xinyan Han, Jia Chen, Qian Dong, Yiqun Liu, Chong Chen, Qi Tian et.al.|[2403.18435v1](http://arxiv.org/abs/2403.18435v1)|null|
 |**2024-03-27**|**Leveraging Large Language Models for Relevance Judgments in Legal Case Retrieval**|Shengjie Ma, Chong Chen, Qi Chu, Jiaxin Mao et.al.|[2403.18405v1](http://arxiv.org/abs/2403.18405v1)|null|
@@ -548,7 +550,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-26**|**DANCER: Entity Description Augmented Named Entity Corrector for Automatic Speech Recognition**|Yi-Cheng Wang, Hsin-Wei Wang, Bi-Cheng Yan, Chi-Han Lin, Berlin Chen et.al.|[2403.17645v1](http://arxiv.org/abs/2403.17645v1)|null|
+|**2024-03-04**|**JEP-KD: Joint-Embedding Predictive Architecture Based Knowledge Distillation for Visual Speech Recognition**|Chang Sun, Hong Yang, Bo Qin et.al.|[2403.18843v1](http://arxiv.org/abs/2403.18843v1)|null|
+|**2024-03-28**|**DANCER: Entity Description Augmented Named Entity Corrector for Automatic Speech Recognition**|Yi-Cheng Wang, Hsin-Wei Wang, Bi-Cheng Yan, Chi-Han Lin, Berlin Chen et.al.|[2403.17645v2](http://arxiv.org/abs/2403.17645v2)|null|
 |**2024-03-20**|**Advanced Long-Content Speech Recognition With Factorized Neural Transducer**|Xun Gong, Yu Wu, Jinyu Li, Shujie Liu, Rui Zhao, Xie Chen, Yanmin Qian et.al.|[2403.13423v1](http://arxiv.org/abs/2403.13423v1)|null|
 |**2024-03-18**|**AdaMER-CTC: Connectionist Temporal Classification with Adaptive Maximum Entropy Regularization for Automatic Speech Recognition**|SooHwan Eom, Eunseop Yoon, Hee Suk Yoon, Chanwoo Kim, Mark Hasegawa-Johnson, Chang D. Yoo et.al.|[2403.11578v1](http://arxiv.org/abs/2403.11578v1)|null|
 |**2024-03-14**|**More than words: Advancements and challenges in speech recognition for singing**|Anna Kruspe et.al.|[2403.09298v1](http://arxiv.org/abs/2403.09298v1)|null|
