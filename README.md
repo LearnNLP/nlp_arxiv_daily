@@ -550,6 +550,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Multi-Stage Multi-Modal Pre-Training for Automatic Speech Recognition**|Yash Jain, David Chan, Pranav Dheram, Aparna Khare, Olabanji Shonibare, Venkatesh Ravichandran, Shalini Ghosh et.al.|[2403.19822v1](http://arxiv.org/abs/2403.19822v1)|null|
 |**2024-03-04**|**JEP-KD: Joint-Embedding Predictive Architecture Based Knowledge Distillation for Visual Speech Recognition**|Chang Sun, Hong Yang, Bo Qin et.al.|[2403.18843v1](http://arxiv.org/abs/2403.18843v1)|null|
 |**2024-03-28**|**DANCER: Entity Description Augmented Named Entity Corrector for Automatic Speech Recognition**|Yi-Cheng Wang, Hsin-Wei Wang, Bi-Cheng Yan, Chi-Han Lin, Berlin Chen et.al.|[2403.17645v2](http://arxiv.org/abs/2403.17645v2)|null|
 |**2024-03-20**|**Advanced Long-Content Speech Recognition With Factorized Neural Transducer**|Xun Gong, Yu Wu, Jinyu Li, Shujie Liu, Rui Zhao, Xie Chen, Yanmin Qian et.al.|[2403.13423v1](http://arxiv.org/abs/2403.13423v1)|null|
