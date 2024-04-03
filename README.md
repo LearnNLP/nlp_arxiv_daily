@@ -219,6 +219,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures for Legal Reasoning**|Joel Niklaus, Lucia Zheng, Arya D. McCarthy, Christopher Hahn, Brian M. Rosen, Peter Henderson, Daniel E. Ho, Garrett Honke, Percy Liang, Christopher Manning et.al.|[2404.02127v1](http://arxiv.org/abs/2404.02127v1)|**[link](https://github.com/joelniklaus/lawinstruct)**|
+|**2024-03-31**|**Mind Your Neighbours: Leveraging Analogous Instances for Rhetorical Role Labeling for Legal Documents**|T. Y. S. S Santosh, Hassan Sarwat, Ahmed Abdou, Matthias Grabmair et.al.|[2404.01344v1](http://arxiv.org/abs/2404.01344v1)|null|
+|**2024-04-01**|**Exploring the Nexus of Large Language Models and Legal Systems: A Short Survey**|Weicong Qin, Zhongxiang Sun et.al.|[2404.00990v1](http://arxiv.org/abs/2404.00990v1)|null|
+|**2024-04-01**|**Towards an In-Depth Comprehension of Case Relevance for Better Legal Retrieval**|Haitao Li, You Chen, Zhekai Ge, Qingyao Ai, Yiqun Liu, Quan Zhou, Shuai Huo et.al.|[2404.00947v1](http://arxiv.org/abs/2404.00947v1)|null|
+|**2024-03-31**|**Query-driven Relevant Paragraph Extraction from Legal Judgments**|T. Y. S. S Santosh, Elvin Quero Hernandez, Matthias Grabmair et.al.|[2404.00595v1](http://arxiv.org/abs/2404.00595v1)|null|
+|**2024-03-31**|**LexAbSumm: Aspect-based Summarization of Legal Decisions**|T. Y. S. S Santosh, Mahmoud Aly, Matthias Grabmair et.al.|[2404.00594v1](http://arxiv.org/abs/2404.00594v1)|null|
+|**2024-03-30**|**Automatic explanation of the classification of Spanish legal judgments in jurisdiction-dependent law categories with tree estimators**|Jaime González-González, Francisco de Arriba-Pérez, Silvia García-Méndez, Andrea Busto-Castiñeira, Francisco J. González-Castaño et.al.|[2404.00437v1](http://arxiv.org/abs/2404.00437v1)|null|
 |**2024-03-28**|**Beyond Borders: Investigating Cross-Jurisdiction Transfer in Legal Case Summarization**|T. Y. S. S Santosh, Vatsal Venkatkrishna, Saptarshi Ghosh, Matthias Grabmair et.al.|[2403.19317v1](http://arxiv.org/abs/2403.19317v1)|null|
 |**2024-03-27**|**High Recall, Small Data: The Challenges of Within-System Evaluation in a Live Legal Search System**|Gineke Wiggers, Suzan Verberne, Arjen de Vries, Roel van der Burg et.al.|[2403.18962v1](http://arxiv.org/abs/2403.18962v1)|null|
 |**2024-03-27**|**A Path Towards Legal Autonomy: An interoperable and explainable approach to extracting, transforming, loading and computing legal information using large language models, expert systems and Bayesian networks**|Axel Constant, Hannes Westermann, Bryan Wilson, Alex Kiefer, Ines Hipolito, Sylvain Pronovost, Steven Swanson, Mahault Albarracin, Maxwell J. D. Ramstead et.al.|[2403.18537v1](http://arxiv.org/abs/2403.18537v1)|null|
@@ -550,6 +557,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**BRAVEn: Improving Self-Supervised Pre-training for Visual and Auditory Speech Recognition**|Alexandros Haliassos, Andreas Zinonos, Rodrigo Mira, Stavros Petridis, Maja Pantic et.al.|[2404.02098v1](http://arxiv.org/abs/2404.02098v1)|**[link](https://github.com/ahaliassos/raven)**|
 |**2024-03-28**|**Multi-Stage Multi-Modal Pre-Training for Automatic Speech Recognition**|Yash Jain, David Chan, Pranav Dheram, Aparna Khare, Olabanji Shonibare, Venkatesh Ravichandran, Shalini Ghosh et.al.|[2403.19822v1](http://arxiv.org/abs/2403.19822v1)|null|
 |**2024-03-04**|**JEP-KD: Joint-Embedding Predictive Architecture Based Knowledge Distillation for Visual Speech Recognition**|Chang Sun, Hong Yang, Bo Qin et.al.|[2403.18843v1](http://arxiv.org/abs/2403.18843v1)|null|
 |**2024-03-28**|**DANCER: Entity Description Augmented Named Entity Corrector for Automatic Speech Recognition**|Yi-Cheng Wang, Hsin-Wei Wang, Bi-Cheng Yan, Chi-Han Lin, Berlin Chen et.al.|[2403.17645v2](http://arxiv.org/abs/2403.17645v2)|null|
