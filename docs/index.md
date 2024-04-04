@@ -223,6 +223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Automated Transparency: A Legal and Empirical Analysis of the Digital Services Act Transparency Database**|Rishabh Kaushal, Jacob van de Kerkhof, Catalina Goanta, Gerasimos Spanakis, Adriana Iamnitchi et.al.|[2404.02894v1](http://arxiv.org/abs/2404.02894v1)|null|
 |**2024-04-02**|**FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures for Legal Reasoning**|Joel Niklaus, Lucia Zheng, Arya D. McCarthy, Christopher Hahn, Brian M. Rosen, Peter Henderson, Daniel E. Ho, Garrett Honke, Percy Liang, Christopher Manning et.al.|[2404.02127v1](http://arxiv.org/abs/2404.02127v1)|**[link](https://github.com/joelniklaus/lawinstruct)**|
 |**2024-03-31**|**Mind Your Neighbours: Leveraging Analogous Instances for Rhetorical Role Labeling for Legal Documents**|T. Y. S. S Santosh, Hassan Sarwat, Ahmed Abdou, Matthias Grabmair et.al.|[2404.01344v1](http://arxiv.org/abs/2404.01344v1)|null|
 |**2024-04-01**|**Exploring the Nexus of Large Language Models and Legal Systems: A Short Survey**|Weicong Qin, Zhongxiang Sun et.al.|[2404.00990v1](http://arxiv.org/abs/2404.00990v1)|null|
