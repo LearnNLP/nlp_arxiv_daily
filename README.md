@@ -219,6 +219,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**NLP at UC Santa Cruz at SemEval-2024 Task 5: Legal Answer Validation using Few-Shot Multi-Choice QA**|Anish Pahilajani, Samyak Rajesh Jain, Devasha Trivedi et.al.|[2404.03150v1](http://arxiv.org/abs/2404.03150v1)|**[link](https://github.com/devashat/ucsc-nlp-semeval-2024-task-5)**|
 |**2024-04-03**|**Automated Transparency: A Legal and Empirical Analysis of the Digital Services Act Transparency Database**|Rishabh Kaushal, Jacob van de Kerkhof, Catalina Goanta, Gerasimos Spanakis, Adriana Iamnitchi et.al.|[2404.02894v1](http://arxiv.org/abs/2404.02894v1)|null|
 |**2024-04-02**|**FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures for Legal Reasoning**|Joel Niklaus, Lucia Zheng, Arya D. McCarthy, Christopher Hahn, Brian M. Rosen, Peter Henderson, Daniel E. Ho, Garrett Honke, Percy Liang, Christopher Manning et.al.|[2404.02127v1](http://arxiv.org/abs/2404.02127v1)|**[link](https://github.com/joelniklaus/lawinstruct)**|
 |**2024-03-31**|**Mind Your Neighbours: Leveraging Analogous Instances for Rhetorical Role Labeling for Legal Documents**|T. Y. S. S Santosh, Hassan Sarwat, Ahmed Abdou, Matthias Grabmair et.al.|[2404.01344v1](http://arxiv.org/abs/2404.01344v1)|null|
@@ -558,6 +559,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Mai Ho'omāuna i ka 'Ai: Language Models Improve Automatic Speech Recognition in Hawaiian**|Kaavya Chaparala, Guido Zarrella, Bruce Torres Fischer, Larry Kimura, Oiwi Parker Jones et.al.|[2404.03073v1](http://arxiv.org/abs/2404.03073v1)|null|
 |**2024-04-02**|**BRAVEn: Improving Self-Supervised Pre-training for Visual and Auditory Speech Recognition**|Alexandros Haliassos, Andreas Zinonos, Rodrigo Mira, Stavros Petridis, Maja Pantic et.al.|[2404.02098v1](http://arxiv.org/abs/2404.02098v1)|**[link](https://github.com/ahaliassos/raven)**|
 |**2024-03-28**|**Multi-Stage Multi-Modal Pre-Training for Automatic Speech Recognition**|Yash Jain, David Chan, Pranav Dheram, Aparna Khare, Olabanji Shonibare, Venkatesh Ravichandran, Shalini Ghosh et.al.|[2403.19822v1](http://arxiv.org/abs/2403.19822v1)|null|
 |**2024-03-04**|**JEP-KD: Joint-Embedding Predictive Architecture Based Knowledge Distillation for Visual Speech Recognition**|Chang Sun, Hong Yang, Bo Qin et.al.|[2403.18843v1](http://arxiv.org/abs/2403.18843v1)|null|
