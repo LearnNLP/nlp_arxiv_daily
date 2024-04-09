@@ -223,6 +223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering**|Nirmalie Wiratunga, Ramitha Abeyratne, Lasal Jayawardena, Kyle Martin, Stewart Massie, Ikechukwu Nkisi-Orji, Ruvan Weerasinghe, Anne Liret, Bruno Fleisch et.al.|[2404.04302v1](http://arxiv.org/abs/2404.04302v1)|**[link](https://github.com/rgu-iit-bt/cbr-for-legal-rag)**|
 |**2024-04-04**|**NLP at UC Santa Cruz at SemEval-2024 Task 5: Legal Answer Validation using Few-Shot Multi-Choice QA**|Anish Pahilajani, Samyak Rajesh Jain, Devasha Trivedi et.al.|[2404.03150v1](http://arxiv.org/abs/2404.03150v1)|**[link](https://github.com/devashat/ucsc-nlp-semeval-2024-task-5)**|
 |**2024-04-03**|**Automated Transparency: A Legal and Empirical Analysis of the Digital Services Act Transparency Database**|Rishabh Kaushal, Jacob van de Kerkhof, Catalina Goanta, Gerasimos Spanakis, Adriana Iamnitchi et.al.|[2404.02894v1](http://arxiv.org/abs/2404.02894v1)|null|
 |**2024-04-02**|**FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures for Legal Reasoning**|Joel Niklaus, Lucia Zheng, Arya D. McCarthy, Christopher Hahn, Brian M. Rosen, Peter Henderson, Daniel E. Ho, Garrett Honke, Percy Liang, Christopher Manning et.al.|[2404.02127v1](http://arxiv.org/abs/2404.02127v1)|**[link](https://github.com/joelniklaus/lawinstruct)**|
@@ -563,6 +564,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain**|Khai Le-Duc et.al.|[2404.05659v1](http://arxiv.org/abs/2404.05659v1)|null|
+|**2024-04-04**|**Transducers with Pronunciation-aware Embeddings for Automatic Speech Recognition**|Hainan Xu, Zhehuai Chen, Fei Jia, Boris Ginsburg et.al.|[2404.04295v1](http://arxiv.org/abs/2404.04295v1)|null|
 |**2024-04-03**|**Mai Ho'omāuna i ka 'Ai: Language Models Improve Automatic Speech Recognition in Hawaiian**|Kaavya Chaparala, Guido Zarrella, Bruce Torres Fischer, Larry Kimura, Oiwi Parker Jones et.al.|[2404.03073v1](http://arxiv.org/abs/2404.03073v1)|null|
 |**2024-04-02**|**BRAVEn: Improving Self-Supervised Pre-training for Visual and Auditory Speech Recognition**|Alexandros Haliassos, Andreas Zinonos, Rodrigo Mira, Stavros Petridis, Maja Pantic et.al.|[2404.02098v1](http://arxiv.org/abs/2404.02098v1)|**[link](https://github.com/ahaliassos/raven)**|
 |**2024-03-28**|**Multi-Stage Multi-Modal Pre-Training for Automatic Speech Recognition**|Yash Jain, David Chan, Pranav Dheram, Aparna Khare, Olabanji Shonibare, Venkatesh Ravichandran, Shalini Ghosh et.al.|[2403.19822v1](http://arxiv.org/abs/2403.19822v1)|null|
@@ -622,7 +625,7 @@ layout: default
 |**2024-01-09**|**Continuously Learning New Words in Automatic Speech Recognition**|Christian Huber, Alexander Waibel et.al.|[2401.04482v1](http://arxiv.org/abs/2401.04482v1)|null|
 |**2024-01-08**|**Cross-Speaker Encoding Network for Multi-Talker Speech Recognition**|Jiawen Kang, Lingwei Meng, Mingyu Cui, Haohan Guo, Xixin Wu, Xunying Liu, Helen Meng et.al.|[2401.04152v1](http://arxiv.org/abs/2401.04152v1)|null|
 |**2024-02-21**|**ICMC-ASR: The ICASSP 2024 In-Car Multi-Channel Automatic Speech Recognition Challenge**|He Wang, Pengcheng Guo, Yue Li, Ao Zhang, Jiayao Sun, Lei Xie, Wei Chen, Pan Zhou, Hui Bu, Xin Xu, Binbin Zhang, Zhuo Chen, Jian Wu, Longbiao Wang, Eng Siong Chng, Sun Li et.al.|[2401.03473v3](http://arxiv.org/abs/2401.03473v3)|null|
-|**2024-02-21**|**MLCA-AVSR: Multi-Layer Cross Attention Fusion based Audio-Visual Speech Recognition**|He Wang, Pengcheng Guo, Pan Zhou, Lei Xie et.al.|[2401.03424v2](http://arxiv.org/abs/2401.03424v2)|null|
+|**2024-04-08**|**MLCA-AVSR: Multi-Layer Cross Attention Fusion based Audio-Visual Speech Recognition**|He Wang, Pengcheng Guo, Pan Zhou, Lei Xie et.al.|[2401.03424v3](http://arxiv.org/abs/2401.03424v3)|null|
 |**2024-01-05**|**A unified multichannel far-field speech recognition system: combining neural beamforming with attention based end-to-end model**|Dongdi Zhao, Jianbo Ma, Lu Lu, Jinke Li, Xuan Ji, Lei Zhu, Fuming Fang, Ming Liu, Feijun Jiang et.al.|[2401.02673v1](http://arxiv.org/abs/2401.02673v1)|null|
 |**2024-01-04**|**Task Oriented Dialogue as a Catalyst for Self-Supervised Automatic Speech Recognition**|David M. Chan, Shalini Ghosh, Hitesh Tulsiani, Ariya Rastrow, Björn Hoffmeister et.al.|[2401.02417v1](http://arxiv.org/abs/2401.02417v1)|**[link](https://github.com/amazon-science/amazon-od3)**|
 |**2024-01-04**|**CTC Blank Triggered Dynamic Layer-Skipping for Efficient CTC-based Speech Recognition**|Junfeng Hou, Peiyao Wang, Jincheng Zhang, Meng Yang, Minwei Feng, Jingcheng Yin et.al.|[2401.02046v1](http://arxiv.org/abs/2401.02046v1)|null|
