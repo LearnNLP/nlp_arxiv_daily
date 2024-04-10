@@ -223,6 +223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Privacy and Security of Women's Reproductive Health Apps in a Changing Legal Landscape**|Shalini Saini, Nitesh Saxena et.al.|[2404.05876v1](http://arxiv.org/abs/2404.05876v1)|null|
 |**2024-04-04**|**CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering**|Nirmalie Wiratunga, Ramitha Abeyratne, Lasal Jayawardena, Kyle Martin, Stewart Massie, Ikechukwu Nkisi-Orji, Ruvan Weerasinghe, Anne Liret, Bruno Fleisch et.al.|[2404.04302v1](http://arxiv.org/abs/2404.04302v1)|**[link](https://github.com/rgu-iit-bt/cbr-for-legal-rag)**|
 |**2024-04-04**|**NLP at UC Santa Cruz at SemEval-2024 Task 5: Legal Answer Validation using Few-Shot Multi-Choice QA**|Anish Pahilajani, Samyak Rajesh Jain, Devasha Trivedi et.al.|[2404.03150v1](http://arxiv.org/abs/2404.03150v1)|**[link](https://github.com/devashat/ucsc-nlp-semeval-2024-task-5)**|
 |**2024-04-03**|**Automated Transparency: A Legal and Empirical Analysis of the Digital Services Act Transparency Database**|Rishabh Kaushal, Jacob van de Kerkhof, Catalina Goanta, Gerasimos Spanakis, Adriana Iamnitchi et.al.|[2404.02894v1](http://arxiv.org/abs/2404.02894v1)|null|
