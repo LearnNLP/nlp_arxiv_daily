@@ -223,6 +223,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**A Legal Risk Taxonomy for Generative Artificial Intelligence**|David Atkinson, Jacob Morrison et.al.|[2404.09479v1](http://arxiv.org/abs/2404.09479v1)|null|
+|**2024-04-08**|**Text clustering applied to data augmentation in legal contexts**|Lucas José Gonçalves Freitas, Thaís Rodrigues, Guilherme Rodrigues, Pamella Edokawa, Ariane Farias et.al.|[2404.08683v1](http://arxiv.org/abs/2404.08683v1)|null|
 |**2024-04-10**|**Leveraging open-source models for legal language modeling and analysis: a case study on the Indian constitution**|Vikhyath Gupta, Srinivasa Rao P et.al.|[2404.06751v1](http://arxiv.org/abs/2404.06751v1)|null|
 |**2024-04-08**|**Privacy and Security of Women's Reproductive Health Apps in a Changing Legal Landscape**|Shalini Saini, Nitesh Saxena et.al.|[2404.05876v1](http://arxiv.org/abs/2404.05876v1)|null|
 |**2024-04-04**|**CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering**|Nirmalie Wiratunga, Ramitha Abeyratne, Lasal Jayawardena, Kyle Martin, Stewart Massie, Ikechukwu Nkisi-Orji, Ruvan Weerasinghe, Anne Liret, Bruno Fleisch et.al.|[2404.04302v1](http://arxiv.org/abs/2404.04302v1)|**[link](https://github.com/rgu-iit-bt/cbr-for-legal-rag)**|
@@ -284,7 +286,7 @@ layout: default
 |**2023-12-31**|**Viz: A QLoRA-based Copyright Marketplace for Legally Compliant Generative AI**|Dipankar Sarkar et.al.|[2401.00503v1](http://arxiv.org/abs/2401.00503v1)|null|
 |**2023-12-19**|**CaseGNN: Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs**|Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang et.al.|[2312.11229v2](http://arxiv.org/abs/2312.11229v2)|**[link](https://github.com/yanran-tang/casegnn)**|
 |**2024-04-02**|**Social, Legal, Ethical, Empathetic, and Cultural Rules: Compilation and Reasoning (Extended Version)**|Nicolas Troquard, Martina De Sanctis, Paola Inverardi, Patrizio Pelliccione, Gian Luca Scoccia et.al.|[2312.09699v2](http://arxiv.org/abs/2312.09699v2)|null|
-|**2023-12-15**|**Incorporating Judgment Prediction into Legal Case Retrieval via Law-aware Generative Retrieval**|Weicong Qin, Zelin Cao, Weijie Yu, Zihua Si, Sirui Chen, Jun Xu et.al.|[2312.09591v1](http://arxiv.org/abs/2312.09591v1)|null|
+|**2024-04-15**|**Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach**|Weicong Qin, Zelin Cao, Weijie Yu, Zihua Si, Sirui Chen, Jun Xu et.al.|[2312.09591v2](http://arxiv.org/abs/2312.09591v2)|null|
 |**2023-12-14**|**Weaving Pathways for Justice with GPT: LLM-driven automated drafting of interactive legal applications**|Quinten Steenhuis, David Colarusso, Bryce Willey et.al.|[2312.09198v1](http://arxiv.org/abs/2312.09198v1)|**[link](https://github.com/suffolklitlab/formfyxer)**|
 |**2023-12-13**|**SLJP: Semantic Extraction based Legal Judgment Prediction**|Prameela Madambakam, Shathanaa Rajmohan, Himangshu Sharma, Tummepalli Anka Chandrahas Purushotham Gupta et.al.|[2312.07979v1](http://arxiv.org/abs/2312.07979v1)|null|
 |**2023-12-10**|**Multi-Defendant Legal Judgment Prediction via Hierarchical Reasoning**|Yougang Lyu, Jitai Hao, Zihan Wang, Kai Zhao, Shen Gao, Pengjie Ren, Zhumin Chen, Fang Wang, Zhaochun Ren et.al.|[2312.05762v1](http://arxiv.org/abs/2312.05762v1)|**[link](https://github.com/currentf/hrn)**|
