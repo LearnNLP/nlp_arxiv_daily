@@ -219,6 +219,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**BayesJudge: Bayesian Kernel Language Modelling with Confidence Uncertainty in Legal Judgment Prediction**|Ubaid Azam, Imran Razzak, Shelly Vishwakarma, Hakim Hacid, Dell Zhang, Shoaib Jameel et.al.|[2404.10481v1](http://arxiv.org/abs/2404.10481v1)|null|
+|**2024-04-15**|**LegalPro-BERT: Classification of Legal Provisions by fine-tuning BERT Large Language Model**|Amit Tewari et.al.|[2404.10097v1](http://arxiv.org/abs/2404.10097v1)|**[link](https://github.com/amit5-ai/LegalPro-BERT)**|
+|**2024-04-15**|**Debunking Robot Rights Metaphysically, Ethically, and Legally**|Abeba Birhane, Jelle van Dijk, Frank Pasquale et.al.|[2404.10072v1](http://arxiv.org/abs/2404.10072v1)|null|
 |**2024-04-15**|**A Legal Risk Taxonomy for Generative Artificial Intelligence**|David Atkinson, Jacob Morrison et.al.|[2404.09479v1](http://arxiv.org/abs/2404.09479v1)|null|
 |**2024-04-08**|**Text clustering applied to data augmentation in legal contexts**|Lucas José Gonçalves Freitas, Thaís Rodrigues, Guilherme Rodrigues, Pamella Edokawa, Ariane Farias et.al.|[2404.08683v1](http://arxiv.org/abs/2404.08683v1)|null|
 |**2024-04-10**|**Leveraging open-source models for legal language modeling and analysis: a case study on the Indian constitution**|Vikhyath Gupta, Srinivasa Rao P et.al.|[2404.06751v1](http://arxiv.org/abs/2404.06751v1)|null|
@@ -242,7 +245,7 @@
 |**2024-03-26**|**GPTs and Language Barrier: A Cross-Lingual Legal QA Examination**|Ha-Thanh Nguyen, Hiroaki Yamada, Ken Satoh et.al.|[2403.18098v1](http://arxiv.org/abs/2403.18098v1)|null|
 |**2024-03-26**|**Enhancing Legal Document Retrieval: A Multi-Phase Approach with Large Language Models**|Hai-Long Nguyen, Duc-Minh Nguyen, Tan-Minh Nguyen, Ha-Thanh Nguyen, Thi-Hai-Yen Vuong, Ken Satoh et.al.|[2403.18093v1](http://arxiv.org/abs/2403.18093v1)|null|
 |**2024-04-10**|**CaseLink: Inductive Graph Learning for Legal Case Retrieval**|Yanran Tang, Ruihong Qiu, Hongzhi Yin, Xue Li, Zi Huang et.al.|[2403.17780v2](http://arxiv.org/abs/2403.17780v2)|null|
-|**2024-04-16**|**Towards Explainability in Legal Outcome Prediction Models**|Josef Valvoda, Ryan Cotterell et.al.|[2403.16852v2](http://arxiv.org/abs/2403.16852v2)|null|
+|**2024-04-16**|**Towards Explainability in Legal Outcome Prediction Models**|Josef Valvoda, Ryan Cotterell et.al.|[2403.16852v2](http://arxiv.org/abs/2403.16852v2)|**[link](https://github.com/valvoda/under_the_influence)**|
 |**2024-03-22**|**"The Law Doesn't Work Like a Computer": Exploring Software Licensing Issues Faced by Legal Practitioners**|Nathan Wintersgill, Trevor Stalnaker, Laura A. Heymann, Oscar Chaparro, Denys Poshyvanyk et.al.|[2403.14927v1](http://arxiv.org/abs/2403.14927v1)|null|
 |**2024-03-20**|**PARAMANU-AYN: An Efficient Novel Generative and Instruction-tuned Language Model for Indian Legal Case Documents**|Mitodru Niyogi, Arnab Bhattacharya et.al.|[2403.13681v1](http://arxiv.org/abs/2403.13681v1)|null|
 |**2024-03-20**|**Improving Legal Case Retrieval with Brain Signals**|Ruizhe Zhang, Qingyao Ai, Ziyi Ye, Yueyue Wu, Xiaohui Xie, Yiqun Liu et.al.|[2403.13242v1](http://arxiv.org/abs/2403.13242v1)|null|
