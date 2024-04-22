@@ -568,6 +568,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**Efficient infusion of self-supervised representations in Automatic Speech Recognition**|Darshan Prabhu, Sai Ganesh Mirishkar, Pankaj Wasnik et.al.|[2404.12628v1](http://arxiv.org/abs/2404.12628v1)|null|
 |**2024-04-08**|**VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain**|Khai Le-Duc et.al.|[2404.05659v1](http://arxiv.org/abs/2404.05659v1)|**[link](https://github.com/leduckhai/multimed)**|
 |**2024-04-04**|**Transducers with Pronunciation-aware Embeddings for Automatic Speech Recognition**|Hainan Xu, Zhehuai Chen, Fei Jia, Boris Ginsburg et.al.|[2404.04295v1](http://arxiv.org/abs/2404.04295v1)|null|
 |**2024-04-03**|**Mai Ho'omāuna i ka 'Ai: Language Models Improve Automatic Speech Recognition in Hawaiian**|Kaavya Chaparala, Guido Zarrella, Bruce Torres Fischer, Larry Kimura, Oiwi Parker Jones et.al.|[2404.03073v1](http://arxiv.org/abs/2404.03073v1)|null|
