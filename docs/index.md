@@ -224,6 +224,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Rethinking Legal Compliance Automation: Opportunities with Large Language Models**|Shabnam Hassani, Mehrdad Sabetzadeh, Daniel Amyot, Jain Liao et.al.|[2404.14356v1](http://arxiv.org/abs/2404.14356v1)|null|
 |**2024-04-16**|**BayesJudge: Bayesian Kernel Language Modelling with Confidence Uncertainty in Legal Judgment Prediction**|Ubaid Azam, Imran Razzak, Shelly Vishwakarma, Hakim Hacid, Dell Zhang, Shoaib Jameel et.al.|[2404.10481v1](http://arxiv.org/abs/2404.10481v1)|null|
 |**2024-04-15**|**LegalPro-BERT: Classification of Legal Provisions by fine-tuning BERT Large Language Model**|Amit Tewari et.al.|[2404.10097v1](http://arxiv.org/abs/2404.10097v1)|**[link](https://github.com/amit5-ai/LegalPro-BERT)**|
 |**2024-04-15**|**Debunking Robot Rights Metaphysically, Ethically, and Legally**|Abeba Birhane, Jelle van Dijk, Frank Pasquale et.al.|[2404.10072v1](http://arxiv.org/abs/2404.10072v1)|null|
@@ -572,6 +573,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-20**|**Semantically Corrected Amharic Automatic Speech Recognition**|Samuael Adnew, Paul Pu Liang et.al.|[2404.13362v1](http://arxiv.org/abs/2404.13362v1)|**[link](https://github.com/samuael/postprocessed_geez_asr)**|
 |**2024-04-19**|**Efficient infusion of self-supervised representations in Automatic Speech Recognition**|Darshan Prabhu, Sai Ganesh Mirishkar, Pankaj Wasnik et.al.|[2404.12628v1](http://arxiv.org/abs/2404.12628v1)|null|
 |**2024-04-08**|**VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain**|Khai Le-Duc et.al.|[2404.05659v1](http://arxiv.org/abs/2404.05659v1)|**[link](https://github.com/leduckhai/multimed)**|
 |**2024-04-04**|**Transducers with Pronunciation-aware Embeddings for Automatic Speech Recognition**|Hainan Xu, Zhehuai Chen, Fei Jia, Boris Ginsburg et.al.|[2404.04295v1](http://arxiv.org/abs/2404.04295v1)|null|
