@@ -573,6 +573,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Rethinking Processing Distortions: Disentangling the Impact of Speech Enhancement Errors on Speech Recognition Performance**|Tsubasa Ochiai, Kazuma Iwamoto, Marc Delcroix, Rintaro Ikeshita, Hiroshi Sato, Shoko Araki, Shigeru Katagiri et.al.|[2404.14860v1](http://arxiv.org/abs/2404.14860v1)|null|
 |**2024-04-20**|**Semantically Corrected Amharic Automatic Speech Recognition**|Samuael Adnew, Paul Pu Liang et.al.|[2404.13362v1](http://arxiv.org/abs/2404.13362v1)|**[link](https://github.com/samuael/postprocessed_geez_asr)**|
 |**2024-04-19**|**Efficient infusion of self-supervised representations in Automatic Speech Recognition**|Darshan Prabhu, Sai Ganesh Mirishkar, Pankaj Wasnik et.al.|[2404.12628v1](http://arxiv.org/abs/2404.12628v1)|null|
 |**2024-04-08**|**VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain**|Khai Le-Duc et.al.|[2404.05659v1](http://arxiv.org/abs/2404.05659v1)|**[link](https://github.com/leduckhai/multimed)**|
