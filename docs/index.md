@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.25
+## Updated on 2024.04.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -54,7 +54,7 @@ layout: default
 |**2023-10-07**|**LAE-ST-MoE: Boosted Language-Aware Encoder Using Speech Translation Auxiliary Task for E2E Code-switching ASR**|Guodong Ma, Wenxuan Wang, Yuke Li, Yuting Yang, Binbin Du, Haoran Fu et.al.|[2309.16178v2](http://arxiv.org/abs/2309.16178v2)|null|
 |**2023-09-27**|**Enhancing End-to-End Conversational Speech Translation Through Target Language Context Utilization**|Amir Hussein, Brian Yan, Antonios Anastasopoulos, Shinji Watanabe, Sanjeev Khudanpur et.al.|[2309.15686v1](http://arxiv.org/abs/2309.15686v1)|null|
 |**2023-09-21**|**Bridging the Gaps of Both Modality and Language: Synchronous Bilingual CTC for Speech Translation and Speech Recognition**|Chen Xu, Xiaoqian Liu, Erfeng He, Yuhao Zhang, Qianqian Dong, Tong Xiao, Jingbo Zhu, Dapeng Man, Wu Yang et.al.|[2309.12234v1](http://arxiv.org/abs/2309.12234v1)|**[link](https://github.com/xuchennlp/s2t)**|
-|**2023-09-20**|**SpeechAlign: a Framework for Speech Translation Alignment Evaluation**|Belen Alastruey, Aleix Sant, Gerard I. Gállego, David Dale, Marta R. Costa-jussà et.al.|[2309.11585v1](http://arxiv.org/abs/2309.11585v1)|null|
+|**2024-04-25**|**SpeechAlign: a Framework for Speech Translation Alignment Evaluation**|Belen Alastruey, Aleix Sant, Gerard I. Gállego, David Dale, Marta R. Costa-jussà et.al.|[2309.11585v2](http://arxiv.org/abs/2309.11585v2)|null|
 |**2023-09-20**|**Long-Form End-to-End Speech Translation via Latent Alignment Segmentation**|Peter Polák, Ondřej Bojar et.al.|[2309.11384v1](http://arxiv.org/abs/2309.11384v1)|null|
 |**2023-09-20**|**Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff**|Peter Polák, Brian Yan, Shinji Watanabe, Alex Waibel, Ondřej Bojar et.al.|[2309.11379v1](http://arxiv.org/abs/2309.11379v1)|null|
 |**2024-01-22**|**DiariST: Streaming Speech Translation with Speaker Diarization**|Mu Yang, Naoyuki Kanda, Xiaofei Wang, Junkun Chen, Peidong Wang, Jian Xue, Jinyu Li, Takuya Yoshioka et.al.|[2309.08007v2](http://arxiv.org/abs/2309.08007v2)|**[link](https://github.com/mu-y/diarist)**|
@@ -218,7 +218,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
 
 ## Legal
 
@@ -567,7 +567,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -950,7 +950,7 @@ layout: default
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -960,7 +960,7 @@ layout: default
 |**2023-03-31**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v3](http://arxiv.org/abs/2207.14682v3)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
