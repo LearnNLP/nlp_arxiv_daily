@@ -224,6 +224,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Legal Aspects for Software Developers Interested in Generative AI Applications**|Steffen Herbold, Brian Valerius, Anamaria Mojica-Hanke, Isabella Lex, Joel Mittel et.al.|[2404.16630v1](http://arxiv.org/abs/2404.16630v1)|null|
 |**2024-04-22**|**Rethinking Legal Compliance Automation: Opportunities with Large Language Models**|Shabnam Hassani, Mehrdad Sabetzadeh, Daniel Amyot, Jain Liao et.al.|[2404.14356v1](http://arxiv.org/abs/2404.14356v1)|null|
 |**2024-04-16**|**BayesJudge: Bayesian Kernel Language Modelling with Confidence Uncertainty in Legal Judgment Prediction**|Ubaid Azam, Imran Razzak, Shelly Vishwakarma, Hakim Hacid, Dell Zhang, Shoaib Jameel et.al.|[2404.10481v1](http://arxiv.org/abs/2404.10481v1)|null|
 |**2024-04-15**|**LegalPro-BERT: Classification of Legal Provisions by fine-tuning BERT Large Language Model**|Amit Tewari et.al.|[2404.10097v1](http://arxiv.org/abs/2404.10097v1)|**[link](https://github.com/amit5-ai/LegalPro-BERT)**|
@@ -573,6 +574,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Automatic Speech Recognition System-Independent Word Error Rate Estimatio**|Chanho Park, Mingjie Chen, Thomas Hain et.al.|[2404.16743v1](http://arxiv.org/abs/2404.16743v1)|null|
+|**2024-04-25**|**Developing Acoustic Models for Automatic Speech Recognition in Swedish**|Giampiero Salvi et.al.|[2404.16547v1](http://arxiv.org/abs/2404.16547v1)|null|
 |**2024-04-23**|**Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information**|Chihiro Taguchi, Jefferson Saransig, Dayana Velásquez, David Chiang et.al.|[2404.15501v1](http://arxiv.org/abs/2404.15501v1)|**[link](https://github.com/ctaguchi/killkan)**|
 |**2024-04-23**|**Rethinking Processing Distortions: Disentangling the Impact of Speech Enhancement Errors on Speech Recognition Performance**|Tsubasa Ochiai, Kazuma Iwamoto, Marc Delcroix, Rintaro Ikeshita, Hiroshi Sato, Shoko Araki, Shigeru Katagiri et.al.|[2404.14860v1](http://arxiv.org/abs/2404.14860v1)|null|
 |**2024-04-20**|**Semantically Corrected Amharic Automatic Speech Recognition**|Samuael Adnew, Paul Pu Liang et.al.|[2404.13362v1](http://arxiv.org/abs/2404.13362v1)|**[link](https://github.com/samuael/postprocessed_geez_asr)**|
