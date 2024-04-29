@@ -220,6 +220,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**Enhancing Legal Compliance and Regulation Analysis with Large Language Models**|Shabnam Hassani et.al.|[2404.17522v1](http://arxiv.org/abs/2404.17522v1)|null|
 |**2024-04-25**|**Legal Aspects for Software Developers Interested in Generative AI Applications**|Steffen Herbold, Brian Valerius, Anamaria Mojica-Hanke, Isabella Lex, Joel Mittel et.al.|[2404.16630v1](http://arxiv.org/abs/2404.16630v1)|null|
 |**2024-04-22**|**Rethinking Legal Compliance Automation: Opportunities with Large Language Models**|Shabnam Hassani, Mehrdad Sabetzadeh, Daniel Amyot, Jain Liao et.al.|[2404.14356v1](http://arxiv.org/abs/2404.14356v1)|null|
 |**2024-04-16**|**BayesJudge: Bayesian Kernel Language Modelling with Confidence Uncertainty in Legal Judgment Prediction**|Ubaid Azam, Imran Razzak, Shelly Vishwakarma, Hakim Hacid, Dell Zhang, Shoaib Jameel et.al.|[2404.10481v1](http://arxiv.org/abs/2404.10481v1)|null|
@@ -570,6 +571,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**Child Speech Recognition in Human-Robot Interaction: Problem Solved?**|Ruben Janssens, Eva Verhelst, Giulio Antonio Abbo, Qiaoqiao Ren, Maria Jose Pinto Bernal, Tony Belpaeme et.al.|[2404.17394v1](http://arxiv.org/abs/2404.17394v1)|null|
 |**2024-04-26**|**Automatic Speech Recognition System-Independent Word Error Rate Estimation**|Chanho Park, Mingjie Chen, Thomas Hain et.al.|[2404.16743v2](http://arxiv.org/abs/2404.16743v2)|null|
 |**2024-04-25**|**Developing Acoustic Models for Automatic Speech Recognition in Swedish**|Giampiero Salvi et.al.|[2404.16547v1](http://arxiv.org/abs/2404.16547v1)|null|
 |**2024-04-23**|**Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information**|Chihiro Taguchi, Jefferson Saransig, Dayana Velásquez, David Chiang et.al.|[2404.15501v1](http://arxiv.org/abs/2404.15501v1)|**[link](https://github.com/ctaguchi/killkan)**|
