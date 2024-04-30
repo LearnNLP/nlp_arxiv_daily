@@ -220,13 +220,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Towards A Structured Overview of Use Cases for Natural Language Processing in the Legal Domain: A German Perspective**|Juraj Vladika, Stephen Meisenbacher, Martina Preis, Alexandra Klymenko, Florian Matthes et.al.|[2404.18759v1](http://arxiv.org/abs/2404.18759v1)|null|
 |**2024-04-26**|**Enhancing Legal Compliance and Regulation Analysis with Large Language Models**|Shabnam Hassani et.al.|[2404.17522v1](http://arxiv.org/abs/2404.17522v1)|null|
 |**2024-04-25**|**Legal Aspects for Software Developers Interested in Generative AI Applications**|Steffen Herbold, Brian Valerius, Anamaria Mojica-Hanke, Isabella Lex, Joel Mittel et.al.|[2404.16630v1](http://arxiv.org/abs/2404.16630v1)|null|
 |**2024-04-22**|**Rethinking Legal Compliance Automation: Opportunities with Large Language Models**|Shabnam Hassani, Mehrdad Sabetzadeh, Daniel Amyot, Jain Liao et.al.|[2404.14356v1](http://arxiv.org/abs/2404.14356v1)|null|
 |**2024-04-16**|**BayesJudge: Bayesian Kernel Language Modelling with Confidence Uncertainty in Legal Judgment Prediction**|Ubaid Azam, Imran Razzak, Shelly Vishwakarma, Hakim Hacid, Dell Zhang, Shoaib Jameel et.al.|[2404.10481v1](http://arxiv.org/abs/2404.10481v1)|null|
 |**2024-04-15**|**LegalPro-BERT: Classification of Legal Provisions by fine-tuning BERT Large Language Model**|Amit Tewari et.al.|[2404.10097v1](http://arxiv.org/abs/2404.10097v1)|**[link](https://github.com/amit5-ai/LegalPro-BERT)**|
 |**2024-04-15**|**Debunking Robot Rights Metaphysically, Ethically, and Legally**|Abeba Birhane, Jelle van Dijk, Frank Pasquale et.al.|[2404.10072v1](http://arxiv.org/abs/2404.10072v1)|null|
-|**2024-04-15**|**A Legal Risk Taxonomy for Generative Artificial Intelligence**|David Atkinson, Jacob Morrison et.al.|[2404.09479v1](http://arxiv.org/abs/2404.09479v1)|null|
+|**2024-04-29**|**A Legal Risk Taxonomy for Generative Artificial Intelligence**|David Atkinson, Jacob Morrison et.al.|[2404.09479v2](http://arxiv.org/abs/2404.09479v2)|null|
 |**2024-04-08**|**Text clustering applied to data augmentation in legal contexts**|Lucas José Gonçalves Freitas, Thaís Rodrigues, Guilherme Rodrigues, Pamella Edokawa, Ariane Farias et.al.|[2404.08683v1](http://arxiv.org/abs/2404.08683v1)|null|
 |**2024-04-10**|**Leveraging open-source models for legal language modeling and analysis: a case study on the Indian constitution**|Vikhyath Gupta, Srinivasa Rao P et.al.|[2404.06751v1](http://arxiv.org/abs/2404.06751v1)|null|
 |**2024-04-08**|**Privacy and Security of Women's Reproductive Health Apps in a Changing Legal Landscape**|Shalini Saini, Nitesh Saxena et.al.|[2404.05876v1](http://arxiv.org/abs/2404.05876v1)|null|
