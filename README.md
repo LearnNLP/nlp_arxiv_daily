@@ -249,7 +249,7 @@
 |**2024-03-26**|**Juru: Legal Brazilian Large Language Model from Reputable Sources**|Roseval Malaquias Junior, Ramon Pires, Roseli Romero, Rodrigo Nogueira et.al.|[2403.18140v1](http://arxiv.org/abs/2403.18140v1)|null|
 |**2024-03-26**|**GPTs and Language Barrier: A Cross-Lingual Legal QA Examination**|Ha-Thanh Nguyen, Hiroaki Yamada, Ken Satoh et.al.|[2403.18098v1](http://arxiv.org/abs/2403.18098v1)|null|
 |**2024-03-26**|**Enhancing Legal Document Retrieval: A Multi-Phase Approach with Large Language Models**|Hai-Long Nguyen, Duc-Minh Nguyen, Tan-Minh Nguyen, Ha-Thanh Nguyen, Thi-Hai-Yen Vuong, Ken Satoh et.al.|[2403.18093v1](http://arxiv.org/abs/2403.18093v1)|null|
-|**2024-04-10**|**CaseLink: Inductive Graph Learning for Legal Case Retrieval**|Yanran Tang, Ruihong Qiu, Hongzhi Yin, Xue Li, Zi Huang et.al.|[2403.17780v2](http://arxiv.org/abs/2403.17780v2)|null|
+|**2024-04-10**|**CaseLink: Inductive Graph Learning for Legal Case Retrieval**|Yanran Tang, Ruihong Qiu, Hongzhi Yin, Xue Li, Zi Huang et.al.|[2403.17780v2](http://arxiv.org/abs/2403.17780v2)|**[link](https://github.com/yanran-tang/caselink)**|
 |**2024-04-16**|**Towards Explainability in Legal Outcome Prediction Models**|Josef Valvoda, Ryan Cotterell et.al.|[2403.16852v2](http://arxiv.org/abs/2403.16852v2)|**[link](https://github.com/valvoda/under_the_influence)**|
 |**2024-03-22**|**"The Law Doesn't Work Like a Computer": Exploring Software Licensing Issues Faced by Legal Practitioners**|Nathan Wintersgill, Trevor Stalnaker, Laura A. Heymann, Oscar Chaparro, Denys Poshyvanyk et.al.|[2403.14927v1](http://arxiv.org/abs/2403.14927v1)|null|
 |**2024-03-20**|**PARAMANU-AYN: An Efficient Novel Generative and Instruction-tuned Language Model for Indian Legal Case Documents**|Mitodru Niyogi, Arnab Bhattacharya et.al.|[2403.13681v1](http://arxiv.org/abs/2403.13681v1)|null|
@@ -572,6 +572,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**EfficientASR: Speech Recognition Network Compression via Attention Redundancy and Chunk-Level FFN Optimization**|Jianzong Wang, Ziqi Liang, Xulong Zhang, Ning Cheng, Jing Xiao et.al.|[2404.19214v1](http://arxiv.org/abs/2404.19214v1)|null|
 |**2024-04-26**|**Child Speech Recognition in Human-Robot Interaction: Problem Solved?**|Ruben Janssens, Eva Verhelst, Giulio Antonio Abbo, Qiaoqiao Ren, Maria Jose Pinto Bernal, Tony Belpaeme et.al.|[2404.17394v1](http://arxiv.org/abs/2404.17394v1)|null|
 |**2024-04-26**|**Automatic Speech Recognition System-Independent Word Error Rate Estimation**|Chanho Park, Mingjie Chen, Thomas Hain et.al.|[2404.16743v2](http://arxiv.org/abs/2404.16743v2)|null|
 |**2024-04-25**|**Developing Acoustic Models for Automatic Speech Recognition in Swedish**|Giampiero Salvi et.al.|[2404.16547v1](http://arxiv.org/abs/2404.16547v1)|null|
