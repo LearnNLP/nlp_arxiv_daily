@@ -224,6 +224,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**A Legal Framework for Natural Language Processing Model Training in Portugal**|Rúben Almeida, Evelin Amorim et.al.|[2405.00536v1](http://arxiv.org/abs/2405.00536v1)|null|
 |**2024-04-29**|**Towards A Structured Overview of Use Cases for Natural Language Processing in the Legal Domain: A German Perspective**|Juraj Vladika, Stephen Meisenbacher, Martina Preis, Alexandra Klymenko, Florian Matthes et.al.|[2404.18759v1](http://arxiv.org/abs/2404.18759v1)|null|
 |**2024-04-26**|**Enhancing Legal Compliance and Regulation Analysis with Large Language Models**|Shabnam Hassani et.al.|[2404.17522v1](http://arxiv.org/abs/2404.17522v1)|null|
 |**2024-04-25**|**Legal Aspects for Software Developers Interested in Generative AI Applications**|Steffen Herbold, Brian Valerius, Anamaria Mojica-Hanke, Isabella Lex, Joel Mittel et.al.|[2404.16630v1](http://arxiv.org/abs/2404.16630v1)|null|
@@ -576,6 +577,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**ConFides: A Visual Analytics Solution for Automated Speech Recognition Analysis and Exploration**|Sunwoo Ha, Chaehun Lim, R. Jordan Crouser, Alvitta Ottley et.al.|[2405.00223v1](http://arxiv.org/abs/2405.00223v1)|null|
 |**2024-04-30**|**EfficientASR: Speech Recognition Network Compression via Attention Redundancy and Chunk-Level FFN Optimization**|Jianzong Wang, Ziqi Liang, Xulong Zhang, Ning Cheng, Jing Xiao et.al.|[2404.19214v1](http://arxiv.org/abs/2404.19214v1)|null|
 |**2024-04-26**|**Child Speech Recognition in Human-Robot Interaction: Problem Solved?**|Ruben Janssens, Eva Verhelst, Giulio Antonio Abbo, Qiaoqiao Ren, Maria Jose Pinto Bernal, Tony Belpaeme et.al.|[2404.17394v1](http://arxiv.org/abs/2404.17394v1)|null|
 |**2024-04-26**|**Automatic Speech Recognition System-Independent Word Error Rate Estimation**|Chanho Park, Mingjie Chen, Thomas Hain et.al.|[2404.16743v2](http://arxiv.org/abs/2404.16743v2)|null|
