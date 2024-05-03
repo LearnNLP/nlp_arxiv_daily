@@ -577,6 +577,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**Low-resource speech recognition and dialect identification of Irish in a multi-task framework**|Liam Lonergan, Mengjie Qian, Neasa Ní Chiaráin, Christer Gobl, Ailbhe Ní Chasaide et.al.|[2405.01293v1](http://arxiv.org/abs/2405.01293v1)|null|
+|**2024-05-02**|**Deep Learning Models in Speech Recognition: Measuring GPU Energy Consumption, Impact of Noise and Model Quantization for Edge Deployment**|Aditya Chakravarty et.al.|[2405.01004v1](http://arxiv.org/abs/2405.01004v1)|null|
 |**2024-04-30**|**ConFides: A Visual Analytics Solution for Automated Speech Recognition Analysis and Exploration**|Sunwoo Ha, Chaehun Lim, R. Jordan Crouser, Alvitta Ottley et.al.|[2405.00223v1](http://arxiv.org/abs/2405.00223v1)|null|
 |**2024-04-30**|**EfficientASR: Speech Recognition Network Compression via Attention Redundancy and Chunk-Level FFN Optimization**|Jianzong Wang, Ziqi Liang, Xulong Zhang, Ning Cheng, Jing Xiao et.al.|[2404.19214v1](http://arxiv.org/abs/2404.19214v1)|null|
 |**2024-04-26**|**Child Speech Recognition in Human-Robot Interaction: Problem Solved?**|Ruben Janssens, Eva Verhelst, Giulio Antonio Abbo, Qiaoqiao Ren, Maria Jose Pinto Bernal, Tony Belpaeme et.al.|[2404.17394v1](http://arxiv.org/abs/2404.17394v1)|null|
