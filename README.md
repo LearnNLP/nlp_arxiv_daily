@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.05
+## Updated on 2024.05.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -214,7 +214,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20240505>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240506>back to top</a>)</p>
 
 ## Legal
 
@@ -234,7 +234,7 @@
 |**2024-04-08**|**Privacy and Security of Women's Reproductive Health Apps in a Changing Legal Landscape**|Shalini Saini, Nitesh Saxena et.al.|[2404.05876v1](http://arxiv.org/abs/2404.05876v1)|null|
 |**2024-04-04**|**CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering**|Nirmalie Wiratunga, Ramitha Abeyratne, Lasal Jayawardena, Kyle Martin, Stewart Massie, Ikechukwu Nkisi-Orji, Ruvan Weerasinghe, Anne Liret, Bruno Fleisch et.al.|[2404.04302v1](http://arxiv.org/abs/2404.04302v1)|**[link](https://github.com/rgu-iit-bt/cbr-for-legal-rag)**|
 |**2024-04-04**|**NLP at UC Santa Cruz at SemEval-2024 Task 5: Legal Answer Validation using Few-Shot Multi-Choice QA**|Anish Pahilajani, Samyak Rajesh Jain, Devasha Trivedi et.al.|[2404.03150v1](http://arxiv.org/abs/2404.03150v1)|**[link](https://github.com/devashat/ucsc-nlp-semeval-2024-task-5)**|
-|**2024-04-03**|**Automated Transparency: A Legal and Empirical Analysis of the Digital Services Act Transparency Database**|Rishabh Kaushal, Jacob van de Kerkhof, Catalina Goanta, Gerasimos Spanakis, Adriana Iamnitchi et.al.|[2404.02894v1](http://arxiv.org/abs/2404.02894v1)|null|
+|**2024-05-03**|**Automated Transparency: A Legal and Empirical Analysis of the Digital Services Act Transparency Database**|Rishabh Kaushal, Jacob van de Kerkhof, Catalina Goanta, Gerasimos Spanakis, Adriana Iamnitchi et.al.|[2404.02894v2](http://arxiv.org/abs/2404.02894v2)|null|
 |**2024-04-02**|**FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures for Legal Reasoning**|Joel Niklaus, Lucia Zheng, Arya D. McCarthy, Christopher Hahn, Brian M. Rosen, Peter Henderson, Daniel E. Ho, Garrett Honke, Percy Liang, Christopher Manning et.al.|[2404.02127v1](http://arxiv.org/abs/2404.02127v1)|**[link](https://github.com/joelniklaus/lawinstruct)**|
 |**2024-03-31**|**Mind Your Neighbours: Leveraging Analogous Instances for Rhetorical Role Labeling for Legal Documents**|T. Y. S. S Santosh, Hassan Sarwat, Ahmed Abdou, Matthias Grabmair et.al.|[2404.01344v1](http://arxiv.org/abs/2404.01344v1)|null|
 |**2024-04-01**|**Exploring the Nexus of Large Language Models and Legal Systems: A Short Survey**|Weicong Qin, Zhongxiang Sun et.al.|[2404.00990v1](http://arxiv.org/abs/2404.00990v1)|null|
@@ -273,7 +273,7 @@
 |**2024-02-16**|**Through the Lens of Split Vote: Exploring Disagreement, Difficulty and Calibration in Legal Case Outcome Classification**|Shanshan Xu, T. Y. S. S Santosh, Oana Ichim, Barbara Plank, Matthias Grabmair et.al.|[2402.07214v2](http://arxiv.org/abs/2402.07214v2)|null|
 |**2024-02-06**|**LegalLens: Leveraging LLMs for Legal Violation Identification in Unstructured Text**|Dor Bernsohn, Gil Semo, Yaron Vazana, Gila Hayat, Ben Hagag, Joel Niklaus, Rohit Saha, Kyryl Truskovskyi et.al.|[2402.04335v1](http://arxiv.org/abs/2402.04335v1)|**[link](https://github.com/darrow-labs/legallens)**|
 |**2024-02-29**|**Advancing Legal Reasoning: The Integration of AI to Navigate Complexities and Biases in Global Jurisprudence with Semi-Automated Arbitration Processes (SAAPs)**|Michael De'Shazer et.al.|[2402.04140v3](http://arxiv.org/abs/2402.04140v3)|null|
-|**2024-02-02**|**(A)I Am Not a Lawyer, But...: Engaging Legal Experts towards Responsible LLM Policies for Legal Advice**|Inyoung Cheong, King Xia, K. J. Kevin Feng, Quan Ze Chen, Amy X. Zhang et.al.|[2402.01864v1](http://arxiv.org/abs/2402.01864v1)|null|
+|**2024-05-03**|**(A)I Am Not a Lawyer, But...: Engaging Legal Experts towards Responsible LLM Policies for Legal Advice**|Inyoung Cheong, King Xia, K. J. Kevin Feng, Quan Ze Chen, Amy X. Zhang et.al.|[2402.01864v2](http://arxiv.org/abs/2402.01864v2)|null|
 |**2024-01-30**|**Aalap: AI Assistant for Legal & Paralegal Functions in India**|Aman Tiwari, Prathamesh Kalamkar, Atreyo Banerjee, Saurabh Karn, Varun Hemachandran, Smita Gupta et.al.|[2402.01758v1](http://arxiv.org/abs/2402.01758v1)|null|
 |**2024-01-18**|**Legal and ethical implications of applications based on agreement technologies: the case of auction-based road intersections**|José-Antonio Santos, Alberto Fernández, Mar Moreno-Rebato, Holger Billhardt, José-A. Rodríguez-García, Sascha Ossowski et.al.|[2402.01673v1](http://arxiv.org/abs/2402.01673v1)|null|
 |**2024-01-10**|**Promises and pitfalls of artificial intelligence for legal applications**|Sayash Kapoor, Peter Henderson, Arvind Narayanan et.al.|[2402.01656v1](http://arxiv.org/abs/2402.01656v1)|null|
@@ -567,7 +567,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240505>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240506>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -651,7 +651,7 @@
 |**2024-01-04**|**CTC Blank Triggered Dynamic Layer-Skipping for Efficient CTC-based Speech Recognition**|Junfeng Hou, Peiyao Wang, Jincheng Zhang, Meng Yang, Minwei Feng, Jingcheng Yin et.al.|[2401.02046v1](http://arxiv.org/abs/2401.02046v1)|null|
 |**2024-01-03**|**Hallucinations in Neural Automatic Speech Recognition: Identifying Errors and Hallucinatory Models**|Rita Frieske, Bertram E. Shi et.al.|[2401.01572v1](http://arxiv.org/abs/2401.01572v1)|null|
 |**2024-01-01**|**Enhancing Pre-trained ASR System Fine-tuning for Dysarthric Speech Recognition using Adversarial Data Augmentation**|Huimeng Wang, Zengrui Jin, Mengzhe Geng, Shujie Hu, Guinan Li, Tianzi Wang, Haoning Xu, Xunying Liu et.al.|[2401.00662v1](http://arxiv.org/abs/2401.00662v1)|null|
-|**2024-01-11**|**Stateful Conformer with Cache-based Inference for Streaming Automatic Speech Recognition**|Vahid Noroozi, Somshubra Majumdar, Ankur Kumar, Jagadeesh Balam, Boris Ginsburg et.al.|[2312.17279v2](http://arxiv.org/abs/2312.17279v2)|null|
+|**2024-05-02**|**Stateful Conformer with Cache-based Inference for Streaming Automatic Speech Recognition**|Vahid Noroozi, Somshubra Majumdar, Ankur Kumar, Jagadeesh Balam, Boris Ginsburg et.al.|[2312.17279v3](http://arxiv.org/abs/2312.17279v3)|null|
 |**2023-12-22**|**BLSTM-Based Confidence Estimation for End-to-End Speech Recognition**|Atsunori Ogawa, Naohiro Tawara, Takatomo Kano, Marc Delcroix et.al.|[2312.14609v1](http://arxiv.org/abs/2312.14609v1)|null|
 |**2024-02-09**|**Multimodal Attention Merging for Improved Speech Recognition and Audio Event Classification**|Anirudh S. Sundar, Chao-Han Huck Yang, David M. Chan, Shalini Ghosh, Venkatesh Ravichandran, Phani Sankar Nidadavolu et.al.|[2312.14378v2](http://arxiv.org/abs/2312.14378v2)|null|
 |**2023-12-21**|**BANSpEmo: A Bangla Emotional Speech Recognition Dataset**|Md Gulzar Hussain, Mahmuda Rahman, Babe Sultana, Ye Shiren et.al.|[2312.14020v1](http://arxiv.org/abs/2312.14020v1)|null|
@@ -957,17 +957,17 @@
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240505>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240506>back to top</a>)</p>
 
 ## Audio Forenisc
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-11-29**|**Synthetic Voice Detection and Audio Splicing Detection using SE-Res2Net-Conformer Architecture**|Lei Wang, Benedict Yeoh, Jun Wah Ng et.al.|[2210.03581v2](http://arxiv.org/abs/2210.03581v2)|null|
-|**2023-03-31**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v3](http://arxiv.org/abs/2207.14682v3)|null|
+|**2024-05-03**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v4](http://arxiv.org/abs/2207.14682v4)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240505>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240506>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
