@@ -578,6 +578,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Lost in Transcription: Identifying and Quantifying the Accuracy Biases of Automatic Speech Recognition Systems Against Disfluent Speech**|Dena Mujtaba, Nihar R. Mahapatra, Megan Arney, J. Scott Yaruss, Hope Gerlach-Houck, Caryn Herring, Jia Bin et.al.|[2405.06150v1](http://arxiv.org/abs/2405.06150v1)|null|
 |**2024-05-09**|**The RoyalFlush Automatic Speech Diarization and Recognition System for In-Car Multi-Channel Automatic Speech Recognition Challenge**|Jingguang Tian, Shuaishuai Ye, Shunfei Chen, Yang Xiang, Zhaohui Yin, Xinhui Hu, Xinkang Xu et.al.|[2405.05498v1](http://arxiv.org/abs/2405.05498v1)|null|
 |**2024-05-06**|**MMGER: Multi-modal and Multi-granularity Generative Error Correction with LLM for Joint Accent and Speech Recognition**|Bingshen Mu, Yangze Li, Qijie Shao, Kun Wei, Xucheng Wan, Naijun Zheng, Huan Zhou, Lei Xie et.al.|[2405.03152v1](http://arxiv.org/abs/2405.03152v1)|null|
 |**2024-05-02**|**Low-resource speech recognition and dialect identification of Irish in a multi-task framework**|Liam Lonergan, Mengjie Qian, Neasa Ní Chiaráin, Christer Gobl, Ailbhe Ní Chasaide et.al.|[2405.01293v1](http://arxiv.org/abs/2405.01293v1)|null|
