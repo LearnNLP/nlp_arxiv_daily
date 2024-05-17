@@ -220,6 +220,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**Co-Matching: Towards Human-Machine Collaborative Legal Case Matching**|Chen Huang, Xinwei Yang, Yang Deng, Wenqiang Lei, JianCheng Lv, Tat-Seng Chua et.al.|[2405.10248v1](http://arxiv.org/abs/2405.10248v1)|null|
 |**2024-05-09**|**Letter to the Editor: What are the legal and ethical considerations of submitting radiology reports to ChatGPT?**|Siddharth Agarwal, David Wood, Robin Carpenter, Yiran Wei, Marc Modat, Thomas C Booth et.al.|[2405.05647v1](http://arxiv.org/abs/2405.05647v1)|null|
 |**2024-05-01**|**A Legal Framework for Natural Language Processing Model Training in Portugal**|Rúben Almeida, Evelin Amorim et.al.|[2405.00536v1](http://arxiv.org/abs/2405.00536v1)|null|
 |**2024-05-02**|**Towards A Structured Overview of Use Cases for Natural Language Processing in the Legal Domain: A German Perspective**|Juraj Vladika, Stephen Meisenbacher, Martina Preis, Alexandra Klymenko, Florian Matthes et.al.|[2404.18759v2](http://arxiv.org/abs/2404.18759v2)|null|
@@ -574,6 +575,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models**|Yuchen Hu, Chen Chen, Chengwei Qin, Qiushi Zhu, Eng Siong Chng, Ruizhe Li et.al.|[2405.10025v1](http://arxiv.org/abs/2405.10025v1)|null|
 |**2024-05-15**|**Towards Evaluating the Robustness of Automatic Speech Recognition Systems via Audio Style Transfer**|Weifei Jin, Yuxin Cao, Junjie Su, Qi Shen, Kai Ye, Derui Wang, Jie Hao, Ziyao Liu et.al.|[2405.09470v1](http://arxiv.org/abs/2405.09470v1)|null|
 |**2024-05-10**|**Lost in Transcription: Identifying and Quantifying the Accuracy Biases of Automatic Speech Recognition Systems Against Disfluent Speech**|Dena Mujtaba, Nihar R. Mahapatra, Megan Arney, J. Scott Yaruss, Hope Gerlach-Houck, Caryn Herring, Jia Bin et.al.|[2405.06150v1](http://arxiv.org/abs/2405.06150v1)|null|
 |**2024-05-09**|**The RoyalFlush Automatic Speech Diarization and Recognition System for In-Car Multi-Channel Automatic Speech Recognition Challenge**|Jingguang Tian, Shuaishuai Ye, Shunfei Chen, Yang Xiang, Zhaohui Yin, Xinhui Hu, Xinkang Xu et.al.|[2405.05498v1](http://arxiv.org/abs/2405.05498v1)|null|
