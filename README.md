@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-22**|**DiffNorm: Self-Supervised Normalization for Non-autoregressive Speech-to-speech Translation**|Weiting Tan, Jingyu Zhang, Lingfeng Shen, Daniel Khashabi, Philipp Koehn et.al.|[2405.13274v1](http://arxiv.org/abs/2405.13274v1)|**[link](https://github.com/steventan0110/diffnorm)**|
+|**2024-05-21**|**MELD-ST: An Emotion-aware Speech Translation Dataset**|Sirou Chen, Sakiko Yahata, Shuichiro Shimizu, Zhengdong Yang, Yihang Li, Chenhui Chu, Sadao Kurohashi et.al.|[2405.13233v1](http://arxiv.org/abs/2405.13233v1)|null|
 |**2024-03-25**|**Advancing Speech Translation: A Corpus of Mandarin-English Conversational Telephone Speech**|Shannon Wotherspoon, William Hartmann, Matthew Snover et.al.|[2404.11619v1](http://arxiv.org/abs/2404.11619v1)|null|
 |**2024-03-19**|**MSLM-S2ST: A Multitask Speech Language Model for Textless Speech-to-Speech Translation with Speaker Style Preservation**|Yifan Peng, Ilia Kulikov, Yilin Yang, Sravya Popuri, Hui Lu, Changhan Wang, Hongyu Gong et.al.|[2403.12408v1](http://arxiv.org/abs/2403.12408v1)|null|
 |**2024-03-08**|**FFSTC: Fongbe to French Speech Translation Corpus**|D. Fortune Kponou, Frejus A. A. Laleye, Eugene C. Ezin et.al.|[2403.05488v1](http://arxiv.org/abs/2403.05488v1)|null|
@@ -220,6 +222,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**Artificial Intelligence (AI) in Legal Data Mining**|Aniket Deroy, Naksatra Kumar Bailung, Kripabandhu Ghosh, Saptarshi Ghosh, Abhijnan Chakraborty et.al.|[2405.14707v1](http://arxiv.org/abs/2405.14707v1)|null|
+|**2024-05-23**|**ChronosLex: Time-aware Incremental Training for Temporal Generalization of Legal Classification Tasks**|T. Y. S. S Santosh, Tuan-Quang Vuong, Matthias Grabmair et.al.|[2405.14211v1](http://arxiv.org/abs/2405.14211v1)|null|
 |**2024-05-20**|**CaseGNN++: Graph Contrastive Learning for Legal Case Retrieval with Graph Augmentation**|Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang et.al.|[2405.11791v1](http://arxiv.org/abs/2405.11791v1)|**[link](https://github.com/yanran-tang/casegnn)**|
 |**2024-05-17**|**Empowering Prior to Court Legal Analysis: A Transparent and Accessible Dataset for Defensive Statement Classification and Interpretation**|Yannis Spyridis, Jean-Paul, Haneen Deeb, Vasileios Argyriou et.al.|[2405.10702v1](http://arxiv.org/abs/2405.10702v1)|null|
 |**2024-05-16**|**Co-Matching: Towards Human-Machine Collaborative Legal Case Matching**|Chen Huang, Xinwei Yang, Yang Deng, Wenqiang Lei, JianCheng Lv, Tat-Seng Chua et.al.|[2405.10248v1](http://arxiv.org/abs/2405.10248v1)|null|
@@ -577,6 +581,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-22**|**Joint Optimization of Streaming and Non-Streaming Automatic Speech Recognition with Multi-Decoder and Knowledge Distillation**|Muhammad Shakeel, Yui Sudo, Yifan Peng, Shinji Watanabe et.al.|[2405.13514v1](http://arxiv.org/abs/2405.13514v1)|null|
+|**2024-05-22**|**Contextualized Automatic Speech Recognition with Dynamic Vocabulary**|Yui Sudo, Yosuke Fukumoto, Muhammad Shakeel, Yifan Peng, Shinji Watanabe et.al.|[2405.13344v1](http://arxiv.org/abs/2405.13344v1)|null|
+|**2024-05-21**|**FairLENS: Assessing Fairness in Law Enforcement Speech Recognition**|Yicheng Wang, Mark Cusick, Mohamed Laila, Kate Puech, Zhengping Ji, Xia Hu, Michael Wilson, Noah Spitzer-Williams, Michael Wheeler, Yasser Ibrahim et.al.|[2405.13166v1](http://arxiv.org/abs/2405.13166v1)|null|
+|**2024-05-15**|**Continued Pretraining for Domain Adaptation of Wav2vec2.0 in Automatic Speech Recognition for Elementary Math Classroom Settings**|Ahmed Adel Attia, Dorottya Demszky, Tolulope Ogunremi, Jing Liu, Carol Espy-Wilson et.al.|[2405.13018v1](http://arxiv.org/abs/2405.13018v1)|null|
+|**2024-03-14**|**Multilingual Audio-Visual Speech Recognition with Hybrid CTC/RNN-T Fast Conformer**|Maxime Burchi, Krishna C. Puvvada, Jagadeesh Balam, Boris Ginsburg, Radu Timofte et.al.|[2405.12983v1](http://arxiv.org/abs/2405.12983v1)|null|
 |**2024-05-17**|**Acoustic modeling for Overlapping Speech Recognition: JHU Chime-5 Challenge System**|Vimal Manohar, Szu-Jui Chen, Zhiqi Wang, Yusuke Fujita, Shinji Watanabe, Sanjeev Khudanpur et.al.|[2405.11078v1](http://arxiv.org/abs/2405.11078v1)|null|
 |**2024-05-16**|**Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models**|Yuchen Hu, Chen Chen, Chengwei Qin, Qiushi Zhu, Eng Siong Chng, Ruizhe Li et.al.|[2405.10025v1](http://arxiv.org/abs/2405.10025v1)|null|
 |**2024-05-15**|**Towards Evaluating the Robustness of Automatic Speech Recognition Systems via Audio Style Transfer**|Weifei Jin, Yuxin Cao, Junjie Su, Qi Shen, Kai Ye, Derui Wang, Jie Hao, Ziyao Liu et.al.|[2405.09470v1](http://arxiv.org/abs/2405.09470v1)|null|
