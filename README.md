@@ -581,6 +581,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Federating Dynamic Models using Early-Exit Architectures for Automatic Speech Recognition on Heterogeneous Clients**|Mohamed Nabih Ali, Alessio Brutti, Daniele Falavigna et.al.|[2405.17376v1](http://arxiv.org/abs/2405.17376v1)|null|
 |**2024-05-24**|**Denoising LM: Pushing the Limits of Error Correction Models for Speech Recognition**|Zijin Gu, Tatiana Likhomanenko, He Bai, Erik McDermott, Ronan Collobert, Navdeep Jaitly et.al.|[2405.15216v1](http://arxiv.org/abs/2405.15216v1)|null|
 |**2024-05-22**|**Joint Optimization of Streaming and Non-Streaming Automatic Speech Recognition with Multi-Decoder and Knowledge Distillation**|Muhammad Shakeel, Yui Sudo, Yifan Peng, Shinji Watanabe et.al.|[2405.13514v1](http://arxiv.org/abs/2405.13514v1)|null|
 |**2024-05-22**|**Contextualized Automatic Speech Recognition with Dynamic Vocabulary**|Yui Sudo, Yosuke Fukumoto, Muhammad Shakeel, Yifan Peng, Shinji Watanabe et.al.|[2405.13344v1](http://arxiv.org/abs/2405.13344v1)|null|
