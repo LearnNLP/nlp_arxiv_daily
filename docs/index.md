@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**SeamlessExpressiveLM: Speech Language Model for Expressive Speech-to-Speech Translation with Chain-of-Thought**|Hongyu Gong, Bandhav Veluri et.al.|[2405.20410v1](http://arxiv.org/abs/2405.20410v1)|null|
 |**2024-05-28**|**TransVIP: Speech to Speech Translation System with Voice and Isochrony Preservation**|Chenyang Le, Yao Qian, Dongmei Wang, Long Zhou, Shujie Liu, Xiaofei Wang, Midia Yousefi, Yanmin Qian, Jinyu Li, Sheng Zhao, Michael Zeng et.al.|[2405.17809v1](http://arxiv.org/abs/2405.17809v1)|null|
 |**2024-05-22**|**DiffNorm: Self-Supervised Normalization for Non-autoregressive Speech-to-speech Translation**|Weiting Tan, Jingyu Zhang, Lingfeng Shen, Daniel Khashabi, Philipp Koehn et.al.|[2405.13274v1](http://arxiv.org/abs/2405.13274v1)|**[link](https://github.com/steventan0110/diffnorm)**|
 |**2024-05-21**|**MELD-ST: An Emotion-aware Speech Translation Dataset**|Sirou Chen, Sakiko Yahata, Shuichiro Shimizu, Zhengdong Yang, Yihang Li, Chenhui Chu, Sadao Kurohashi et.al.|[2405.13233v1](http://arxiv.org/abs/2405.13233v1)|null|
@@ -227,6 +228,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools**|Varun Magesh, Faiz Surani, Matthew Dahl, Mirac Suzgun, Christopher D. Manning, Daniel E. Ho et.al.|[2405.20362v1](http://arxiv.org/abs/2405.20362v1)|null|
 |**2024-05-27**|**Explainable machine learning multi-label classification of Spanish legal judgements**|Francisco de Arriba-Pérez, Silvia García-Méndez, Francisco J. González-Castaño, Jaime González-González et.al.|[2405.17610v1](http://arxiv.org/abs/2405.17610v1)|null|
 |**2024-05-23**|**Artificial Intelligence (AI) in Legal Data Mining**|Aniket Deroy, Naksatra Kumar Bailung, Kripabandhu Ghosh, Saptarshi Ghosh, Abhijnan Chakraborty et.al.|[2405.14707v1](http://arxiv.org/abs/2405.14707v1)|null|
 |**2024-05-23**|**ChronosLex: Time-aware Incremental Training for Temporal Generalization of Legal Classification Tasks**|T. Y. S. S Santosh, Tuan-Quang Vuong, Matthias Grabmair et.al.|[2405.14211v1](http://arxiv.org/abs/2405.14211v1)|null|
