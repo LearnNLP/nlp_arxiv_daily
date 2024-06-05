@@ -23,6 +23,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**SimulTron: On-Device Simultaneous Speech to Speech Translation**|Alex Agranovich, Eliya Nachmani, Oleg Rybakov, Yifan Ding, Ye Jia, Nadav Bar, Heiga Zen, Michelle Tadmor Ramanovich et.al.|[2406.02133v1](http://arxiv.org/abs/2406.02133v1)|null|
+|**2024-06-01**|**Recent Advances in End-to-End Simultaneous Speech Translation**|Xiaoqian Liu, Guoqiang Hu, Yangfan Du, Erfeng He, YingFeng Luo, Chen Xu, Tong Xiao, Jingbo Zhu et.al.|[2406.00497v1](http://arxiv.org/abs/2406.00497v1)|null|
 |**2024-05-30**|**SeamlessExpressiveLM: Speech Language Model for Expressive Speech-to-Speech Translation with Chain-of-Thought**|Hongyu Gong, Bandhav Veluri et.al.|[2405.20410v1](http://arxiv.org/abs/2405.20410v1)|null|
 |**2024-05-28**|**TransVIP: Speech to Speech Translation System with Voice and Isochrony Preservation**|Chenyang Le, Yao Qian, Dongmei Wang, Long Zhou, Shujie Liu, Xiaofei Wang, Midia Yousefi, Yanmin Qian, Jinyu Li, Sheng Zhao, Michael Zeng et.al.|[2405.17809v1](http://arxiv.org/abs/2405.17809v1)|null|
 |**2024-05-22**|**DiffNorm: Self-Supervised Normalization for Non-autoregressive Speech-to-speech Translation**|Weiting Tan, Jingyu Zhang, Lingfeng Shen, Daniel Khashabi, Philipp Koehn et.al.|[2405.13274v1](http://arxiv.org/abs/2405.13274v1)|**[link](https://github.com/steventan0110/diffnorm)**|
@@ -228,6 +230,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-27**|**Unveiling Themes in Judicial Proceedings: A Cross-Country Study Using Topic Modeling on Legal Documents from India and the UK**|Krish Didwania, Dr. Durga Toshniwal, Amit Agarwal et.al.|[2406.00040v1](http://arxiv.org/abs/2406.00040v1)|null|
 |**2024-05-30**|**Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools**|Varun Magesh, Faiz Surani, Matthew Dahl, Mirac Suzgun, Christopher D. Manning, Daniel E. Ho et.al.|[2405.20362v1](http://arxiv.org/abs/2405.20362v1)|null|
 |**2024-05-27**|**Explainable machine learning multi-label classification of Spanish legal judgements**|Francisco de Arriba-Pérez, Silvia García-Méndez, Francisco J. González-Castaño, Jaime González-González et.al.|[2405.17610v1](http://arxiv.org/abs/2405.17610v1)|null|
 |**2024-05-23**|**Artificial Intelligence (AI) in Legal Data Mining**|Aniket Deroy, Naksatra Kumar Bailung, Kripabandhu Ghosh, Saptarshi Ghosh, Abhijnan Chakraborty et.al.|[2405.14707v1](http://arxiv.org/abs/2405.14707v1)|null|
@@ -589,6 +592,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Whistle: Data-Efficient Multilingual and Crosslingual Speech Recognition via Weakly Phonetic Supervision**|Saierdaer Yusuyin, Te Ma, Hao Huang, Wenbo Zhao, Zhijian Ou et.al.|[2406.02166v1](http://arxiv.org/abs/2406.02166v1)|**[link](https://github.com/thu-spmi/cat)**|
+|**2024-05-27**|**ViSpeR: Multilingual Audio-Visual Speech Recognition**|Sanath Narayan, Yasser Abdelaziz Dahou Djilali, Ankit Singh, Eustache Le Bihan, Hakim Hacid et.al.|[2406.00038v1](http://arxiv.org/abs/2406.00038v1)|null|
 |**2024-05-27**|**Federating Dynamic Models using Early-Exit Architectures for Automatic Speech Recognition on Heterogeneous Clients**|Mohamed Nabih Ali, Alessio Brutti, Daniele Falavigna et.al.|[2405.17376v1](http://arxiv.org/abs/2405.17376v1)|null|
 |**2024-05-24**|**Denoising LM: Pushing the Limits of Error Correction Models for Speech Recognition**|Zijin Gu, Tatiana Likhomanenko, He Bai, Erik McDermott, Ronan Collobert, Navdeep Jaitly et.al.|[2405.15216v1](http://arxiv.org/abs/2405.15216v1)|null|
 |**2024-05-22**|**Joint Optimization of Streaming and Non-Streaming Automatic Speech Recognition with Multi-Decoder and Knowledge Distillation**|Muhammad Shakeel, Yui Sudo, Yifan Peng, Shinji Watanabe et.al.|[2405.13514v1](http://arxiv.org/abs/2405.13514v1)|null|
