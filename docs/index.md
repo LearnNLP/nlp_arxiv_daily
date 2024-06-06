@@ -23,6 +23,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning**|Shaolei Zhang, Qingkai Fang, Shoutao Guo, Zhengrui Ma, Min Zhang, Yang Feng et.al.|[2406.03049v1](http://arxiv.org/abs/2406.03049v1)|**[link](https://github.com/ictnlp/streamspeech)**|
+|**2024-06-04**|**Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation**|Min-Jae Hwang, Ilia Kulikov, Benjamin Peloquin, Hongyu Gong, Peng-Jen Chen, Ann Lee et.al.|[2406.02733v1](http://arxiv.org/abs/2406.02733v1)|null|
 |**2024-06-04**|**SimulTron: On-Device Simultaneous Speech to Speech Translation**|Alex Agranovich, Eliya Nachmani, Oleg Rybakov, Yifan Ding, Ye Jia, Nadav Bar, Heiga Zen, Michelle Tadmor Ramanovich et.al.|[2406.02133v1](http://arxiv.org/abs/2406.02133v1)|null|
 |**2024-06-01**|**Recent Advances in End-to-End Simultaneous Speech Translation**|Xiaoqian Liu, Guoqiang Hu, Yangfan Du, Erfeng He, YingFeng Luo, Chen Xu, Tong Xiao, Jingbo Zhu et.al.|[2406.00497v1](http://arxiv.org/abs/2406.00497v1)|null|
 |**2024-05-30**|**SeamlessExpressiveLM: Speech Language Model for Expressive Speech-to-Speech Translation with Chain-of-Thought**|Hongyu Gong, Bandhav Veluri et.al.|[2405.20410v1](http://arxiv.org/abs/2405.20410v1)|null|
@@ -592,6 +594,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Enhancing CTC-based speech recognition with diverse modeling units**|Shiyi Han, Zhihong Lei, Mingbin Xu, Xingyu Na, Zhen Huang et.al.|[2406.03274v1](http://arxiv.org/abs/2406.03274v1)|null|
+|**2024-06-05**|**Error-preserving Automatic Speech Recognition of Young English Learners' Language**|Janick Michot, Manuela Hürlimann, Jan Deriu, Luzia Sauer, Katsiaryna Mlynchyk, Mark Cieliebak et.al.|[2406.03235v1](http://arxiv.org/abs/2406.03235v1)|**[link](https://github.com/mict-zhaw/chall_e2e_stt)**|
+|**2024-06-04**|**Keyword-Guided Adaptation of Automatic Speech Recognition**|Aviv Shamsian, Aviv Navon, Neta Glazer, Gill Hetz, Joseph Keshet et.al.|[2406.02649v1](http://arxiv.org/abs/2406.02649v1)|null|
+|**2024-05-03**|**Combining X-Vectors and Bayesian Batch Active Learning: Two-Stage Active Learning Pipeline for Speech Recognition**|Ognjen Kundacina, Vladimir Vincan, Dragisa Miskovic et.al.|[2406.02566v1](http://arxiv.org/abs/2406.02566v1)|null|
+|**2024-04-24**|**Gated Low-rank Adaptation for personalized Code-Switching Automatic Speech Recognition on the low-spec devices**|Gwantae Kim, Bokyeung Lee, Donghyeon Kim, Hanseok Ko et.al.|[2406.02562v1](http://arxiv.org/abs/2406.02562v1)|null|
+|**2024-04-23**|**Breaking Walls: Pioneering Automatic Speech Recognition for Central Kurdish: End-to-End Transformer Paradigm**|Abdulhady Abas Abdullah, Hadi Veisi, Tarik Rashid et.al.|[2406.02561v1](http://arxiv.org/abs/2406.02561v1)|null|
+|**2024-03-27**|**PhoWhisper: Automatic Speech Recognition for Vietnamese**|Thanh-Thien Le, Linh The Nguyen, Dat Quoc Nguyen et.al.|[2406.02555v1](http://arxiv.org/abs/2406.02555v1)|null|
 |**2024-06-04**|**Whistle: Data-Efficient Multilingual and Crosslingual Speech Recognition via Weakly Phonetic Supervision**|Saierdaer Yusuyin, Te Ma, Hao Huang, Wenbo Zhao, Zhijian Ou et.al.|[2406.02166v1](http://arxiv.org/abs/2406.02166v1)|**[link](https://github.com/thu-spmi/cat)**|
 |**2024-05-27**|**ViSpeR: Multilingual Audio-Visual Speech Recognition**|Sanath Narayan, Yasser Abdelaziz Dahou Djilali, Ankit Singh, Eustache Le Bihan, Hakim Hacid et.al.|[2406.00038v1](http://arxiv.org/abs/2406.00038v1)|null|
 |**2024-05-27**|**Federating Dynamic Models using Early-Exit Architectures for Automatic Speech Recognition on Heterogeneous Clients**|Mohamed Nabih Ali, Alessio Brutti, Daniele Falavigna et.al.|[2405.17376v1](http://arxiv.org/abs/2405.17376v1)|null|
