@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**Evaluating the IWSLT2023 Speech Translation Tasks: Human Annotations, Automatic Metrics, and Segmentation**|Matthias Sperber, Ondřej Bojar, Barry Haddow, Dávid Javorský, Xutai Ma, Matteo Negri, Jan Niehues, Peter Polák, Elizabeth Salesky, Katsuhito Sudoh, Marco Turchi et.al.|[2406.03881v1](http://arxiv.org/abs/2406.03881v1)|null|
 |**2024-06-05**|**StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning**|Shaolei Zhang, Qingkai Fang, Shoutao Guo, Zhengrui Ma, Min Zhang, Yang Feng et.al.|[2406.03049v1](http://arxiv.org/abs/2406.03049v1)|**[link](https://github.com/ictnlp/streamspeech)**|
 |**2024-06-04**|**Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation**|Min-Jae Hwang, Ilia Kulikov, Benjamin Peloquin, Hongyu Gong, Peng-Jen Chen, Ann Lee et.al.|[2406.02733v1](http://arxiv.org/abs/2406.02733v1)|null|
 |**2024-06-04**|**SimulTron: On-Device Simultaneous Speech to Speech Translation**|Alex Agranovich, Eliya Nachmani, Oleg Rybakov, Yifan Ding, Ye Jia, Nadav Bar, Heiga Zen, Michelle Tadmor Ramanovich et.al.|[2406.02133v1](http://arxiv.org/abs/2406.02133v1)|null|
@@ -232,6 +233,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**Legal Documents Drafting with Fine-Tuned Pre-Trained Large Language Model**|Chun-Hsien Lin, Pu-Jen Cheng et.al.|[2406.04202v1](http://arxiv.org/abs/2406.04202v1)|**[link](https://huggingface.co/jslin09/bloom-560m-finetuned-fraud)**|
+|**2024-06-06**|**Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts**|Shubham Kumar Nigam, Anurag Sharma, Danush Khanna, Noel Shallum, Kripabandhu Ghosh, Arnab Bhattacharya et.al.|[2406.04136v1](http://arxiv.org/abs/2406.04136v1)|null|
+|**2024-06-05**|**Knowledge-Infused Legal Wisdom: Navigating LLM Consultation through the Lens of Diagnostics and Positive-Unlabeled Reinforcement Learning**|Yang Wu, Chenghao Wang, Ece Gumusel, Xiaozhong Liu et.al.|[2406.03600v1](http://arxiv.org/abs/2406.03600v1)|null|
 |**2024-05-27**|**Unveiling Themes in Judicial Proceedings: A Cross-Country Study Using Topic Modeling on Legal Documents from India and the UK**|Krish Didwania, Dr. Durga Toshniwal, Amit Agarwal et.al.|[2406.00040v1](http://arxiv.org/abs/2406.00040v1)|null|
 |**2024-05-30**|**Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools**|Varun Magesh, Faiz Surani, Matthew Dahl, Mirac Suzgun, Christopher D. Manning, Daniel E. Ho et.al.|[2405.20362v1](http://arxiv.org/abs/2405.20362v1)|null|
 |**2024-05-27**|**Explainable machine learning multi-label classification of Spanish legal judgements**|Francisco de Arriba-Pérez, Silvia García-Méndez, Francisco J. González-Castaño, Jaime González-González et.al.|[2405.17610v1](http://arxiv.org/abs/2405.17610v1)|null|
@@ -594,6 +598,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**Speed of Light Exact Greedy Decoding for RNN-T Speech Recognition Models on GPU**|Daniel Galvez, Vladimir Bataev, Hainan Xu, Tim Kaldewey et.al.|[2406.03791v1](http://arxiv.org/abs/2406.03791v1)|null|
 |**2024-06-05**|**Enhancing CTC-based speech recognition with diverse modeling units**|Shiyi Han, Zhihong Lei, Mingbin Xu, Xingyu Na, Zhen Huang et.al.|[2406.03274v1](http://arxiv.org/abs/2406.03274v1)|null|
 |**2024-06-05**|**Error-preserving Automatic Speech Recognition of Young English Learners' Language**|Janick Michot, Manuela Hürlimann, Jan Deriu, Luzia Sauer, Katsiaryna Mlynchyk, Mark Cieliebak et.al.|[2406.03235v1](http://arxiv.org/abs/2406.03235v1)|**[link](https://github.com/mict-zhaw/chall_e2e_stt)**|
 |**2024-06-04**|**Keyword-Guided Adaptation of Automatic Speech Recognition**|Aviv Shamsian, Aviv Navon, Neta Glazer, Gill Hetz, Joseph Keshet et.al.|[2406.02649v1](http://arxiv.org/abs/2406.02649v1)|null|
