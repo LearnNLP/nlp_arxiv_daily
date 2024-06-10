@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation**|Keqi Deng, Philip C. Woodland et.al.|[2406.04541v1](http://arxiv.org/abs/2406.04541v1)|null|
 |**2024-06-06**|**Evaluating the IWSLT2023 Speech Translation Tasks: Human Annotations, Automatic Metrics, and Segmentation**|Matthias Sperber, Ondřej Bojar, Barry Haddow, Dávid Javorský, Xutai Ma, Matteo Negri, Jan Niehues, Peter Polák, Elizabeth Salesky, Katsuhito Sudoh, Marco Turchi et.al.|[2406.03881v1](http://arxiv.org/abs/2406.03881v1)|null|
 |**2024-06-05**|**StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning**|Shaolei Zhang, Qingkai Fang, Shoutao Guo, Zhengrui Ma, Min Zhang, Yang Feng et.al.|[2406.03049v1](http://arxiv.org/abs/2406.03049v1)|**[link](https://github.com/ictnlp/streamspeech)**|
 |**2024-06-04**|**Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation**|Min-Jae Hwang, Ilia Kulikov, Benjamin Peloquin, Hongyu Gong, Peng-Jen Chen, Ann Lee et.al.|[2406.02733v1](http://arxiv.org/abs/2406.02733v1)|null|
@@ -233,6 +234,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**On Ambiguity and the Expressive Function of Law: The Role of Pragmatics in Smart Legal Ecosystems**|Pompeu Casanovas et.al.|[2406.05084v1](http://arxiv.org/abs/2406.05084v1)|null|
+|**2024-06-07**|**LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model**|Zhi Zhou, Jiang-Xin Shi, Peng-Xiao Song, Xiao-Wen Yang, Yi-Xuan Jin, Lan-Zhe Guo, Yu-Feng Li et.al.|[2406.04614v1](http://arxiv.org/abs/2406.04614v1)|**[link](https://github.com/pengxiao-song/lawgpt)**|
 |**2024-06-06**|**Legal Documents Drafting with Fine-Tuned Pre-Trained Large Language Model**|Chun-Hsien Lin, Pu-Jen Cheng et.al.|[2406.04202v1](http://arxiv.org/abs/2406.04202v1)|**[link](https://huggingface.co/jslin09/bloom-560m-finetuned-fraud)**|
 |**2024-06-06**|**Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts**|Shubham Kumar Nigam, Anurag Sharma, Danush Khanna, Noel Shallum, Kripabandhu Ghosh, Arnab Bhattacharya et.al.|[2406.04136v1](http://arxiv.org/abs/2406.04136v1)|null|
 |**2024-06-05**|**Knowledge-Infused Legal Wisdom: Navigating LLM Consultation through the Lens of Diagnostics and Positive-Unlabeled Reinforcement Learning**|Yang Wu, Chenghao Wang, Ece Gumusel, Xiaozhong Liu et.al.|[2406.03600v1](http://arxiv.org/abs/2406.03600v1)|null|
@@ -598,6 +601,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**LipGER: Visually-Conditioned Generative Error Correction for Robust Automatic Speech Recognition**|Sreyan Ghosh, Sonal Kumar, Ashish Seth, Purva Chiniya, Utkarsh Tyagi, Ramani Duraiswami, Dinesh Manocha et.al.|[2406.04432v1](http://arxiv.org/abs/2406.04432v1)|**[link](https://github.com/sreyan88/lipger)**|
 |**2024-06-06**|**Speed of Light Exact Greedy Decoding for RNN-T Speech Recognition Models on GPU**|Daniel Galvez, Vladimir Bataev, Hainan Xu, Tim Kaldewey et.al.|[2406.03791v1](http://arxiv.org/abs/2406.03791v1)|null|
 |**2024-06-05**|**Enhancing CTC-based speech recognition with diverse modeling units**|Shiyi Han, Zhihong Lei, Mingbin Xu, Xingyu Na, Zhen Huang et.al.|[2406.03274v1](http://arxiv.org/abs/2406.03274v1)|null|
 |**2024-06-05**|**Error-preserving Automatic Speech Recognition of Young English Learners' Language**|Janick Michot, Manuela Hürlimann, Jan Deriu, Luzia Sauer, Katsiaryna Mlynchyk, Mark Cieliebak et.al.|[2406.03235v1](http://arxiv.org/abs/2406.03235v1)|**[link](https://github.com/mict-zhaw/chall_e2e_stt)**|
