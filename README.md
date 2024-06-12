@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**CTC-based Non-autoregressive Textless Speech-to-Speech Translation**|Qingkai Fang, Zhengrui Ma, Yan Zhou, Min Zhang, Yang Feng et.al.|[2406.07330v1](http://arxiv.org/abs/2406.07330v1)|**[link](https://github.com/ictnlp/ctc-s2ut)**|
+|**2024-06-11**|**Can We Achieve High-quality Direct Speech-to-Speech Translation without Parallel Speech Data?**|Qingkai Fang, Shaolei Zhang, Zhengrui Ma, Min Zhang, Yang Feng et.al.|[2406.07289v1](http://arxiv.org/abs/2406.07289v1)|null|
 |**2024-06-06**|**Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation**|Keqi Deng, Philip C. Woodland et.al.|[2406.04541v1](http://arxiv.org/abs/2406.04541v1)|**[link](https://github.com/D-Keqi/LS-Transducer-SST)**|
 |**2024-06-06**|**Evaluating the IWSLT2023 Speech Translation Tasks: Human Annotations, Automatic Metrics, and Segmentation**|Matthias Sperber, Ondřej Bojar, Barry Haddow, Dávid Javorský, Xutai Ma, Matteo Negri, Jan Niehues, Peter Polák, Elizabeth Salesky, Katsuhito Sudoh, Marco Turchi et.al.|[2406.03881v1](http://arxiv.org/abs/2406.03881v1)|null|
 |**2024-06-05**|**StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning**|Shaolei Zhang, Qingkai Fang, Shoutao Guo, Zhengrui Ma, Min Zhang, Yang Feng et.al.|[2406.03049v1](http://arxiv.org/abs/2406.03049v1)|**[link](https://github.com/ictnlp/streamspeech)**|
@@ -230,6 +232,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**The Legal Duty to Search for Less Discriminatory Algorithms**|Emily Black, Logan Koepke, Pauline Kim, Solon Barocas, Mingwei Hsu et.al.|[2406.06817v1](http://arxiv.org/abs/2406.06817v1)|null|
+|**2024-06-10**|**AGB-DE: A Corpus for the Automated Legal Assessment of Clauses in German Consumer Contracts**|Daniel Braun, Florian Matthes et.al.|[2406.06809v1](http://arxiv.org/abs/2406.06809v1)|null|
 |**2024-06-07**|**On Ambiguity and the Expressive Function of Law: The Role of Pragmatics in Smart Legal Ecosystems**|Pompeu Casanovas et.al.|[2406.05084v1](http://arxiv.org/abs/2406.05084v1)|null|
 |**2024-06-07**|**LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model**|Zhi Zhou, Jiang-Xin Shi, Peng-Xiao Song, Xiao-Wen Yang, Yi-Xuan Jin, Lan-Zhe Guo, Yu-Feng Li et.al.|[2406.04614v1](http://arxiv.org/abs/2406.04614v1)|**[link](https://github.com/pengxiao-song/lawgpt)**|
 |**2024-06-06**|**Legal Documents Drafting with Fine-Tuned Pre-Trained Large Language Model**|Chun-Hsien Lin, Pu-Jen Cheng et.al.|[2406.04202v1](http://arxiv.org/abs/2406.04202v1)|**[link](https://huggingface.co/jslin09/bloom-560m-finetuned-fraud)**|
@@ -597,6 +601,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**AS-70: A Mandarin stuttered speech dataset for automatic speech recognition and stuttering event detection**|Rong Gong, Hongfei Xue, Lezhi Wang, Xin Xu, Qisheng Li, Lei Xie, Hui Bu, Shaomei Wu, Jiaming Zhou, Yong Qin, Binbin Zhang, Jun Du, Jia Bin, Ming Li et.al.|[2406.07256v1](http://arxiv.org/abs/2406.07256v1)|null|
+|**2024-06-11**|**Reading Miscue Detection in Primary School through Automatic Speech Recognition**|Lingyun Gao, Cristian Tejedor-Garcia, Helmer Strik, Catia Cucchiarini et.al.|[2406.07060v1](http://arxiv.org/abs/2406.07060v1)|null|
 |**2024-06-06**|**LipGER: Visually-Conditioned Generative Error Correction for Robust Automatic Speech Recognition**|Sreyan Ghosh, Sonal Kumar, Ashish Seth, Purva Chiniya, Utkarsh Tyagi, Ramani Duraiswami, Dinesh Manocha et.al.|[2406.04432v1](http://arxiv.org/abs/2406.04432v1)|**[link](https://github.com/sreyan88/lipger)**|
 |**2024-06-06**|**Speed of Light Exact Greedy Decoding for RNN-T Speech Recognition Models on GPU**|Daniel Galvez, Vladimir Bataev, Hainan Xu, Tim Kaldewey et.al.|[2406.03791v1](http://arxiv.org/abs/2406.03791v1)|null|
 |**2024-06-11**|**Enhancing CTC-based speech recognition with diverse modeling units**|Shiyi Han, Zhihong Lei, Mingbin Xu, Xingyu Na, Zhen Huang et.al.|[2406.03274v2](http://arxiv.org/abs/2406.03274v2)|null|
