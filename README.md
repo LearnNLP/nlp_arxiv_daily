@@ -601,6 +601,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**Neural Blind Source Separation and Diarization for Distant Speech Recognition**|Yoshiaki Bando, Tomohiko Nakamura, Shinji Watanabe et.al.|[2406.08396v1](http://arxiv.org/abs/2406.08396v1)|null|
+|**2024-06-12**|**Towards Unsupervised Speech Recognition Without Pronunciation Models**|Junrui Ni, Liming Wang, Yang Zhang, Kaizhi Qian, Heting Gao, Mark Hasegawa-Johnson, Chang D. Yoo et.al.|[2406.08380v1](http://arxiv.org/abs/2406.08380v1)|null|
+|**2024-06-11**|**Tag and correct: high precision post-editing approach to correction of speech recognition errors**|Tomasz Ziętkiewicz et.al.|[2406.07589v1](http://arxiv.org/abs/2406.07589v1)|null|
 |**2024-06-11**|**AS-70: A Mandarin stuttered speech dataset for automatic speech recognition and stuttering event detection**|Rong Gong, Hongfei Xue, Lezhi Wang, Xin Xu, Qisheng Li, Lei Xie, Hui Bu, Shaomei Wu, Jiaming Zhou, Yong Qin, Binbin Zhang, Jun Du, Jia Bin, Ming Li et.al.|[2406.07256v1](http://arxiv.org/abs/2406.07256v1)|null|
 |**2024-06-11**|**Reading Miscue Detection in Primary School through Automatic Speech Recognition**|Lingyun Gao, Cristian Tejedor-Garcia, Helmer Strik, Catia Cucchiarini et.al.|[2406.07060v1](http://arxiv.org/abs/2406.07060v1)|null|
 |**2024-06-06**|**LipGER: Visually-Conditioned Generative Error Correction for Robust Automatic Speech Recognition**|Sreyan Ghosh, Sonal Kumar, Ashish Seth, Purva Chiniya, Utkarsh Tyagi, Ramani Duraiswami, Dinesh Manocha et.al.|[2406.04432v1](http://arxiv.org/abs/2406.04432v1)|**[link](https://github.com/sreyan88/lipger)**|
