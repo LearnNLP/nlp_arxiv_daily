@@ -605,6 +605,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn't**|Chihiro Taguchi, David Chiang et.al.|[2406.09202v1](http://arxiv.org/abs/2406.09202v1)|null|
+|**2024-06-13**|**Transcription-Free Fine-Tuning of Speech Separation Models for Noisy and Reverberant Multi-Speaker Automatic Speech Recognition**|William Ravenscroft, George Close, Stefan Goetze, Thomas Hain, Mohammad Soleymanpour, Anurag Chowdhury, Mark C. Fuhs et.al.|[2406.08914v1](http://arxiv.org/abs/2406.08914v1)|null|
+|**2024-06-13**|**A Single-Step Non-Autoregressive Automatic Speech Recognition Architecture with High Accuracy and Inference Speed**|Ziyang Zhuang, Chenfeng Miao, Kun Zou, Shuai Gong, Ming Fang, Tao Wei, Zijian Li, Wei Hu, Shaojun Wang, Jing Xiao et.al.|[2406.08835v1](http://arxiv.org/abs/2406.08835v1)|null|
+|**2024-06-12**|**Training Data Augmentation for Dysarthric Automatic Speech Recognition by Text-to-Dysarthric-Speech Synthesis**|Wing-Zin Leung, Mattias Cross, Anton Ragni, Stefan Goetze et.al.|[2406.08568v1](http://arxiv.org/abs/2406.08568v1)|null|
 |**2024-06-12**|**Neural Blind Source Separation and Diarization for Distant Speech Recognition**|Yoshiaki Bando, Tomohiko Nakamura, Shinji Watanabe et.al.|[2406.08396v1](http://arxiv.org/abs/2406.08396v1)|null|
 |**2024-06-12**|**Towards Unsupervised Speech Recognition Without Pronunciation Models**|Junrui Ni, Liming Wang, Yang Zhang, Kaizhi Qian, Heting Gao, Mark Hasegawa-Johnson, Chang D. Yoo et.al.|[2406.08380v1](http://arxiv.org/abs/2406.08380v1)|null|
 |**2024-06-11**|**Tag and correct: high precision post-editing approach to correction of speech recognition errors**|Tomasz Ziętkiewicz et.al.|[2406.07589v1](http://arxiv.org/abs/2406.07589v1)|null|
