@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Diffusion Synthesizer for Efficient Multilingual Speech to Speech Translation**|Nameer Hirschkind, Xiao Yu, Mahesh Kumar Nandwana, Joseph Liu, Eloi DuBois, Dao Le, Nicolas Thiebaut, Colin Sinclair, Kyle Spence, Charles Shang, Zoe Abrams, Morgan McGuire et.al.|[2406.10223v1](http://arxiv.org/abs/2406.10223v1)|null|
+|**2024-06-14**|**Exploring the Correlation between Human and Machine Evaluation of Simultaneous Speech Translation**|Xiaoman Wang, Claudio Fantinuoli et.al.|[2406.10091v1](http://arxiv.org/abs/2406.10091v1)|null|
 |**2024-06-11**|**CTC-based Non-autoregressive Textless Speech-to-Speech Translation**|Qingkai Fang, Zhengrui Ma, Yan Zhou, Min Zhang, Yang Feng et.al.|[2406.07330v1](http://arxiv.org/abs/2406.07330v1)|**[link](https://github.com/ictnlp/ctc-s2ut)**|
 |**2024-06-11**|**Can We Achieve High-quality Direct Speech-to-Speech Translation without Parallel Speech Data?**|Qingkai Fang, Shaolei Zhang, Zhengrui Ma, Min Zhang, Yang Feng et.al.|[2406.07289v1](http://arxiv.org/abs/2406.07289v1)|null|
 |**2024-06-06**|**Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation**|Keqi Deng, Philip C. Woodland et.al.|[2406.04541v1](http://arxiv.org/abs/2406.04541v1)|**[link](https://github.com/D-Keqi/LS-Transducer-SST)**|
@@ -601,6 +603,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Whisper-Flamingo: Integrating Visual Features into Whisper for Audio-Visual Speech Recognition and Translation**|Andrew Rouditchenko, Yuan Gong, Samuel Thomas, Leonid Karlinsky, Hilde Kuehne, Rogerio Feris, James Glass et.al.|[2406.10082v1](http://arxiv.org/abs/2406.10082v1)|**[link](https://github.com/roudimit/whisper-flamingo)**|
+|**2024-06-14**|**An efficient text augmentation approach for contextualized Mandarin speech recognition**|Naijun Zheng, Xucheng Wan, Kai Liu, Ziqing Du, Zhou Huan et.al.|[2406.09950v1](http://arxiv.org/abs/2406.09950v1)|null|
+|**2024-06-14**|**Perceiver-Prompt: Flexible Speaker Adaptation in Whisper for Chinese Disordered Speech Recognition**|Yicong Jiang, Tianzi Wang, Xurong Xie, Juan Liu, Wei Sun, Nan Yan, Hui Chen, Lan Wang, Xunying Liu, Feng Tian et.al.|[2406.09873v1](http://arxiv.org/abs/2406.09873v1)|null|
+|**2024-06-13**|**Multi-Modal Retrieval For Large Language Model Based Speech Recognition**|Jari Kolehmainen, Aditya Gourav, Prashanth Gurunath Shivakumar, Yile Gu, Ankur Gandhe, Ariya Rastrow, Grant Strimel, Ivan Bulyko et.al.|[2406.09618v1](http://arxiv.org/abs/2406.09618v1)|null|
+|**2024-06-13**|**Speech ReaLLM -- Real-time Streaming Speech Recognition with Multimodal LLMs by Teaching the Flow of Time**|Frank Seide, Morrie Doulaty, Yangyang Shi, Yashesh Gaur, Junteng Jia, Chunyang Wu et.al.|[2406.09569v1](http://arxiv.org/abs/2406.09569v1)|null|
 |**2024-06-13**|**Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn't**|Chihiro Taguchi, David Chiang et.al.|[2406.09202v1](http://arxiv.org/abs/2406.09202v1)|null|
 |**2024-06-13**|**Transcription-Free Fine-Tuning of Speech Separation Models for Noisy and Reverberant Multi-Speaker Automatic Speech Recognition**|William Ravenscroft, George Close, Stefan Goetze, Thomas Hain, Mohammad Soleymanpour, Anurag Chowdhury, Mark C. Fuhs et.al.|[2406.08914v1](http://arxiv.org/abs/2406.08914v1)|null|
 |**2024-06-13**|**A Single-Step Non-Autoregressive Automatic Speech Recognition Architecture with High Accuracy and Inference Speed**|Ziyang Zhuang, Chenfeng Miao, Kun Zou, Shuai Gong, Ming Fang, Tao Wei, Zijian Li, Wei Hu, Shaojun Wang, Jing Xiao et.al.|[2406.08835v1](http://arxiv.org/abs/2406.08835v1)|null|
