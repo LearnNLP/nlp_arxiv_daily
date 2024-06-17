@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.16
+## Updated on 2024.06.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -230,7 +230,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20240616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
 
 ## Legal
 
@@ -297,9 +297,9 @@ layout: default
 |**2024-03-03**|**Logic Rules as Explanations for Legal Case Retrieval**|Zhongxiang Sun, Kepu Zhang, Weijie Yu, Haoyu Wang, Jun Xu et.al.|[2403.01457v1](http://arxiv.org/abs/2403.01457v1)|**[link](https://github.com/ke-01/ns-lcr)**|
 |**2024-03-08**|**Evault for legal records**|Jeba N, Anas S, Anuragav S, Abhishek R, Sachin K et.al.|[2403.01186v2](http://arxiv.org/abs/2403.01186v2)|null|
 |**2024-02-25**|**Gender Biased Legal Case Retrieval System on Users' Decision Process**|Ruizhe Zhang, Qingyao Ai, Yiqun Liu, Yueyue Wu, Beining Wang et.al.|[2403.00814v1](http://arxiv.org/abs/2403.00814v1)|null|
-|**2024-03-01**|**EUROPA: A Legal Multilingual Keyphrase Generation Dataset**|Olivier Salaün, Frédéric Piedboeuf, Guillaume Le Berre, David Alfonso Hermelo, Philippe Langlais et.al.|[2403.00252v1](http://arxiv.org/abs/2403.00252v1)|**[link](https://github.com/rali-udem/europa)**|
+|**2024-06-14**|**EUROPA: A Legal Multilingual Keyphrase Generation Dataset**|Olivier Salaün, Frédéric Piedboeuf, Guillaume Le Berre, David Alfonso Hermelo, Philippe Langlais et.al.|[2403.00252v2](http://arxiv.org/abs/2403.00252v2)|**[link](https://github.com/rali-udem/europa)**|
 |**2024-03-04**|**Improving Legal Judgement Prediction in Romanian with Long Text Encoders**|Mihai Masala, Traian Rebedea, Horia Velicu et.al.|[2402.19170v2](http://arxiv.org/abs/2402.19170v2)|null|
-|**2024-06-13**|**Leveraging Large Language Models for Learning Complex Legal Concepts through Storytelling**|Hang Jiang, Xiajie Zhang, Robert Mahari, Daniel Kessler, Eric Ma, Tal August, Irene Li, Alex 'Sandy' Pentland, Yoon Kim, Jad Kabbara, Deb Roy et.al.|[2402.17019v2](http://arxiv.org/abs/2402.17019v2)|**[link](https://github.com/hjian42/legalstories)**|
+|**2024-06-14**|**Leveraging Large Language Models for Learning Complex Legal Concepts through Storytelling**|Hang Jiang, Xiajie Zhang, Robert Mahari, Daniel Kessler, Eric Ma, Tal August, Irene Li, Alex 'Sandy' Pentland, Yoon Kim, Jad Kabbara, Deb Roy et.al.|[2402.17019v3](http://arxiv.org/abs/2402.17019v3)|**[link](https://github.com/hjian42/legalstories)**|
 |**2024-02-21**|**InSaAF: Incorporating Safety through Accuracy and Fairness | Are LLMs ready for the Indian Legal Domain?**|Yogesh Tripathi, Raghav Donakanti, Sahil Girhepuje, Ishan Kavathekar, Bhaskara Hanuma Vedula, Gokul S Krishnan, Shreya Goyal, Anmol Goel, Balaraman Ravindran, Ponnurangam Kumaraguru et.al.|[2402.10567v3](http://arxiv.org/abs/2402.10567v3)|null|
 |**2024-02-12**|**Large Language Models "Ad Referendum": How Good Are They at Machine Translation in the Legal Domain?**|Vicent Briva-Iglesias, Joao Lucas Cavalheiro Camargo, Gokhan Dogru et.al.|[2402.07681v1](http://arxiv.org/abs/2402.07681v1)|null|
 |**2024-06-06**|**Through the Lens of Split Vote: Exploring Disagreement, Difficulty and Calibration in Legal Case Outcome Classification**|Shanshan Xu, T. Y. S. S Santosh, Oana Ichim, Barbara Plank, Matthias Grabmair et.al.|[2402.07214v3](http://arxiv.org/abs/2402.07214v3)|null|
@@ -599,7 +599,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -1022,7 +1022,7 @@ layout: default
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -1032,7 +1032,7 @@ layout: default
 |**2024-05-03**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v4](http://arxiv.org/abs/2207.14682v4)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
