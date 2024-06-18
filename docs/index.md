@@ -23,6 +23,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-16**|**CoSTA: Code-Switched Speech Translation using Aligned Speech-Text Interleaving**|Bhavani Shankar, Preethi Jyothi, Pushpak Bhattacharyya et.al.|[2406.10993v1](http://arxiv.org/abs/2406.10993v1)|null|
+|**2024-06-15**|**Lightweight Audio Segmentation for Long-form Speech Translation**|Jaesong Lee, Soyoon Kim, Hanbyul Kim, Joon Son Chung et.al.|[2406.10549v1](http://arxiv.org/abs/2406.10549v1)|null|
+|**2024-06-12**|**Soft Language Identification for Language-Agnostic Many-to-One End-to-End Speech Translation**|Peidong Wang, Jian Xue, Jinyu Li, Junkun Chen, Aswin Shanmugam Subramanian et.al.|[2406.10276v1](http://arxiv.org/abs/2406.10276v1)|null|
 |**2024-06-14**|**Diffusion Synthesizer for Efficient Multilingual Speech to Speech Translation**|Nameer Hirschkind, Xiao Yu, Mahesh Kumar Nandwana, Joseph Liu, Eloi DuBois, Dao Le, Nicolas Thiebaut, Colin Sinclair, Kyle Spence, Charles Shang, Zoe Abrams, Morgan McGuire et.al.|[2406.10223v1](http://arxiv.org/abs/2406.10223v1)|null|
 |**2024-06-14**|**Exploring the Correlation between Human and Machine Evaluation of Simultaneous Speech Translation**|Xiaoman Wang, Claudio Fantinuoli et.al.|[2406.10091v1](http://arxiv.org/abs/2406.10091v1)|null|
 |**2024-06-11**|**CTC-based Non-autoregressive Textless Speech-to-Speech Translation**|Qingkai Fang, Zhengrui Ma, Yan Zhou, Min Zhang, Yang Feng et.al.|[2406.07330v1](http://arxiv.org/abs/2406.07330v1)|**[link](https://github.com/ictnlp/ctc-s2ut)**|
@@ -238,6 +241,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Enhancing Criminal Case Matching through Diverse Legal Factors**|Jie Zhao, Ziyu Guan, Wei Zhao, Yue Jiang et.al.|[2406.11172v1](http://arxiv.org/abs/2406.11172v1)|null|
+|**2024-06-16**|**Towards Supporting Legal Argumentation with NLP: Is More Data Really All You Need?**|T. Y. S. S Santosh, Kevin D. Ashley, Katie Atkinson, Matthias Grabmair et.al.|[2406.10974v1](http://arxiv.org/abs/2406.10974v1)|null|
+|**2024-06-15**|**Applications of Generative AI in Healthcare: algorithmic, ethical, legal and societal considerations**|Onyekachukwu R. Okonji, Kamol Yunusov, Bonnie Gordon et.al.|[2406.10632v1](http://arxiv.org/abs/2406.10632v1)|null|
 |**2024-06-10**|**The Legal Duty to Search for Less Discriminatory Algorithms**|Emily Black, Logan Koepke, Pauline Kim, Solon Barocas, Mingwei Hsu et.al.|[2406.06817v1](http://arxiv.org/abs/2406.06817v1)|null|
 |**2024-06-10**|**AGB-DE: A Corpus for the Automated Legal Assessment of Clauses in German Consumer Contracts**|Daniel Braun, Florian Matthes et.al.|[2406.06809v1](http://arxiv.org/abs/2406.06809v1)|null|
 |**2024-06-07**|**On Ambiguity and the Expressive Function of Law: The Role of Pragmatics in Smart Legal Ecosystems**|Pompeu Casanovas et.al.|[2406.05084v1](http://arxiv.org/abs/2406.05084v1)|null|
@@ -302,7 +308,7 @@ layout: default
 |**2024-06-14**|**EUROPA: A Legal Multilingual Keyphrase Generation Dataset**|Olivier Salaün, Frédéric Piedboeuf, Guillaume Le Berre, David Alfonso Hermelo, Philippe Langlais et.al.|[2403.00252v2](http://arxiv.org/abs/2403.00252v2)|**[link](https://github.com/rali-udem/europa)**|
 |**2024-03-04**|**Improving Legal Judgement Prediction in Romanian with Long Text Encoders**|Mihai Masala, Traian Rebedea, Horia Velicu et.al.|[2402.19170v2](http://arxiv.org/abs/2402.19170v2)|null|
 |**2024-06-14**|**Leveraging Large Language Models for Learning Complex Legal Concepts through Storytelling**|Hang Jiang, Xiajie Zhang, Robert Mahari, Daniel Kessler, Eric Ma, Tal August, Irene Li, Alex 'Sandy' Pentland, Yoon Kim, Jad Kabbara, Deb Roy et.al.|[2402.17019v3](http://arxiv.org/abs/2402.17019v3)|**[link](https://github.com/hjian42/legalstories)**|
-|**2024-02-21**|**InSaAF: Incorporating Safety through Accuracy and Fairness | Are LLMs ready for the Indian Legal Domain?**|Yogesh Tripathi, Raghav Donakanti, Sahil Girhepuje, Ishan Kavathekar, Bhaskara Hanuma Vedula, Gokul S Krishnan, Shreya Goyal, Anmol Goel, Balaraman Ravindran, Ponnurangam Kumaraguru et.al.|[2402.10567v3](http://arxiv.org/abs/2402.10567v3)|null|
+|**2024-06-17**|**InSaAF: Incorporating Safety through Accuracy and Fairness | Are LLMs ready for the Indian Legal Domain?**|Yogesh Tripathi, Raghav Donakanti, Sahil Girhepuje, Ishan Kavathekar, Bhaskara Hanuma Vedula, Gokul S Krishnan, Shreya Goyal, Anmol Goel, Balaraman Ravindran, Ponnurangam Kumaraguru et.al.|[2402.10567v4](http://arxiv.org/abs/2402.10567v4)|null|
 |**2024-02-12**|**Large Language Models "Ad Referendum": How Good Are They at Machine Translation in the Legal Domain?**|Vicent Briva-Iglesias, Joao Lucas Cavalheiro Camargo, Gokhan Dogru et.al.|[2402.07681v1](http://arxiv.org/abs/2402.07681v1)|null|
 |**2024-06-06**|**Through the Lens of Split Vote: Exploring Disagreement, Difficulty and Calibration in Legal Case Outcome Classification**|Shanshan Xu, T. Y. S. S Santosh, Oana Ichim, Barbara Plank, Matthias Grabmair et.al.|[2402.07214v3](http://arxiv.org/abs/2402.07214v3)|null|
 |**2024-02-06**|**LegalLens: Leveraging LLMs for Legal Violation Identification in Unstructured Text**|Dor Bernsohn, Gil Semo, Yaron Vazana, Gila Hayat, Ben Hagag, Joel Niklaus, Rohit Saha, Kyryl Truskovskyi et.al.|[2402.04335v1](http://arxiv.org/abs/2402.04335v1)|**[link](https://github.com/darrow-labs/legallens)**|
@@ -607,6 +613,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-16**|**Continual Test-time Adaptation for End-to-end Speech Recognition on Noisy Speech**|Guan-Ting Lin, Wei-Ping Huang, Hung-yi Lee et.al.|[2406.11064v1](http://arxiv.org/abs/2406.11064v1)|null|
+|**2024-06-16**|**Imperceptible Rhythm Backdoor Attacks: Exploring Rhythm Transformation for Embedding Undetectable Vulnerabilities on Speech Recognition**|Wenhan Yao, Jiangkun Yang, Yongqiang He, Jia Liu, Weiping Wen et.al.|[2406.10932v1](http://arxiv.org/abs/2406.10932v1)|null|
+|**2024-06-14**|**CNVSRC 2023: The First Chinese Continuous Visual Speech Recognition Challenge**|Chen Chen, Zehua Liu, Xiaolou Li, Lantian Li, Dong Wang et.al.|[2406.10313v1](http://arxiv.org/abs/2406.10313v1)|null|
+|**2024-06-12**|**Improving child speech recognition with augmented child-like speech**|Yuanyuan Zhang, Zhengjun Yue, Tanvina Patel, Odette Scharenborg et.al.|[2406.10284v1](http://arxiv.org/abs/2406.10284v1)|null|
 |**2024-06-14**|**Whisper-Flamingo: Integrating Visual Features into Whisper for Audio-Visual Speech Recognition and Translation**|Andrew Rouditchenko, Yuan Gong, Samuel Thomas, Leonid Karlinsky, Hilde Kuehne, Rogerio Feris, James Glass et.al.|[2406.10082v1](http://arxiv.org/abs/2406.10082v1)|**[link](https://github.com/roudimit/whisper-flamingo)**|
 |**2024-06-14**|**An efficient text augmentation approach for contextualized Mandarin speech recognition**|Naijun Zheng, Xucheng Wan, Kai Liu, Ziqing Du, Zhou Huan et.al.|[2406.09950v1](http://arxiv.org/abs/2406.09950v1)|null|
 |**2024-06-14**|**Perceiver-Prompt: Flexible Speaker Adaptation in Whisper for Chinese Disordered Speech Recognition**|Yicong Jiang, Tianzi Wang, Xurong Xie, Juan Liu, Wei Sun, Nan Yan, Hui Chen, Lan Wang, Xunying Liu, Feng Tian et.al.|[2406.09873v1](http://arxiv.org/abs/2406.09873v1)|null|
@@ -625,6 +635,7 @@ layout: default
 |**2024-06-06**|**Speed of Light Exact Greedy Decoding for RNN-T Speech Recognition Models on GPU**|Daniel Galvez, Vladimir Bataev, Hainan Xu, Tim Kaldewey et.al.|[2406.03791v1](http://arxiv.org/abs/2406.03791v1)|null|
 |**2024-06-11**|**Enhancing CTC-based speech recognition with diverse modeling units**|Shiyi Han, Zhihong Lei, Mingbin Xu, Xingyu Na, Zhen Huang et.al.|[2406.03274v2](http://arxiv.org/abs/2406.03274v2)|null|
 |**2024-06-05**|**Error-preserving Automatic Speech Recognition of Young English Learners' Language**|Janick Michot, Manuela Hürlimann, Jan Deriu, Luzia Sauer, Katsiaryna Mlynchyk, Mark Cieliebak et.al.|[2406.03235v1](http://arxiv.org/abs/2406.03235v1)|**[link](https://github.com/mict-zhaw/chall_e2e_stt)**|
+|**2024-06-15**|**Task Arithmetic can Mitigate Synthetic-to-Real Gap in Automatic Speech Recognition**|Hsuan Su, Hua Farn, Fan-Yun Sun, Shang-Tse Chen, Hung-yi Lee et.al.|[2406.02925v2](http://arxiv.org/abs/2406.02925v2)|null|
 |**2024-06-04**|**Keyword-Guided Adaptation of Automatic Speech Recognition**|Aviv Shamsian, Aviv Navon, Neta Glazer, Gill Hetz, Joseph Keshet et.al.|[2406.02649v1](http://arxiv.org/abs/2406.02649v1)|null|
 |**2024-05-03**|**Combining X-Vectors and Bayesian Batch Active Learning: Two-Stage Active Learning Pipeline for Speech Recognition**|Ognjen Kundacina, Vladimir Vincan, Dragisa Miskovic et.al.|[2406.02566v1](http://arxiv.org/abs/2406.02566v1)|null|
 |**2024-04-24**|**Gated Low-rank Adaptation for personalized Code-Switching Automatic Speech Recognition on the low-spec devices**|Gwantae Kim, Bokyeung Lee, Donghyeon Kim, Hanseok Ko et.al.|[2406.02562v1](http://arxiv.org/abs/2406.02562v1)|null|
