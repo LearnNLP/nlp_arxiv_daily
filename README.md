@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**SimulSeamless: FBK at IWSLT 2024 Simultaneous Speech Translation**|Sara Papi, Marco Gaido, Matteo Negri, Luisa Bentivogli et.al.|[2406.14177v1](http://arxiv.org/abs/2406.14177v1)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2024-06-16**|**CoSTA: Code-Switched Speech Translation using Aligned Speech-Text Interleaving**|Bhavani Shankar, Preethi Jyothi, Pushpak Bhattacharyya et.al.|[2406.10993v1](http://arxiv.org/abs/2406.10993v1)|null|
 |**2024-06-15**|**Lightweight Audio Segmentation for Long-form Speech Translation**|Jaesong Lee, Soyoon Kim, Hanbyul Kim, Joon Son Chung et.al.|[2406.10549v1](http://arxiv.org/abs/2406.10549v1)|null|
 |**2024-06-12**|**Soft Language Identification for Language-Agnostic Many-to-One End-to-End Speech Translation**|Peidong Wang, Jian Xue, Jinyu Li, Junkun Chen, Aswin Shanmugam Subramanian et.al.|[2406.10276v1](http://arxiv.org/abs/2406.10276v1)|null|
@@ -609,6 +610,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-19**|**Joint vs Sequential Speaker-Role Detection and Automatic Speech Recognition for Air-traffic Control**|Alexander Blatt, Aravind Krishnan, Dietrich Klakow et.al.|[2406.13842v1](http://arxiv.org/abs/2406.13842v1)|null|
+|**2024-06-19**|**Children's Speech Recognition through Discrete Token Enhancement**|Vrunda N. Sukhadia, Shammur Absar Chowdhury et.al.|[2406.13431v1](http://arxiv.org/abs/2406.13431v1)|null|
+|**2024-06-16**|**Automatic Speech Recognition for Biomedical Data in Bengali Language**|Shariar Kabir, Nazmun Nahar, Shyamasree Saha, Mamunur Rashid et.al.|[2406.12931v1](http://arxiv.org/abs/2406.12931v1)|null|
 |**2024-06-18**|**Bridging the Gap: Integrating Pre-trained Speech Enhancement and Recognition Models for Robust Speech Recognition**|Kuan-Chen Wang, You-Jin Li, Wei-Lun Chen, Yu-Wen Chen, Yi-Ching Wang, Ping-Cheng Yeh, Chao Zhang, Yu Tsao et.al.|[2406.12699v1](http://arxiv.org/abs/2406.12699v1)|null|
 |**2024-06-18**|**Rapid Language Adaptation for Multilingual E2E Speech Recognition Using Encoder Prompting**|Yosuke Kashiwagi, Hayato Futami, Emiru Tsunoo, Siddhant Arora, Shinji Watanabe et.al.|[2406.12611v1](http://arxiv.org/abs/2406.12611v1)|null|
 |**2024-06-18**|**Unsupervised Online Continual Learning for Automatic Speech Recognition**|Steven Vander Eeckt, Hugo Van hamme et.al.|[2406.12503v1](http://arxiv.org/abs/2406.12503v1)|null|
