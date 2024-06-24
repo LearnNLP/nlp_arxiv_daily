@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -232,7 +232,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240624>back to top</a>)</p>
 
 ## Legal
 
@@ -323,7 +323,7 @@
 |**2024-01-22**|**The Right Model for the Job: An Evaluation of Legal Multi-Label Classification Baselines**|Martina Forster, Claudia Schulz, Prudhvi Nokku, Melicaalsadat Mirsafian, Jaykumar Kasundra, Stavroula Skylaki et.al.|[2401.11852v1](http://arxiv.org/abs/2401.11852v1)|null|
 |**2024-01-09**|**Answer Retrieval in Legal Community Question Answering**|Arian Askari, Zihui Yang, Zhaochun Ren, Suzan Verberne et.al.|[2401.04852v1](http://arxiv.org/abs/2401.04852v1)|**[link](https://github.com/arian-askari/answerretrieval-legal)**|
 |**2024-01-07**|**CAPTAIN at COLIEE 2023: Efficient Methods for Legal Information Retrieval and Entailment Tasks**|Chau Nguyen, Phuong Nguyen, Thanh Tran, Dat Nguyen, An Trieu, Tin Pham, Anh Dang, Le-Minh Nguyen et.al.|[2401.03551v1](http://arxiv.org/abs/2401.03551v1)|**[link](https://github.com/nguyen2015/captain-coliee2023)**|
-|**2024-01-02**|**Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models**|Matthew Dahl, Varun Magesh, Mirac Suzgun, Daniel E. Ho et.al.|[2401.01301v1](http://arxiv.org/abs/2401.01301v1)|**[link](https://github.com/reglab/legal_hallucinations)**|
+|**2024-06-21**|**Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models**|Matthew Dahl, Varun Magesh, Mirac Suzgun, Daniel E. Ho et.al.|[2401.01301v2](http://arxiv.org/abs/2401.01301v2)|**[link](https://github.com/reglab/legal_hallucinations)**|
 |**2024-01-02**|**Discovering Significant Topics from Legal Decisions with Selective Inference**|Jerrold Soh et.al.|[2401.01068v1](http://arxiv.org/abs/2401.01068v1)|null|
 |**2023-12-31**|**Viz: A QLoRA-based Copyright Marketplace for Legally Compliant Generative AI**|Dipankar Sarkar et.al.|[2401.00503v1](http://arxiv.org/abs/2401.00503v1)|null|
 |**2023-12-19**|**CaseGNN: Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs**|Yanran Tang, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang et.al.|[2312.11229v2](http://arxiv.org/abs/2312.11229v2)|**[link](https://github.com/yanran-tang/casegnn)**|
@@ -604,7 +604,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240624>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -1044,7 +1044,7 @@
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240624>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -1054,7 +1054,7 @@
 |**2024-05-03**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v4](http://arxiv.org/abs/2207.14682v4)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240624>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
