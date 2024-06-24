@@ -238,6 +238,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**GiusBERTo: A Legal Language Model for Personal Data De-identification in Italian Court of Auditors Decisions**|Giulio Salierno, Rosamaria Bertè, Luca Attias, Carla Morrone, Dario Pettazzoni, Daniela Battisti et.al.|[2406.15032v1](http://arxiv.org/abs/2406.15032v1)|null|
+|**2024-06-21**|**InternLM-Law: An Open Source Chinese Legal Large Language Model**|Zhiwei Fei, Songyang Zhang, Xiaoyu Shen, Dawei Zhu, Xiao Wang, Maosong Cao, Fengzhe Zhou, Yining Li, Wenwei Zhang, Dahua Lin, Kai Chen, Jidong Ge et.al.|[2406.14887v1](http://arxiv.org/abs/2406.14887v1)|null|
 |**2024-06-17**|**Enhancing Criminal Case Matching through Diverse Legal Factors**|Jie Zhao, Ziyu Guan, Wei Zhao, Yue Jiang et.al.|[2406.11172v1](http://arxiv.org/abs/2406.11172v1)|null|
 |**2024-06-16**|**Towards Supporting Legal Argumentation with NLP: Is More Data Really All You Need?**|T. Y. S. S Santosh, Kevin D. Ashley, Katie Atkinson, Matthias Grabmair et.al.|[2406.10974v1](http://arxiv.org/abs/2406.10974v1)|null|
 |**2024-06-15**|**Applications of Generative AI in Healthcare: algorithmic, ethical, legal and societal considerations**|Onyekachukwu R. Okonji, Kamol Yunusov, Bonnie Gordon et.al.|[2406.10632v1](http://arxiv.org/abs/2406.10632v1)|null|
@@ -610,6 +612,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Perception of Phonological Assimilation by Neural Speech Recognition Models**|Charlotte Pouw, Marianne de Heer Kloots, Afra Alishahi, Willem Zuidema et.al.|[2406.15265v1](http://arxiv.org/abs/2406.15265v1)|null|
 |**2024-06-19**|**Joint vs Sequential Speaker-Role Detection and Automatic Speech Recognition for Air-traffic Control**|Alexander Blatt, Aravind Krishnan, Dietrich Klakow et.al.|[2406.13842v1](http://arxiv.org/abs/2406.13842v1)|null|
 |**2024-06-19**|**Children's Speech Recognition through Discrete Token Enhancement**|Vrunda N. Sukhadia, Shammur Absar Chowdhury et.al.|[2406.13431v1](http://arxiv.org/abs/2406.13431v1)|null|
 |**2024-06-16**|**Automatic Speech Recognition for Biomedical Data in Bengali Language**|Shariar Kabir, Nazmun Nahar, Shyamasree Saha, Mamunur Rashid et.al.|[2406.12931v1](http://arxiv.org/abs/2406.12931v1)|null|
