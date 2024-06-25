@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Blending LLMs into Cascaded Speech Translation: KIT's Offline Speech Translation System for IWSLT 2024**|Sai Koneru, Thai-Binh Nguyen, Ngoc-Quan Pham, Danni Liu, Zhaolin Li, Alexander Waibel, Jan Niehues et.al.|[2406.16777v1](http://arxiv.org/abs/2406.16777v1)|null|
 |**2024-06-20**|**SimulSeamless: FBK at IWSLT 2024 Simultaneous Speech Translation**|Sara Papi, Marco Gaido, Matteo Negri, Luisa Bentivogli et.al.|[2406.14177v1](http://arxiv.org/abs/2406.14177v1)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2024-06-16**|**CoSTA: Code-Switched Speech Translation using Aligned Speech-Text Interleaving**|Bhavani Shankar, Preethi Jyothi, Pushpak Bhattacharyya et.al.|[2406.10993v1](http://arxiv.org/abs/2406.10993v1)|null|
 |**2024-06-15**|**Lightweight Audio Segmentation for Long-form Speech Translation**|Jaesong Lee, Soyoon Kim, Hanbyul Kim, Joon Son Chung et.al.|[2406.10549v1](http://arxiv.org/abs/2406.10549v1)|null|
@@ -242,6 +243,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**eagerlearners at SemEval2024 Task 5: The Legal Argument Reasoning Task in Civil Procedure**|Hoorieh Sabzevari, Mohammadmostafa Rostamkhani, Sauleh Eetemadi et.al.|[2406.16490v1](http://arxiv.org/abs/2406.16490v1)|null|
+|**2024-04-26**|**Examining the Legal Status of Digital Assets as Property: A Comparative Analysis of Jurisdictional Approaches**|Luke Lee et.al.|[2406.15391v1](http://arxiv.org/abs/2406.15391v1)|null|
 |**2024-06-21**|**GiusBERTo: A Legal Language Model for Personal Data De-identification in Italian Court of Auditors Decisions**|Giulio Salierno, Rosamaria Bertè, Luca Attias, Carla Morrone, Dario Pettazzoni, Daniela Battisti et.al.|[2406.15032v1](http://arxiv.org/abs/2406.15032v1)|null|
 |**2024-06-21**|**InternLM-Law: An Open Source Chinese Legal Large Language Model**|Zhiwei Fei, Songyang Zhang, Xiaoyu Shen, Dawei Zhu, Xiao Wang, Maosong Cao, Fengzhe Zhou, Yining Li, Wenwei Zhang, Dahua Lin, Kai Chen, Jidong Ge et.al.|[2406.14887v1](http://arxiv.org/abs/2406.14887v1)|null|
 |**2024-06-17**|**Enhancing Criminal Case Matching through Diverse Legal Factors**|Jie Zhao, Ziyu Guan, Wei Zhao, Yue Jiang et.al.|[2406.11172v1](http://arxiv.org/abs/2406.11172v1)|null|
@@ -616,9 +619,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-23**|**Contextualized End-to-end Automatic Speech Recognition with Intermediate Biasing Loss**|Muhammad Shakeel, Yui Sudo, Yifan Peng, Shinji Watanabe et.al.|[2406.16120v1](http://arxiv.org/abs/2406.16120v1)|null|
+|**2024-06-23**|**Decoder-only Architecture for Streaming End-to-end Speech Recognition**|Emiru Tsunoo, Hayato Futami, Yosuke Kashiwagi, Siddhant Arora, Shinji Watanabe et.al.|[2406.16107v1](http://arxiv.org/abs/2406.16107v1)|null|
 |**2024-06-21**|**Perception of Phonological Assimilation by Neural Speech Recognition Models**|Charlotte Pouw, Marianne de Heer Kloots, Afra Alishahi, Willem Zuidema et.al.|[2406.15265v1](http://arxiv.org/abs/2406.15265v1)|null|
 |**2024-06-19**|**Joint vs Sequential Speaker-Role Detection and Automatic Speech Recognition for Air-traffic Control**|Alexander Blatt, Aravind Krishnan, Dietrich Klakow et.al.|[2406.13842v1](http://arxiv.org/abs/2406.13842v1)|null|
-|**2024-06-19**|**Children's Speech Recognition through Discrete Token Enhancement**|Vrunda N. Sukhadia, Shammur Absar Chowdhury et.al.|[2406.13431v1](http://arxiv.org/abs/2406.13431v1)|null|
+|**2024-06-24**|**Children's Speech Recognition through Discrete Token Enhancement**|Vrunda N. Sukhadia, Shammur Absar Chowdhury et.al.|[2406.13431v2](http://arxiv.org/abs/2406.13431v2)|null|
 |**2024-06-16**|**Automatic Speech Recognition for Biomedical Data in Bengali Language**|Shariar Kabir, Nazmun Nahar, Shyamasree Saha, Mamunur Rashid et.al.|[2406.12931v1](http://arxiv.org/abs/2406.12931v1)|null|
 |**2024-06-18**|**Bridging the Gap: Integrating Pre-trained Speech Enhancement and Recognition Models for Robust Speech Recognition**|Kuan-Chen Wang, You-Jin Li, Wei-Lun Chen, Yu-Wen Chen, Yi-Ching Wang, Ping-Cheng Yeh, Chao Zhang, Yu Tsao et.al.|[2406.12699v1](http://arxiv.org/abs/2406.12699v1)|null|
 |**2024-06-18**|**Rapid Language Adaptation for Multilingual E2E Speech Recognition Using Encoder Prompting**|Yosuke Kashiwagi, Hayato Futami, Emiru Tsunoo, Siddhant Arora, Shinji Watanabe et.al.|[2406.12611v1](http://arxiv.org/abs/2406.12611v1)|null|
