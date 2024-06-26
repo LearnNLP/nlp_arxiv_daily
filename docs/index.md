@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Leveraging Synthetic Audio Data for End-to-End Low-Resource Speech Translation**|Yasmin Moslem et.al.|[2406.17363v1](http://arxiv.org/abs/2406.17363v1)|null|
 |**2024-06-24**|**Blending LLMs into Cascaded Speech Translation: KIT's Offline Speech Translation System for IWSLT 2024**|Sai Koneru, Thai-Binh Nguyen, Ngoc-Quan Pham, Danni Liu, Zhaolin Li, Alexander Waibel, Jan Niehues et.al.|[2406.16777v1](http://arxiv.org/abs/2406.16777v1)|null|
 |**2024-06-20**|**SimulSeamless: FBK at IWSLT 2024 Simultaneous Speech Translation**|Sara Papi, Marco Gaido, Matteo Negri, Luisa Bentivogli et.al.|[2406.14177v1](http://arxiv.org/abs/2406.14177v1)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2024-06-16**|**CoSTA: Code-Switched Speech Translation using Aligned Speech-Text Interleaving**|Bhavani Shankar, Preethi Jyothi, Pushpak Bhattacharyya et.al.|[2406.10993v1](http://arxiv.org/abs/2406.10993v1)|null|
@@ -243,6 +244,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation**|Abe Bohan Hou, Orion Weller, Guanghui Qin, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, Benjamin Van Durme et.al.|[2406.17186v1](http://arxiv.org/abs/2406.17186v1)|null|
 |**2024-06-24**|**eagerlearners at SemEval2024 Task 5: The Legal Argument Reasoning Task in Civil Procedure**|Hoorieh Sabzevari, Mohammadmostafa Rostamkhani, Sauleh Eetemadi et.al.|[2406.16490v1](http://arxiv.org/abs/2406.16490v1)|null|
 |**2024-04-26**|**Examining the Legal Status of Digital Assets as Property: A Comparative Analysis of Jurisdictional Approaches**|Luke Lee et.al.|[2406.15391v1](http://arxiv.org/abs/2406.15391v1)|null|
 |**2024-06-21**|**GiusBERTo: A Legal Language Model for Personal Data De-identification in Italian Court of Auditors Decisions**|Giulio Salierno, Rosamaria Bertè, Luca Attias, Carla Morrone, Dario Pettazzoni, Daniela Battisti et.al.|[2406.15032v1](http://arxiv.org/abs/2406.15032v1)|null|
@@ -619,6 +621,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**MSRS: Training Multimodal Speech Recognition Models from Scratch with Sparse Mask Optimization**|Adriana Fernandez-Lopez, Honglie Chen, Pingchuan Ma, Lu Yin, Qiao Xiao, Stavros Petridis, Shiwei Liu, Maja Pantic et.al.|[2406.17614v1](http://arxiv.org/abs/2406.17614v1)|null|
 |**2024-06-23**|**Contextualized End-to-end Automatic Speech Recognition with Intermediate Biasing Loss**|Muhammad Shakeel, Yui Sudo, Yifan Peng, Shinji Watanabe et.al.|[2406.16120v1](http://arxiv.org/abs/2406.16120v1)|null|
 |**2024-06-23**|**Decoder-only Architecture for Streaming End-to-end Speech Recognition**|Emiru Tsunoo, Hayato Futami, Yosuke Kashiwagi, Siddhant Arora, Shinji Watanabe et.al.|[2406.16107v1](http://arxiv.org/abs/2406.16107v1)|null|
 |**2024-06-21**|**Perception of Phonological Assimilation by Neural Speech Recognition Models**|Charlotte Pouw, Marianne de Heer Kloots, Afra Alishahi, Willem Zuidema et.al.|[2406.15265v1](http://arxiv.org/abs/2406.15265v1)|null|
