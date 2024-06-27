@@ -621,6 +621,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Dynamic Data Pruning for Automatic Speech Recognition**|Qiao Xiao, Pingchuan Ma, Adriana Fernandez-Lopez, Boqian Wu, Lu Yin, Stavros Petridis, Mykola Pechenizkiy, Maja Pantic, Decebal Constantin Mocanu, Shiwei Liu et.al.|[2406.18373v1](http://arxiv.org/abs/2406.18373v1)|null|
+|**2024-06-26**|**MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research**|Song Li, Yongbin You, Xuezhi Wang, Zhengkun Tian, Ke Ding, Guanglu Wan et.al.|[2406.18301v1](http://arxiv.org/abs/2406.18301v1)|null|
+|**2024-06-26**|**Automatic Speech Recognition for Hindi**|Anish Saha, A. G. Ramakrishnan et.al.|[2406.18135v1](http://arxiv.org/abs/2406.18135v1)|null|
+|**2024-06-26**|**ArzEn-LLM: Code-Switched Egyptian Arabic-English Translation and Speech Recognition Using LLMs**|Ahmed Heakl, Youssef Zaghloul, Mennatullah Ali, Rania Hossam, Walid Gomaa et.al.|[2406.18120v1](http://arxiv.org/abs/2406.18120v1)|**[link](https://github.com/ahmedheakl/arazn-llm)**|
+|**2024-06-25**|**Sequential Editing for Lifelong Training of Speech Recognition Models**|Devang Kulshreshtha, Saket Dingliwal, Brady Houston, Nikolaos Pappas, Srikanth Ronanki et.al.|[2406.17935v1](http://arxiv.org/abs/2406.17935v1)|null|
+|**2024-06-25**|**Automatic speech recognition for the Nepali language using CNN, bidirectional LSTM and ResNet**|Manish Dhakal, Arman Chhetri, Aman Kumar Gupta, Prabin Lamichhane, Suraj Pandey, Subarna Shakya et.al.|[2406.17825v1](http://arxiv.org/abs/2406.17825v1)|**[link](https://github.com/manishdhakal/asr-nepali-using-cnn-bilstm-resnet)**|
 |**2024-06-25**|**MSRS: Training Multimodal Speech Recognition Models from Scratch with Sparse Mask Optimization**|Adriana Fernandez-Lopez, Honglie Chen, Pingchuan Ma, Lu Yin, Qiao Xiao, Stavros Petridis, Shiwei Liu, Maja Pantic et.al.|[2406.17614v1](http://arxiv.org/abs/2406.17614v1)|null|
 |**2024-06-23**|**Contextualized End-to-end Automatic Speech Recognition with Intermediate Biasing Loss**|Muhammad Shakeel, Yui Sudo, Yifan Peng, Shinji Watanabe et.al.|[2406.16120v1](http://arxiv.org/abs/2406.16120v1)|null|
 |**2024-06-23**|**Decoder-only Architecture for Streaming End-to-end Speech Recognition**|Emiru Tsunoo, Hayato Futami, Yosuke Kashiwagi, Siddhant Arora, Shinji Watanabe et.al.|[2406.16107v1](http://arxiv.org/abs/2406.16107v1)|null|
