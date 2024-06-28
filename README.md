@@ -240,7 +240,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-27**|**CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation**|Abe Bohan Hou, Orion Weller, Guanghui Qin, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, Benjamin Van Durme et.al.|[2406.17186v2](http://arxiv.org/abs/2406.17186v2)|null|
+|**2024-06-27**|**CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation**|Abe Bohan Hou, Orion Weller, Guanghui Qin, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, Benjamin Van Durme et.al.|[2406.17186v2](http://arxiv.org/abs/2406.17186v2)|**[link](https://github.com/bohanhou14/clerc)**|
 |**2024-06-24**|**eagerlearners at SemEval2024 Task 5: The Legal Argument Reasoning Task in Civil Procedure**|Hoorieh Sabzevari, Mohammadmostafa Rostamkhani, Sauleh Eetemadi et.al.|[2406.16490v1](http://arxiv.org/abs/2406.16490v1)|**[link](https://github.com/lhoorie/SemEval2024-Task5)**|
 |**2024-04-26**|**Examining the Legal Status of Digital Assets as Property: A Comparative Analysis of Jurisdictional Approaches**|Luke Lee et.al.|[2406.15391v1](http://arxiv.org/abs/2406.15391v1)|null|
 |**2024-06-21**|**GiusBERTo: A Legal Language Model for Personal Data De-identification in Italian Court of Auditors Decisions**|Giulio Salierno, Rosamaria Bertè, Luca Attias, Carla Morrone, Dario Pettazzoni, Daniela Battisti et.al.|[2406.15032v1](http://arxiv.org/abs/2406.15032v1)|null|
@@ -249,7 +249,7 @@
 |**2024-06-16**|**Towards Supporting Legal Argumentation with NLP: Is More Data Really All You Need?**|T. Y. S. S Santosh, Kevin D. Ashley, Katie Atkinson, Matthias Grabmair et.al.|[2406.10974v1](http://arxiv.org/abs/2406.10974v1)|null|
 |**2024-06-15**|**Applications of Generative AI in Healthcare: algorithmic, ethical, legal and societal considerations**|Onyekachukwu R. Okonji, Kamol Yunusov, Bonnie Gordon et.al.|[2406.10632v1](http://arxiv.org/abs/2406.10632v1)|null|
 |**2024-06-10**|**The Legal Duty to Search for Less Discriminatory Algorithms**|Emily Black, Logan Koepke, Pauline Kim, Solon Barocas, Mingwei Hsu et.al.|[2406.06817v1](http://arxiv.org/abs/2406.06817v1)|null|
-|**2024-06-10**|**AGB-DE: A Corpus for the Automated Legal Assessment of Clauses in German Consumer Contracts**|Daniel Braun, Florian Matthes et.al.|[2406.06809v1](http://arxiv.org/abs/2406.06809v1)|null|
+|**2024-06-10**|**AGB-DE: A Corpus for the Automated Legal Assessment of Clauses in German Consumer Contracts**|Daniel Braun, Florian Matthes et.al.|[2406.06809v1](http://arxiv.org/abs/2406.06809v1)|**[link](https://github.com/DaBr01/AGB-DE)**|
 |**2024-06-07**|**On Ambiguity and the Expressive Function of Law: The Role of Pragmatics in Smart Legal Ecosystems**|Pompeu Casanovas et.al.|[2406.05084v1](http://arxiv.org/abs/2406.05084v1)|null|
 |**2024-06-07**|**LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model**|Zhi Zhou, Jiang-Xin Shi, Peng-Xiao Song, Xiao-Wen Yang, Yi-Xuan Jin, Lan-Zhe Guo, Yu-Feng Li et.al.|[2406.04614v1](http://arxiv.org/abs/2406.04614v1)|**[link](https://github.com/pengxiao-song/lawgpt)**|
 |**2024-06-06**|**Legal Documents Drafting with Fine-Tuned Pre-Trained Large Language Model**|Chun-Hsien Lin, Pu-Jen Cheng et.al.|[2406.04202v1](http://arxiv.org/abs/2406.04202v1)|**[link](https://huggingface.co/jslin09/bloom-560m-finetuned-fraud)**|
@@ -617,6 +617,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**Zero-Query Adversarial Attack on Black-box Automatic Speech Recognition Systems**|Zheng Fang, Tao Wang, Lingchen Zhao, Shenyi Zhang, Bowen Li, Yunjie Ge, Qi Li, Chao Shen, Qian Wang et.al.|[2406.19311v1](http://arxiv.org/abs/2406.19311v1)|null|
+|**2024-06-27**|**Streaming Decoder-Only Automatic Speech Recognition with Discrete Speech Units: A Pilot Study**|Peikun Chen, Sining Sun, Changhao Shan, Qing Yang, Lei Xie et.al.|[2406.18862v1](http://arxiv.org/abs/2406.18862v1)|null|
 |**2024-06-26**|**Dynamic Data Pruning for Automatic Speech Recognition**|Qiao Xiao, Pingchuan Ma, Adriana Fernandez-Lopez, Boqian Wu, Lu Yin, Stavros Petridis, Mykola Pechenizkiy, Maja Pantic, Decebal Constantin Mocanu, Shiwei Liu et.al.|[2406.18373v1](http://arxiv.org/abs/2406.18373v1)|null|
 |**2024-06-26**|**MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research**|Song Li, Yongbin You, Xuezhi Wang, Zhengkun Tian, Ke Ding, Guanglu Wan et.al.|[2406.18301v1](http://arxiv.org/abs/2406.18301v1)|null|
 |**2024-06-26**|**Automatic Speech Recognition for Hindi**|Anish Saha, A. G. Ramakrishnan et.al.|[2406.18135v1](http://arxiv.org/abs/2406.18135v1)|null|
