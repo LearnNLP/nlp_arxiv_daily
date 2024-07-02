@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.01
+## Updated on 2024.07.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -238,7 +238,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20240701>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240702>back to top</a>)</p>
 
 ## Legal
 
@@ -260,7 +260,7 @@ layout: default
 |**2024-06-06**|**Legal Documents Drafting with Fine-Tuned Pre-Trained Large Language Model**|Chun-Hsien Lin, Pu-Jen Cheng et.al.|[2406.04202v1](http://arxiv.org/abs/2406.04202v1)|**[link](https://huggingface.co/jslin09/bloom-560m-finetuned-fraud)**|
 |**2024-06-06**|**Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts**|Shubham Kumar Nigam, Anurag Sharma, Danush Khanna, Noel Shallum, Kripabandhu Ghosh, Arnab Bhattacharya et.al.|[2406.04136v1](http://arxiv.org/abs/2406.04136v1)|**[link](https://github.com/shubhamkumarnigam/predex)**|
 |**2024-06-05**|**Knowledge-Infused Legal Wisdom: Navigating LLM Consultation through the Lens of Diagnostics and Positive-Unlabeled Reinforcement Learning**|Yang Wu, Chenghao Wang, Ece Gumusel, Xiaozhong Liu et.al.|[2406.03600v1](http://arxiv.org/abs/2406.03600v1)|null|
-|**2024-05-27**|**Unveiling Themes in Judicial Proceedings: A Cross-Country Study Using Topic Modeling on Legal Documents from India and the UK**|Krish Didwania, Dr. Durga Toshniwal, Amit Agarwal et.al.|[2406.00040v1](http://arxiv.org/abs/2406.00040v1)|null|
+|**2024-06-30**|**Unveiling Themes in Judicial Proceedings: A Cross-Country Study Using Topic Modeling on Legal Documents from India and the UK**|Krish Didwania, Dr. Durga Toshniwal, Amit Agarwal et.al.|[2406.00040v2](http://arxiv.org/abs/2406.00040v2)|null|
 |**2024-05-30**|**Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools**|Varun Magesh, Faiz Surani, Matthew Dahl, Mirac Suzgun, Christopher D. Manning, Daniel E. Ho et.al.|[2405.20362v1](http://arxiv.org/abs/2405.20362v1)|null|
 |**2024-05-27**|**Explainable machine learning multi-label classification of Spanish legal judgements**|Francisco de Arriba-Pérez, Silvia García-Méndez, Francisco J. González-Castaño, Jaime González-González et.al.|[2405.17610v1](http://arxiv.org/abs/2405.17610v1)|null|
 |**2024-05-23**|**Artificial Intelligence (AI) in Legal Data Mining**|Aniket Deroy, Naksatra Kumar Bailung, Kripabandhu Ghosh, Saptarshi Ghosh, Abhijnan Chakraborty et.al.|[2405.14707v1](http://arxiv.org/abs/2405.14707v1)|null|
@@ -617,7 +617,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240701>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240702>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -1070,7 +1070,7 @@ layout: default
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240701>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240702>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -1080,7 +1080,7 @@ layout: default
 |**2024-05-03**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v4](http://arxiv.org/abs/2207.14682v4)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240701>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240702>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
