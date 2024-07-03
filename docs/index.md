@@ -23,6 +23,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-01**|**Cross-Lingual Transfer Learning for Speech Translation**|Rao Ma, Yassir Fathullah, Mengjie Qian, Siyuan Tang, Mark Gales, Kate Knill et.al.|[2407.01130v1](http://arxiv.org/abs/2407.01130v1)|null|
+|**2024-06-30**|**NAIST Simultaneous Speech Translation System for IWSLT 2024**|Yuka Ko, Ryo Fukuda, Yuta Nishikawa, Yasumasa Kano, Tomoya Yanagita, Kosuke Doi, Mana Makinae, Haotian Tan, Makoto Sakai, Sakriani Sakti, Katsuhito Sudoh, Satoshi Nakamura et.al.|[2407.00826v1](http://arxiv.org/abs/2407.00826v1)|null|
 |**2024-06-27**|**Leveraging Synthetic Audio Data for End-to-End Low-Resource Speech Translation**|Yasmin Moslem et.al.|[2406.17363v2](http://arxiv.org/abs/2406.17363v2)|null|
 |**2024-06-24**|**Blending LLMs into Cascaded Speech Translation: KIT's Offline Speech Translation System for IWSLT 2024**|Sai Koneru, Thai-Binh Nguyen, Ngoc-Quan Pham, Danni Liu, Zhaolin Li, Alexander Waibel, Jan Niehues et.al.|[2406.16777v1](http://arxiv.org/abs/2406.16777v1)|null|
 |**2024-06-20**|**SimulSeamless: FBK at IWSLT 2024 Simultaneous Speech Translation**|Sara Papi, Marco Gaido, Matteo Negri, Luisa Bentivogli et.al.|[2406.14177v1](http://arxiv.org/abs/2406.14177v1)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
@@ -244,7 +246,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-28**|**Learning Interpretable Legal Case Retrieval via Knowledge-Guided Case Reformulation**|Chenlong Deng, Kelong Mao, Zhicheng Dou et.al.|[2406.19760v1](http://arxiv.org/abs/2406.19760v1)|null|
+|**2024-07-02**|**Enabling Discriminative Reasoning in Large Language Models for Legal Judgment Prediction**|Chenlong Deng, Kelong Mao, Yuyao Zhang, Zhicheng Dou et.al.|[2407.01964v1](http://arxiv.org/abs/2407.01964v1)|null|
+|**2024-06-28**|**Learning Interpretable Legal Case Retrieval via Knowledge-Guided Case Reformulation**|Chenlong Deng, Kelong Mao, Zhicheng Dou et.al.|[2406.19760v1](http://arxiv.org/abs/2406.19760v1)|**[link](https://github.com/ChenlongDeng/KELLER)**|
 |**2024-06-27**|**CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation**|Abe Bohan Hou, Orion Weller, Guanghui Qin, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, Benjamin Van Durme et.al.|[2406.17186v2](http://arxiv.org/abs/2406.17186v2)|**[link](https://github.com/bohanhou14/clerc)**|
 |**2024-06-24**|**eagerlearners at SemEval2024 Task 5: The Legal Argument Reasoning Task in Civil Procedure**|Hoorieh Sabzevari, Mohammadmostafa Rostamkhani, Sauleh Eetemadi et.al.|[2406.16490v1](http://arxiv.org/abs/2406.16490v1)|**[link](https://github.com/lhoorie/SemEval2024-Task5)**|
 |**2024-04-26**|**Examining the Legal Status of Digital Assets as Property: A Comparative Analysis of Jurisdictional Approaches**|Luke Lee et.al.|[2406.15391v1](http://arxiv.org/abs/2406.15391v1)|null|
@@ -623,6 +626,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Pinyin Regularization in Error Correction for Chinese Speech Recognition with Large Language Models**|Zhiyuan Tang, Dong Wang, Shen Huang, Shidong Shang et.al.|[2407.01909v1](http://arxiv.org/abs/2407.01909v1)|null|
 |**2024-06-28**|**Less is More: Accurate Speech Recognition & Translation without Web-Scale Data**|Krishna C. Puvvada, Piotr Żelasko, He Huang, Oleksii Hrinchuk, Nithin Rao Koluguri, Kunal Dhawan, Somshubra Majumdar, Elena Rastorgueva, Zhehuai Chen, Vitaly Lavrukhin, Jagadeesh Balam, Boris Ginsburg et.al.|[2406.19674v1](http://arxiv.org/abs/2406.19674v1)|null|
 |**2024-06-27**|**Zero-Query Adversarial Attack on Black-box Automatic Speech Recognition Systems**|Zheng Fang, Tao Wang, Lingchen Zhao, Shenyi Zhang, Bowen Li, Yunjie Ge, Qi Li, Chao Shen, Qian Wang et.al.|[2406.19311v1](http://arxiv.org/abs/2406.19311v1)|null|
 |**2024-06-27**|**Streaming Decoder-Only Automatic Speech Recognition with Discrete Speech Units: A Pilot Study**|Peikun Chen, Sining Sun, Changhao Shan, Qing Yang, Lei Xie et.al.|[2406.18862v1](http://arxiv.org/abs/2406.18862v1)|null|
