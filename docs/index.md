@@ -626,6 +626,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Qifusion-Net: Layer-adapted Stream/Non-stream Model for End-to-End Multi-Accent Speech Recognition**|Jinming Chen, Jingyi Fang, Yuanzhong Zheng, Yaoxuan Wang, Haojun Fei et.al.|[2407.03026v1](http://arxiv.org/abs/2407.03026v1)|null|
 |**2024-07-02**|**Pinyin Regularization in Error Correction for Chinese Speech Recognition with Large Language Models**|Zhiyuan Tang, Dong Wang, Shen Huang, Shidong Shang et.al.|[2407.01909v1](http://arxiv.org/abs/2407.01909v1)|null|
 |**2024-06-28**|**Less is More: Accurate Speech Recognition & Translation without Web-Scale Data**|Krishna C. Puvvada, Piotr Żelasko, He Huang, Oleksii Hrinchuk, Nithin Rao Koluguri, Kunal Dhawan, Somshubra Majumdar, Elena Rastorgueva, Zhehuai Chen, Vitaly Lavrukhin, Jagadeesh Balam, Boris Ginsburg et.al.|[2406.19674v1](http://arxiv.org/abs/2406.19674v1)|null|
 |**2024-06-27**|**Zero-Query Adversarial Attack on Black-box Automatic Speech Recognition Systems**|Zheng Fang, Tao Wang, Lingchen Zhao, Shenyi Zhang, Bowen Li, Yunjie Ge, Qi Li, Chao Shen, Qian Wang et.al.|[2406.19311v1](http://arxiv.org/abs/2406.19311v1)|null|
