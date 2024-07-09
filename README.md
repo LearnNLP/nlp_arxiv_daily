@@ -242,6 +242,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-07**|**IL-TUR: Benchmark for Indian Legal Text Understanding and Reasoning**|Abhinav Joshi, Shounak Paul, Akshat Sharma, Pawan Goyal, Saptarshi Ghosh, Ashutosh Modi et.al.|[2407.05399v1](http://arxiv.org/abs/2407.05399v1)|null|
 |**2024-07-04**|**Enabling Discriminative Reasoning in LLMs for Legal Judgment Prediction**|Chenlong Deng, Kelong Mao, Yuyao Zhang, Zhicheng Dou et.al.|[2407.01964v3](http://arxiv.org/abs/2407.01964v3)|**[link](https://github.com/chenlongdeng/adapt)**|
 |**2024-06-28**|**Learning Interpretable Legal Case Retrieval via Knowledge-Guided Case Reformulation**|Chenlong Deng, Kelong Mao, Zhicheng Dou et.al.|[2406.19760v1](http://arxiv.org/abs/2406.19760v1)|**[link](https://github.com/ChenlongDeng/KELLER)**|
 |**2024-06-27**|**CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation**|Abe Bohan Hou, Orion Weller, Guanghui Qin, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, Benjamin Van Durme et.al.|[2406.17186v2](http://arxiv.org/abs/2406.17186v2)|**[link](https://github.com/bohanhou14/clerc)**|
