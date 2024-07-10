@@ -242,6 +242,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-07**|**Auditing of AI: Legal, Ethical and Technical Approaches**|Jakob Mokander et.al.|[2407.06235v1](http://arxiv.org/abs/2407.06235v1)|null|
 |**2024-07-07**|**IL-TUR: Benchmark for Indian Legal Text Understanding and Reasoning**|Abhinav Joshi, Shounak Paul, Akshat Sharma, Pawan Goyal, Saptarshi Ghosh, Ashutosh Modi et.al.|[2407.05399v1](http://arxiv.org/abs/2407.05399v1)|null|
 |**2024-07-04**|**Enabling Discriminative Reasoning in LLMs for Legal Judgment Prediction**|Chenlong Deng, Kelong Mao, Yuyao Zhang, Zhicheng Dou et.al.|[2407.01964v3](http://arxiv.org/abs/2407.01964v3)|**[link](https://github.com/chenlongdeng/adapt)**|
 |**2024-06-28**|**Learning Interpretable Legal Case Retrieval via Knowledge-Guided Case Reformulation**|Chenlong Deng, Kelong Mao, Zhicheng Dou et.al.|[2406.19760v1](http://arxiv.org/abs/2406.19760v1)|**[link](https://github.com/ChenlongDeng/KELLER)**|
@@ -623,6 +624,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Tailored Design of Audio-Visual Speech Recognition Models using Branchformers**|David Gimeno-Gómez, Carlos-D. Martínez-Hinarejos et.al.|[2407.06606v1](http://arxiv.org/abs/2407.06606v1)|**[link](https://github.com/david-gimeno/tailored-avsr)**|
 |**2024-07-05**|**Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition**|Ye Bai, Jingping Chen, Jitong Chen, Wei Chen, Zhuo Chen, Chen Ding, Linhao Dong, Qianqian Dong, Yujiao Du, Kepan Gao, Lu Gao, Yi Guo, Minglun Han, Ting Han, Wenchao Hu, Xinying Hu, Yuxiang Hu, Deyu Hua, Lu Huang, Mingkun Huang, Youjia Huang, Jishuo Jin, Fanliu Kong, Zongwei Lan, Tianyu Li, Xiaoyang Li, Zeyang Li, Zehua Lin, Rui Liu, Shouda Liu, Lu Lu, Yizhou Lu, Jingting Ma, Shengtao Ma, Yulin Pei, Chen Shen, Tian Tan, Xiaogang Tian, Ming Tu, Bo Wang, Hao Wang, Yuping Wang, Yuxuan Wang, Hanzhang Xia, Rui Xia, Shuangyi Xie, Hongmin Xu, Meng Yang, Bihong Zhang, Jun Zhang, Wanyi Zhang, Yang Zhang, Yawei Zhang, Yijie Zheng, Ming Zou et.al.|[2407.04675v1](http://arxiv.org/abs/2407.04675v1)|null|
 |**2024-07-05**|**Speculative Speech Recognition by Audio-Prefixed Low-Rank Adaptation of Language Models**|Bolaji Yusuf, Murali Karthick Baskar, Andrew Rosenberg, Bhuvana Ramabhadran et.al.|[2407.04641v1](http://arxiv.org/abs/2407.04641v1)|null|
 |**2024-07-04**|**Improving Accented Speech Recognition using Data Augmentation based on Unsupervised Text-to-Speech Synthesis**|Cong-Thanh Do, Shuhei Imai, Rama Doddipatla, Thomas Hain et.al.|[2407.04047v1](http://arxiv.org/abs/2407.04047v1)|null|
