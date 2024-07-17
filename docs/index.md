@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Navigating the Minefield of MT Beam Search in Cascaded Streaming Speech Translation**|Rastislav Rabatin, Frank Seide, Ernie Chang et.al.|[2407.11010v1](http://arxiv.org/abs/2407.11010v1)|null|
 |**2024-07-01**|**Cross-Lingual Transfer Learning for Speech Translation**|Rao Ma, Yassir Fathullah, Mengjie Qian, Siyuan Tang, Mark Gales, Kate Knill et.al.|[2407.01130v1](http://arxiv.org/abs/2407.01130v1)|null|
 |**2024-06-30**|**NAIST Simultaneous Speech Translation System for IWSLT 2024**|Yuka Ko, Ryo Fukuda, Yuta Nishikawa, Yasumasa Kano, Tomoya Yanagita, Kosuke Doi, Mana Makinae, Haotian Tan, Makoto Sakai, Sakriani Sakti, Katsuhito Sudoh, Satoshi Nakamura et.al.|[2407.00826v1](http://arxiv.org/abs/2407.00826v1)|null|
 |**2024-06-27**|**Leveraging Synthetic Audio Data for End-to-End Low-Resource Speech Translation**|Yasmin Moslem et.al.|[2406.17363v2](http://arxiv.org/abs/2406.17363v2)|null|
