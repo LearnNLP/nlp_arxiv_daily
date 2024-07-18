@@ -247,6 +247,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-17**|**Across Platforms and Languages: Dutch Influencers and Legal Disclosures on Instagram, YouTube and TikTok**|Haoyang Gui, Thales Bertaglia, Catalina Goanta, Sybe de Vries, Gerasimos Spanakis et.al.|[2407.12451v1](http://arxiv.org/abs/2407.12451v1)|null|
 |**2024-07-07**|**Auditing of AI: Legal, Ethical and Technical Approaches**|Jakob Mokander et.al.|[2407.06235v1](http://arxiv.org/abs/2407.06235v1)|null|
 |**2024-07-07**|**IL-TUR: Benchmark for Indian Legal Text Understanding and Reasoning**|Abhinav Joshi, Shounak Paul, Akshat Sharma, Pawan Goyal, Saptarshi Ghosh, Ashutosh Modi et.al.|[2407.05399v1](http://arxiv.org/abs/2407.05399v1)|null|
 |**2024-07-04**|**Enabling Discriminative Reasoning in LLMs for Legal Judgment Prediction**|Chenlong Deng, Kelong Mao, Yuyao Zhang, Zhicheng Dou et.al.|[2407.01964v3](http://arxiv.org/abs/2407.01964v3)|**[link](https://github.com/chenlongdeng/adapt)**|
