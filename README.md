@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Preset-Voice Matching for Privacy Regulated Speech-to-Speech Translation Systems**|Daniel Platnick, Bishoy Abdelnour, Eamon Earl, Rahul Kumar, Zahra Rezaei, Thomas Tsangaris, Faraj Lagum et.al.|[2407.13153v1](http://arxiv.org/abs/2407.13153v1)|null|
 |**2024-06-26**|**Navigating the Minefield of MT Beam Search in Cascaded Streaming Speech Translation**|Rastislav Rabatin, Frank Seide, Ernie Chang et.al.|[2407.11010v1](http://arxiv.org/abs/2407.11010v1)|null|
 |**2024-07-01**|**Cross-Lingual Transfer Learning for Speech Translation**|Rao Ma, Yassir Fathullah, Mengjie Qian, Siyuan Tang, Mark Gales, Kate Knill et.al.|[2407.01130v1](http://arxiv.org/abs/2407.01130v1)|null|
 |**2024-06-30**|**NAIST Simultaneous Speech Translation System for IWSLT 2024**|Yuka Ko, Ryo Fukuda, Yuta Nishikawa, Yasumasa Kano, Tomoya Yanagita, Kosuke Doi, Mana Makinae, Haotian Tan, Makoto Sakai, Sakriani Sakti, Katsuhito Sudoh, Satoshi Nakamura et.al.|[2407.00826v1](http://arxiv.org/abs/2407.00826v1)|null|
@@ -237,12 +238,14 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240719>back to top</a>)</p>
 
 ## Legal
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**The Cost of Arbitrariness for Individuals: Examining the Legal and Technical Challenges of Model Multiplicity**|Prakhar Ganesh, Ihsan Ibrahim Daldaban, Ignacio Cofone, Golnoosh Farnadi et.al.|[2407.13070v1](http://arxiv.org/abs/2407.13070v1)|null|
+|**2024-07-06**|**Applicability of Large Language Models and Generative Models for Legal Case Judgement Summarization**|Aniket Deroy, Kripabandhu Ghosh, Saptarshi Ghosh et.al.|[2407.12848v1](http://arxiv.org/abs/2407.12848v1)|null|
 |**2024-07-17**|**Across Platforms and Languages: Dutch Influencers and Legal Disclosures on Instagram, YouTube and TikTok**|Haoyang Gui, Thales Bertaglia, Catalina Goanta, Sybe de Vries, Gerasimos Spanakis et.al.|[2407.12451v1](http://arxiv.org/abs/2407.12451v1)|null|
 |**2024-07-07**|**Auditing of AI: Legal, Ethical and Technical Approaches**|Jakob Mokander et.al.|[2407.06235v1](http://arxiv.org/abs/2407.06235v1)|null|
 |**2024-07-07**|**IL-TUR: Benchmark for Indian Legal Text Understanding and Reasoning**|Abhinav Joshi, Shounak Paul, Akshat Sharma, Pawan Goyal, Saptarshi Ghosh, Ashutosh Modi et.al.|[2407.05399v1](http://arxiv.org/abs/2407.05399v1)|null|
@@ -620,12 +623,14 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240719>back to top</a>)</p>
 
 ## Speech Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Low-Resourced Speech Recognition for Iu Mien Language via Weakly-Supervised Phoneme-based Multilingual Pre-training**|Lukuan Dong, Donghong Qin, Fengbo Bai, Fanhua Song, Yan Liu, Chen Xu, Zhijian Ou et.al.|[2407.13292v1](http://arxiv.org/abs/2407.13292v1)|null|
+|**2024-06-29**|**Error Correction by Paying Attention to Both Acoustic and Confidence References for Automatic Speech Recognition**|Yuchun Shu, Bo Hu, Yifeng He, Hao Shi, Longbiao Wang, Jianwu Dang et.al.|[2407.12817v1](http://arxiv.org/abs/2407.12817v1)|null|
 |**2024-07-14**|**Improving Neural Biasing for Contextual Speech Recognition by Early Context Injection and Text Perturbation**|Ruizhe Huang, Mahsa Yarmohammadi, Sanjeev Khudanpur, Daniel Povey et.al.|[2407.10303v1](http://arxiv.org/abs/2407.10303v1)|null|
 |**2024-07-13**|**Empowering Whisper as a Joint Multi-Talker and Target-Talker Speech Recognition System**|Lingwei Meng, Jiawen Kang, Yuejiao Wang, Zengrui Jin, Xixin Wu, Xunying Liu, Helen Meng et.al.|[2407.09817v1](http://arxiv.org/abs/2407.09817v1)|null|
 |**2024-07-13**|**A Streaming Multi-Channel End-to-End Speech Recognition System with Realistic Evaluations**|Xiangzhu Kong, Tianqi Ning, Hao Huang, Zhijian Ou et.al.|[2407.09807v1](http://arxiv.org/abs/2407.09807v1)|null|
@@ -1084,7 +1089,7 @@
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240719>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -1094,7 +1099,7 @@
 |**2024-05-03**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v4](http://arxiv.org/abs/2207.14682v4)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240719>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
