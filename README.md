@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**LLaST: Improved End-to-end Speech Translation System Leveraged by Large Language Models**|Xi Chen, Songyang Zhang, Qibing Bai, Kai Chen, Satoshi Nakamura et.al.|[2407.15415v1](http://arxiv.org/abs/2407.15415v1)|**[link](https://github.com/openaudiolab/llast)**|
 |**2024-07-18**|**Preset-Voice Matching for Privacy Regulated Speech-to-Speech Translation Systems**|Daniel Platnick, Bishoy Abdelnour, Eamon Earl, Rahul Kumar, Zahra Rezaei, Thomas Tsangaris, Faraj Lagum et.al.|[2407.13153v1](http://arxiv.org/abs/2407.13153v1)|null|
 |**2024-06-26**|**Navigating the Minefield of MT Beam Search in Cascaded Streaming Speech Translation**|Rastislav Rabatin, Frank Seide, Ernie Chang et.al.|[2407.11010v1](http://arxiv.org/abs/2407.11010v1)|null|
 |**2024-07-01**|**Cross-Lingual Transfer Learning for Speech Translation**|Rao Ma, Yassir Fathullah, Mengjie Qian, Siyuan Tang, Mark Gales, Kate Knill et.al.|[2407.01130v1](http://arxiv.org/abs/2407.01130v1)|null|
@@ -630,6 +631,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-07**|**Morse Code-Enabled Speech Recognition for Individuals with Visual and Hearing Impairments**|Ritabrata Roy Choudhury et.al.|[2407.14525v1](http://arxiv.org/abs/2407.14525v1)|null|
 |**2024-07-19**|**Reexamining Racial Disparities in Automatic Speech Recognition Performance: The Role of Confounding by Provenance**|Changye Li, Trevor Cohen, Serguei Pakhomov et.al.|[2407.13982v1](http://arxiv.org/abs/2407.13982v1)|**[link](https://github.com/LinguisticAnomalies/confounding-ASR)**|
 |**2024-07-03**|**Self-supervised ASR Models and Features For Dysarthric and Elderly Speech Recognition**|Shujie Hu, Xurong Xie, Mengzhe Geng, Zengrui Jin, Jiajun Deng, Guinan Li, Yi Wang, Mingyu Cui, Tianzi Wang, Helen Meng, Xunying Liu et.al.|[2407.13782v1](http://arxiv.org/abs/2407.13782v1)|null|
 |**2024-07-18**|**Low-Resourced Speech Recognition for Iu Mien Language via Weakly-Supervised Phoneme-based Multilingual Pre-training**|Lukuan Dong, Donghong Qin, Fengbo Bai, Fanhua Song, Yan Liu, Chen Xu, Zhijian Ou et.al.|[2407.13292v1](http://arxiv.org/abs/2407.13292v1)|null|
