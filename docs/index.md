@@ -249,6 +249,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Lawma: The Power of Specialization for Legal Tasks**|Ricardo Dominguez-Olmedo, Vedant Nanda, Rediet Abebe, Stefan Bechtold, Christoph Engel, Jens Frankenreiter, Krishna Gummadi, Moritz Hardt, Michael Livermore et.al.|[2407.16615v1](http://arxiv.org/abs/2407.16615v1)|null|
 |**2024-07-19**|**LeKUBE: A Legal Knowledge Update BEnchmark**|Changyue Wang, Weihang Su, Hu Yiran, Qingyao Ai, Yueyue Wu, Cheng Luo, Yiqun Liu, Min Zhang, Shaoping Ma et.al.|[2407.14192v1](http://arxiv.org/abs/2407.14192v1)|null|
 |**2024-05-28**|**The Cost of Arbitrariness for Individuals: Examining the Legal and Technical Challenges of Model Multiplicity**|Prakhar Ganesh, Ihsan Ibrahim Daldaban, Ignacio Cofone, Golnoosh Farnadi et.al.|[2407.13070v1](http://arxiv.org/abs/2407.13070v1)|null|
 |**2024-07-20**|**Applicability of Large Language Models and Generative Models for Legal Case Judgement Summarization**|Aniket Deroy, Kripabandhu Ghosh, Saptarshi Ghosh et.al.|[2407.12848v2](http://arxiv.org/abs/2407.12848v2)|null|
@@ -635,8 +636,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Quantifying the Role of Textual Predictability in Automatic Speech Recognition**|Sean Robertson, Gerald Penn, Ewan Dunbar et.al.|[2407.16537v1](http://arxiv.org/abs/2407.16537v1)|null|
+|**2024-07-23**|**The CHiME-8 DASR Challenge for Generalizable and Array Agnostic Distant Automatic Speech Recognition and Diarization**|Samuele Cornell, Taejin Park, Steve Huang, Christoph Boeddeker, Xuankai Chang, Matthew Maciejewski, Matthew Wiesner, Paola Garcia, Shinji Watanabe et.al.|[2407.16447v1](http://arxiv.org/abs/2407.16447v1)|null|
 |**2024-07-07**|**Morse Code-Enabled Speech Recognition for Individuals with Visual and Hearing Impairments**|Ritabrata Roy Choudhury et.al.|[2407.14525v1](http://arxiv.org/abs/2407.14525v1)|null|
-|**2024-07-19**|**Reexamining Racial Disparities in Automatic Speech Recognition Performance: The Role of Confounding by Provenance**|Changye Li, Trevor Cohen, Serguei Pakhomov et.al.|[2407.13982v1](http://arxiv.org/abs/2407.13982v1)|**[link](https://github.com/LinguisticAnomalies/confounding-ASR)**|
+|**2024-07-19**|**Reexamining Racial Disparities in Automatic Speech Recognition Performance: The Role of Confounding by Provenance**|Changye Li, Trevor Cohen, Serguei Pakhomov et.al.|[2407.13982v1](http://arxiv.org/abs/2407.13982v1)|null|
 |**2024-07-03**|**Self-supervised ASR Models and Features For Dysarthric and Elderly Speech Recognition**|Shujie Hu, Xurong Xie, Mengzhe Geng, Zengrui Jin, Jiajun Deng, Guinan Li, Yi Wang, Mingyu Cui, Tianzi Wang, Helen Meng, Xunying Liu et.al.|[2407.13782v1](http://arxiv.org/abs/2407.13782v1)|null|
 |**2024-07-18**|**Low-Resourced Speech Recognition for Iu Mien Language via Weakly-Supervised Phoneme-based Multilingual Pre-training**|Lukuan Dong, Donghong Qin, Fengbo Bai, Fanhua Song, Yan Liu, Chen Xu, Zhijian Ou et.al.|[2407.13292v1](http://arxiv.org/abs/2407.13292v1)|null|
 |**2024-06-29**|**Error Correction by Paying Attention to Both Acoustic and Confidence References for Automatic Speech Recognition**|Yuchun Shu, Bo Hu, Yifeng He, Hao Shi, Longbiao Wang, Jianwu Dang et.al.|[2407.12817v1](http://arxiv.org/abs/2407.12817v1)|null|
