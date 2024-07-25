@@ -632,6 +632,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**A Comparative Analysis of Bilingual and Trilingual Wav2Vec Models for Automatic Speech Recognition in Multilingual Oral History Archives**|Jan Lehečka, Josef V. Psutka, Luboš Šmídl, Pavel Ircing, Josef Psutka et.al.|[2407.17160v1](http://arxiv.org/abs/2407.17160v1)|null|
 |**2024-07-23**|**Quantifying the Role of Textual Predictability in Automatic Speech Recognition**|Sean Robertson, Gerald Penn, Ewan Dunbar et.al.|[2407.16537v1](http://arxiv.org/abs/2407.16537v1)|null|
 |**2024-07-23**|**The CHiME-8 DASR Challenge for Generalizable and Array Agnostic Distant Automatic Speech Recognition and Diarization**|Samuele Cornell, Taejin Park, Steve Huang, Christoph Boeddeker, Xuankai Chang, Matthew Maciejewski, Matthew Wiesner, Paola Garcia, Shinji Watanabe et.al.|[2407.16447v1](http://arxiv.org/abs/2407.16447v1)|null|
 |**2024-07-07**|**Morse Code-Enabled Speech Recognition for Individuals with Visual and Hearing Impairments**|Ritabrata Roy Choudhury et.al.|[2407.14525v1](http://arxiv.org/abs/2407.14525v1)|null|
@@ -669,7 +670,7 @@
 |**2024-06-18**|**Bridging the Gap: Integrating Pre-trained Speech Enhancement and Recognition Models for Robust Speech Recognition**|Kuan-Chen Wang, You-Jin Li, Wei-Lun Chen, Yu-Wen Chen, Yi-Ching Wang, Ping-Cheng Yeh, Chao Zhang, Yu Tsao et.al.|[2406.12699v1](http://arxiv.org/abs/2406.12699v1)|null|
 |**2024-06-18**|**Rapid Language Adaptation for Multilingual E2E Speech Recognition Using Encoder Prompting**|Yosuke Kashiwagi, Hayato Futami, Emiru Tsunoo, Siddhant Arora, Shinji Watanabe et.al.|[2406.12611v1](http://arxiv.org/abs/2406.12611v1)|null|
 |**2024-06-18**|**Unsupervised Online Continual Learning for Automatic Speech Recognition**|Steven Vander Eeckt, Hugo Van hamme et.al.|[2406.12503v1](http://arxiv.org/abs/2406.12503v1)|**[link](https://github.com/stevenvdeeckt/unsupervised-ocl-for-asr)**|
-|**2024-06-18**|**SyncVSR: Data-Efficient Visual Speech Recognition with End-to-End Crossmodal Audio Token Synchronization**|Young Jin Ahn, Jungwoo Park, Sangha Park, Jonghyun Choi, Kee-Eung Kim et.al.|[2406.12233v1](http://arxiv.org/abs/2406.12233v1)|null|
+|**2024-06-18**|**SyncVSR: Data-Efficient Visual Speech Recognition with End-to-End Crossmodal Audio Token Synchronization**|Young Jin Ahn, Jungwoo Park, Sangha Park, Jonghyun Choi, Kee-Eung Kim et.al.|[2406.12233v1](http://arxiv.org/abs/2406.12233v1)|**[link](https://github.com/KAIST-AILab/SyncVSR)**|
 |**2024-06-16**|**Continual Test-time Adaptation for End-to-end Speech Recognition on Noisy Speech**|Guan-Ting Lin, Wei-Ping Huang, Hung-yi Lee et.al.|[2406.11064v1](http://arxiv.org/abs/2406.11064v1)|null|
 |**2024-06-16**|**Imperceptible Rhythm Backdoor Attacks: Exploring Rhythm Transformation for Embedding Undetectable Vulnerabilities on Speech Recognition**|Wenhan Yao, Jiangkun Yang, Yongqiang He, Jia Liu, Weiping Wen et.al.|[2406.10932v1](http://arxiv.org/abs/2406.10932v1)|null|
 |**2024-06-14**|**CNVSRC 2023: The First Chinese Continuous Visual Speech Recognition Challenge**|Chen Chen, Zehua Liu, Xiaolou Li, Lantian Li, Dong Wang et.al.|[2406.10313v1](http://arxiv.org/abs/2406.10313v1)|null|
