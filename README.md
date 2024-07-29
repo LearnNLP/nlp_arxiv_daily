@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Analyzing Speech Unit Selection for Textless Speech-to-Speech Translation**|Jarod Duret, Yannick Estève, Titouan Parcollet et.al.|[2407.18332v1](http://arxiv.org/abs/2407.18332v1)|null|
 |**2024-07-22**|**LLaST: Improved End-to-end Speech Translation System Leveraged by Large Language Models**|Xi Chen, Songyang Zhang, Qibing Bai, Kai Chen, Satoshi Nakamura et.al.|[2407.15415v1](http://arxiv.org/abs/2407.15415v1)|**[link](https://github.com/openaudiolab/llast)**|
 |**2024-07-18**|**Preset-Voice Matching for Privacy Regulated Speech-to-Speech Translation Systems**|Daniel Platnick, Bishoy Abdelnour, Eamon Earl, Rahul Kumar, Zahra Rezaei, Thomas Tsangaris, Faraj Lagum et.al.|[2407.13153v1](http://arxiv.org/abs/2407.13153v1)|null|
 |**2024-06-26**|**Navigating the Minefield of MT Beam Search in Cascaded Streaming Speech Translation**|Rastislav Rabatin, Frank Seide, Ernie Chang et.al.|[2407.11010v1](http://arxiv.org/abs/2407.11010v1)|null|
@@ -633,6 +634,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Dynamic Language Group-Based MoE: Enhancing Efficiency and Flexibility for Code-Switching Speech Recognition**|Hukai Huang, Shenghui Lu, Yahui Shan, He Qu, Wenhao Guan, Qingyang Hong, Lin Li et.al.|[2407.18581v1](http://arxiv.org/abs/2407.18581v1)|null|
+|**2024-07-26**|**Enhancing Dysarthric Speech Recognition for Unseen Speakers via Prototype-Based Adaptation**|Shiyao Wang, Shiwan Zhao, Jiaming Zhou, Aobo Kong, Yong Qin et.al.|[2407.18461v1](http://arxiv.org/abs/2407.18461v1)|**[link](https://github.com/nku-hlt/pb-dsr)**|
 |**2024-07-25**|**On the Effect of Purely Synthetic Training Data for Different Automatic Speech Recognition Architectures**|Nick Rossenbach, Benedikt Hilmes, Ralf Schlüter et.al.|[2407.17997v1](http://arxiv.org/abs/2407.17997v1)|null|
 |**2024-07-25**|**Scaling A Simple Approach to Zero-Shot Speech Recognition**|Jinming Zhao, Vineel Pratap, Michael Auli et.al.|[2407.17852v1](http://arxiv.org/abs/2407.17852v1)|**[link](https://github.com/facebookresearch/fairseq)**|
 |**2024-07-24**|**A Comparative Analysis of Bilingual and Trilingual Wav2Vec Models for Automatic Speech Recognition in Multilingual Oral History Archives**|Jan Lehečka, Josef V. Psutka, Luboš Šmídl, Pavel Ircing, Josef Psutka et.al.|[2407.17160v1](http://arxiv.org/abs/2407.17160v1)|null|
@@ -728,6 +731,7 @@
 |**2024-04-23**|**Rethinking Processing Distortions: Disentangling the Impact of Speech Enhancement Errors on Speech Recognition Performance**|Tsubasa Ochiai, Kazuma Iwamoto, Marc Delcroix, Rintaro Ikeshita, Hiroshi Sato, Shoko Araki, Shigeru Katagiri et.al.|[2404.14860v1](http://arxiv.org/abs/2404.14860v1)|null|
 |**2024-04-20**|**Semantically Corrected Amharic Automatic Speech Recognition**|Samuael Adnew, Paul Pu Liang et.al.|[2404.13362v1](http://arxiv.org/abs/2404.13362v1)|**[link](https://github.com/samuael/postprocessed_geez_asr)**|
 |**2024-04-19**|**Efficient infusion of self-supervised representations in Automatic Speech Recognition**|Darshan Prabhu, Sai Ganesh Mirishkar, Pankaj Wasnik et.al.|[2404.12628v1](http://arxiv.org/abs/2404.12628v1)|null|
+|**2024-07-26**|**Automatic Speech Recognition Advancements for Indigenous Languages of the Americas**|Monica Romero, Sandra Gomez, Ivan G. Torre et.al.|[2404.08368v2](http://arxiv.org/abs/2404.08368v2)|null|
 |**2024-05-28**|**VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain**|Khai Le-Duc et.al.|[2404.05659v2](http://arxiv.org/abs/2404.05659v2)|**[link](https://github.com/leduckhai/multimed)**|
 |**2024-04-04**|**Transducers with Pronunciation-aware Embeddings for Automatic Speech Recognition**|Hainan Xu, Zhehuai Chen, Fei Jia, Boris Ginsburg et.al.|[2404.04295v1](http://arxiv.org/abs/2404.04295v1)|null|
 |**2024-04-03**|**Mai Ho'omāuna i ka 'Ai: Language Models Improve Automatic Speech Recognition in Hawaiian**|Kaavya Chaparala, Guido Zarrella, Bruce Torres Fischer, Larry Kimura, Oiwi Parker Jones et.al.|[2404.03073v1](http://arxiv.org/abs/2404.03073v1)|null|
