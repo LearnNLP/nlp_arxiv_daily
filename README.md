@@ -246,6 +246,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Legal Minds, Algorithmic Decisions: How LLMs Apply Constitutional Principles in Complex Scenarios**|Camilla Bignotti, Carolina Camassa et.al.|[2407.19760v1](http://arxiv.org/abs/2407.19760v1)|null|
+|**2024-07-28**|**SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal Domain**|Pierre Colombo, Telmo Pires, Malik Boudiaf, Rui Melo, Dominic Culver, Sofia Morgado, Etienne Malaboeuf, Gabriel Hautreux, Johanne Charpentier, Michael Desa et.al.|[2407.19584v1](http://arxiv.org/abs/2407.19584v1)|null|
+|**2024-07-26**|**Optimizing Numerical Estimation and Operational Efficiency in the Legal Domain through Large Language Models**|Jia-Hong Huang, Chao-Chun Yang, Yixian Shen, Alessio M. Pacces, Evangelos Kanoulas et.al.|[2407.19041v1](http://arxiv.org/abs/2407.19041v1)|null|
 |**2024-07-05**|**Challenges and Considerations in Annotating Legal Data: A Comprehensive Overview**|Harshil Darji, Jelena Mitrović, Michael Granitzer et.al.|[2407.17503v1](http://arxiv.org/abs/2407.17503v1)|null|
 |**2024-07-23**|**Lawma: The Power of Specialization for Legal Tasks**|Ricardo Dominguez-Olmedo, Vedant Nanda, Rediet Abebe, Stefan Bechtold, Christoph Engel, Jens Frankenreiter, Krishna Gummadi, Moritz Hardt, Michael Livermore et.al.|[2407.16615v1](http://arxiv.org/abs/2407.16615v1)|null|
 |**2024-07-19**|**LeKUBE: A Legal Knowledge Update BEnchmark**|Changyue Wang, Weihang Su, Hu Yiran, Qingyao Ai, Yueyue Wu, Cheng Luo, Yiqun Liu, Min Zhang, Shaoping Ma et.al.|[2407.14192v1](http://arxiv.org/abs/2407.14192v1)|null|
@@ -634,6 +637,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Dynamic Encoder Size Based on Data-Driven Layer-wise Pruning for Speech Recognition**|Jingjing Xu, Wei Zhou, Zijian Yang, Eugen Beck, Ralf Schlueter et.al.|[2407.18930v1](http://arxiv.org/abs/2407.18930v1)|null|
 |**2024-07-26**|**Dynamic Language Group-Based MoE: Enhancing Efficiency and Flexibility for Code-Switching Speech Recognition**|Hukai Huang, Shenghui Lu, Yahui Shan, He Qu, Wenhao Guan, Qingyang Hong, Lin Li et.al.|[2407.18581v1](http://arxiv.org/abs/2407.18581v1)|null|
 |**2024-07-26**|**Enhancing Dysarthric Speech Recognition for Unseen Speakers via Prototype-Based Adaptation**|Shiyao Wang, Shiwan Zhao, Jiaming Zhou, Aobo Kong, Yong Qin et.al.|[2407.18461v1](http://arxiv.org/abs/2407.18461v1)|**[link](https://github.com/nku-hlt/pb-dsr)**|
 |**2024-07-25**|**On the Effect of Purely Synthetic Training Data for Different Automatic Speech Recognition Architectures**|Nick Rossenbach, Benedikt Hilmes, Ralf Schlüter et.al.|[2407.17997v1](http://arxiv.org/abs/2407.17997v1)|null|
