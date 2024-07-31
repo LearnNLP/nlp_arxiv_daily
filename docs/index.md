@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**Contrastive Feedback Mechanism for Simultaneous Speech Translation**|Haotian Tan, Sakriani Sakti et.al.|[2407.20524v1](http://arxiv.org/abs/2407.20524v1)|null|
 |**2024-07-08**|**Analyzing Speech Unit Selection for Textless Speech-to-Speech Translation**|Jarod Duret, Yannick Estève, Titouan Parcollet et.al.|[2407.18332v1](http://arxiv.org/abs/2407.18332v1)|null|
 |**2024-07-22**|**LLaST: Improved End-to-end Speech Translation System Leveraged by Large Language Models**|Xi Chen, Songyang Zhang, Qibing Bai, Kai Chen, Satoshi Nakamura et.al.|[2407.15415v1](http://arxiv.org/abs/2407.15415v1)|**[link](https://github.com/openaudiolab/llast)**|
 |**2024-07-18**|**Preset-Voice Matching for Privacy Regulated Speech-to-Speech Translation Systems**|Daniel Platnick, Bishoy Abdelnour, Eamon Earl, Rahul Kumar, Zahra Rezaei, Thomas Tsangaris, Faraj Lagum et.al.|[2407.13153v1](http://arxiv.org/abs/2407.13153v1)|null|
@@ -250,6 +251,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**A Three Steps Methodological Approach to Legal Governance Validation**|Pompeu Casanovas, Mustafa Hashmi, Louis de Koker, Ho-Pun Lam et.al.|[2407.20691v1](http://arxiv.org/abs/2407.20691v1)|null|
+|**2024-07-30**|**The Future of International Data Transfers: Managing Legal Risk with a User-Held Data Model**|Paulius Jurcys, Marcelo Corrales Compagnucci, Mark Fenwick et.al.|[2407.20514v1](http://arxiv.org/abs/2407.20514v1)|null|
+|**2024-07-29**|**Legal Aspects of Decentralized and Platform-Driven Economies**|Marcelo Corrales Compagnucci, Toshiyuki Kono, Shinto Teramoto et.al.|[2407.20301v1](http://arxiv.org/abs/2407.20301v1)|null|
 |**2024-07-29**|**Legal Minds, Algorithmic Decisions: How LLMs Apply Constitutional Principles in Complex Scenarios**|Camilla Bignotti, Carolina Camassa et.al.|[2407.19760v1](http://arxiv.org/abs/2407.19760v1)|null|
 |**2024-07-28**|**SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal Domain**|Pierre Colombo, Telmo Pires, Malik Boudiaf, Rui Melo, Dominic Culver, Sofia Morgado, Etienne Malaboeuf, Gabriel Hautreux, Johanne Charpentier, Michael Desa et.al.|[2407.19584v1](http://arxiv.org/abs/2407.19584v1)|null|
 |**2024-07-26**|**Optimizing Numerical Estimation and Operational Efficiency in the Legal Domain through Large Language Models**|Jia-Hong Huang, Chao-Chun Yang, Yixian Shen, Alessio M. Pacces, Evangelos Kanoulas et.al.|[2407.19041v1](http://arxiv.org/abs/2407.19041v1)|null|
