@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-31**|**Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent**|Shanbo Cheng, Zhichao Huang, Tom Ko, Hang Li, Ningxin Peng, Lu Xu, Qini Zhang et.al.|[2407.21646v1](http://arxiv.org/abs/2407.21646v1)|null|
 |**2024-07-31**|**Contrastive Feedback Mechanism for Simultaneous Speech Translation**|Haotian Tan, Sakriani Sakti et.al.|[2407.20524v2](http://arxiv.org/abs/2407.20524v2)|null|
 |**2024-07-08**|**Analyzing Speech Unit Selection for Textless Speech-to-Speech Translation**|Jarod Duret, Yannick Estève, Titouan Parcollet et.al.|[2407.18332v1](http://arxiv.org/abs/2407.18332v1)|null|
 |**2024-07-22**|**LLaST: Improved End-to-end Speech Translation System Leveraged by Large Language Models**|Xi Chen, Songyang Zhang, Qibing Bai, Kai Chen, Satoshi Nakamura et.al.|[2407.15415v1](http://arxiv.org/abs/2407.15415v1)|**[link](https://github.com/openaudiolab/llast)**|
@@ -247,6 +248,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-27**|**LawLLM: Law Large Language Model for the US Legal System**|Dong Shu, Haoran Zhao, Xukun Liu, David Demeter, Mengnan Du, Yongfeng Zhang et.al.|[2407.21065v1](http://arxiv.org/abs/2407.21065v1)|null|
 |**2024-07-30**|**A Three Steps Methodological Approach to Legal Governance Validation**|Pompeu Casanovas, Mustafa Hashmi, Louis de Koker, Ho-Pun Lam et.al.|[2407.20691v1](http://arxiv.org/abs/2407.20691v1)|null|
 |**2024-07-30**|**The Future of International Data Transfers: Managing Legal Risk with a User-Held Data Model**|Paulius Jurcys, Marcelo Corrales Compagnucci, Mark Fenwick et.al.|[2407.20514v1](http://arxiv.org/abs/2407.20514v1)|null|
 |**2024-07-29**|**Legal Aspects of Decentralized and Platform-Driven Economies**|Marcelo Corrales Compagnucci, Toshiyuki Kono, Shinto Teramoto et.al.|[2407.20301v1](http://arxiv.org/abs/2407.20301v1)|null|
@@ -641,6 +643,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-31**|**On the Problem of Text-To-Speech Model Selection for Synthetic Data Generation in Automatic Speech Recognition**|Nick Rossenbach, Ralf Schlüter, Sakriani Sakti et.al.|[2407.21476v1](http://arxiv.org/abs/2407.21476v1)|null|
+|**2024-07-30**|**Self-Supervised Models in Automatic Whispered Speech Recognition**|Aref Farhadipour, Homa Asadi, Volker Dellwo et.al.|[2407.21211v1](http://arxiv.org/abs/2407.21211v1)|null|
 |**2024-07-10**|**Dynamic Encoder Size Based on Data-Driven Layer-wise Pruning for Speech Recognition**|Jingjing Xu, Wei Zhou, Zijian Yang, Eugen Beck, Ralf Schlueter et.al.|[2407.18930v1](http://arxiv.org/abs/2407.18930v1)|null|
 |**2024-07-26**|**Dynamic Language Group-Based MoE: Enhancing Efficiency and Flexibility for Code-Switching Speech Recognition**|Hukai Huang, Shenghui Lu, Yahui Shan, He Qu, Wenhao Guan, Qingyang Hong, Lin Li et.al.|[2407.18581v1](http://arxiv.org/abs/2407.18581v1)|null|
 |**2024-07-26**|**Enhancing Dysarthric Speech Recognition for Unseen Speakers via Prototype-Based Adaptation**|Shiyao Wang, Shiwan Zhao, Jiaming Zhou, Aobo Kong, Yong Qin et.al.|[2407.18461v1](http://arxiv.org/abs/2407.18461v1)|**[link](https://github.com/nku-hlt/pb-dsr)**|
