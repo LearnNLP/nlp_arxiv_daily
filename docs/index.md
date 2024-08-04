@@ -252,6 +252,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**DeliLaw: A Chinese Legal Counselling System Based on a Large Language Model**|Nan Xie, Yuelin Bai, Hengyuan Gao, Feiteng Fang, Qixuan Zhao, Zhijian Li, Ziqiang Xue, Liang Zhu, Shiwen Ni, Min Yang et.al.|[2408.00357v1](http://arxiv.org/abs/2408.00357v1)|null|
 |**2024-07-27**|**LawLLM: Law Large Language Model for the US Legal System**|Dong Shu, Haoran Zhao, Xukun Liu, David Demeter, Mengnan Du, Yongfeng Zhang et.al.|[2407.21065v1](http://arxiv.org/abs/2407.21065v1)|null|
 |**2024-07-30**|**A Three Steps Methodological Approach to Legal Governance Validation**|Pompeu Casanovas, Mustafa Hashmi, Louis de Koker, Ho-Pun Lam et.al.|[2407.20691v1](http://arxiv.org/abs/2407.20691v1)|null|
 |**2024-07-30**|**The Future of International Data Transfers: Managing Legal Risk with a User-Held Data Model**|Paulius Jurcys, Marcelo Corrales Compagnucci, Mark Fenwick et.al.|[2407.20514v1](http://arxiv.org/abs/2407.20514v1)|null|
@@ -647,6 +648,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**SynesLM: A Unified Approach for Audio-visual Speech Recognition and Translation via Language Model and Synthetic Data**|Yichen Lu, Jiaqi Song, Xuankai Chang, Hengwei Bian, Soumi Maiti, Shinji Watanabe et.al.|[2408.00624v1](http://arxiv.org/abs/2408.00624v1)|null|
+|**2024-07-18**|**Handling Numeric Expressions in Automatic Speech Recognition**|Christian Huber, Alexander Waibel et.al.|[2408.00004v1](http://arxiv.org/abs/2408.00004v1)|null|
 |**2024-07-31**|**On the Problem of Text-To-Speech Model Selection for Synthetic Data Generation in Automatic Speech Recognition**|Nick Rossenbach, Ralf Schlüter, Sakriani Sakti et.al.|[2407.21476v1](http://arxiv.org/abs/2407.21476v1)|null|
 |**2024-07-30**|**Self-Supervised Models in Automatic Whispered Speech Recognition**|Aref Farhadipour, Homa Asadi, Volker Dellwo et.al.|[2407.21211v1](http://arxiv.org/abs/2407.21211v1)|null|
 |**2024-07-10**|**Dynamic Encoder Size Based on Data-Driven Layer-wise Pruning for Speech Recognition**|Jingjing Xu, Wei Zhou, Zijian Yang, Eugen Beck, Ralf Schlueter et.al.|[2407.18930v1](http://arxiv.org/abs/2407.18930v1)|null|
