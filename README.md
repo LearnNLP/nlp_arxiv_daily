@@ -248,6 +248,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**A Multi-Source Heterogeneous Knowledge Injected Prompt Learning Method for Legal Charge Prediction**|Jingyun Sun, Chi Wei, Yang Li et.al.|[2408.02233v1](http://arxiv.org/abs/2408.02233v1)|null|
 |**2024-08-01**|**DeliLaw: A Chinese Legal Counselling System Based on a Large Language Model**|Nan Xie, Yuelin Bai, Hengyuan Gao, Feiteng Fang, Qixuan Zhao, Zhijian Li, Ziqiang Xue, Liang Zhu, Shiwen Ni, Min Yang et.al.|[2408.00357v1](http://arxiv.org/abs/2408.00357v1)|null|
 |**2024-07-27**|**LawLLM: Law Large Language Model for the US Legal System**|Dong Shu, Haoran Zhao, Xukun Liu, David Demeter, Mengnan Du, Yongfeng Zhang et.al.|[2407.21065v1](http://arxiv.org/abs/2407.21065v1)|null|
 |**2024-07-30**|**A Three Steps Methodological Approach to Legal Governance Validation**|Pompeu Casanovas, Mustafa Hashmi, Louis de Koker, Ho-Pun Lam et.al.|[2407.20691v1](http://arxiv.org/abs/2407.20691v1)|null|
@@ -644,6 +645,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Clustering and Mining Accented Speech for Inclusive and Fair Speech Recognition**|Jaeyoung Kim, Han Lu, Soheil Khorram, Anshuman Tripathi, Qian Zhang, Hasim Sak et.al.|[2408.02582v1](http://arxiv.org/abs/2408.02582v1)|null|
+|**2024-08-05**|**The NPU-ASLP System Description for Visual Speech Recognition in CNVSRC 2024**|He Wang, Lei Xie et.al.|[2408.02369v1](http://arxiv.org/abs/2408.02369v1)|null|
 |**2024-08-01**|**SynesLM: A Unified Approach for Audio-visual Speech Recognition and Translation via Language Model and Synthetic Data**|Yichen Lu, Jiaqi Song, Xuankai Chang, Hengwei Bian, Soumi Maiti, Shinji Watanabe et.al.|[2408.00624v1](http://arxiv.org/abs/2408.00624v1)|null|
 |**2024-07-18**|**Handling Numeric Expressions in Automatic Speech Recognition**|Christian Huber, Alexander Waibel et.al.|[2408.00004v1](http://arxiv.org/abs/2408.00004v1)|null|
 |**2024-07-31**|**On the Problem of Text-To-Speech Model Selection for Synthetic Data Generation in Automatic Speech Recognition**|Nick Rossenbach, Ralf Schlüter, Sakriani Sakti et.al.|[2407.21476v1](http://arxiv.org/abs/2407.21476v1)|null|
