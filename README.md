@@ -248,6 +248,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Redefining Accountability: Navigating Legal Challenges of Participant Liability in Decentralized Autonomous Organizations**|Aneta Napieralska, Przemysław Kępczyński et.al.|[2408.04717v1](http://arxiv.org/abs/2408.04717v1)|null|
 |**2024-08-05**|**A Multi-Source Heterogeneous Knowledge Injected Prompt Learning Method for Legal Charge Prediction**|Jingyun Sun, Chi Wei, Yang Li et.al.|[2408.02233v1](http://arxiv.org/abs/2408.02233v1)|null|
 |**2024-08-01**|**DeliLaw: A Chinese Legal Counselling System Based on a Large Language Model**|Nan Xie, Yuelin Bai, Hengyuan Gao, Feiteng Fang, Qixuan Zhao, Zhijian Li, Ziqiang Xue, Liang Zhu, Shiwen Ni, Min Yang et.al.|[2408.00357v1](http://arxiv.org/abs/2408.00357v1)|null|
 |**2024-07-27**|**LawLLM: Law Large Language Model for the US Legal System**|Dong Shu, Haoran Zhao, Xukun Liu, David Demeter, Mengnan Du, Yongfeng Zhang et.al.|[2407.21065v1](http://arxiv.org/abs/2407.21065v1)|null|
@@ -645,6 +646,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**MooER: LLM-based Speech Recognition and Translation Models from Moore Threads**|Junhao Xu, Zhenlin Liang, Yi Liu, Yichao Hu, Jian Li, Yajun Zheng, Meng Cai, Hua Wang et.al.|[2408.05101v1](http://arxiv.org/abs/2408.05101v1)|null|
 |**2024-08-05**|**Clustering and Mining Accented Speech for Inclusive and Fair Speech Recognition**|Jaeyoung Kim, Han Lu, Soheil Khorram, Anshuman Tripathi, Qian Zhang, Hasim Sak et.al.|[2408.02582v1](http://arxiv.org/abs/2408.02582v1)|null|
 |**2024-08-08**|**The NPU-ASLP System Description for Visual Speech Recognition in CNVSRC 2024**|He Wang, Lei Xie et.al.|[2408.02369v2](http://arxiv.org/abs/2408.02369v2)|null|
 |**2024-08-01**|**SynesLM: A Unified Approach for Audio-visual Speech Recognition and Translation via Language Model and Synthetic Data**|Yichen Lu, Jiaqi Song, Xuankai Chang, Hengwei Bian, Soumi Maiti, Shinji Watanabe et.al.|[2408.00624v1](http://arxiv.org/abs/2408.00624v1)|null|
