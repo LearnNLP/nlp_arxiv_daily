@@ -267,7 +267,7 @@ layout: default
 |**2024-07-19**|**LeKUBE: A Legal Knowledge Update BEnchmark**|Changyue Wang, Weihang Su, Hu Yiran, Qingyao Ai, Yueyue Wu, Cheng Luo, Yiqun Liu, Min Zhang, Shaoping Ma et.al.|[2407.14192v1](http://arxiv.org/abs/2407.14192v1)|null|
 |**2024-05-28**|**The Cost of Arbitrariness for Individuals: Examining the Legal and Technical Challenges of Model Multiplicity**|Prakhar Ganesh, Ihsan Ibrahim Daldaban, Ignacio Cofone, Golnoosh Farnadi et.al.|[2407.13070v1](http://arxiv.org/abs/2407.13070v1)|null|
 |**2024-07-20**|**Applicability of Large Language Models and Generative Models for Legal Case Judgement Summarization**|Aniket Deroy, Kripabandhu Ghosh, Saptarshi Ghosh et.al.|[2407.12848v2](http://arxiv.org/abs/2407.12848v2)|null|
-|**2024-07-17**|**Across Platforms and Languages: Dutch Influencers and Legal Disclosures on Instagram, YouTube and TikTok**|Haoyang Gui, Thales Bertaglia, Catalina Goanta, Sybe de Vries, Gerasimos Spanakis et.al.|[2407.12451v1](http://arxiv.org/abs/2407.12451v1)|null|
+|**2024-08-12**|**Across Platforms and Languages: Dutch Influencers and Legal Disclosures on Instagram, YouTube and TikTok**|Haoyang Gui, Thales Bertaglia, Catalina Goanta, Sybe de Vries, Gerasimos Spanakis et.al.|[2407.12451v2](http://arxiv.org/abs/2407.12451v2)|null|
 |**2024-07-07**|**Auditing of AI: Legal, Ethical and Technical Approaches**|Jakob Mokander et.al.|[2407.06235v1](http://arxiv.org/abs/2407.06235v1)|null|
 |**2024-07-07**|**IL-TUR: Benchmark for Indian Legal Text Understanding and Reasoning**|Abhinav Joshi, Shounak Paul, Akshat Sharma, Pawan Goyal, Saptarshi Ghosh, Ashutosh Modi et.al.|[2407.05399v1](http://arxiv.org/abs/2407.05399v1)|null|
 |**2024-08-06**|**Enabling Discriminative Reasoning in LLMs for Legal Judgment Prediction**|Chenlong Deng, Kelong Mao, Yuyao Zhang, Zhicheng Dou et.al.|[2407.01964v4](http://arxiv.org/abs/2407.01964v4)|**[link](https://github.com/chenlongdeng/adapt)**|
@@ -650,9 +650,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning**|Wonjun Lee, San Kim, Gary Geunbae Lee et.al.|[2408.06043v1](http://arxiv.org/abs/2408.06043v1)|null|
+|**2024-08-11**|**LI-TTA: Language Informed Test-Time Adaptation for Automatic Speech Recognition**|Eunseop Yoon, Hee Suk Yoon, John Harvill, Mark Hasegawa-Johnson, Chang D. Yoo et.al.|[2408.05769v1](http://arxiv.org/abs/2408.05769v1)|null|
 |**2024-08-09**|**MooER: LLM-based Speech Recognition and Translation Models from Moore Threads**|Junhao Xu, Zhenlin Liang, Yi Liu, Yichao Hu, Jian Li, Yajun Zheng, Meng Cai, Hua Wang et.al.|[2408.05101v1](http://arxiv.org/abs/2408.05101v1)|null|
 |**2024-08-05**|**Clustering and Mining Accented Speech for Inclusive and Fair Speech Recognition**|Jaeyoung Kim, Han Lu, Soheil Khorram, Anshuman Tripathi, Qian Zhang, Hasim Sak et.al.|[2408.02582v1](http://arxiv.org/abs/2408.02582v1)|null|
-|**2024-08-08**|**The NPU-ASLP System Description for Visual Speech Recognition in CNVSRC 2024**|He Wang, Lei Xie et.al.|[2408.02369v2](http://arxiv.org/abs/2408.02369v2)|null|
+|**2024-08-08**|**The NPU-ASLP System Description for Visual Speech Recognition in CNVSRC 2024**|He Wang, Lei Xie et.al.|[2408.02369v2](http://arxiv.org/abs/2408.02369v2)|**[link](https://gitlab.com/csltstu/sunine)**|
 |**2024-08-01**|**SynesLM: A Unified Approach for Audio-visual Speech Recognition and Translation via Language Model and Synthetic Data**|Yichen Lu, Jiaqi Song, Xuankai Chang, Hengwei Bian, Soumi Maiti, Shinji Watanabe et.al.|[2408.00624v1](http://arxiv.org/abs/2408.00624v1)|null|
 |**2024-07-18**|**Handling Numeric Expressions in Automatic Speech Recognition**|Christian Huber, Alexander Waibel et.al.|[2408.00004v1](http://arxiv.org/abs/2408.00004v1)|null|
 |**2024-07-31**|**On the Problem of Text-To-Speech Model Selection for Synthetic Data Generation in Automatic Speech Recognition**|Nick Rossenbach, Ralf Schlüter, Sakriani Sakti et.al.|[2407.21476v1](http://arxiv.org/abs/2407.21476v1)|null|
