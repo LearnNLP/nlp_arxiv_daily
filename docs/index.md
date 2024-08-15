@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**CMU's IWSLT 2024 Simultaneous Speech Translation System**|Xi Xu, Siqi Ouyang, Brian Yan, Patrick Fernandes, William Chen, Lei Li, Graham Neubig, Shinji Watanabe et.al.|[2408.07452v1](http://arxiv.org/abs/2408.07452v1)|null|
 |**2024-07-31**|**Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent**|Shanbo Cheng, Zhichao Huang, Tom Ko, Hang Li, Ningxin Peng, Lu Xu, Qini Zhang et.al.|[2407.21646v1](http://arxiv.org/abs/2407.21646v1)|null|
 |**2024-07-31**|**Contrastive Feedback Mechanism for Simultaneous Speech Translation**|Haotian Tan, Sakriani Sakti et.al.|[2407.20524v2](http://arxiv.org/abs/2407.20524v2)|null|
 |**2024-07-08**|**Analyzing Speech Unit Selection for Textless Speech-to-Speech Translation**|Jarod Duret, Yannick Estève, Titouan Parcollet et.al.|[2407.18332v1](http://arxiv.org/abs/2407.18332v1)|null|
@@ -252,6 +253,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-13**|**ELLA: Empowering LLMs for Interpretable, Accurate and Informative Legal Advice**|Yutong Hu, Kangcheng Luo, Yansong Feng et.al.|[2408.07137v1](http://arxiv.org/abs/2408.07137v1)|null|
 |**2024-08-08**|**Redefining Accountability: Navigating Legal Challenges of Participant Liability in Decentralized Autonomous Organizations**|Aneta Napieralska, Przemysław Kępczyński et.al.|[2408.04717v1](http://arxiv.org/abs/2408.04717v1)|null|
 |**2024-08-05**|**A Multi-Source Heterogeneous Knowledge Injected Prompt Learning Method for Legal Charge Prediction**|Jingyun Sun, Chi Wei, Yang Li et.al.|[2408.02233v1](http://arxiv.org/abs/2408.02233v1)|null|
 |**2024-08-01**|**DeliLaw: A Chinese Legal Counselling System Based on a Large Language Model**|Nan Xie, Yuelin Bai, Hengyuan Gao, Feiteng Fang, Qixuan Zhao, Zhijian Li, Ziqiang Xue, Liang Zhu, Shiwen Ni, Min Yang et.al.|[2408.00357v1](http://arxiv.org/abs/2408.00357v1)|null|
