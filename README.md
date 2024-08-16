@@ -249,6 +249,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**ArabLegalEval: A Multitask Benchmark for Assessing Arabic Legal Knowledge in Large Language Models**|Faris Hijazi, Somayah AlHarbi, Abdulaziz AlHussein, Harethah Abu Shairah, Reem AlZahrani, Hebah AlShamlan, Omar Knio, George Turkiyyah et.al.|[2408.07983v1](http://arxiv.org/abs/2408.07983v1)|**[link](https://github.com/thiqah/arablegaleval)**|
 |**2024-08-13**|**ELLA: Empowering LLMs for Interpretable, Accurate and Informative Legal Advice**|Yutong Hu, Kangcheng Luo, Yansong Feng et.al.|[2408.07137v1](http://arxiv.org/abs/2408.07137v1)|null|
 |**2024-08-08**|**Redefining Accountability: Navigating Legal Challenges of Participant Liability in Decentralized Autonomous Organizations**|Aneta Napieralska, Przemysław Kępczyński et.al.|[2408.04717v1](http://arxiv.org/abs/2408.04717v1)|null|
 |**2024-08-05**|**A Multi-Source Heterogeneous Knowledge Injected Prompt Learning Method for Legal Charge Prediction**|Jingyun Sun, Chi Wei, Yang Li et.al.|[2408.02233v1](http://arxiv.org/abs/2408.02233v1)|null|
@@ -648,6 +649,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Enhancing Large Language Model-based Speech Recognition by Contextualization for Rare and Ambiguous Words**|Kento Nozawa, Takashi Masuko, Toru Taniguchi et.al.|[2408.08027v1](http://arxiv.org/abs/2408.08027v1)|null|
 |**2024-08-12**|**Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning**|Wonjun Lee, San Kim, Gary Geunbae Lee et.al.|[2408.06043v1](http://arxiv.org/abs/2408.06043v1)|null|
 |**2024-08-11**|**LI-TTA: Language Informed Test-Time Adaptation for Automatic Speech Recognition**|Eunseop Yoon, Hee Suk Yoon, John Harvill, Mark Hasegawa-Johnson, Chang D. Yoo et.al.|[2408.05769v1](http://arxiv.org/abs/2408.05769v1)|null|
 |**2024-08-09**|**MooER: LLM-based Speech Recognition and Translation Models from Moore Threads**|Junhao Xu, Zhenlin Liang, Yi Liu, Yichao Hu, Jian Li, Yajun Zheng, Meng Cai, Hua Wang et.al.|[2408.05101v1](http://arxiv.org/abs/2408.05101v1)|null|
