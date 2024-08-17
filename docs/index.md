@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -247,14 +247,14 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240817>back to top</a>)</p>
 
 ## Legal
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-15**|**ArabLegalEval: A Multitask Benchmark for Assessing Arabic Legal Knowledge in Large Language Models**|Faris Hijazi, Somayah AlHarbi, Abdulaziz AlHussein, Harethah Abu Shairah, Reem AlZahrani, Hebah AlShamlan, Omar Knio, George Turkiyyah et.al.|[2408.07983v1](http://arxiv.org/abs/2408.07983v1)|**[link](https://github.com/thiqah/arablegaleval)**|
-|**2024-08-13**|**ELLA: Empowering LLMs for Interpretable, Accurate and Informative Legal Advice**|Yutong Hu, Kangcheng Luo, Yansong Feng et.al.|[2408.07137v1](http://arxiv.org/abs/2408.07137v1)|null|
+|**2024-08-13**|**ELLA: Empowering LLMs for Interpretable, Accurate and Informative Legal Advice**|Yutong Hu, Kangcheng Luo, Yansong Feng et.al.|[2408.07137v1](http://arxiv.org/abs/2408.07137v1)|**[link](https://github.com/Huyt00/ELLA)**|
 |**2024-08-08**|**Redefining Accountability: Navigating Legal Challenges of Participant Liability in Decentralized Autonomous Organizations**|Aneta Napieralska, Przemysław Kępczyński et.al.|[2408.04717v1](http://arxiv.org/abs/2408.04717v1)|null|
 |**2024-08-05**|**A Multi-Source Heterogeneous Knowledge Injected Prompt Learning Method for Legal Charge Prediction**|Jingyun Sun, Chi Wei, Yang Li et.al.|[2408.02233v1](http://arxiv.org/abs/2408.02233v1)|null|
 |**2024-08-01**|**DeliLaw: A Chinese Legal Counselling System Based on a Large Language Model**|Nan Xie, Yuelin Bai, Hengyuan Gao, Feiteng Fang, Qixuan Zhao, Zhijian Li, Ziqiang Xue, Liang Zhu, Shiwen Ni, Min Yang et.al.|[2408.00357v1](http://arxiv.org/abs/2408.00357v1)|null|
@@ -647,7 +647,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240817>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -656,10 +656,10 @@ layout: default
 |**2024-08-15**|**Enhancing Large Language Model-based Speech Recognition by Contextualization for Rare and Ambiguous Words**|Kento Nozawa, Takashi Masuko, Toru Taniguchi et.al.|[2408.08027v1](http://arxiv.org/abs/2408.08027v1)|null|
 |**2024-08-12**|**Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning**|Wonjun Lee, San Kim, Gary Geunbae Lee et.al.|[2408.06043v1](http://arxiv.org/abs/2408.06043v1)|null|
 |**2024-08-11**|**LI-TTA: Language Informed Test-Time Adaptation for Automatic Speech Recognition**|Eunseop Yoon, Hee Suk Yoon, John Harvill, Mark Hasegawa-Johnson, Chang D. Yoo et.al.|[2408.05769v1](http://arxiv.org/abs/2408.05769v1)|null|
-|**2024-08-09**|**MooER: LLM-based Speech Recognition and Translation Models from Moore Threads**|Junhao Xu, Zhenlin Liang, Yi Liu, Yichao Hu, Jian Li, Yajun Zheng, Meng Cai, Hua Wang et.al.|[2408.05101v1](http://arxiv.org/abs/2408.05101v1)|null|
+|**2024-08-09**|**MooER: LLM-based Speech Recognition and Translation Models from Moore Threads**|Junhao Xu, Zhenlin Liang, Yi Liu, Yichao Hu, Jian Li, Yajun Zheng, Meng Cai, Hua Wang et.al.|[2408.05101v1](http://arxiv.org/abs/2408.05101v1)|**[link](https://github.com/moorethreads/mooer)**|
 |**2024-08-05**|**Clustering and Mining Accented Speech for Inclusive and Fair Speech Recognition**|Jaeyoung Kim, Han Lu, Soheil Khorram, Anshuman Tripathi, Qian Zhang, Hasim Sak et.al.|[2408.02582v1](http://arxiv.org/abs/2408.02582v1)|null|
 |**2024-08-08**|**The NPU-ASLP System Description for Visual Speech Recognition in CNVSRC 2024**|He Wang, Lei Xie et.al.|[2408.02369v2](http://arxiv.org/abs/2408.02369v2)|**[link](https://gitlab.com/csltstu/sunine)**|
-|**2024-08-01**|**SynesLM: A Unified Approach for Audio-visual Speech Recognition and Translation via Language Model and Synthetic Data**|Yichen Lu, Jiaqi Song, Xuankai Chang, Hengwei Bian, Soumi Maiti, Shinji Watanabe et.al.|[2408.00624v1](http://arxiv.org/abs/2408.00624v1)|null|
+|**2024-08-01**|**SynesLM: A Unified Approach for Audio-visual Speech Recognition and Translation via Language Model and Synthetic Data**|Yichen Lu, Jiaqi Song, Xuankai Chang, Hengwei Bian, Soumi Maiti, Shinji Watanabe et.al.|[2408.00624v1](http://arxiv.org/abs/2408.00624v1)|**[link](https://github.com/espnet/espnet)**|
 |**2024-07-18**|**Handling Numeric Expressions in Automatic Speech Recognition**|Christian Huber, Alexander Waibel et.al.|[2408.00004v1](http://arxiv.org/abs/2408.00004v1)|null|
 |**2024-07-31**|**On the Problem of Text-To-Speech Model Selection for Synthetic Data Generation in Automatic Speech Recognition**|Nick Rossenbach, Ralf Schlüter, Sakriani Sakti et.al.|[2407.21476v1](http://arxiv.org/abs/2407.21476v1)|null|
 |**2024-07-30**|**Self-Supervised Models in Automatic Whispered Speech Recognition**|Aref Farhadipour, Homa Asadi, Volker Dellwo et.al.|[2407.21211v1](http://arxiv.org/abs/2407.21211v1)|null|
@@ -1135,7 +1135,7 @@ layout: default
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240817>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -1145,7 +1145,7 @@ layout: default
 |**2024-05-03**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v4](http://arxiv.org/abs/2207.14682v4)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240817>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
