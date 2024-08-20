@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-18**|**FASST: Fast LLM-based Simultaneous Speech Translation**|Siqi Ouyang, Xi Xu, Chinmay Dandekar, Lei Li et.al.|[2408.09430v1](http://arxiv.org/abs/2408.09430v1)|null|
 |**2024-08-14**|**CMU's IWSLT 2024 Simultaneous Speech Translation System**|Xi Xu, Siqi Ouyang, Brian Yan, Patrick Fernandes, William Chen, Lei Li, Graham Neubig, Shinji Watanabe et.al.|[2408.07452v1](http://arxiv.org/abs/2408.07452v1)|null|
 |**2024-07-31**|**Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent**|Shanbo Cheng, Zhichao Huang, Tom Ko, Hang Li, Ningxin Peng, Lu Xu, Qini Zhang et.al.|[2407.21646v1](http://arxiv.org/abs/2407.21646v1)|null|
 |**2024-07-31**|**Contrastive Feedback Mechanism for Simultaneous Speech Translation**|Haotian Tan, Sakriani Sakti et.al.|[2407.20524v2](http://arxiv.org/abs/2407.20524v2)|null|
@@ -86,6 +87,7 @@
 |**2024-07-19**|**Speech-to-Speech Translation with Discrete-Unit-Based Style Transfer**|Yongqi Wang, Jionghao Bai, Rongjie Huang, Ruiqi Li, Zhiqing Hong, Zhou Zhao et.al.|[2309.07566v2](http://arxiv.org/abs/2309.07566v2)|null|
 |**2023-09-14**|**Direct Text to Speech Translation System using Acoustic Units**|Victoria Mingote, Pablo Gimeno, Luis Vicente, Sameer Khurana, Antoine Laurent, Jarod Duret et.al.|[2309.07478v1](http://arxiv.org/abs/2309.07478v1)|null|
 |**2024-07-17**|**End-to-End Evaluation for Low-Latency Simultaneous Speech Translation**|Christian Huber, Tu Anh Dinh, Carlos Mullov, Ngoc Quan Pham, Thai Binh Nguyen, Fabian Retkowski, Stefan Constantin, Enes Yavuz Ugan, Danni Liu, Zhaolin Li, Sai Koneru, Jan Niehues, Alexander Waibel et.al.|[2308.03415v3](http://arxiv.org/abs/2308.03415v3)|null|
+|**2024-08-18**|**Textless Unit-to-Unit training for Many-to-Many Multilingual Speech-to-Speech Translation**|Minsu Kim, Jeongsoo Choi, Dahun Kim, Yong Man Ro et.al.|[2308.01831v2](http://arxiv.org/abs/2308.01831v2)|**[link](https://github.com/choijeongsoo/utut)**|
 |**2023-07-17**|**Multilingual Speech-to-Speech Translation into Multiple Target Languages**|Hongyu Gong, Ning Dong, Sravya Popuri, Vedanuj Goswami, Ann Lee, Juan Pino et.al.|[2307.08655v1](http://arxiv.org/abs/2307.08655v1)|null|
 |**2023-07-17**|**Improving End-to-End Speech Translation by Imitation-Based Knowledge Distillation with Synthetic Transcripts**|Rebekka Hubert, Artem Sokolov, Stefan Riezler et.al.|[2307.08426v1](http://arxiv.org/abs/2307.08426v1)|**[link](https://github.com/hubreb/imitkd_ast)**|
 |**2023-07-10**|**The NPU-MSXF Speech-to-Speech Translation System for IWSLT 2023 Speech-to-Speech Translation Task**|Kun Song, Yi lei, Peikun Chen, Yiqing Cao, Kun Wei, Yongmao Zhang, Lei Xie, Ning Jiang, Guoqing Zhao et.al.|[2307.04630v1](http://arxiv.org/abs/2307.04630v1)|null|
@@ -249,6 +251,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**SEMDR: A Semantic-Aware Dual Encoder Model for Legal Judgment Prediction with Legal Clue Tracing**|Pengjie Liu, Wang Zhang, Yulong Ding, Xuefeng Zhang, Shuang-Hua Yang et.al.|[2408.09717v1](http://arxiv.org/abs/2408.09717v1)|null|
+|**2024-08-18**|**Distinguish Confusion in Legal Judgment Prediction via Revised Relation Knowledge**|Nuo Xu, Pinghui Wang, Junzhou Zhao, Feiyang Sun, Lin Lan, Jing Tao, Li Pan, Xiaohong Guan et.al.|[2408.09422v1](http://arxiv.org/abs/2408.09422v1)|null|
 |**2024-08-15**|**ArabLegalEval: A Multitask Benchmark for Assessing Arabic Legal Knowledge in Large Language Models**|Faris Hijazi, Somayah AlHarbi, Abdulaziz AlHussein, Harethah Abu Shairah, Reem AlZahrani, Hebah AlShamlan, Omar Knio, George Turkiyyah et.al.|[2408.07983v1](http://arxiv.org/abs/2408.07983v1)|**[link](https://github.com/thiqah/arablegaleval)**|
 |**2024-08-13**|**ELLA: Empowering LLMs for Interpretable, Accurate and Informative Legal Advice**|Yutong Hu, Kangcheng Luo, Yansong Feng et.al.|[2408.07137v1](http://arxiv.org/abs/2408.07137v1)|**[link](https://github.com/Huyt00/ELLA)**|
 |**2024-08-08**|**Redefining Accountability: Navigating Legal Challenges of Participant Liability in Decentralized Autonomous Organizations**|Aneta Napieralska, Przemysław Kępczyński et.al.|[2408.04717v1](http://arxiv.org/abs/2408.04717v1)|null|
@@ -649,6 +653,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-18**|**A Transcription Prompt-based Efficient Audio Large Language Model for Robust Speech Recognition**|Yangze Li, Xiong Wang, Songjun Cao, Yike Zhang, Long Ma, Lei Xie et.al.|[2408.09491v1](http://arxiv.org/abs/2408.09491v1)|null|
+|**2024-08-17**|**Generating Data with Text-to-Speech and Large-Language Models for Conversational Speech Recognition**|Samuele Cornell, Jordan Darefsky, Zhiyao Duan, Shinji Watanabe et.al.|[2408.09215v1](http://arxiv.org/abs/2408.09215v1)|null|
 |**2024-08-15**|**Enhancing Large Language Model-based Speech Recognition by Contextualization for Rare and Ambiguous Words**|Kento Nozawa, Takashi Masuko, Toru Taniguchi et.al.|[2408.08027v1](http://arxiv.org/abs/2408.08027v1)|null|
 |**2024-08-12**|**Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning**|Wonjun Lee, San Kim, Gary Geunbae Lee et.al.|[2408.06043v1](http://arxiv.org/abs/2408.06043v1)|null|
 |**2024-08-11**|**LI-TTA: Language Informed Test-Time Adaptation for Automatic Speech Recognition**|Eunseop Yoon, Hee Suk Yoon, John Harvill, Mark Hasegawa-Johnson, Chang D. Yoo et.al.|[2408.05769v1](http://arxiv.org/abs/2408.05769v1)|null|
