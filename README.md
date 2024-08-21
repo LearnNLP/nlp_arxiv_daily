@@ -251,6 +251,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**LegalBench-RAG: A Benchmark for Retrieval-Augmented Generation in the Legal Domain**|Nicholas Pipitone, Ghita Houir Alami et.al.|[2408.10343v1](http://arxiv.org/abs/2408.10343v1)|**[link](https://github.com/zeroentropy-cc/legalbenchrag)**|
 |**2024-08-19**|**SEMDR: A Semantic-Aware Dual Encoder Model for Legal Judgment Prediction with Legal Clue Tracing**|Pengjie Liu, Wang Zhang, Yulong Ding, Xuefeng Zhang, Shuang-Hua Yang et.al.|[2408.09717v1](http://arxiv.org/abs/2408.09717v1)|null|
 |**2024-08-18**|**Distinguish Confusion in Legal Judgment Prediction via Revised Relation Knowledge**|Nuo Xu, Pinghui Wang, Junzhou Zhao, Feiyang Sun, Lin Lan, Jing Tao, Li Pan, Xiaohong Guan et.al.|[2408.09422v1](http://arxiv.org/abs/2408.09422v1)|null|
 |**2024-08-15**|**ArabLegalEval: A Multitask Benchmark for Assessing Arabic Legal Knowledge in Large Language Models**|Faris Hijazi, Somayah AlHarbi, Abdulaziz AlHussein, Harethah Abu Shairah, Reem AlZahrani, Hebah AlShamlan, Omar Knio, George Turkiyyah et.al.|[2408.07983v1](http://arxiv.org/abs/2408.07983v1)|**[link](https://github.com/thiqah/arablegaleval)**|
@@ -653,6 +654,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**XCB: an effective contextual biasing approach to bias cross-lingual phrases in speech recognition**|Xucheng Wan, Naijun Zheng, Kai Liu, Huan Zhou et.al.|[2408.10524v1](http://arxiv.org/abs/2408.10524v1)|null|
 |**2024-08-18**|**A Transcription Prompt-based Efficient Audio Large Language Model for Robust Speech Recognition**|Yangze Li, Xiong Wang, Songjun Cao, Yike Zhang, Long Ma, Lei Xie et.al.|[2408.09491v1](http://arxiv.org/abs/2408.09491v1)|null|
 |**2024-08-17**|**Generating Data with Text-to-Speech and Large-Language Models for Conversational Speech Recognition**|Samuele Cornell, Jordan Darefsky, Zhiyao Duan, Shinji Watanabe et.al.|[2408.09215v1](http://arxiv.org/abs/2408.09215v1)|null|
 |**2024-08-15**|**Enhancing Large Language Model-based Speech Recognition by Contextualization for Rare and Ambiguous Words**|Kento Nozawa, Takashi Masuko, Toru Taniguchi et.al.|[2408.08027v1](http://arxiv.org/abs/2408.08027v1)|null|
