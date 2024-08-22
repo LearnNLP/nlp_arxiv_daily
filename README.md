@@ -654,6 +654,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Improving Speech Recognition Error Prediction for Modern and Off-the-shelf Speech Recognizers**|Prashant Serai, Peidong Wang, Eric Fosler-Lussier et.al.|[2408.11258v1](http://arxiv.org/abs/2408.11258v1)|null|
 |**2024-08-20**|**XCB: an effective contextual biasing approach to bias cross-lingual phrases in speech recognition**|Xucheng Wan, Naijun Zheng, Kai Liu, Huan Zhou et.al.|[2408.10524v1](http://arxiv.org/abs/2408.10524v1)|null|
 |**2024-08-18**|**A Transcription Prompt-based Efficient Audio Large Language Model for Robust Speech Recognition**|Yangze Li, Xiong Wang, Songjun Cao, Yike Zhang, Long Ma, Lei Xie et.al.|[2408.09491v1](http://arxiv.org/abs/2408.09491v1)|null|
 |**2024-08-17**|**Generating Data with Text-to-Speech and Large-Language Models for Conversational Speech Recognition**|Samuele Cornell, Jordan Darefsky, Zhiyao Duan, Shinji Watanabe et.al.|[2408.09215v1](http://arxiv.org/abs/2408.09215v1)|null|
