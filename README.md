@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.22
+## Updated on 2024.08.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -245,7 +245,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240823>back to top</a>)</p>
 
 ## Legal
 
@@ -648,7 +648,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240823>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -713,7 +713,7 @@
 |**2024-06-18**|**Unsupervised Online Continual Learning for Automatic Speech Recognition**|Steven Vander Eeckt, Hugo Van hamme et.al.|[2406.12503v1](http://arxiv.org/abs/2406.12503v1)|**[link](https://github.com/stevenvdeeckt/unsupervised-ocl-for-asr)**|
 |**2024-06-18**|**SyncVSR: Data-Efficient Visual Speech Recognition with End-to-End Crossmodal Audio Token Synchronization**|Young Jin Ahn, Jungwoo Park, Sangha Park, Jonghyun Choi, Kee-Eung Kim et.al.|[2406.12233v1](http://arxiv.org/abs/2406.12233v1)|**[link](https://github.com/KAIST-AILab/SyncVSR)**|
 |**2024-06-16**|**Continual Test-time Adaptation for End-to-end Speech Recognition on Noisy Speech**|Guan-Ting Lin, Wei-Ping Huang, Hung-yi Lee et.al.|[2406.11064v1](http://arxiv.org/abs/2406.11064v1)|null|
-|**2024-06-16**|**Imperceptible Rhythm Backdoor Attacks: Exploring Rhythm Transformation for Embedding Undetectable Vulnerabilities on Speech Recognition**|Wenhan Yao, Jiangkun Yang, Yongqiang He, Jia Liu, Weiping Wen et.al.|[2406.10932v1](http://arxiv.org/abs/2406.10932v1)|null|
+|**2024-08-22**|**Imperceptible Rhythm Backdoor Attacks: Exploring Rhythm Transformation for Embedding Undetectable Vulnerabilities on Speech Recognition**|Wenhan Yao, Jiangkun Yang, Yongqiang He, Jia Liu, Weiping Wen et.al.|[2406.10932v2](http://arxiv.org/abs/2406.10932v2)|null|
 |**2024-06-14**|**CNVSRC 2023: The First Chinese Continuous Visual Speech Recognition Challenge**|Chen Chen, Zehua Liu, Xiaolou Li, Lantian Li, Dong Wang et.al.|[2406.10313v1](http://arxiv.org/abs/2406.10313v1)|null|
 |**2024-06-12**|**Improving child speech recognition with augmented child-like speech**|Yuanyuan Zhang, Zhengjun Yue, Tanvina Patel, Odette Scharenborg et.al.|[2406.10284v1](http://arxiv.org/abs/2406.10284v1)|null|
 |**2024-06-14**|**Whisper-Flamingo: Integrating Visual Features into Whisper for Audio-Visual Speech Recognition and Translation**|Andrew Rouditchenko, Yuan Gong, Samuel Thomas, Leonid Karlinsky, Hilde Kuehne, Rogerio Feris, James Glass et.al.|[2406.10082v1](http://arxiv.org/abs/2406.10082v1)|**[link](https://github.com/roudimit/whisper-flamingo)**|
@@ -1140,7 +1140,7 @@
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240823>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -1150,7 +1150,7 @@
 |**2024-05-03**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v4](http://arxiv.org/abs/2207.14682v4)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240823>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
