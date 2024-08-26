@@ -660,6 +660,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**Focused Discriminative Training For Streaming CTC-Trained Automatic Speech Recognition Models**|Adnan Haider, Xingyu Na, Erik McDermott, Tim Ng, Zhen Huang, Xiaodan Zhuang et.al.|[2408.13008v1](http://arxiv.org/abs/2408.13008v1)|null|
+|**2024-08-22**|**Towards measuring fairness in speech recognition: Fair-Speech dataset**|Irina-Elena Veliche, Zhuangqun Huang, Vineeth Ayyat Kochaniyan, Fuchun Peng, Ozlem Kalinli, Michael L. Seltzer et.al.|[2408.12734v1](http://arxiv.org/abs/2408.12734v1)|null|
 |**2024-08-21**|**The State of Commercial Automatic French Legal Speech Recognition Systems and their Impact on Court Reporters et al**|Nicolad Garneau, Olivier Bolduc et.al.|[2408.11940v1](http://arxiv.org/abs/2408.11940v1)|null|
 |**2024-08-19**|**Parameter-Efficient Transfer Learning under Federated Learning for Automatic Speech Recognition**|Xuan Kan, Yonghui Xiao, Tien-Ju Yang, Nanxin Chen, Rajiv Mathews et.al.|[2408.11873v1](http://arxiv.org/abs/2408.11873v1)|null|
 |**2024-08-21**|**Improving Speech Recognition Error Prediction for Modern and Off-the-shelf Speech Recognizers**|Prashant Serai, Peidong Wang, Eric Fosler-Lussier et.al.|[2408.11258v1](http://arxiv.org/abs/2408.11258v1)|null|
