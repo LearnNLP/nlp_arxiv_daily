@@ -656,6 +656,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Human-Inspired Audio-Visual Speech Recognition: Spike Activity, Cueing Interaction and Causal Processing**|Qianhui Liu, Jiadong Wang, Yang Wang, Xin Yang, Gang Pan, Haizhou Li et.al.|[2408.16564v1](http://arxiv.org/abs/2408.16564v1)|null|
+|**2024-08-29**|**Measuring the Accuracy of Automatic Speech Recognition Solutions**|Korbinian Kuhn, Verena Kersken, Benedikt Reuter, Niklas Egger, Gottfried Zimmermann et.al.|[2408.16287v1](http://arxiv.org/abs/2408.16287v1)|**[link](https://github.com/shuffle-project/asr-comparison)**|
+|**2024-08-29**|**Benchmarking Japanese Speech Recognition on ASR-LLM Setups with Multi-Pass Augmented Generative Error Correction**|Yuka Ko, Sheng Li, Chao-Han Huck Yang, Tatsuya Kawahara et.al.|[2408.16180v1](http://arxiv.org/abs/2408.16180v1)|null|
 |**2024-08-27**|**Speech Recognition Transformers: Topological-lingualism Perspective**|Shruti Singh, Muskaan Singh, Virender Kadyan et.al.|[2408.14991v1](http://arxiv.org/abs/2408.14991v1)|null|
 |**2024-08-23**|**Focused Discriminative Training For Streaming CTC-Trained Automatic Speech Recognition Models**|Adnan Haider, Xingyu Na, Erik McDermott, Tim Ng, Zhen Huang, Xiaodan Zhuang et.al.|[2408.13008v1](http://arxiv.org/abs/2408.13008v1)|null|
 |**2024-08-22**|**Towards measuring fairness in speech recognition: Fair-Speech dataset**|Irina-Elena Veliche, Zhuangqun Huang, Vineeth Ayyat Kochaniyan, Fuchun Peng, Ozlem Kalinli, Michael L. Seltzer et.al.|[2408.12734v1](http://arxiv.org/abs/2408.12734v1)|null|
