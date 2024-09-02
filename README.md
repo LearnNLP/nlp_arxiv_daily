@@ -21,7 +21,7 @@
 |---|---|---|---|---|
 |**2024-08-18**|**FASST: Fast LLM-based Simultaneous Speech Translation**|Siqi Ouyang, Xi Xu, Chinmay Dandekar, Lei Li et.al.|[2408.09430v1](http://arxiv.org/abs/2408.09430v1)|null|
 |**2024-08-14**|**CMU's IWSLT 2024 Simultaneous Speech Translation System**|Xi Xu, Siqi Ouyang, Brian Yan, Patrick Fernandes, William Chen, Lei Li, Graham Neubig, Shinji Watanabe et.al.|[2408.07452v1](http://arxiv.org/abs/2408.07452v1)|null|
-|**2024-08-30**|**Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent**|Shanbo Cheng, Zhichao Huang, Tom Ko, Hang Li, Ningxin Peng, Lu Xu, Qini Zhang et.al.|[2407.21646v2](http://arxiv.org/abs/2407.21646v2)|null|
+|**2024-08-30**|**Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent**|Shanbo Cheng, Zhichao Huang, Tom Ko, Hang Li, Ningxin Peng, Lu Xu, Qini Zhang et.al.|[2407.21646v2](http://arxiv.org/abs/2407.21646v2)|**[link](https://github.com/byteresearchcla/realsi)**|
 |**2024-07-31**|**Contrastive Feedback Mechanism for Simultaneous Speech Translation**|Haotian Tan, Sakriani Sakti et.al.|[2407.20524v2](http://arxiv.org/abs/2407.20524v2)|null|
 |**2024-07-08**|**Analyzing Speech Unit Selection for Textless Speech-to-Speech Translation**|Jarod Duret, Yannick Estève, Titouan Parcollet et.al.|[2407.18332v1](http://arxiv.org/abs/2407.18332v1)|null|
 |**2024-07-22**|**LLaST: Improved End-to-end Speech Translation System Leveraged by Large Language Models**|Xi Chen, Songyang Zhang, Qibing Bai, Kai Chen, Satoshi Nakamura et.al.|[2407.15415v1](http://arxiv.org/abs/2407.15415v1)|**[link](https://github.com/openaudiolab/llast)**|
@@ -251,6 +251,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Addressing Information Asymmetry in Legal Disputes through Data-Driven Law Firm Rankings**|Alexandre Mojon, Robert Mahari, Sandro Claudio Lera et.al.|[2408.16863v1](http://arxiv.org/abs/2408.16863v1)|null|
 |**2024-08-22**|**Do Responsible AI Artifacts Advance Stakeholder Goals? Four Key Barriers Perceived by Legal and Civil Stakeholders**|Anna Kawakami, Daricia Wilkinson, Alexandra Chouldechova et.al.|[2408.12047v1](http://arxiv.org/abs/2408.12047v1)|null|
 |**2024-08-21**|**The State of Commercial Automatic French Legal Speech Recognition Systems and their Impact on Court Reporters et al**|Nicolad Garneau, Olivier Bolduc et.al.|[2408.11940v1](http://arxiv.org/abs/2408.11940v1)|null|
 |**2024-08-19**|**LegalBench-RAG: A Benchmark for Retrieval-Augmented Generation in the Legal Domain**|Nicholas Pipitone, Ghita Houir Alami et.al.|[2408.10343v1](http://arxiv.org/abs/2408.10343v1)|**[link](https://github.com/zeroentropy-cc/legalbenchrag)**|
@@ -345,6 +346,7 @@
 |**2024-05-08**|**Legally Binding but Unfair? Towards Assessing Fairness of Privacy Policies**|Vincent Freiberger, Erik Buchmann et.al.|[2403.08115v2](http://arxiv.org/abs/2403.08115v2)|null|
 |**2024-03-11**|**Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents**|Nishchal Prasad, Mohand Boughanem, Taoufiq Dkaki et.al.|[2403.06872v1](http://arxiv.org/abs/2403.06872v1)|**[link](https://github.com/nishchalprasad/mesc)**|
 |**2024-03-06**|**VLSP 2023 -- LTER: A Summary of the Challenge on Legal Textual Entailment Recognition**|Vu Tran, Ha-Thanh Nguyen, Trung Vo, Son T. Luu, Hoang-Anh Dang, Ngoc-Cam Le, Thi-Thuy Le, Minh-Tien Nguyen, Truong-Son Nguyen, Le-Minh Nguyen et.al.|[2403.03435v1](http://arxiv.org/abs/2403.03435v1)|null|
+|**2024-08-30**|**AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation**|Zhitao He, Pengfei Cao, Chenhao Wang, Zhuoran Jin, Yubo Chen, Jiexin Xu, Huaijun Li, Xiaojian Jiang, Kang Liu, Jun Zhao et.al.|[2403.02959v2](http://arxiv.org/abs/2403.02959v2)|null|
 |**2024-03-03**|**Logic Rules as Explanations for Legal Case Retrieval**|Zhongxiang Sun, Kepu Zhang, Weijie Yu, Haoyu Wang, Jun Xu et.al.|[2403.01457v1](http://arxiv.org/abs/2403.01457v1)|**[link](https://github.com/ke-01/ns-lcr)**|
 |**2024-03-08**|**Evault for legal records**|Jeba N, Anas S, Anuragav S, Abhishek R, Sachin K et.al.|[2403.01186v2](http://arxiv.org/abs/2403.01186v2)|null|
 |**2024-02-25**|**Gender Biased Legal Case Retrieval System on Users' Decision Process**|Ruizhe Zhang, Qingyao Ai, Yiqun Liu, Yueyue Wu, Beining Wang et.al.|[2403.00814v1](http://arxiv.org/abs/2403.00814v1)|null|
