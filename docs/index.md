@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-02**|**What does it take to get state of the art in simultaneous speech-to-speech translation?**|Vincent Wilmet, Johnson Du et.al.|[2409.00965v1](http://arxiv.org/abs/2409.00965v1)|null|
 |**2024-08-18**|**FASST: Fast LLM-based Simultaneous Speech Translation**|Siqi Ouyang, Xi Xu, Chinmay Dandekar, Lei Li et.al.|[2408.09430v1](http://arxiv.org/abs/2408.09430v1)|null|
 |**2024-08-14**|**CMU's IWSLT 2024 Simultaneous Speech Translation System**|Xi Xu, Siqi Ouyang, Brian Yan, Patrick Fernandes, William Chen, Lei Li, Graham Neubig, Shinji Watanabe et.al.|[2408.07452v1](http://arxiv.org/abs/2408.07452v1)|null|
 |**2024-08-30**|**Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent**|Shanbo Cheng, Zhichao Huang, Tom Ko, Hang Li, Ningxin Peng, Lu Xu, Qini Zhang et.al.|[2407.21646v2](http://arxiv.org/abs/2407.21646v2)|**[link](https://github.com/byteresearchcla/realsi)**|
@@ -255,6 +256,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**R2GQA: Retriever-Reader-Generator Question Answering System to Support Students Understanding Legal Regulations in Higher Education**|Phuc-Tinh Pham Do, Duy-Ngoc Dinh Cao, Khanh Quoc Tran, Kiet Van Nguyen et.al.|[2409.02840v1](http://arxiv.org/abs/2409.02840v1)|null|
+|**2024-09-02**|**Know When to Fuse: Investigating Non-English Hybrid Retrieval in the Legal Domain**|Antoine Louis, Gijs van Dijck, Gerasimos Spanakis et.al.|[2409.01357v1](http://arxiv.org/abs/2409.01357v1)|null|
 |**2024-08-29**|**Addressing Information Asymmetry in Legal Disputes through Data-Driven Law Firm Rankings**|Alexandre Mojon, Robert Mahari, Sandro Claudio Lera et.al.|[2408.16863v1](http://arxiv.org/abs/2408.16863v1)|null|
 |**2024-08-22**|**Do Responsible AI Artifacts Advance Stakeholder Goals? Four Key Barriers Perceived by Legal and Civil Stakeholders**|Anna Kawakami, Daricia Wilkinson, Alexandra Chouldechova et.al.|[2408.12047v1](http://arxiv.org/abs/2408.12047v1)|null|
 |**2024-08-21**|**The State of Commercial Automatic French Legal Speech Recognition Systems and their Impact on Court Reporters et al**|Nicolad Garneau, Olivier Bolduc et.al.|[2408.11940v1](http://arxiv.org/abs/2408.11940v1)|null|
@@ -662,6 +665,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-03**|**Enhancing Code-Switching Speech Recognition with LID-Based Collaborative Mixture of Experts Model**|Hukai Huang, Jiayan Lin, Kaidi Wang, Yishuang Li, Wenhao Guan, Qingyang Hong, Lin Li et.al.|[2409.02050v1](http://arxiv.org/abs/2409.02050v1)|null|
+|**2024-09-01**|**Serialized Speech Information Guidance with Overlapped Encoding Separation for Multi-Speaker Automatic Speech Recognition**|Hao Shi, Yuan Gao, Zhaoheng Ni, Tatsuya Kawahara et.al.|[2409.00815v1](http://arxiv.org/abs/2409.00815v1)|null|
+|**2024-09-01**|**Comparing Discrete and Continuous Space LLMs for Speech Recognition**|Yaoxun Xu, Shi-Xiong Zhang, Jianwei Yu, Zhiyong Wu, Dong Yu et.al.|[2409.00800v1](http://arxiv.org/abs/2409.00800v1)|null|
+|**2024-08-31**|**DCIM-AVSR : Efficient Audio-Visual Speech Recognition via Dual Conformer Interaction Module**|Xinyu Wang, Qian Wang et.al.|[2409.00481v1](http://arxiv.org/abs/2409.00481v1)|null|
 |**2024-08-29**|**Human-Inspired Audio-Visual Speech Recognition: Spike Activity, Cueing Interaction and Causal Processing**|Qianhui Liu, Jiadong Wang, Yang Wang, Xin Yang, Gang Pan, Haizhou Li et.al.|[2408.16564v1](http://arxiv.org/abs/2408.16564v1)|null|
 |**2024-08-29**|**Measuring the Accuracy of Automatic Speech Recognition Solutions**|Korbinian Kuhn, Verena Kersken, Benedikt Reuter, Niklas Egger, Gottfried Zimmermann et.al.|[2408.16287v1](http://arxiv.org/abs/2408.16287v1)|**[link](https://github.com/shuffle-project/asr-comparison)**|
 |**2024-08-29**|**Benchmarking Japanese Speech Recognition on ASR-LLM Setups with Multi-Pass Augmented Generative Error Correction**|Yuka Ko, Sheng Li, Chao-Han Huck Yang, Tatsuya Kawahara et.al.|[2408.16180v1](http://arxiv.org/abs/2408.16180v1)|null|
