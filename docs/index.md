@@ -665,6 +665,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Consensus-based Distributed Quantum Kernel Learning for Speech Recognition**|Kuan-Cheng Chen, Wenxuan Ma, Xiaotian Xu et.al.|[2409.05770v1](http://arxiv.org/abs/2409.05770v1)|null|
+|**2024-09-09**|**Longer is (Not Necessarily) Stronger: Punctuated Long-Sequence Training for Enhanced Speech Recognition and Translation**|Nithin Rao Koluguri, Travis Bartley, Hainan Xu, Oleksii Hrinchuk, Jagadeesh Balam, Boris Ginsburg, Georg Kucsko et.al.|[2409.05601v1](http://arxiv.org/abs/2409.05601v1)|null|
+|**2024-09-09**|**Findings of the 2024 Mandarin Stuttering Event Detection and Automatic Speech Recognition Challenge**|Hongfei Xue, Rong Gong, Mingchen Shao, Xin Xu, Lezhi Wang, Lei Xie, Hui Bu, Jiaming Zhou, Yong Qin, Jun Du, Ming Li, Binbin Zhang, Bin Jia et.al.|[2409.05430v1](http://arxiv.org/abs/2409.05430v1)|null|
 |**2024-09-05**|**Enhancing Code-Switching Speech Recognition with LID-Based Collaborative Mixture of Experts Model**|Hukai Huang, Jiayan Lin, Kaidi Wang, Yishuang Li, Wenhao Guan, Lin Li, Qingyang Hong et.al.|[2409.02050v2](http://arxiv.org/abs/2409.02050v2)|null|
 |**2024-09-05**|**Serialized Speech Information Guidance with Overlapped Encoding Separation for Multi-Speaker Automatic Speech Recognition**|Hao Shi, Yuan Gao, Zhaoheng Ni, Tatsuya Kawahara et.al.|[2409.00815v2](http://arxiv.org/abs/2409.00815v2)|null|
 |**2024-09-01**|**Comparing Discrete and Continuous Space LLMs for Speech Recognition**|Yaoxun Xu, Shi-Xiong Zhang, Jianwei Yu, Zhiyong Wu, Dong Yu et.al.|[2409.00800v1](http://arxiv.org/abs/2409.00800v1)|null|
