@@ -256,6 +256,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**A Small Claims Court for the NLP: Judging Legal Text Classification Strategies With Small Datasets**|Mariana Yukari Noguti, Edduardo Vellasques, Luiz Eduardo Soares Oliveira et.al.|[2409.05972v1](http://arxiv.org/abs/2409.05972v1)|null|
 |**2024-09-04**|**R2GQA: Retriever-Reader-Generator Question Answering System to Support Students Understanding Legal Regulations in Higher Education**|Phuc-Tinh Pham Do, Duy-Ngoc Dinh Cao, Khanh Quoc Tran, Kiet Van Nguyen et.al.|[2409.02840v1](http://arxiv.org/abs/2409.02840v1)|null|
 |**2024-09-02**|**Know When to Fuse: Investigating Non-English Hybrid Retrieval in the Legal Domain**|Antoine Louis, Gijs van Dijck, Gerasimos Spanakis et.al.|[2409.01357v1](http://arxiv.org/abs/2409.01357v1)|null|
 |**2024-08-29**|**Addressing Information Asymmetry in Legal Disputes through Data-Driven Law Firm Rankings**|Alexandre Mojon, Robert Mahari, Sandro Claudio Lera et.al.|[2408.16863v1](http://arxiv.org/abs/2408.16863v1)|**[link](https://github.com/mojona/law_firm_ranking)**|
@@ -665,6 +666,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**An Effective Context-Balanced Adaptation Approach for Long-Tailed Speech Recognition**|Yi-Cheng Wang, Li-Ting Pai, Bi-Cheng Yan, Hsin-Wei Wang, Chi-Han Lin, Berlin Chen et.al.|[2409.06468v1](http://arxiv.org/abs/2409.06468v1)|null|
+|**2024-09-09**|**Retrieval Augmented Correction of Named Entity Speech Recognition Errors**|Ernest Pusateri, Anmol Walia, Anirudh Kashi, Bortik Bandyopadhyay, Nadia Hyder, Sayantan Mahinder, Raviteja Anantha, Daben Liu, Sashank Gondala et.al.|[2409.06062v1](http://arxiv.org/abs/2409.06062v1)|null|
 |**2024-09-09**|**Consensus-based Distributed Quantum Kernel Learning for Speech Recognition**|Kuan-Cheng Chen, Wenxuan Ma, Xiaotian Xu et.al.|[2409.05770v1](http://arxiv.org/abs/2409.05770v1)|null|
 |**2024-09-09**|**Longer is (Not Necessarily) Stronger: Punctuated Long-Sequence Training for Enhanced Speech Recognition and Translation**|Nithin Rao Koluguri, Travis Bartley, Hainan Xu, Oleksii Hrinchuk, Jagadeesh Balam, Boris Ginsburg, Georg Kucsko et.al.|[2409.05601v1](http://arxiv.org/abs/2409.05601v1)|null|
 |**2024-09-09**|**Findings of the 2024 Mandarin Stuttering Event Detection and Automatic Speech Recognition Challenge**|Hongfei Xue, Rong Gong, Mingchen Shao, Xin Xu, Lezhi Wang, Lei Xie, Hui Bu, Jiaming Zhou, Yong Qin, Jun Du, Ming Li, Binbin Zhang, Bin Jia et.al.|[2409.05430v1](http://arxiv.org/abs/2409.05430v1)|null|
