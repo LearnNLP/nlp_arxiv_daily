@@ -252,6 +252,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Legal Fact Prediction: Task Definition and Dataset Construction**|Junkai Liu, Yujie Tong, Hui Huang, Shuyuan Zheng, Muyun Yang, Peicheng Wu, Makoto Onizuka, Chuan Xiao et.al.|[2409.07055v1](http://arxiv.org/abs/2409.07055v1)|null|
 |**2024-09-09**|**A Small Claims Court for the NLP: Judging Legal Text Classification Strategies With Small Datasets**|Mariana Yukari Noguti, Edduardo Vellasques, Luiz Eduardo Soares Oliveira et.al.|[2409.05972v1](http://arxiv.org/abs/2409.05972v1)|null|
 |**2024-09-04**|**R2GQA: Retriever-Reader-Generator Question Answering System to Support Students Understanding Legal Regulations in Higher Education**|Phuc-Tinh Pham Do, Duy-Ngoc Dinh Cao, Khanh Quoc Tran, Kiet Van Nguyen et.al.|[2409.02840v1](http://arxiv.org/abs/2409.02840v1)|null|
 |**2024-09-02**|**Know When to Fuse: Investigating Non-English Hybrid Retrieval in the Legal Domain**|Antoine Louis, Gijs van Dijck, Gerasimos Spanakis et.al.|[2409.01357v1](http://arxiv.org/abs/2409.01357v1)|null|
@@ -662,6 +663,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Enhancing CTC-Based Visual Speech Recognition**|Hendrik Laux, Anke Schmeink et.al.|[2409.07210v1](http://arxiv.org/abs/2409.07210v1)|null|
+|**2024-09-11**|**Linear Time Complexity Conformers with SummaryMixing for Streaming Speech Recognition**|Titouan Parcollet, Rogier van Dalen, Shucong Zhang, Sourav Batthacharya et.al.|[2409.07165v1](http://arxiv.org/abs/2409.07165v1)|null|
 |**2024-09-10**|**An Effective Context-Balanced Adaptation Approach for Long-Tailed Speech Recognition**|Yi-Cheng Wang, Li-Ting Pai, Bi-Cheng Yan, Hsin-Wei Wang, Chi-Han Lin, Berlin Chen et.al.|[2409.06468v1](http://arxiv.org/abs/2409.06468v1)|null|
 |**2024-09-09**|**Retrieval Augmented Correction of Named Entity Speech Recognition Errors**|Ernest Pusateri, Anmol Walia, Anirudh Kashi, Bortik Bandyopadhyay, Nadia Hyder, Sayantan Mahinder, Raviteja Anantha, Daben Liu, Sashank Gondala et.al.|[2409.06062v1](http://arxiv.org/abs/2409.06062v1)|null|
 |**2024-09-09**|**Consensus-based Distributed Quantum Kernel Learning for Speech Recognition**|Kuan-Cheng Chen, Wenxuan Ma, Xiaotian Xu et.al.|[2409.05770v1](http://arxiv.org/abs/2409.05770v1)|null|
