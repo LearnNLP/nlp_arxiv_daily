@@ -252,6 +252,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**Hypergraph Change Point Detection using Adapted Cardinality-Based Gadgets: Applications in Dynamic Legal Structures**|Hiroki Matsumoto, Takahiro Yoshida, Ryoma Kondo, Ryohei Hisano et.al.|[2409.08106v1](http://arxiv.org/abs/2409.08106v1)|null|
+|**2024-09-12**|**Experimenting with Legal AI Solutions: The Case of Question-Answering for Access to Justice**|Jonathan Li, Rohan Bhambhoria, Samuel Dahan, Xiaodan Zhu et.al.|[2409.07713v1](http://arxiv.org/abs/2409.07713v1)|null|
 |**2024-09-11**|**Legal Fact Prediction: Task Definition and Dataset Construction**|Junkai Liu, Yujie Tong, Hui Huang, Shuyuan Zheng, Muyun Yang, Peicheng Wu, Makoto Onizuka, Chuan Xiao et.al.|[2409.07055v1](http://arxiv.org/abs/2409.07055v1)|null|
 |**2024-09-09**|**A Small Claims Court for the NLP: Judging Legal Text Classification Strategies With Small Datasets**|Mariana Yukari Noguti, Edduardo Vellasques, Luiz Eduardo Soares Oliveira et.al.|[2409.05972v1](http://arxiv.org/abs/2409.05972v1)|null|
 |**2024-09-04**|**R2GQA: Retriever-Reader-Generator Question Answering System to Support Students Understanding Legal Regulations in Higher Education**|Phuc-Tinh Pham Do, Duy-Ngoc Dinh Cao, Khanh Quoc Tran, Kiet Van Nguyen et.al.|[2409.02840v1](http://arxiv.org/abs/2409.02840v1)|null|
@@ -663,6 +665,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**WhisperNER: Unified Open Named Entity and Speech Recognition**|Gil Ayache, Menachem Pirchi, Aviv Navon, Aviv Shamsian, Gill Hetz, Joseph Keshet et.al.|[2409.08107v1](http://arxiv.org/abs/2409.08107v1)|null|
+|**2024-09-12**|**The Faetar Benchmark: Speech Recognition in a Very Under-Resourced Language**|Michael Ong, Sean Robertson, Leo Peckham, Alba Jorquera Jimenez de Aberasturi, Paula Arkhangorodsky, Robin Huo, Aman Sakhardande, Mark Hallap, Naomi Nagy, Ewan Dunbar et.al.|[2409.08103v1](http://arxiv.org/abs/2409.08103v1)|null|
+|**2024-09-12**|**Detecting and Defending Against Adversarial Attacks on Automatic Speech Recognition via Diffusion Models**|Nikolai L. Kühne, Astrid H. F. Kitchen, Marie S. Jensen, Mikkel S. L. Brøndt, Martin Gonzalez, Christophe Biscio, Zheng-Hua Tan et.al.|[2409.07936v1](http://arxiv.org/abs/2409.07936v1)|null|
+|**2024-09-12**|**Full-text Error Correction for Chinese Speech Recognition with Large Language Model**|Zhiyuan Tang, Dong Wang, Shen Huang, Shidong Shang et.al.|[2409.07790v1](http://arxiv.org/abs/2409.07790v1)|null|
 |**2024-09-11**|**Enhancing CTC-Based Visual Speech Recognition**|Hendrik Laux, Anke Schmeink et.al.|[2409.07210v1](http://arxiv.org/abs/2409.07210v1)|null|
 |**2024-09-11**|**Linear Time Complexity Conformers with SummaryMixing for Streaming Speech Recognition**|Titouan Parcollet, Rogier van Dalen, Shucong Zhang, Sourav Batthacharya et.al.|[2409.07165v1](http://arxiv.org/abs/2409.07165v1)|**[link](https://github.com/samsunglabs/summarymixing)**|
 |**2024-09-10**|**An Effective Context-Balanced Adaptation Approach for Long-Tailed Speech Recognition**|Yi-Cheng Wang, Li-Ting Pai, Bi-Cheng Yan, Hsin-Wei Wang, Chi-Han Lin, Berlin Chen et.al.|[2409.06468v1](http://arxiv.org/abs/2409.06468v1)|null|
