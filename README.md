@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Optimizing Rare Word Accuracy in Direct Speech Translation with a Retrieval-and-Demonstration Approach**|Siqi Li, Danni Liu, Jan Niehues et.al.|[2409.09009v1](http://arxiv.org/abs/2409.09009v1)|**[link](https://github.com/siqilii/retrieve-and-demonstration-st)**|
 |**2024-09-02**|**What does it take to get state of the art in simultaneous speech-to-speech translation?**|Vincent Wilmet, Johnson Du et.al.|[2409.00965v1](http://arxiv.org/abs/2409.00965v1)|null|
 |**2024-08-18**|**FASST: Fast LLM-based Simultaneous Speech Translation**|Siqi Ouyang, Xi Xu, Chinmay Dandekar, Lei Li et.al.|[2408.09430v1](http://arxiv.org/abs/2408.09430v1)|null|
 |**2024-08-14**|**CMU's IWSLT 2024 Simultaneous Speech Translation System**|Xi Xu, Siqi Ouyang, Brian Yan, Patrick Fernandes, William Chen, Lei Li, Graham Neubig, Shinji Watanabe et.al.|[2408.07452v1](http://arxiv.org/abs/2408.07452v1)|null|
@@ -252,6 +253,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**E2MoCase: A Dataset for Emotional, Event and Moral Observations in News Articles on High-impact Legal Cases**|Candida M. Greco, Lorenzo Zangari, Davide Picca, Andrea Tagarelli et.al.|[2409.09001v1](http://arxiv.org/abs/2409.09001v1)|null|
 |**2024-09-12**|**Hypergraph Change Point Detection using Adapted Cardinality-Based Gadgets: Applications in Dynamic Legal Structures**|Hiroki Matsumoto, Takahiro Yoshida, Ryoma Kondo, Ryohei Hisano et.al.|[2409.08106v1](http://arxiv.org/abs/2409.08106v1)|null|
 |**2024-09-12**|**Experimenting with Legal AI Solutions: The Case of Question-Answering for Access to Justice**|Jonathan Li, Rohan Bhambhoria, Samuel Dahan, Xiaodan Zhu et.al.|[2409.07713v1](http://arxiv.org/abs/2409.07713v1)|null|
 |**2024-09-11**|**Legal Fact Prediction: Task Definition and Dataset Construction**|Junkai Liu, Yujie Tong, Hui Huang, Shuyuan Zheng, Muyun Yang, Peicheng Wu, Makoto Onizuka, Chuan Xiao et.al.|[2409.07055v1](http://arxiv.org/abs/2409.07055v1)|null|
