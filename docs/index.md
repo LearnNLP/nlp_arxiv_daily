@@ -257,6 +257,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Gaps or Hallucinations? Gazing into Machine-Generated Legal Analysis for Fine-grained Text Evaluations**|Abe Bohan Hou, William Jurayj, Nils Holzenberger, Andrew Blair-Stanek, Benjamin Van Durme et.al.|[2409.09947v1](http://arxiv.org/abs/2409.09947v1)|null|
+|**2024-08-29**|**HyPA-RAG: A Hybrid Parameter Adaptive Retrieval-Augmented Generation System for AI Legal and Policy Applications**|Rishi Kalra, Zekun Wu, Ayesha Gulley, Airlie Hilliard, Xin Guan, Adriano Koshiyama, Philip Treleaven et.al.|[2409.09046v1](http://arxiv.org/abs/2409.09046v1)|null|
 |**2024-09-13**|**E2MoCase: A Dataset for Emotional, Event and Moral Observations in News Articles on High-impact Legal Cases**|Candida M. Greco, Lorenzo Zangari, Davide Picca, Andrea Tagarelli et.al.|[2409.09001v1](http://arxiv.org/abs/2409.09001v1)|null|
 |**2024-09-12**|**Hypergraph Change Point Detection using Adapted Cardinality-Based Gadgets: Applications in Dynamic Legal Structures**|Hiroki Matsumoto, Takahiro Yoshida, Ryoma Kondo, Ryohei Hisano et.al.|[2409.08106v1](http://arxiv.org/abs/2409.08106v1)|null|
 |**2024-09-12**|**Experimenting with Legal AI Solutions: The Case of Question-Answering for Access to Justice**|Jonathan Li, Rohan Bhambhoria, Samuel Dahan, Xiaodan Zhu et.al.|[2409.07713v1](http://arxiv.org/abs/2409.07713v1)|null|
@@ -671,6 +673,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Augmenting Automatic Speech Recognition Models with Disfluency Detection**|Robin Amann, Zhaolin Li, Barbara Bruno, Jan Niehues et.al.|[2409.10177v1](http://arxiv.org/abs/2409.10177v1)|null|
 |**2024-09-12**|**WhisperNER: Unified Open Named Entity and Speech Recognition**|Gil Ayache, Menachem Pirchi, Aviv Navon, Aviv Shamsian, Gill Hetz, Joseph Keshet et.al.|[2409.08107v1](http://arxiv.org/abs/2409.08107v1)|null|
 |**2024-09-12**|**The Faetar Benchmark: Speech Recognition in a Very Under-Resourced Language**|Michael Ong, Sean Robertson, Leo Peckham, Alba Jorquera Jimenez de Aberasturi, Paula Arkhangorodsky, Robin Huo, Aman Sakhardande, Mark Hallap, Naomi Nagy, Ewan Dunbar et.al.|[2409.08103v1](http://arxiv.org/abs/2409.08103v1)|null|
 |**2024-09-12**|**Detecting and Defending Against Adversarial Attacks on Automatic Speech Recognition via Diffusion Models**|Nikolai L. Kühne, Astrid H. F. Kitchen, Marie S. Jensen, Mikkel S. L. Brøndt, Martin Gonzalez, Christophe Biscio, Zheng-Hua Tan et.al.|[2409.07936v1](http://arxiv.org/abs/2409.07936v1)|null|
@@ -719,7 +722,7 @@ layout: default
 |**2024-07-07**|**Morse Code-Enabled Speech Recognition for Individuals with Visual and Hearing Impairments**|Ritabrata Roy Choudhury et.al.|[2407.14525v1](http://arxiv.org/abs/2407.14525v1)|null|
 |**2024-07-19**|**Reexamining Racial Disparities in Automatic Speech Recognition Performance: The Role of Confounding by Provenance**|Changye Li, Trevor Cohen, Serguei Pakhomov et.al.|[2407.13982v1](http://arxiv.org/abs/2407.13982v1)|null|
 |**2024-07-03**|**Self-supervised ASR Models and Features For Dysarthric and Elderly Speech Recognition**|Shujie Hu, Xurong Xie, Mengzhe Geng, Zengrui Jin, Jiajun Deng, Guinan Li, Yi Wang, Mingyu Cui, Tianzi Wang, Helen Meng, Xunying Liu et.al.|[2407.13782v1](http://arxiv.org/abs/2407.13782v1)|null|
-|**2024-07-18**|**Low-Resourced Speech Recognition for Iu Mien Language via Weakly-Supervised Phoneme-based Multilingual Pre-training**|Lukuan Dong, Donghong Qin, Fengbo Bai, Fanhua Song, Yan Liu, Chen Xu, Zhijian Ou et.al.|[2407.13292v1](http://arxiv.org/abs/2407.13292v1)|null|
+|**2024-09-16**|**Low-Resourced Speech Recognition for Iu Mien Language via Weakly-Supervised Phoneme-based Multilingual Pre-training**|Lukuan Dong, Donghong Qin, Fengbo Bai, Fanhua Song, Yan Liu, Chen Xu, Zhijian Ou et.al.|[2407.13292v2](http://arxiv.org/abs/2407.13292v2)|null|
 |**2024-06-29**|**Error Correction by Paying Attention to Both Acoustic and Confidence References for Automatic Speech Recognition**|Yuchun Shu, Bo Hu, Yifeng He, Hao Shi, Longbiao Wang, Jianwu Dang et.al.|[2407.12817v1](http://arxiv.org/abs/2407.12817v1)|null|
 |**2024-07-14**|**Improving Neural Biasing for Contextual Speech Recognition by Early Context Injection and Text Perturbation**|Ruizhe Huang, Mahsa Yarmohammadi, Sanjeev Khudanpur, Daniel Povey et.al.|[2407.10303v1](http://arxiv.org/abs/2407.10303v1)|null|
 |**2024-08-24**|**Empowering Whisper as a Joint Multi-Talker and Target-Talker Speech Recognition System**|Lingwei Meng, Jiawen Kang, Yuejiao Wang, Zengrui Jin, Xixin Wu, Xunying Liu, Helen Meng et.al.|[2407.09817v2](http://arxiv.org/abs/2407.09817v2)|**[link](https://github.com/LingweiMeng/Whisper-Sidecar)**|
