@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.16
+## Updated on 2024.09.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,7 +24,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-13**|**Optimizing Rare Word Accuracy in Direct Speech Translation with a Retrieval-and-Demonstration Approach**|Siqi Li, Danni Liu, Jan Niehues et.al.|[2409.09009v1](http://arxiv.org/abs/2409.09009v1)|**[link](https://github.com/siqilii/retrieve-and-demonstration-st)**|
-|**2024-09-02**|**What does it take to get state of the art in simultaneous speech-to-speech translation?**|Vincent Wilmet, Johnson Du et.al.|[2409.00965v1](http://arxiv.org/abs/2409.00965v1)|null|
+|**2024-09-14**|**What does it take to get state of the art in simultaneous speech-to-speech translation?**|Vincent Wilmet, Johnson Du et.al.|[2409.00965v2](http://arxiv.org/abs/2409.00965v2)|null|
 |**2024-08-18**|**FASST: Fast LLM-based Simultaneous Speech Translation**|Siqi Ouyang, Xi Xu, Chinmay Dandekar, Lei Li et.al.|[2408.09430v1](http://arxiv.org/abs/2408.09430v1)|null|
 |**2024-08-14**|**CMU's IWSLT 2024 Simultaneous Speech Translation System**|Xi Xu, Siqi Ouyang, Brian Yan, Patrick Fernandes, William Chen, Lei Li, Graham Neubig, Shinji Watanabe et.al.|[2408.07452v1](http://arxiv.org/abs/2408.07452v1)|null|
 |**2024-08-30**|**Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent**|Shanbo Cheng, Zhichao Huang, Tom Ko, Hang Li, Ningxin Peng, Lu Xu, Qini Zhang et.al.|[2407.21646v2](http://arxiv.org/abs/2407.21646v2)|**[link](https://github.com/byteresearchcla/realsi)**|
@@ -251,7 +251,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240917>back to top</a>)</p>
 
 ## Legal
 
@@ -665,7 +665,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240917>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -728,7 +728,7 @@ layout: default
 |**2024-07-10**|**Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition**|Ye Bai, Jingping Chen, Jitong Chen, Wei Chen, Zhuo Chen, Chuang Ding, Linhao Dong, Qianqian Dong, Yujiao Du, Kepan Gao, Lu Gao, Yi Guo, Minglun Han, Ting Han, Wenchao Hu, Xinying Hu, Yuxiang Hu, Deyu Hua, Lu Huang, Mingkun Huang, Youjia Huang, Jishuo Jin, Fanliu Kong, Zongwei Lan, Tianyu Li, Xiaoyang Li, Zeyang Li, Zehua Lin, Rui Liu, Shouda Liu, Lu Lu, Yizhou Lu, Jingting Ma, Shengtao Ma, Yulin Pei, Chen Shen, Tian Tan, Xiaogang Tian, Ming Tu, Bo Wang, Hao Wang, Yuping Wang, Yuxuan Wang, Hanzhang Xia, Rui Xia, Shuangyi Xie, Hongmin Xu, Meng Yang, Bihong Zhang, Jun Zhang, Wanyi Zhang, Yang Zhang, Yawei Zhang, Yijie Zheng, Ming Zou et.al.|[2407.04675v2](http://arxiv.org/abs/2407.04675v2)|null|
 |**2024-07-05**|**Speculative Speech Recognition by Audio-Prefixed Low-Rank Adaptation of Language Models**|Bolaji Yusuf, Murali Karthick Baskar, Andrew Rosenberg, Bhuvana Ramabhadran et.al.|[2407.04641v1](http://arxiv.org/abs/2407.04641v1)|null|
 |**2024-07-04**|**Improving Accented Speech Recognition using Data Augmentation based on Unsupervised Text-to-Speech Synthesis**|Cong-Thanh Do, Shuhei Imai, Rama Doddipatla, Thomas Hain et.al.|[2407.04047v1](http://arxiv.org/abs/2407.04047v1)|null|
-|**2024-07-04**|**Learning Video Temporal Dynamics with Cross-Modal Attention for Robust Audio-Visual Speech Recognition**|Sungnyun Kim, Kangwook Jang, Sangmin Bae, Hoirin Kim, Se-Young Yun et.al.|[2407.03563v1](http://arxiv.org/abs/2407.03563v1)|null|
+|**2024-09-14**|**Learning Video Temporal Dynamics with Cross-Modal Attention for Robust Audio-Visual Speech Recognition**|Sungnyun Kim, Kangwook Jang, Sangmin Bae, Hoirin Kim, Se-Young Yun et.al.|[2407.03563v2](http://arxiv.org/abs/2407.03563v2)|null|
 |**2024-07-03**|**Codec-ASR: Training Performant Automatic Speech Recognition Systems with Discrete Speech Representations**|Kunal Dhawan, Nithin Rao Koluguri, Ante Jukić, Ryan Langman, Jagadeesh Balam, Boris Ginsburg et.al.|[2407.03495v1](http://arxiv.org/abs/2407.03495v1)|null|
 |**2024-07-03**|**Qifusion-Net: Layer-adapted Stream/Non-stream Model for End-to-End Multi-Accent Speech Recognition**|Jinming Chen, Jingyi Fang, Yuanzhong Zheng, Yaoxuan Wang, Haojun Fei et.al.|[2407.03026v1](http://arxiv.org/abs/2407.03026v1)|null|
 |**2024-07-02**|**Pinyin Regularization in Error Correction for Chinese Speech Recognition with Large Language Models**|Zhiyuan Tang, Dong Wang, Shen Huang, Shidong Shang et.al.|[2407.01909v1](http://arxiv.org/abs/2407.01909v1)|**[link](https://github.com/tzyll/ChineseHP)**|
@@ -1180,7 +1180,7 @@ layout: default
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240917>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -1190,7 +1190,7 @@ layout: default
 |**2024-05-03**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v4](http://arxiv.org/abs/2207.14682v4)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240917>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
