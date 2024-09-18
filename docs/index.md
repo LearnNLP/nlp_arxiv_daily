@@ -23,6 +23,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Task Arithmetic for Language Expansion in Speech Translation**|Yao-Fei Cheng, Hayato Futami, Yosuke Kashiwagi, Emiru Tsunoo, Wen Shen Teo, Siddhant Arora, Shinji Watanabe et.al.|[2409.11274v1](http://arxiv.org/abs/2409.11274v1)|null|
+|**2024-09-17**|**Improving Speech Emotion Recognition in Under-Resourced Languages via Speech-to-Speech Translation with Bootstrapping Data Selection**|Hsi-Che Lin, Yi-Cheng Lin, Huang-Cheng Chou, Hung-yi Lee et.al.|[2409.10985v1](http://arxiv.org/abs/2409.10985v1)|null|
 |**2024-09-13**|**Optimizing Rare Word Accuracy in Direct Speech Translation with a Retrieval-and-Demonstration Approach**|Siqi Li, Danni Liu, Jan Niehues et.al.|[2409.09009v1](http://arxiv.org/abs/2409.09009v1)|**[link](https://github.com/siqilii/retrieve-and-demonstration-st)**|
 |**2024-09-14**|**What does it take to get state of the art in simultaneous speech-to-speech translation?**|Vincent Wilmet, Johnson Du et.al.|[2409.00965v2](http://arxiv.org/abs/2409.00965v2)|null|
 |**2024-08-18**|**FASST: Fast LLM-based Simultaneous Speech Translation**|Siqi Ouyang, Xi Xu, Chinmay Dandekar, Lei Li et.al.|[2408.09430v1](http://arxiv.org/abs/2408.09430v1)|null|
@@ -673,7 +675,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Zero Shot Text to Speech Augmentation for Automatic Speech Recognition on Low-Resource Accented Speech Corpora**|Francesco Nespoli, Daniel Barreda, Patrick A. Naylor et.al.|[2409.11107v1](http://arxiv.org/abs/2409.11107v1)|null|
+|**2024-09-17**|**Speech Recognition for Analysis of Police Radio Communication**|Tejes Srivastava, Ju-Chieh Chou, Priyank Shroff, Karen Livescu, Christopher Graziul et.al.|[2409.10858v1](http://arxiv.org/abs/2409.10858v1)|null|
 |**2024-09-17**|**Augmenting Automatic Speech Recognition Models with Disfluency Detection**|Robin Amann, Zhaolin Li, Barbara Bruno, Jan Niehues et.al.|[2409.10177v2](http://arxiv.org/abs/2409.10177v2)|null|
+|**2024-09-17**|**Large Language Model Based Generative Error Correction: A Challenge and Baselines for Speech Recognition, Speaker Tagging, and Emotion Recognition**|Chao-Han Huck Yang, Taejin Park, Yuan Gong, Yuanchao Li, Zhehuai Chen, Yen-Ting Lin, Chen Chen, Yuchen Hu, Kunal Dhawan, Piotr Żelasko, Chao Zhang, Yun-Nung Chen, Yu Tsao, Jagadeesh Balam, Boris Ginsburg, Sabato Marco Siniscalchi, Eng Siong Chng, Peter Bell, Catherine Lai, Shinji Watanabe, Andreas Stolcke et.al.|[2409.09785v2](http://arxiv.org/abs/2409.09785v2)|null|
 |**2024-09-12**|**WhisperNER: Unified Open Named Entity and Speech Recognition**|Gil Ayache, Menachem Pirchi, Aviv Navon, Aviv Shamsian, Gill Hetz, Joseph Keshet et.al.|[2409.08107v1](http://arxiv.org/abs/2409.08107v1)|null|
 |**2024-09-12**|**The Faetar Benchmark: Speech Recognition in a Very Under-Resourced Language**|Michael Ong, Sean Robertson, Leo Peckham, Alba Jorquera Jimenez de Aberasturi, Paula Arkhangorodsky, Robin Huo, Aman Sakhardande, Mark Hallap, Naomi Nagy, Ewan Dunbar et.al.|[2409.08103v1](http://arxiv.org/abs/2409.08103v1)|null|
 |**2024-09-12**|**Detecting and Defending Against Adversarial Attacks on Automatic Speech Recognition via Diffusion Models**|Nikolai L. Kühne, Astrid H. F. Kitchen, Marie S. Jensen, Mikkel S. L. Brøndt, Martin Gonzalez, Christophe Biscio, Zheng-Hua Tan et.al.|[2409.07936v1](http://arxiv.org/abs/2409.07936v1)|null|
