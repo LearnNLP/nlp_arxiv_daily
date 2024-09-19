@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Chain-of-Thought Prompting for Speech Translation**|Ke Hu, Zhehuai Chen, Chao-Han Huck Yang, Piotr Żelasko, Oleksii Hrinchuk, Vitaly Lavrukhin, Jagadeesh Balam, Boris Ginsburg et.al.|[2409.11538v1](http://arxiv.org/abs/2409.11538v1)|null|
 |**2024-09-17**|**Task Arithmetic for Language Expansion in Speech Translation**|Yao-Fei Cheng, Hayato Futami, Yosuke Kashiwagi, Emiru Tsunoo, Wen Shen Teo, Siddhant Arora, Shinji Watanabe et.al.|[2409.11274v1](http://arxiv.org/abs/2409.11274v1)|null|
 |**2024-09-17**|**Improving Speech Emotion Recognition in Under-Resourced Languages via Speech-to-Speech Translation with Bootstrapping Data Selection**|Hsi-Che Lin, Yi-Cheng Lin, Huang-Cheng Chou, Hung-yi Lee et.al.|[2409.10985v1](http://arxiv.org/abs/2409.10985v1)|null|
 |**2024-09-13**|**Optimizing Rare Word Accuracy in Direct Speech Translation with a Retrieval-and-Demonstration Approach**|Siqi Li, Danni Liu, Jan Niehues et.al.|[2409.09009v1](http://arxiv.org/abs/2409.09009v1)|**[link](https://github.com/siqilii/retrieve-and-demonstration-st)**|
@@ -259,6 +260,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**The Factuality of Large Language Models in the Legal Domain**|Rajaa El Hamdani, Thomas Bonald, Fragkiskos Malliaros, Nils Holzenberger, Fabian Suchanek et.al.|[2409.11798v1](http://arxiv.org/abs/2409.11798v1)|null|
 |**2024-09-16**|**Gaps or Hallucinations? Gazing into Machine-Generated Legal Analysis for Fine-grained Text Evaluations**|Abe Bohan Hou, William Jurayj, Nils Holzenberger, Andrew Blair-Stanek, Benjamin Van Durme et.al.|[2409.09947v1](http://arxiv.org/abs/2409.09947v1)|null|
 |**2024-08-29**|**HyPA-RAG: A Hybrid Parameter Adaptive Retrieval-Augmented Generation System for AI Legal and Policy Applications**|Rishi Kalra, Zekun Wu, Ayesha Gulley, Airlie Hilliard, Xin Guan, Adriano Koshiyama, Philip Treleaven et.al.|[2409.09046v1](http://arxiv.org/abs/2409.09046v1)|null|
 |**2024-09-13**|**E2MoCase: A Dataset for Emotional, Event and Moral Observations in News Articles on High-impact Legal Cases**|Candida M. Greco, Lorenzo Zangari, Davide Picca, Andrea Tagarelli et.al.|[2409.09001v1](http://arxiv.org/abs/2409.09001v1)|null|
