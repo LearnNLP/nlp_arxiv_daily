@@ -256,8 +256,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-18**|**The Factuality of Large Language Models in the Legal Domain**|Rajaa El Hamdani, Thomas Bonald, Fragkiskos Malliaros, Nils Holzenberger, Fabian Suchanek et.al.|[2409.11798v1](http://arxiv.org/abs/2409.11798v1)|null|
-|**2024-09-16**|**Gaps or Hallucinations? Gazing into Machine-Generated Legal Analysis for Fine-grained Text Evaluations**|Abe Bohan Hou, William Jurayj, Nils Holzenberger, Andrew Blair-Stanek, Benjamin Van Durme et.al.|[2409.09947v1](http://arxiv.org/abs/2409.09947v1)|null|
+|**2024-09-18**|**The Factuality of Large Language Models in the Legal Domain**|Rajaa El Hamdani, Thomas Bonald, Fragkiskos Malliaros, Nils Holzenberger, Fabian Suchanek et.al.|[2409.11798v1](http://arxiv.org/abs/2409.11798v1)|**[link](https://github.com/rajjaa/lexfact)**|
+|**2024-09-16**|**Gaps or Hallucinations? Gazing into Machine-Generated Legal Analysis for Fine-grained Text Evaluations**|Abe Bohan Hou, William Jurayj, Nils Holzenberger, Andrew Blair-Stanek, Benjamin Van Durme et.al.|[2409.09947v1](http://arxiv.org/abs/2409.09947v1)|**[link](https://github.com/bohanhou14/GapHalu)**|
 |**2024-08-29**|**HyPA-RAG: A Hybrid Parameter Adaptive Retrieval-Augmented Generation System for AI Legal and Policy Applications**|Rishi Kalra, Zekun Wu, Ayesha Gulley, Airlie Hilliard, Xin Guan, Adriano Koshiyama, Philip Treleaven et.al.|[2409.09046v1](http://arxiv.org/abs/2409.09046v1)|null|
 |**2024-09-13**|**E2MoCase: A Dataset for Emotional, Event and Moral Observations in News Articles on High-impact Legal Cases**|Candida M. Greco, Lorenzo Zangari, Davide Picca, Andrea Tagarelli et.al.|[2409.09001v1](http://arxiv.org/abs/2409.09001v1)|null|
 |**2024-09-12**|**Hypergraph Change Point Detection using Adapted Cardinality-Based Gadgets: Applications in Dynamic Legal Structures**|Hiroki Matsumoto, Takahiro Yoshida, Ryoma Kondo, Ryohei Hisano et.al.|[2409.08106v1](http://arxiv.org/abs/2409.08106v1)|null|
@@ -326,7 +326,7 @@
 |**2024-04-16**|**BayesJudge: Bayesian Kernel Language Modelling with Confidence Uncertainty in Legal Judgment Prediction**|Ubaid Azam, Imran Razzak, Shelly Vishwakarma, Hakim Hacid, Dell Zhang, Shoaib Jameel et.al.|[2404.10481v1](http://arxiv.org/abs/2404.10481v1)|null|
 |**2024-04-15**|**LegalPro-BERT: Classification of Legal Provisions by fine-tuning BERT Large Language Model**|Amit Tewari et.al.|[2404.10097v1](http://arxiv.org/abs/2404.10097v1)|null|
 |**2024-04-15**|**Debunking Robot Rights Metaphysically, Ethically, and Legally**|Abeba Birhane, Jelle van Dijk, Frank Pasquale et.al.|[2404.10072v1](http://arxiv.org/abs/2404.10072v1)|null|
-|**2024-06-27**|**Software Engineering Methods For AI-Driven Deductive Legal Reasoning**|Rohan Padhye et.al.|[2404.09868v2](http://arxiv.org/abs/2404.09868v2)|null|
+|**2024-06-27**|**Software Engineering Methods For AI-Driven Deductive Legal Reasoning**|Rohan Padhye et.al.|[2404.09868v2](http://arxiv.org/abs/2404.09868v2)|**[link](https://github.com/cmu-pasta/onward24)**|
 |**2024-05-23**|**A Legal Risk Taxonomy for Generative Artificial Intelligence**|David Atkinson, Jacob Morrison et.al.|[2404.09479v3](http://arxiv.org/abs/2404.09479v3)|null|
 |**2024-04-08**|**Text clustering applied to data augmentation in legal contexts**|Lucas José Gonçalves Freitas, Thaís Rodrigues, Guilherme Rodrigues, Pamella Edokawa, Ariane Farias et.al.|[2404.08683v1](http://arxiv.org/abs/2404.08683v1)|null|
 |**2024-04-10**|**Leveraging open-source models for legal language modeling and analysis: a case study on the Indian constitution**|Vikhyath Gupta, Srinivasa Rao P et.al.|[2404.06751v1](http://arxiv.org/abs/2404.06751v1)|null|
