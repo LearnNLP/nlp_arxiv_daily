@@ -257,6 +257,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**Dispute resolution in legal mediation with quantitative argumentation**|Xiao Chi et.al.|[2409.16854v1](http://arxiv.org/abs/2409.16854v1)|null|
 |**2024-09-10**|**GLARE: Guided LexRank for Advanced Retrieval in Legal Analysis**|Fabio Gregório, Rafaela Castro, Kele Belloze, Rui Pedro Lopes, Eduardo Bezerra et.al.|[2409.15348v1](http://arxiv.org/abs/2409.15348v1)|**[link](https://github.com/ailab-cefet-rj/r2t)**|
 |**2024-09-09**|**LegiLM: A Fine-Tuned Legal Language Model for Data Compliance**|Linkai Zhu, Lu Yang, Chaofan Li, Shanwen Hu, Lu Liu, Bin Yin et.al.|[2409.13721v1](http://arxiv.org/abs/2409.13721v1)|null|
 |**2024-09-05**|**Vietnamese Legal Information Retrieval in Question-Answering System**|Thiem Nguyen Ba, Vinh Doan The, Tung Pham Quang, Toan Tran Van et.al.|[2409.13699v1](http://arxiv.org/abs/2409.13699v1)|null|
@@ -677,6 +678,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**Weighted Cross-entropy for Low-Resource Languages in Multilingual Speech Recognition**|Andrés Piñeiro-Martín, Carmen García-Mateo, Laura Docío-Fernández, María del Carmen López-Pérez, Georg Rehm et.al.|[2409.16954v1](http://arxiv.org/abs/2409.16954v1)|null|
+|**2024-09-25**|**Speech Recognition Rescoring with Large Speech-Text Foundation Models**|Prashanth Gurunath Shivakumar, Jari Kolehmainen, Aditya Gourav, Yi Gu, Ankur Gandhe, Ariya Rastrow, Ivan Bulyko et.al.|[2409.16654v1](http://arxiv.org/abs/2409.16654v1)|null|
 |**2024-09-24**|**Hypothesis Clustering and Merging: Novel MultiTalker Speech Recognition with Speaker Tokens**|Yosuke Kashiwagi, Hayato Futami, Emiru Tsunoo, Siddhant Arora, Shinji Watanabe et.al.|[2409.15732v1](http://arxiv.org/abs/2409.15732v1)|null|
 |**2024-09-10**|**A Large Dataset of Spontaneous Speech with the Accent Spoken in São Paulo for Automatic Speech Recognition Evaluation**|Rodrigo Lima, Sidney Evaldo Leal, Arnaldo Candido Junior, Sandra Maria Aluísio et.al.|[2409.15350v1](http://arxiv.org/abs/2409.15350v1)|null|
 |**2024-09-13**|**CPT-Boosted Wav2vec2.0: Towards Noise Robust Speech Recognition for Classroom Environments**|Ahmed Adel Attia, Dorottya Demszky, Tolulope Ogunremi, Jing Liu, Carol Espy-Wilson et.al.|[2409.14494v1](http://arxiv.org/abs/2409.14494v1)|null|
