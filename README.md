@@ -258,6 +258,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**HiCuLR: Hierarchical Curriculum Learning for Rhetorical Role Labeling of Legal Documents**|T. Y. S. S. Santosh, Apolline Isaia, Shiyu Hong, Matthias Grabmair et.al.|[2409.18647v1](http://arxiv.org/abs/2409.18647v1)|null|
+|**2024-09-27**|**Incorporating Precedents for Legal Judgement Prediction on European Court of Human Rights Cases**|T. Y. S. S. Santosh, Mohamed Hesham Elganayni, Stanisław Sójka, Matthias Grabmair et.al.|[2409.18644v1](http://arxiv.org/abs/2409.18644v1)|null|
 |**2024-09-25**|**Dispute resolution in legal mediation with quantitative argumentation**|Xiao Chi et.al.|[2409.16854v1](http://arxiv.org/abs/2409.16854v1)|null|
 |**2024-09-10**|**GLARE: Guided LexRank for Advanced Retrieval in Legal Analysis**|Fabio Gregório, Rafaela Castro, Kele Belloze, Rui Pedro Lopes, Eduardo Bezerra et.al.|[2409.15348v1](http://arxiv.org/abs/2409.15348v1)|**[link](https://github.com/ailab-cefet-rj/r2t)**|
 |**2024-09-09**|**LegiLM: A Fine-Tuned Legal Language Model for Data Compliance**|Linkai Zhu, Lu Yang, Chaofan Li, Shanwen Hu, Lu Liu, Bin Yin et.al.|[2409.13721v1](http://arxiv.org/abs/2409.13721v1)|null|
@@ -679,6 +681,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Speech-Mamba: Long-Context Speech Recognition with Selective State Spaces Models**|Xiaoxue Gao, Nancy F. Chen et.al.|[2409.18654v1](http://arxiv.org/abs/2409.18654v1)|null|
 |**2024-09-26**|**Paraformer-v2: An improved non-autoregressive transformer for noise-robust speech recognition**|Keyu An, Zerui Li, Zhifu Gao, Shiliang Zhang et.al.|[2409.17746v1](http://arxiv.org/abs/2409.17746v1)|null|
 |**2024-09-25**|**Weighted Cross-entropy for Low-Resource Languages in Multilingual Speech Recognition**|Andrés Piñeiro-Martín, Carmen García-Mateo, Laura Docío-Fernández, María del Carmen López-Pérez, Georg Rehm et.al.|[2409.16954v1](http://arxiv.org/abs/2409.16954v1)|null|
 |**2024-09-25**|**Speech Recognition Rescoring with Large Speech-Text Foundation Models**|Prashanth Gurunath Shivakumar, Jari Kolehmainen, Aditya Gourav, Yi Gu, Ankur Gandhe, Ariya Rastrow, Ivan Bulyko et.al.|[2409.16654v1](http://arxiv.org/abs/2409.16654v1)|null|
