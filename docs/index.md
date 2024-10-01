@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-29**|**CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought**|Yexing Du, Ziyang Ma, Yifan Yang, Keqi Deng, Xie Chen, Bo Yang, Yang Xiang, Ming Liu, Bing Qin et.al.|[2409.19510v1](http://arxiv.org/abs/2409.19510v1)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
 |**2024-09-26**|**Unveiling the Role of Pretraining in Direct Speech Translation**|Belen Alastruey, Gerard I. Gállego, Marta R. Costa-jussà et.al.|[2409.18044v1](http://arxiv.org/abs/2409.18044v1)|null|
 |**2024-09-24**|**A Modular-based Strategy for Mitigating Gradient Conflicts in Simultaneous Speech Translation**|Xiaoqian Liu, Yangfan Du, Jianjin Wang, Yuan Ge, Chen Xu, Tong Xiao, Guocheng Chen, Jingbo Zhu et.al.|[2409.15911v1](http://arxiv.org/abs/2409.15911v1)|null|
 |**2024-09-17**|**Chain-of-Thought Prompting for Speech Translation**|Ke Hu, Zhehuai Chen, Chao-Han Huck Yang, Piotr Żelasko, Oleksii Hrinchuk, Vitaly Lavrukhin, Jagadeesh Balam, Boris Ginsburg et.al.|[2409.11538v1](http://arxiv.org/abs/2409.11538v1)|null|
@@ -262,6 +263,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**LexEval: A Comprehensive Chinese Legal Benchmark for Evaluating Large Language Models**|Haitao Li, You Chen, Qingyao Ai, Yueyue Wu, Ruizhe Zhang, Yiqun Liu et.al.|[2409.20288v1](http://arxiv.org/abs/2409.20288v1)|**[link](https://github.com/cshaitao/lexeval)**|
 |**2024-09-27**|**HiCuLR: Hierarchical Curriculum Learning for Rhetorical Role Labeling of Legal Documents**|T. Y. S. S. Santosh, Apolline Isaia, Shiyu Hong, Matthias Grabmair et.al.|[2409.18647v1](http://arxiv.org/abs/2409.18647v1)|null|
 |**2024-09-27**|**Incorporating Precedents for Legal Judgement Prediction on European Court of Human Rights Cases**|T. Y. S. S. Santosh, Mohamed Hesham Elganayni, Stanisław Sójka, Matthias Grabmair et.al.|[2409.18644v1](http://arxiv.org/abs/2409.18644v1)|null|
 |**2024-09-25**|**Dispute resolution in legal mediation with quantitative argumentation**|Xiao Chi et.al.|[2409.16854v1](http://arxiv.org/abs/2409.16854v1)|null|
@@ -685,6 +687,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Predictive Speech Recognition and End-of-Utterance Detection Towards Spoken Dialog Systems**|Oswald Zink, Yosuke Higuchi, Carlos Mullov, Alexander Waibel, Tetsunori Kobayashi et.al.|[2409.19990v1](http://arxiv.org/abs/2409.19990v1)|null|
+|**2024-09-29**|**Fine-Tuning Automatic Speech Recognition for People with Parkinson's: An Effective Strategy for Enhancing Speech Technology Accessibility**|Xiuwen Zheng, Bornali Phukon, Mark Hasegawa-Johnson et.al.|[2409.19818v1](http://arxiv.org/abs/2409.19818v1)|null|
+|**2024-09-29**|**Efficient Long-Form Speech Recognition for General Speech In-Context Learning**|Hao Yen, Shaoshi Ling, Guoli Ye et.al.|[2409.19757v1](http://arxiv.org/abs/2409.19757v1)|null|
 |**2024-09-27**|**Speech-Mamba: Long-Context Speech Recognition with Selective State Spaces Models**|Xiaoxue Gao, Nancy F. Chen et.al.|[2409.18654v1](http://arxiv.org/abs/2409.18654v1)|null|
 |**2024-09-26**|**Paraformer-v2: An improved non-autoregressive transformer for noise-robust speech recognition**|Keyu An, Zerui Li, Zhifu Gao, Shiliang Zhang et.al.|[2409.17746v1](http://arxiv.org/abs/2409.17746v1)|null|
 |**2024-09-25**|**Weighted Cross-entropy for Low-Resource Languages in Multilingual Speech Recognition**|Andrés Piñeiro-Martín, Carmen García-Mateo, Laura Docío-Fernández, María del Carmen López-Pérez, Georg Rehm et.al.|[2409.16954v1](http://arxiv.org/abs/2409.16954v1)|null|
@@ -704,7 +709,7 @@ layout: default
 |**2024-09-17**|**Large Language Model Based Generative Error Correction: A Challenge and Baselines for Speech Recognition, Speaker Tagging, and Emotion Recognition**|Chao-Han Huck Yang, Taejin Park, Yuan Gong, Yuanchao Li, Zhehuai Chen, Yen-Ting Lin, Chen Chen, Yuchen Hu, Kunal Dhawan, Piotr Żelasko, Chao Zhang, Yun-Nung Chen, Yu Tsao, Jagadeesh Balam, Boris Ginsburg, Sabato Marco Siniscalchi, Eng Siong Chng, Peter Bell, Catherine Lai, Shinji Watanabe, Andreas Stolcke et.al.|[2409.09785v2](http://arxiv.org/abs/2409.09785v2)|null|
 |**2024-09-12**|**WhisperNER: Unified Open Named Entity and Speech Recognition**|Gil Ayache, Menachem Pirchi, Aviv Navon, Aviv Shamsian, Gill Hetz, Joseph Keshet et.al.|[2409.08107v1](http://arxiv.org/abs/2409.08107v1)|null|
 |**2024-09-12**|**The Faetar Benchmark: Speech Recognition in a Very Under-Resourced Language**|Michael Ong, Sean Robertson, Leo Peckham, Alba Jorquera Jimenez de Aberasturi, Paula Arkhangorodsky, Robin Huo, Aman Sakhardande, Mark Hallap, Naomi Nagy, Ewan Dunbar et.al.|[2409.08103v1](http://arxiv.org/abs/2409.08103v1)|null|
-|**2024-09-12**|**Detecting and Defending Against Adversarial Attacks on Automatic Speech Recognition via Diffusion Models**|Nikolai L. Kühne, Astrid H. F. Kitchen, Marie S. Jensen, Mikkel S. L. Brøndt, Martin Gonzalez, Christophe Biscio, Zheng-Hua Tan et.al.|[2409.07936v1](http://arxiv.org/abs/2409.07936v1)|null|
+|**2024-09-12**|**Detecting and Defending Against Adversarial Attacks on Automatic Speech Recognition via Diffusion Models**|Nikolai L. Kühne, Astrid H. F. Kitchen, Marie S. Jensen, Mikkel S. L. Brøndt, Martin Gonzalez, Christophe Biscio, Zheng-Hua Tan et.al.|[2409.07936v1](http://arxiv.org/abs/2409.07936v1)|**[link](https://github.com/Kyhne/Detecting-and-Defending-Against-Adversarial-Attacks)**|
 |**2024-09-12**|**Full-text Error Correction for Chinese Speech Recognition with Large Language Model**|Zhiyuan Tang, Dong Wang, Shen Huang, Shidong Shang et.al.|[2409.07790v1](http://arxiv.org/abs/2409.07790v1)|null|
 |**2024-09-11**|**Enhancing CTC-Based Visual Speech Recognition**|Hendrik Laux, Anke Schmeink et.al.|[2409.07210v1](http://arxiv.org/abs/2409.07210v1)|null|
 |**2024-09-11**|**Linear Time Complexity Conformers with SummaryMixing for Streaming Speech Recognition**|Titouan Parcollet, Rogier van Dalen, Shucong Zhang, Sourav Batthacharya et.al.|[2409.07165v1](http://arxiv.org/abs/2409.07165v1)|**[link](https://github.com/samsunglabs/summarymixing)**|
