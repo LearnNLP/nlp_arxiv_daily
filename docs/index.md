@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -257,7 +257,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
 
 ## Legal
 
@@ -271,7 +271,7 @@ layout: default
 |**2024-09-09**|**LegiLM: A Fine-Tuned Legal Language Model for Data Compliance**|Linkai Zhu, Lu Yang, Chaofan Li, Shanwen Hu, Lu Liu, Bin Yin et.al.|[2409.13721v1](http://arxiv.org/abs/2409.13721v1)|null|
 |**2024-09-05**|**Vietnamese Legal Information Retrieval in Question-Answering System**|Thiem Nguyen Ba, Vinh Doan The, Tung Pham Quang, Toan Tran Van et.al.|[2409.13699v1](http://arxiv.org/abs/2409.13699v1)|null|
 |**2024-09-18**|**The Factuality of Large Language Models in the Legal Domain**|Rajaa El Hamdani, Thomas Bonald, Fragkiskos Malliaros, Nils Holzenberger, Fabian Suchanek et.al.|[2409.11798v1](http://arxiv.org/abs/2409.11798v1)|**[link](https://github.com/rajjaa/lexfact)**|
-|**2024-09-23**|**Gaps or Hallucinations? Gazing into Machine-Generated Legal Analysis for Fine-grained Text Evaluations**|Abe Bohan Hou, William Jurayj, Nils Holzenberger, Andrew Blair-Stanek, Benjamin Van Durme et.al.|[2409.09947v2](http://arxiv.org/abs/2409.09947v2)|**[link](https://github.com/bohanhou14/GapHalu)**|
+|**2024-09-23**|**Gaps or Hallucinations? Gazing into Machine-Generated Legal Analysis for Fine-grained Text Evaluations**|Abe Bohan Hou, William Jurayj, Nils Holzenberger, Andrew Blair-Stanek, Benjamin Van Durme et.al.|[2409.09947v2](http://arxiv.org/abs/2409.09947v2)|null|
 |**2024-08-29**|**HyPA-RAG: A Hybrid Parameter Adaptive Retrieval-Augmented Generation System for AI Legal and Policy Applications**|Rishi Kalra, Zekun Wu, Ayesha Gulley, Airlie Hilliard, Xin Guan, Adriano Koshiyama, Philip Treleaven et.al.|[2409.09046v1](http://arxiv.org/abs/2409.09046v1)|null|
 |**2024-09-13**|**E2MoCase: A Dataset for Emotional, Event and Moral Observations in News Articles on High-impact Legal Cases**|Candida M. Greco, Lorenzo Zangari, Davide Picca, Andrea Tagarelli et.al.|[2409.09001v1](http://arxiv.org/abs/2409.09001v1)|null|
 |**2024-09-12**|**Hypergraph Change Point Detection using Adapted Cardinality-Based Gadgets: Applications in Dynamic Legal Structures**|Hiroki Matsumoto, Takahiro Yoshida, Ryoma Kondo, Ryohei Hisano et.al.|[2409.08106v1](http://arxiv.org/abs/2409.08106v1)|null|
@@ -279,7 +279,7 @@ layout: default
 |**2024-09-11**|**Legal Fact Prediction: Task Definition and Dataset Construction**|Junkai Liu, Yujie Tong, Hui Huang, Shuyuan Zheng, Muyun Yang, Peicheng Wu, Makoto Onizuka, Chuan Xiao et.al.|[2409.07055v1](http://arxiv.org/abs/2409.07055v1)|null|
 |**2024-09-09**|**A Small Claims Court for the NLP: Judging Legal Text Classification Strategies With Small Datasets**|Mariana Yukari Noguti, Edduardo Vellasques, Luiz Eduardo Soares Oliveira et.al.|[2409.05972v1](http://arxiv.org/abs/2409.05972v1)|null|
 |**2024-09-04**|**R2GQA: Retriever-Reader-Generator Question Answering System to Support Students Understanding Legal Regulations in Higher Education**|Phuc-Tinh Pham Do, Duy-Ngoc Dinh Cao, Khanh Quoc Tran, Kiet Van Nguyen et.al.|[2409.02840v1](http://arxiv.org/abs/2409.02840v1)|null|
-|**2024-09-02**|**Know When to Fuse: Investigating Non-English Hybrid Retrieval in the Legal Domain**|Antoine Louis, Gijs van Dijck, Gerasimos Spanakis et.al.|[2409.01357v1](http://arxiv.org/abs/2409.01357v1)|null|
+|**2024-09-02**|**Know When to Fuse: Investigating Non-English Hybrid Retrieval in the Legal Domain**|Antoine Louis, Gijs van Dijck, Gerasimos Spanakis et.al.|[2409.01357v1](http://arxiv.org/abs/2409.01357v1)|**[link](https://github.com/maastrichtlawtech/fusion)**|
 |**2024-08-29**|**Addressing Information Asymmetry in Legal Disputes through Data-Driven Law Firm Rankings**|Alexandre Mojon, Robert Mahari, Sandro Claudio Lera et.al.|[2408.16863v1](http://arxiv.org/abs/2408.16863v1)|**[link](https://github.com/mojona/law_firm_ranking)**|
 |**2024-08-22**|**Do Responsible AI Artifacts Advance Stakeholder Goals? Four Key Barriers Perceived by Legal and Civil Stakeholders**|Anna Kawakami, Daricia Wilkinson, Alexandra Chouldechova et.al.|[2408.12047v1](http://arxiv.org/abs/2408.12047v1)|null|
 |**2024-08-21**|**The State of Commercial Automatic French Legal Speech Recognition Systems and their Impact on Court Reporters et al**|Nicolad Garneau, Olivier Bolduc et.al.|[2408.11940v1](http://arxiv.org/abs/2408.11940v1)|null|
@@ -681,7 +681,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -692,7 +692,7 @@ layout: default
 |**2024-09-29**|**Efficient Long-Form Speech Recognition for General Speech In-Context Learning**|Hao Yen, Shaoshi Ling, Guoli Ye et.al.|[2409.19757v1](http://arxiv.org/abs/2409.19757v1)|null|
 |**2024-09-27**|**Speech-Mamba: Long-Context Speech Recognition with Selective State Spaces Models**|Xiaoxue Gao, Nancy F. Chen et.al.|[2409.18654v1](http://arxiv.org/abs/2409.18654v1)|null|
 |**2024-09-26**|**Paraformer-v2: An improved non-autoregressive transformer for noise-robust speech recognition**|Keyu An, Zerui Li, Zhifu Gao, Shiliang Zhang et.al.|[2409.17746v1](http://arxiv.org/abs/2409.17746v1)|null|
-|**2024-09-25**|**Weighted Cross-entropy for Low-Resource Languages in Multilingual Speech Recognition**|Andrés Piñeiro-Martín, Carmen García-Mateo, Laura Docío-Fernández, María del Carmen López-Pérez, Georg Rehm et.al.|[2409.16954v1](http://arxiv.org/abs/2409.16954v1)|null|
+|**2024-09-25**|**Weighted Cross-entropy for Low-Resource Languages in Multilingual Speech Recognition**|Andrés Piñeiro-Martín, Carmen García-Mateo, Laura Docío-Fernández, María del Carmen López-Pérez, Georg Rehm et.al.|[2409.16954v1](http://arxiv.org/abs/2409.16954v1)|**[link](https://github.com/andrespimartin/weighted-x-entropy-asr)**|
 |**2024-09-25**|**Speech Recognition Rescoring with Large Speech-Text Foundation Models**|Prashanth Gurunath Shivakumar, Jari Kolehmainen, Aditya Gourav, Yi Gu, Ankur Gandhe, Ariya Rastrow, Ivan Bulyko et.al.|[2409.16654v1](http://arxiv.org/abs/2409.16654v1)|null|
 |**2024-09-24**|**Hypothesis Clustering and Merging: Novel MultiTalker Speech Recognition with Speaker Tokens**|Yosuke Kashiwagi, Hayato Futami, Emiru Tsunoo, Siddhant Arora, Shinji Watanabe et.al.|[2409.15732v1](http://arxiv.org/abs/2409.15732v1)|null|
 |**2024-09-10**|**A Large Dataset of Spontaneous Speech with the Accent Spoken in São Paulo for Automatic Speech Recognition Evaluation**|Rodrigo Lima, Sidney Evaldo Leal, Arnaldo Candido Junior, Sandra Maria Aluísio et.al.|[2409.15350v1](http://arxiv.org/abs/2409.15350v1)|null|
@@ -1216,7 +1216,7 @@ layout: default
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -1226,7 +1226,7 @@ layout: default
 |**2024-05-03**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v4](http://arxiv.org/abs/2207.14682v4)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
