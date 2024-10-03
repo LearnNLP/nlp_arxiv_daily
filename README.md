@@ -259,6 +259,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**CompLex: legal systems through the lens of complexity science**|Pierpaolo Vivo, Daniel M. Katz, J. B. Ruhl et.al.|[2410.01402v1](http://arxiv.org/abs/2410.01402v1)|null|
 |**2024-09-30**|**LexEval: A Comprehensive Chinese Legal Benchmark for Evaluating Large Language Models**|Haitao Li, You Chen, Qingyao Ai, Yueyue Wu, Ruizhe Zhang, Yiqun Liu et.al.|[2409.20288v1](http://arxiv.org/abs/2409.20288v1)|**[link](https://github.com/cshaitao/lexeval)**|
 |**2024-09-27**|**HiCuLR: Hierarchical Curriculum Learning for Rhetorical Role Labeling of Legal Documents**|T. Y. S. S. Santosh, Apolline Isaia, Shiyu Hong, Matthias Grabmair et.al.|[2409.18647v1](http://arxiv.org/abs/2409.18647v1)|null|
 |**2024-09-27**|**Incorporating Precedents for Legal Judgement Prediction on European Court of Human Rights Cases**|T. Y. S. S. Santosh, Mohamed Hesham Elganayni, Stanisław Sójka, Matthias Grabmair et.al.|[2409.18644v1](http://arxiv.org/abs/2409.18644v1)|null|
@@ -683,6 +684,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-01**|**Automatic Speech Recognition for the Ika Language**|Uchenna Nzenwata, Daniel Ogbuigwe et.al.|[2410.00940v1](http://arxiv.org/abs/2410.00940v1)|null|
+|**2024-10-01**|**VHASR: A Multimodal Speech Recognition System With Vision Hotwords**|Jiliang Hu, Zuchao Li, Ping Wang, Haojun Ai, Lefei Zhang, Hai Zhao et.al.|[2410.00822v1](http://arxiv.org/abs/2410.00822v1)|**[link](https://github.com/193746/VHASR)**|
+|**2024-10-01**|**End-to-End Speech Recognition with Pre-trained Masked Language Model**|Yosuke Higuchi, Tetsuji Ogawa, Tetsunori Kobayashi, Shinji Watanabe et.al.|[2410.00528v1](http://arxiv.org/abs/2410.00528v1)|null|
 |**2024-09-30**|**Predictive Speech Recognition and End-of-Utterance Detection Towards Spoken Dialog Systems**|Oswald Zink, Yosuke Higuchi, Carlos Mullov, Alexander Waibel, Tetsunori Kobayashi et.al.|[2409.19990v1](http://arxiv.org/abs/2409.19990v1)|null|
 |**2024-09-29**|**Fine-Tuning Automatic Speech Recognition for People with Parkinson's: An Effective Strategy for Enhancing Speech Technology Accessibility**|Xiuwen Zheng, Bornali Phukon, Mark Hasegawa-Johnson et.al.|[2409.19818v1](http://arxiv.org/abs/2409.19818v1)|null|
 |**2024-09-29**|**Efficient Long-Form Speech Recognition for General Speech In-Context Learning**|Hao Yen, Shaoshi Ling, Guoli Ye et.al.|[2409.19757v1](http://arxiv.org/abs/2409.19757v1)|null|
