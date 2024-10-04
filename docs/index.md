@@ -263,6 +263,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Can Large Language Models Grasp Legal Theories? Enhance Legal Reasoning with Insights from Multi-Agent Collaboration**|Weikang Yuan, Junjie Cao, Zhuoren Jiang, Yangyang Kang, Jun Lin, Kaisong Song, tianqianjin lin, Pengwei Yan, Changlong Sun, Xiaozhong Liu et.al.|[2410.02507v1](http://arxiv.org/abs/2410.02507v1)|**[link](https://github.com/yuanwk99/malr)**|
 |**2024-10-02**|**CompLex: legal systems through the lens of complexity science**|Pierpaolo Vivo, Daniel M. Katz, J. B. Ruhl et.al.|[2410.01402v1](http://arxiv.org/abs/2410.01402v1)|null|
 |**2024-09-30**|**LexEval: A Comprehensive Chinese Legal Benchmark for Evaluating Large Language Models**|Haitao Li, You Chen, Qingyao Ai, Yueyue Wu, Ruizhe Zhang, Yiqun Liu et.al.|[2409.20288v1](http://arxiv.org/abs/2409.20288v1)|**[link](https://github.com/cshaitao/lexeval)**|
 |**2024-09-27**|**HiCuLR: Hierarchical Curriculum Learning for Rhetorical Role Labeling of Legal Documents**|T. Y. S. S. Santosh, Apolline Isaia, Shiyu Hong, Matthias Grabmair et.al.|[2409.18647v1](http://arxiv.org/abs/2409.18647v1)|null|
@@ -688,6 +689,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Convolutional Variational Autoencoders for Spectrogram Compression in Automatic Speech Recognition**|Olga Yakovenko, Ivan Bondarenko et.al.|[2410.02560v1](http://arxiv.org/abs/2410.02560v1)|null|
+|**2024-10-03**|**Algorithms For Automatic Accentuation And Transcription Of Russian Texts In Speech Recognition Systems**|Olga Iakovenko, Ivan Bondarenko, Mariya Borovikova, Daniil Vodolazsky et.al.|[2410.02538v1](http://arxiv.org/abs/2410.02538v1)|null|
 |**2024-10-01**|**Automatic Speech Recognition for the Ika Language**|Uchenna Nzenwata, Daniel Ogbuigwe et.al.|[2410.00940v1](http://arxiv.org/abs/2410.00940v1)|null|
 |**2024-10-01**|**VHASR: A Multimodal Speech Recognition System With Vision Hotwords**|Jiliang Hu, Zuchao Li, Ping Wang, Haojun Ai, Lefei Zhang, Hai Zhao et.al.|[2410.00822v1](http://arxiv.org/abs/2410.00822v1)|**[link](https://github.com/193746/VHASR)**|
 |**2024-10-01**|**End-to-End Speech Recognition with Pre-trained Masked Language Model**|Yosuke Higuchi, Tetsuji Ogawa, Tetsunori Kobayashi, Shinji Watanabe et.al.|[2410.00528v1](http://arxiv.org/abs/2410.00528v1)|null|
