@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**CTC-GMM: CTC guided modality matching for fast and accurate streaming speech translation**|Rui Zhao, Jinyu Li, Ruchao Fan, Matt Post et.al.|[2410.05146v1](http://arxiv.org/abs/2410.05146v1)|null|
 |**2024-10-04**|**Textless Streaming Speech-to-Speech Translation using Semantic Speech Tokens**|Jinzheng Zhao, Niko Moritz, Egor Lakomkin, Ruiming Xie, Zhiping Xiu, Katerina Zmolikova, Zeeshan Ahmed, Yashesh Gaur, Duc Le, Christian Fuegen et.al.|[2410.03298v1](http://arxiv.org/abs/2410.03298v1)|null|
 |**2024-09-29**|**CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought**|Yexing Du, Ziyang Ma, Yifan Yang, Keqi Deng, Xie Chen, Bo Yang, Yang Xiang, Ming Liu, Bing Qin et.al.|[2409.19510v1](http://arxiv.org/abs/2409.19510v1)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
 |**2024-09-26**|**Unveiling the Role of Pretraining in Direct Speech Translation**|Belen Alastruey, Gerard I. Gállego, Marta R. Costa-jussà et.al.|[2409.18044v1](http://arxiv.org/abs/2409.18044v1)|null|
@@ -264,6 +265,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Misinformation with Legal Consequences (MisLC): A New Task Towards Harnessing Societal Harm of Misinformation**|Chu Fei Luo, Radin Shayanfar, Rohan Bhambhoria, Samuel Dahan, Xiaodan Zhu et.al.|[2410.03829v1](http://arxiv.org/abs/2410.03829v1)|null|
+|**2024-10-02**|**Getting in the Door: Streamlining Intake in Civil Legal Services with Large Language Models**|Quinten Steenhuis, Hannes Westermann et.al.|[2410.03762v1](http://arxiv.org/abs/2410.03762v1)|null|
 |**2024-10-03**|**Can Large Language Models Grasp Legal Theories? Enhance Legal Reasoning with Insights from Multi-Agent Collaboration**|Weikang Yuan, Junjie Cao, Zhuoren Jiang, Yangyang Kang, Jun Lin, Kaisong Song, tianqianjin lin, Pengwei Yan, Changlong Sun, Xiaozhong Liu et.al.|[2410.02507v1](http://arxiv.org/abs/2410.02507v1)|**[link](https://github.com/yuanwk99/malr)**|
 |**2024-10-02**|**CompLex: legal systems through the lens of complexity science**|Pierpaolo Vivo, Daniel M. Katz, J. B. Ruhl et.al.|[2410.01402v1](http://arxiv.org/abs/2410.01402v1)|null|
 |**2024-09-30**|**LexEval: A Comprehensive Chinese Legal Benchmark for Evaluating Large Language Models**|Haitao Li, You Chen, Qingyao Ai, Yueyue Wu, Ruizhe Zhang, Yiqun Liu et.al.|[2409.20288v1](http://arxiv.org/abs/2409.20288v1)|**[link](https://github.com/cshaitao/lexeval)**|
@@ -690,10 +693,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**CR-CTC: Consistency regularization on CTC for improved speech recognition**|Zengwei Yao, Wei Kang, Xiaoyu Yang, Fangjun Kuang, Liyong Guo, Han Zhu, Zengrui Jin, Zhaoqing Li, Long Lin, Daniel Povey et.al.|[2410.05101v1](http://arxiv.org/abs/2410.05101v1)|null|
+|**2024-10-06**|**Casablanca: Data and Models for Multidialectal Arabic Speech Recognition**|Bashar Talafha, Karima Kadaoui, Samar Mohamed Magdy, Mariem Habiboullah, Chafei Mohamed Chafei, Ahmed Oumar El-Shangiti, Hiba Zayed, Mohamedou cheikh tourad, Rahaf Alhamouri, Rwaa Assi, Aisha Alraeesi, Hour Mohamed, Fakhraddin Alwajih, Abdelrahman Mohamed, Abdellah El Mekki, El Moatez Billah Nagoudi, Benelhadj Djelloul Mama Saadia, Hamzah A. Alsayadi, Walid Al-Dhabyani, Sara Shatnawi, Yasir Ech-Chammakhy, Amal Makouar, Yousra Berrachedi, Mustafa Jarrar, Shady Shehata, Ismail Berrada, Muhammad Abdul-Mageed et.al.|[2410.04527v1](http://arxiv.org/abs/2410.04527v1)|null|
+|**2024-10-05**|**Efficient and Robust Long-Form Speech Recognition with Hybrid H3-Conformer**|Tomoki Honda, Shinsuke Sakai, Tatsuya Kawahara et.al.|[2410.04159v1](http://arxiv.org/abs/2410.04159v1)|null|
+|**2024-10-02**|**Efficient Streaming LLM for Speech Recognition**|Junteng Jia, Gil Keren, Wei Zhou, Egor Lakomkin, Xiaohui Zhang, Chunyang Wu, Frank Seide, Jay Mahadeokar, Ozlem Kalinli et.al.|[2410.03752v1](http://arxiv.org/abs/2410.03752v1)|null|
 |**2024-10-04**|**Convolutional Variational Autoencoders for Spectrogram Compression in Automatic Speech Recognition**|Olga Iakovenko, Ivan Bondarenko et.al.|[2410.02560v2](http://arxiv.org/abs/2410.02560v2)|null|
 |**2024-10-03**|**Algorithms For Automatic Accentuation And Transcription Of Russian Texts In Speech Recognition Systems**|Olga Iakovenko, Ivan Bondarenko, Mariya Borovikova, Daniil Vodolazsky et.al.|[2410.02538v1](http://arxiv.org/abs/2410.02538v1)|null|
 |**2024-10-01**|**Automatic Speech Recognition for the Ika Language**|Uchenna Nzenwata, Daniel Ogbuigwe et.al.|[2410.00940v1](http://arxiv.org/abs/2410.00940v1)|null|
-|**2024-10-04**|**VHASR: A Multimodal Speech Recognition System With Vision Hotwords**|Jiliang Hu, Zuchao Li, Ping Wang, Haojun Ai, Lefei Zhang, Hai Zhao et.al.|[2410.00822v2](http://arxiv.org/abs/2410.00822v2)|**[link](https://github.com/193746/VHASR)**|
+|**2024-10-04**|**VHASR: A Multimodal Speech Recognition System With Vision Hotwords**|Jiliang Hu, Zuchao Li, Ping Wang, Haojun Ai, Lefei Zhang, Hai Zhao et.al.|[2410.00822v2](http://arxiv.org/abs/2410.00822v2)|null|
 |**2024-10-01**|**End-to-End Speech Recognition with Pre-trained Masked Language Model**|Yosuke Higuchi, Tetsuji Ogawa, Tetsunori Kobayashi, Shinji Watanabe et.al.|[2410.00528v1](http://arxiv.org/abs/2410.00528v1)|null|
 |**2024-09-30**|**Predictive Speech Recognition and End-of-Utterance Detection Towards Spoken Dialog Systems**|Oswald Zink, Yosuke Higuchi, Carlos Mullov, Alexander Waibel, Tetsunori Kobayashi et.al.|[2409.19990v1](http://arxiv.org/abs/2409.19990v1)|null|
 |**2024-09-29**|**Fine-Tuning Automatic Speech Recognition for People with Parkinson's: An Effective Strategy for Enhancing Speech Technology Accessibility**|Xiuwen Zheng, Bornali Phukon, Mark Hasegawa-Johnson et.al.|[2409.19818v1](http://arxiv.org/abs/2409.19818v1)|null|
