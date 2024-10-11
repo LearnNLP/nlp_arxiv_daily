@@ -265,6 +265,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**KRAG Framework for Enhancing LLMs in the Legal Domain**|Nguyen Ha Thanh, Ken Satoh et.al.|[2410.07551v1](http://arxiv.org/abs/2410.07551v1)|null|
+|**2024-10-10**|**Using LLMs to Discover Legal Factors**|Morgan Gray, Jaromir Savelka, Wesley Oliver, Kevin Ashley et.al.|[2410.07504v1](http://arxiv.org/abs/2410.07504v1)|null|
 |**2024-09-20**|**Transforming disaster risk reduction with AI and big data: Legal and interdisciplinary perspectives**|Kwok P Chun, Thanti Octavianti, Nilay Dogulu, Hristos Tyralis, Georgia Papacharalampous, Ryan Rowberry, Pingyu Fan, Mark Everard, Maria Francesch-Huidobro, Wellington Migliari, David M. Hannah, John Travis Marshall, Rafael Tolosana Calasanz, Chad Staddon, Ida Ansharyani, Bastien Dieppois, Todd R Lewis, Juli Ponce, Silvia Ibrean, Tiago Miguel Ferreira, Chinkie Peliño-Golle, Ye Mu, Manuel Delgado, Elizabeth Silvestre Espinoza, Martin Keulertz, Deepak Gopinath, Cheng Li et.al.|[2410.07123v1](http://arxiv.org/abs/2410.07123v1)|null|
 |**2024-10-09**|**Enhancing Legal Case Retrieval via Scaling High-quality Synthetic Query-Candidate Pairs**|Cheng Gao, Chaojun Xiao, Zhenghao Liu, Huimin Chen, Zhiyuan Liu, Maosong Sun et.al.|[2410.06581v1](http://arxiv.org/abs/2410.06581v1)|**[link](https://github.com/thunlp/lead)**|
 |**2024-10-08**|**blockLAW: Blockchain Technology for Legal Automation and Workflow -- Cyber Ethics and Cybersecurity Platforms**|Bishwo Prakash Pokharel, Naresh Kshetri et.al.|[2410.06143v1](http://arxiv.org/abs/2410.06143v1)|null|
@@ -696,6 +698,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Full-Rank No More: Low-Rank Weight Training for Modern Speech Recognition Models**|Adriana Fernandez-Lopez, Shiwei Liu, Lu Yin, Stavros Petridis, Maja Pantic et.al.|[2410.07771v1](http://arxiv.org/abs/2410.07771v1)|null|
 |**2024-10-07**|**Incorporating Talker Identity Aids With Improving Speech Recognition in Adversarial Environments**|Sagarika Alavilli, Annesya Banerjee, Gasser Elbanna, Annika Magaro et.al.|[2410.05423v1](http://arxiv.org/abs/2410.05423v1)|null|
 |**2024-10-07**|**CR-CTC: Consistency regularization on CTC for improved speech recognition**|Zengwei Yao, Wei Kang, Xiaoyu Yang, Fangjun Kuang, Liyong Guo, Han Zhu, Zengrui Jin, Zhaoqing Li, Long Lin, Daniel Povey et.al.|[2410.05101v1](http://arxiv.org/abs/2410.05101v1)|null|
 |**2024-10-06**|**Casablanca: Data and Models for Multidialectal Arabic Speech Recognition**|Bashar Talafha, Karima Kadaoui, Samar Mohamed Magdy, Mariem Habiboullah, Chafei Mohamed Chafei, Ahmed Oumar El-Shangiti, Hiba Zayed, Mohamedou cheikh tourad, Rahaf Alhamouri, Rwaa Assi, Aisha Alraeesi, Hour Mohamed, Fakhraddin Alwajih, Abdelrahman Mohamed, Abdellah El Mekki, El Moatez Billah Nagoudi, Benelhadj Djelloul Mama Saadia, Hamzah A. Alsayadi, Walid Al-Dhabyani, Sara Shatnawi, Yasir Ech-Chammakhy, Amal Makouar, Yousra Berrachedi, Mustafa Jarrar, Shady Shehata, Ismail Berrada, Muhammad Abdul-Mageed et.al.|[2410.04527v1](http://arxiv.org/abs/2410.04527v1)|null|
