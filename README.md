@@ -261,6 +261,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Measuring the Groundedness of Legal Question-Answering Systems**|Dietrich Trautmann, Natalia Ostapuk, Quentin Grail, Adrian Alan Pol, Guglielmo Bonifazi, Shang Gao, Martin Gajek et.al.|[2410.08764v1](http://arxiv.org/abs/2410.08764v1)|null|
+|**2024-10-11**|**Developing a Pragmatic Benchmark for Assessing Korean Legal Language Understanding in Large Language Models**|Yeeun Kim, Young Rok Choi, Eunkyung Choi, Jinhwan Choi, Hai Jin Park, Wonseok Hwang et.al.|[2410.08731v1](http://arxiv.org/abs/2410.08731v1)|null|
+|**2024-10-11**|**Improving Legal Entity Recognition Using a Hybrid Transformer Model and Semantic Filtering Approach**|Duraimurugan Rajamanickam et.al.|[2410.08521v1](http://arxiv.org/abs/2410.08521v1)|null|
+|**2024-10-10**|**Assessing Privacy Policies with AI: Ethical, Legal, and Technical Challenges**|Irem Aydin, Hermann Diebel-Fischer, Vincent Freiberger, Julia Möller-Klapperich, Erik Buchmann, Michael Färber, Anne Lauber-Rönsberg, Birte Platow et.al.|[2410.08381v1](http://arxiv.org/abs/2410.08381v1)|null|
 |**2024-10-10**|**KRAG Framework for Enhancing LLMs in the Legal Domain**|Nguyen Ha Thanh, Ken Satoh et.al.|[2410.07551v1](http://arxiv.org/abs/2410.07551v1)|null|
 |**2024-10-10**|**Using LLMs to Discover Legal Factors**|Morgan Gray, Jaromir Savelka, Wesley Oliver, Kevin Ashley et.al.|[2410.07504v1](http://arxiv.org/abs/2410.07504v1)|null|
 |**2024-09-20**|**Transforming disaster risk reduction with AI and big data: Legal and interdisciplinary perspectives**|Kwok P Chun, Thanti Octavianti, Nilay Dogulu, Hristos Tyralis, Georgia Papacharalampous, Ryan Rowberry, Pingyu Fan, Mark Everard, Maria Francesch-Huidobro, Wellington Migliari, David M. Hannah, John Travis Marshall, Rafael Tolosana Calasanz, Chad Staddon, Ida Ansharyani, Bastien Dieppois, Todd R Lewis, Juli Ponce, Silvia Ibrean, Tiago Miguel Ferreira, Chinkie Peliño-Golle, Ye Mu, Manuel Delgado, Elizabeth Silvestre Espinoza, Martin Keulertz, Deepak Gopinath, Cheng Li et.al.|[2410.07123v1](http://arxiv.org/abs/2410.07123v1)|null|
@@ -694,6 +698,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Enhancing Indonesian Automatic Speech Recognition: Evaluating Multilingual Models with Diverse Speech Variabilities**|Aulia Adila, Dessi Lestari, Ayu Purwarianti, Dipta Tanaya, Kurniawati Azizah, Sakriani Sakti et.al.|[2410.08828v1](http://arxiv.org/abs/2410.08828v1)|null|
 |**2024-10-10**|**Full-Rank No More: Low-Rank Weight Training for Modern Speech Recognition Models**|Adriana Fernandez-Lopez, Shiwei Liu, Lu Yin, Stavros Petridis, Maja Pantic et.al.|[2410.07771v1](http://arxiv.org/abs/2410.07771v1)|null|
 |**2024-10-07**|**Incorporating Talker Identity Aids With Improving Speech Recognition in Adversarial Environments**|Sagarika Alavilli, Annesya Banerjee, Gasser Elbanna, Annika Magaro et.al.|[2410.05423v1](http://arxiv.org/abs/2410.05423v1)|null|
 |**2024-10-07**|**CR-CTC: Consistency regularization on CTC for improved speech recognition**|Zengwei Yao, Wei Kang, Xiaoyu Yang, Fangjun Kuang, Liyong Guo, Han Zhu, Zengrui Jin, Zhaoqing Li, Long Lin, Daniel Povey et.al.|[2410.05101v1](http://arxiv.org/abs/2410.05101v1)|null|
