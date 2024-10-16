@@ -265,6 +265,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**A Cross-Lingual Statutory Article Retrieval Dataset for Taiwan Legal Studies**|Yen-Hsiang Wang, Feng-Dian Su, Tzu-Yu Yeh, Yao-Chung Fan et.al.|[2410.11450v1](http://arxiv.org/abs/2410.11450v1)|**[link](https://github.com/nchu-nlp-lab/lawfactsqa-tw)**|
+|**2024-10-15**|**Athena: Retrieval-augmented Legal Judgment Prediction with Large Language Models**|Xiao Peng, Liang Chen et.al.|[2410.11195v1](http://arxiv.org/abs/2410.11195v1)|null|
 |**2024-10-14**|**Rethinking Legal Judgement Prediction in a Realistic Scenario in the Era of Large Language Models**|Shubham Kumar Nigam, Aniket Deroy, Subhankar Maity, Arnab Bhattacharya et.al.|[2410.10542v1](http://arxiv.org/abs/2410.10542v1)|null|
 |**2024-10-13**|**Artificial Intelligence in the Legal Field: Law Students Perspective**|Daniela Andreeva, Guergana Savova et.al.|[2410.09937v1](http://arxiv.org/abs/2410.09937v1)|null|
 |**2024-10-12**|**LexSumm and LexT5: Benchmarking and Modeling Legal Summarization Tasks in English**|T. Y. S. S. Santosh, Cornelius Weiss, Matthias Grabmair et.al.|[2410.09527v1](http://arxiv.org/abs/2410.09527v1)|null|
