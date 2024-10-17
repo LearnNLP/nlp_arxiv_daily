@@ -261,6 +261,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**Weak-to-Strong Generalization beyond Accuracy: a Pilot Study in Safety, Toxicity, and Legal Reasoning**|Ruimeng Ye, Yang Xiao, Bo Hui et.al.|[2410.12621v1](http://arxiv.org/abs/2410.12621v1)|null|
+|**2024-10-16**|**Exploiting LLMs' Reasoning Capability to Infer Implicit Concepts in Legal Information Retrieval**|Hai-Long Nguyen, Tan-Minh Nguyen, Duc-Minh Nguyen, Thi-Hai-Yen Vuong, Ha-Thanh Nguyen, Xuan-Hieu Phan et.al.|[2410.12154v1](http://arxiv.org/abs/2410.12154v1)|null|
+|**2024-10-15**|**LegalLens Shared Task 2024: Legal Violation Identification in Unstructured Text**|Ben Hagag, Liav Harpaz, Gil Semo, Dor Bernsohn, Rohit Saha, Pashootan Vaezipoor, Kyryl Truskovskyi, Gerasimos Spanakis et.al.|[2410.12064v1](http://arxiv.org/abs/2410.12064v1)|null|
+|**2024-10-15**|**Impacts of Continued Legal Pre-Training and IFT on LLMs' Latent Representations of Human-Defined Legal Concepts**|Shaun Ho et.al.|[2410.12001v1](http://arxiv.org/abs/2410.12001v1)|null|
 |**2024-10-15**|**A Cross-Lingual Statutory Article Retrieval Dataset for Taiwan Legal Studies**|Yen-Hsiang Wang, Feng-Dian Su, Tzu-Yu Yeh, Yao-Chung Fan et.al.|[2410.11450v1](http://arxiv.org/abs/2410.11450v1)|**[link](https://github.com/nchu-nlp-lab/lawfactsqa-tw)**|
 |**2024-10-15**|**Athena: Retrieval-augmented Legal Judgment Prediction with Large Language Models**|Xiao Peng, Liang Chen et.al.|[2410.11195v1](http://arxiv.org/abs/2410.11195v1)|null|
 |**2024-10-14**|**Rethinking Legal Judgement Prediction in a Realistic Scenario in the Era of Large Language Models**|Shubham Kumar Nigam, Aniket Deroy, Subhankar Maity, Arnab Bhattacharya et.al.|[2410.10542v1](http://arxiv.org/abs/2410.10542v1)|null|
@@ -704,6 +708,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**Automatic Screening for Children with Speech Disorder using Automatic Speech Recognition: Opportunities and Challenges**|Dancheng Liu, Jason Yang, Ishan Albrecht-Buehler, Helen Qin, Sophie Li, Yuting Hu, Amir Nassereldine, Jinjun Xiong et.al.|[2410.11865v1](http://arxiv.org/abs/2410.11865v1)|null|
 |**2024-10-14**|**In-Materia Speech Recognition**|Mohamadreza Zolfagharinejad, Julian Büchel, Lorenzo Cassola, Sachin Kinge, Ghazi Sarwat Syed, Abu Sebastian, Wilfred G. van der Wiel et.al.|[2410.10434v1](http://arxiv.org/abs/2410.10434v1)|null|
 |**2024-10-12**|**Automatic Speech Recognition with BERT and CTC Transformers: A Review**|Noussaiba Djeffal, Hamza Kheddar, Djamel Addou, Ahmed Cherif Mazari, Yassine Himeur et.al.|[2410.09456v1](http://arxiv.org/abs/2410.09456v1)|null|
 |**2024-10-14**|**Enhancing Indonesian Automatic Speech Recognition: Evaluating Multilingual Models with Diverse Speech Variabilities**|Aulia Adila, Dessi Lestari, Ayu Purwarianti, Dipta Tanaya, Kurniawati Azizah, Sakriani Sakti et.al.|[2410.08828v2](http://arxiv.org/abs/2410.08828v2)|null|
