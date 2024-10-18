@@ -265,6 +265,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**Breaking the Manual Annotation Bottleneck: Creating a Comprehensive Legal Case Criticality Dataset through Semi-Automated Labeling**|Ronja Stern, Ken Kawamura, Matthias Stürmer, Ilias Chalkidis, Joel Niklaus et.al.|[2410.13460v1](http://arxiv.org/abs/2410.13460v1)|null|
+|**2024-10-17**|**Unlocking Legal Knowledge: A Multilingual Dataset for Judicial Summarization in Switzerland**|Luca Rolshoven, Vishvaksenan Rasiah, Srinanda Brügger Bose, Matthias Stürmer, Joel Niklaus et.al.|[2410.13456v1](http://arxiv.org/abs/2410.13456v1)|null|
+|**2024-10-17**|**LAR-ECHR: A New Legal Argument Reasoning Task and Dataset for Cases of the European Court of Human Rights**|Odysseas S. Chlapanis, Dimitrios Galanis, Ion Androutsopoulos et.al.|[2410.13352v1](http://arxiv.org/abs/2410.13352v1)|null|
+|**2024-10-16**|**LEGAL-UQA: A Low-Resource Urdu-English Dataset for Legal Question Answering**|Faizan Faisal, Umair Yousaf et.al.|[2410.13013v1](http://arxiv.org/abs/2410.13013v1)|null|
 |**2024-10-16**|**Weak-to-Strong Generalization beyond Accuracy: a Pilot Study in Safety, Toxicity, and Legal Reasoning**|Ruimeng Ye, Yang Xiao, Bo Hui et.al.|[2410.12621v1](http://arxiv.org/abs/2410.12621v1)|null|
 |**2024-10-16**|**Exploiting LLMs' Reasoning Capability to Infer Implicit Concepts in Legal Information Retrieval**|Hai-Long Nguyen, Tan-Minh Nguyen, Duc-Minh Nguyen, Thi-Hai-Yen Vuong, Ha-Thanh Nguyen, Xuan-Hieu Phan et.al.|[2410.12154v1](http://arxiv.org/abs/2410.12154v1)|null|
 |**2024-10-15**|**LegalLens Shared Task 2024: Legal Violation Identification in Unstructured Text**|Ben Hagag, Liav Harpaz, Gil Semo, Dor Bernsohn, Rohit Saha, Pashootan Vaezipoor, Kyryl Truskovskyi, Gerasimos Spanakis et.al.|[2410.12064v1](http://arxiv.org/abs/2410.12064v1)|null|
