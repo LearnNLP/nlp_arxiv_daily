@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.20
+## Updated on 2024.10.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -27,7 +27,7 @@ layout: default
 |**2024-10-04**|**Textless Streaming Speech-to-Speech Translation using Semantic Speech Tokens**|Jinzheng Zhao, Niko Moritz, Egor Lakomkin, Ruiming Xie, Zhiping Xiu, Katerina Zmolikova, Zeeshan Ahmed, Yashesh Gaur, Duc Le, Christian Fuegen et.al.|[2410.03298v1](http://arxiv.org/abs/2410.03298v1)|null|
 |**2024-09-29**|**CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought**|Yexing Du, Ziyang Ma, Yifan Yang, Keqi Deng, Xie Chen, Bo Yang, Yang Xiang, Ming Liu, Bing Qin et.al.|[2409.19510v1](http://arxiv.org/abs/2409.19510v1)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
 |**2024-09-26**|**Unveiling the Role of Pretraining in Direct Speech Translation**|Belen Alastruey, Gerard I. Gállego, Marta R. Costa-jussà et.al.|[2409.18044v1](http://arxiv.org/abs/2409.18044v1)|null|
-|**2024-09-24**|**A Modular-based Strategy for Mitigating Gradient Conflicts in Simultaneous Speech Translation**|Xiaoqian Liu, Yangfan Du, Jianjin Wang, Yuan Ge, Chen Xu, Tong Xiao, Guocheng Chen, Jingbo Zhu et.al.|[2409.15911v1](http://arxiv.org/abs/2409.15911v1)|null|
+|**2024-10-18**|**A Modular-based Strategy for Mitigating Gradient Conflicts in Simultaneous Speech Translation**|Xiaoqian Liu, Yangfan Du, Jianjin Wang, Yuan Ge, Chen Xu, Tong Xiao, Guocheng Chen, Jingbo Zhu et.al.|[2409.15911v2](http://arxiv.org/abs/2409.15911v2)|null|
 |**2024-09-17**|**Chain-of-Thought Prompting for Speech Translation**|Ke Hu, Zhehuai Chen, Chao-Han Huck Yang, Piotr Żelasko, Oleksii Hrinchuk, Vitaly Lavrukhin, Jagadeesh Balam, Boris Ginsburg et.al.|[2409.11538v1](http://arxiv.org/abs/2409.11538v1)|null|
 |**2024-09-17**|**Task Arithmetic for Language Expansion in Speech Translation**|Yao-Fei Cheng, Hayato Futami, Yosuke Kashiwagi, Emiru Tsunoo, Wen Shen Teo, Siddhant Arora, Shinji Watanabe et.al.|[2409.11274v1](http://arxiv.org/abs/2409.11274v1)|null|
 |**2024-09-17**|**Improving Speech Emotion Recognition in Under-Resourced Languages via Speech-to-Speech Translation with Bootstrapping Data Selection**|Hsi-Che Lin, Yi-Cheng Lin, Huang-Cheng Chou, Hung-yi Lee et.al.|[2409.10985v1](http://arxiv.org/abs/2409.10985v1)|null|
@@ -259,7 +259,7 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20241020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
 
 ## Legal
 
@@ -710,7 +710,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -750,7 +750,7 @@ layout: default
 |**2024-09-17**|**Zero Shot Text to Speech Augmentation for Automatic Speech Recognition on Low-Resource Accented Speech Corpora**|Francesco Nespoli, Daniel Barreda, Patrick A. Naylor et.al.|[2409.11107v1](http://arxiv.org/abs/2409.11107v1)|null|
 |**2024-09-17**|**Speech Recognition for Analysis of Police Radio Communication**|Tejes Srivastava, Ju-Chieh Chou, Priyank Shroff, Karen Livescu, Christopher Graziul et.al.|[2409.10858v1](http://arxiv.org/abs/2409.10858v1)|null|
 |**2024-09-17**|**Augmenting Automatic Speech Recognition Models with Disfluency Detection**|Robin Amann, Zhaolin Li, Barbara Bruno, Jan Niehues et.al.|[2409.10177v2](http://arxiv.org/abs/2409.10177v2)|null|
-|**2024-09-17**|**Large Language Model Based Generative Error Correction: A Challenge and Baselines for Speech Recognition, Speaker Tagging, and Emotion Recognition**|Chao-Han Huck Yang, Taejin Park, Yuan Gong, Yuanchao Li, Zhehuai Chen, Yen-Ting Lin, Chen Chen, Yuchen Hu, Kunal Dhawan, Piotr Żelasko, Chao Zhang, Yun-Nung Chen, Yu Tsao, Jagadeesh Balam, Boris Ginsburg, Sabato Marco Siniscalchi, Eng Siong Chng, Peter Bell, Catherine Lai, Shinji Watanabe, Andreas Stolcke et.al.|[2409.09785v2](http://arxiv.org/abs/2409.09785v2)|null|
+|**2024-10-18**|**Large Language Model Based Generative Error Correction: A Challenge and Baselines for Speech Recognition, Speaker Tagging, and Emotion Recognition**|Chao-Han Huck Yang, Taejin Park, Yuan Gong, Yuanchao Li, Zhehuai Chen, Yen-Ting Lin, Chen Chen, Yuchen Hu, Kunal Dhawan, Piotr Żelasko, Chao Zhang, Yun-Nung Chen, Yu Tsao, Jagadeesh Balam, Boris Ginsburg, Sabato Marco Siniscalchi, Eng Siong Chng, Peter Bell, Catherine Lai, Shinji Watanabe, Andreas Stolcke et.al.|[2409.09785v3](http://arxiv.org/abs/2409.09785v3)|null|
 |**2024-09-12**|**WhisperNER: Unified Open Named Entity and Speech Recognition**|Gil Ayache, Menachem Pirchi, Aviv Navon, Aviv Shamsian, Gill Hetz, Joseph Keshet et.al.|[2409.08107v1](http://arxiv.org/abs/2409.08107v1)|**[link](https://github.com/aiola-lab/whisper-ner)**|
 |**2024-10-06**|**The Faetar Benchmark: Speech Recognition in a Very Under-Resourced Language**|Michael Ong, Sean Robertson, Leo Peckham, Alba Jorquera Jimenez de Aberasturi, Paula Arkhangorodsky, Robin Huo, Aman Sakhardande, Mark Hallap, Naomi Nagy, Ewan Dunbar et.al.|[2409.08103v2](http://arxiv.org/abs/2409.08103v2)|null|
 |**2024-09-12**|**Detecting and Defending Against Adversarial Attacks on Automatic Speech Recognition via Diffusion Models**|Nikolai L. Kühne, Astrid H. F. Kitchen, Marie S. Jensen, Mikkel S. L. Brøndt, Martin Gonzalez, Christophe Biscio, Zheng-Hua Tan et.al.|[2409.07936v1](http://arxiv.org/abs/2409.07936v1)|**[link](https://github.com/Kyhne/Detecting-and-Defending-Against-Adversarial-Attacks)**|
@@ -1260,7 +1260,7 @@ layout: default
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -1270,7 +1270,7 @@ layout: default
 |**2024-05-03**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v4](http://arxiv.org/abs/2207.14682v4)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
