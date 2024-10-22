@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**CA*: Addressing Evaluation Pitfalls in Computation-Aware Latency for Simultaneous Speech Translation**|Xi Xu, Wenda Xu, Siqi Ouyang, Lei Li et.al.|[2410.16011v1](http://arxiv.org/abs/2410.16011v1)|null|
 |**2024-10-07**|**CTC-GMM: CTC guided modality matching for fast and accurate streaming speech translation**|Rui Zhao, Jinyu Li, Ruchao Fan, Matt Post et.al.|[2410.05146v1](http://arxiv.org/abs/2410.05146v1)|null|
 |**2024-10-04**|**Textless Streaming Speech-to-Speech Translation using Semantic Speech Tokens**|Jinzheng Zhao, Niko Moritz, Egor Lakomkin, Ruiming Xie, Zhiping Xiu, Katerina Zmolikova, Zeeshan Ahmed, Yashesh Gaur, Duc Le, Christian Fuegen et.al.|[2410.03298v1](http://arxiv.org/abs/2410.03298v1)|null|
 |**2024-09-29**|**CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought**|Yexing Du, Ziyang Ma, Yifan Yang, Keqi Deng, Xie Chen, Bo Yang, Yang Xiang, Ming Liu, Bing Qin et.al.|[2409.19510v1](http://arxiv.org/abs/2409.19510v1)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
@@ -49,6 +50,7 @@
 |**2024-06-14**|**Exploring the Correlation between Human and Machine Evaluation of Simultaneous Speech Translation**|Xiaoman Wang, Claudio Fantinuoli et.al.|[2406.10091v1](http://arxiv.org/abs/2406.10091v1)|null|
 |**2024-06-11**|**CTC-based Non-autoregressive Textless Speech-to-Speech Translation**|Qingkai Fang, Zhengrui Ma, Yan Zhou, Min Zhang, Yang Feng et.al.|[2406.07330v1](http://arxiv.org/abs/2406.07330v1)|**[link](https://github.com/ictnlp/ctc-s2ut)**|
 |**2024-06-11**|**Can We Achieve High-quality Direct Speech-to-Speech Translation without Parallel Speech Data?**|Qingkai Fang, Shaolei Zhang, Zhengrui Ma, Min Zhang, Yang Feng et.al.|[2406.07289v1](http://arxiv.org/abs/2406.07289v1)|null|
+|**2024-10-19**|**A Non-autoregressive Generation Framework for End-to-End Simultaneous Speech-to-Speech Translation**|Zhengrui Ma, Qingkai Fang, Shaolei Zhang, Shoutao Guo, Yang Feng, Min Zhang et.al.|[2406.06937v2](http://arxiv.org/abs/2406.06937v2)|**[link](https://github.com/ictnlp/nast-s2x)**|
 |**2024-06-06**|**Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation**|Keqi Deng, Philip C. Woodland et.al.|[2406.04541v1](http://arxiv.org/abs/2406.04541v1)|**[link](https://github.com/D-Keqi/LS-Transducer-SST)**|
 |**2024-06-06**|**Evaluating the IWSLT2023 Speech Translation Tasks: Human Annotations, Automatic Metrics, and Segmentation**|Matthias Sperber, Ondřej Bojar, Barry Haddow, Dávid Javorský, Xutai Ma, Matteo Negri, Jan Niehues, Peter Polák, Elizabeth Salesky, Katsuhito Sudoh, Marco Turchi et.al.|[2406.03881v1](http://arxiv.org/abs/2406.03881v1)|null|
 |**2024-06-05**|**StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning**|Shaolei Zhang, Qingkai Fang, Shoutao Guo, Zhengrui Ma, Min Zhang, Yang Feng et.al.|[2406.03049v1](http://arxiv.org/abs/2406.03049v1)|**[link](https://github.com/ictnlp/streamspeech)**|
@@ -261,6 +263,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Augmenting Legal Decision Support Systems with LLM-based NLI for Analyzing Social Media Evidence**|Ram Mohan Rao Kadiyala, Siddartha Pullakhandam, Kanwal Mehreen, Subhasya Tippareddy, Ashay Srivastava et.al.|[2410.15990v1](http://arxiv.org/abs/2410.15990v1)|null|
+|**2024-10-19**|**A Prompt Engineering Approach and a Knowledge Graph based Framework for Tackling Legal Implications of Large Language Model Answers**|George Hannah, Rita T. Sousa, Ioannis Dasoulas, Claudia d'Amato et.al.|[2410.15064v1](http://arxiv.org/abs/2410.15064v1)|null|
 |**2024-10-17**|**Breaking the Manual Annotation Bottleneck: Creating a Comprehensive Legal Case Criticality Dataset through Semi-Automated Labeling**|Ronja Stern, Ken Kawamura, Matthias Stürmer, Ilias Chalkidis, Joel Niklaus et.al.|[2410.13460v1](http://arxiv.org/abs/2410.13460v1)|null|
 |**2024-10-17**|**Unlocking Legal Knowledge: A Multilingual Dataset for Judicial Summarization in Switzerland**|Luca Rolshoven, Vishvaksenan Rasiah, Srinanda Brügger Bose, Matthias Stürmer, Joel Niklaus et.al.|[2410.13456v1](http://arxiv.org/abs/2410.13456v1)|null|
 |**2024-10-17**|**LAR-ECHR: A New Legal Argument Reasoning Task and Dataset for Cases of the European Court of Human Rights**|Odysseas S. Chlapanis, Dimitrios Galanis, Ion Androutsopoulos et.al.|[2410.13352v1](http://arxiv.org/abs/2410.13352v1)|null|
@@ -712,6 +716,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Moonshine: Speech Recognition for Live Transcription and Voice Commands**|Nat Jeffries, Evan King, Manjunath Kudlur, Guy Nicholson, James Wang, Pete Warden et.al.|[2410.15608v1](http://arxiv.org/abs/2410.15608v1)|null|
+|**2024-10-18**|**AC-Mix: Self-Supervised Adaptation for Low-Resource Automatic Speech Recognition using Agnostic Contrastive Mixup**|Carlos Carvalho, Alberto Abad et.al.|[2410.14910v1](http://arxiv.org/abs/2410.14910v1)|null|
 |**2024-10-07**|**Automatic Screening for Children with Speech Disorder using Automatic Speech Recognition: Opportunities and Challenges**|Dancheng Liu, Jason Yang, Ishan Albrecht-Buehler, Helen Qin, Sophie Li, Yuting Hu, Amir Nassereldine, Jinjun Xiong et.al.|[2410.11865v1](http://arxiv.org/abs/2410.11865v1)|null|
 |**2024-10-14**|**In-Materia Speech Recognition**|Mohamadreza Zolfagharinejad, Julian Büchel, Lorenzo Cassola, Sachin Kinge, Ghazi Sarwat Syed, Abu Sebastian, Wilfred G. van der Wiel et.al.|[2410.10434v1](http://arxiv.org/abs/2410.10434v1)|null|
 |**2024-10-12**|**Automatic Speech Recognition with BERT and CTC Transformers: A Review**|Noussaiba Djeffal, Hamza Kheddar, Djamel Addou, Ahmed Cherif Mazari, Yassine Himeur et.al.|[2410.09456v1](http://arxiv.org/abs/2410.09456v1)|null|
