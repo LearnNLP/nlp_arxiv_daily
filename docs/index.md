@@ -267,6 +267,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Exploring Possibilities of AI-Powered Legal Assistance in Bangladesh through Large Language Modeling**|Azmine Toushik Wasi, Wahid Faisal, Mst Rafia Islam, Mahathir Mohammad Bappy et.al.|[2410.17210v1](http://arxiv.org/abs/2410.17210v1)|**[link](https://github.com/ciol-researchlab/ukil)**|
 |**2024-10-21**|**Augmenting Legal Decision Support Systems with LLM-based NLI for Analyzing Social Media Evidence**|Ram Mohan Rao Kadiyala, Siddartha Pullakhandam, Kanwal Mehreen, Subhasya Tippareddy, Ashay Srivastava et.al.|[2410.15990v1](http://arxiv.org/abs/2410.15990v1)|null|
 |**2024-10-19**|**A Prompt Engineering Approach and a Knowledge Graph based Framework for Tackling Legal Implications of Large Language Model Answers**|George Hannah, Rita T. Sousa, Ioannis Dasoulas, Claudia d'Amato et.al.|[2410.15064v1](http://arxiv.org/abs/2410.15064v1)|null|
 |**2024-10-17**|**Breaking the Manual Annotation Bottleneck: Creating a Comprehensive Legal Case Criticality Dataset through Semi-Automated Labeling**|Ronja Stern, Ken Kawamura, Matthias Stürmer, Ilias Chalkidis, Joel Niklaus et.al.|[2410.13460v1](http://arxiv.org/abs/2410.13460v1)|null|
@@ -720,6 +721,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**AlignVSR: Audio-Visual Cross-Modal Alignment for Visual Speech Recognition**|Zehua Liu, Xiaolou Li, Chen Chen, Li Guo, Lantian Li, Dong Wang et.al.|[2410.16438v1](http://arxiv.org/abs/2410.16438v1)|null|
+|**2024-10-19**|**End-to-End Transformer-based Automatic Speech Recognition for Northern Kurdish: A Pioneering Approach**|Abdulhady Abas Abdullah, Shima Tabibian, Hadi Veisi, Aso Mahmudi, Tarik Rashid et.al.|[2410.16330v1](http://arxiv.org/abs/2410.16330v1)|null|
 |**2024-10-22**|**Moonshine: Speech Recognition for Live Transcription and Voice Commands**|Nat Jeffries, Evan King, Manjunath Kudlur, Guy Nicholson, James Wang, Pete Warden et.al.|[2410.15608v2](http://arxiv.org/abs/2410.15608v2)|null|
 |**2024-10-18**|**AC-Mix: Self-Supervised Adaptation for Low-Resource Automatic Speech Recognition using Agnostic Contrastive Mixup**|Carlos Carvalho, Alberto Abad et.al.|[2410.14910v1](http://arxiv.org/abs/2410.14910v1)|null|
 |**2024-10-07**|**Automatic Screening for Children with Speech Disorder using Automatic Speech Recognition: Opportunities and Challenges**|Dancheng Liu, Jason Yang, Ishan Albrecht-Buehler, Helen Qin, Sophie Li, Yuting Hu, Amir Nassereldine, Jinjun Xiong et.al.|[2410.11865v1](http://arxiv.org/abs/2410.11865v1)|null|
