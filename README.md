@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -59,7 +59,7 @@
 |**2024-08-20**|**Recent Advances in End-to-End Simultaneous Speech Translation**|Xiaoqian Liu, Guoqiang Hu, Yangfan Du, Erfeng He, Yingfeng Luo, Chen Xu, Tong Xiao, Jingbo Zhu et.al.|[2406.00497v2](http://arxiv.org/abs/2406.00497v2)|null|
 |**2024-05-30**|**SeamlessExpressiveLM: Speech Language Model for Expressive Speech-to-Speech Translation with Chain-of-Thought**|Hongyu Gong, Bandhav Veluri et.al.|[2405.20410v1](http://arxiv.org/abs/2405.20410v1)|null|
 |**2024-09-29**|**TransVIP: Speech to Speech Translation System with Voice and Isochrony Preservation**|Chenyang Le, Yao Qian, Dongmei Wang, Long Zhou, Shujie Liu, Xiaofei Wang, Midia Yousefi, Yanmin Qian, Jinyu Li, Sheng Zhao, Michael Zeng et.al.|[2405.17809v2](http://arxiv.org/abs/2405.17809v2)|null|
-|**2024-05-22**|**DiffNorm: Self-Supervised Normalization for Non-autoregressive Speech-to-speech Translation**|Weiting Tan, Jingyu Zhang, Lingfeng Shen, Daniel Khashabi, Philipp Koehn et.al.|[2405.13274v1](http://arxiv.org/abs/2405.13274v1)|**[link](https://github.com/steventan0110/diffnorm)**|
+|**2024-10-21**|**DiffNorm: Self-Supervised Normalization for Non-autoregressive Speech-to-speech Translation**|Weiting Tan, Jingyu Zhang, Lingfeng Shen, Daniel Khashabi, Philipp Koehn et.al.|[2405.13274v2](http://arxiv.org/abs/2405.13274v2)|**[link](https://github.com/steventan0110/diffnorm)**|
 |**2024-05-21**|**MELD-ST: An Emotion-aware Speech Translation Dataset**|Sirou Chen, Sakiko Yahata, Shuichiro Shimizu, Zhengdong Yang, Yihang Li, Chenhui Chu, Sadao Kurohashi et.al.|[2405.13233v1](http://arxiv.org/abs/2405.13233v1)|null|
 |**2024-03-25**|**Advancing Speech Translation: A Corpus of Mandarin-English Conversational Telephone Speech**|Shannon Wotherspoon, William Hartmann, Matthew Snover et.al.|[2404.11619v1](http://arxiv.org/abs/2404.11619v1)|null|
 |**2024-03-19**|**MSLM-S2ST: A Multitask Speech Language Model for Textless Speech-to-Speech Translation with Speaker Style Preservation**|Yifan Peng, Ilia Kulikov, Yilin Yang, Sravya Popuri, Hui Lu, Changhan Wang, Hongyu Gong et.al.|[2403.12408v1](http://arxiv.org/abs/2403.12408v1)|null|
@@ -257,7 +257,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20241022>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241023>back to top</a>)</p>
 
 ## Legal
 
@@ -710,13 +710,13 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241022>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241023>back to top</a>)</p>
 
 ## Speech Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-21**|**Moonshine: Speech Recognition for Live Transcription and Voice Commands**|Nat Jeffries, Evan King, Manjunath Kudlur, Guy Nicholson, James Wang, Pete Warden et.al.|[2410.15608v1](http://arxiv.org/abs/2410.15608v1)|null|
+|**2024-10-22**|**Moonshine: Speech Recognition for Live Transcription and Voice Commands**|Nat Jeffries, Evan King, Manjunath Kudlur, Guy Nicholson, James Wang, Pete Warden et.al.|[2410.15608v2](http://arxiv.org/abs/2410.15608v2)|null|
 |**2024-10-18**|**AC-Mix: Self-Supervised Adaptation for Low-Resource Automatic Speech Recognition using Agnostic Contrastive Mixup**|Carlos Carvalho, Alberto Abad et.al.|[2410.14910v1](http://arxiv.org/abs/2410.14910v1)|null|
 |**2024-10-07**|**Automatic Screening for Children with Speech Disorder using Automatic Speech Recognition: Opportunities and Challenges**|Dancheng Liu, Jason Yang, Ishan Albrecht-Buehler, Helen Qin, Sophie Li, Yuting Hu, Amir Nassereldine, Jinjun Xiong et.al.|[2410.11865v1](http://arxiv.org/abs/2410.11865v1)|null|
 |**2024-10-14**|**In-Materia Speech Recognition**|Mohamadreza Zolfagharinejad, Julian Büchel, Lorenzo Cassola, Sachin Kinge, Ghazi Sarwat Syed, Abu Sebastian, Wilfred G. van der Wiel et.al.|[2410.10434v1](http://arxiv.org/abs/2410.10434v1)|null|
@@ -1262,7 +1262,7 @@
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241022>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241023>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -1272,7 +1272,7 @@
 |**2024-05-03**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v4](http://arxiv.org/abs/2207.14682v4)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241022>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241023>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
