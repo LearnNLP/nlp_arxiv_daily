@@ -263,6 +263,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**Legal Theory for Pluralistic Alignment**|Nicholas A. Caputo et.al.|[2410.17271v1](http://arxiv.org/abs/2410.17271v1)|null|
 |**2024-10-22**|**Exploring Possibilities of AI-Powered Legal Assistance in Bangladesh through Large Language Modeling**|Azmine Toushik Wasi, Wahid Faisal, Mst Rafia Islam, Mahathir Mohammad Bappy et.al.|[2410.17210v1](http://arxiv.org/abs/2410.17210v1)|**[link](https://github.com/ciol-researchlab/ukil)**|
 |**2024-10-21**|**Augmenting Legal Decision Support Systems with LLM-based NLI for Analyzing Social Media Evidence**|Ram Mohan Rao Kadiyala, Siddartha Pullakhandam, Kanwal Mehreen, Subhasya Tippareddy, Ashay Srivastava et.al.|[2410.15990v1](http://arxiv.org/abs/2410.15990v1)|**[link](https://github.com/1-800-shared-tasks/emnlp-2024-nllp)**|
 |**2024-10-19**|**A Prompt Engineering Approach and a Knowledge Graph based Framework for Tackling Legal Implications of Large Language Model Answers**|George Hannah, Rita T. Sousa, Ioannis Dasoulas, Claudia d'Amato et.al.|[2410.15064v1](http://arxiv.org/abs/2410.15064v1)|null|
@@ -717,6 +718,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Improving Automatic Speech Recognition with Decoder-Centric Regularisation in Encoder-Decoder Models**|Alexander Polok, Santosh Kesiraju, Karel Beneš, Lukáš Burget, Jan Černocký et.al.|[2410.17437v1](http://arxiv.org/abs/2410.17437v1)|null|
 |**2024-10-21**|**AlignVSR: Audio-Visual Cross-Modal Alignment for Visual Speech Recognition**|Zehua Liu, Xiaolou Li, Chen Chen, Li Guo, Lantian Li, Dong Wang et.al.|[2410.16438v1](http://arxiv.org/abs/2410.16438v1)|**[link](https://github.com/liu12366262626/alignvsr)**|
 |**2024-10-19**|**End-to-End Transformer-based Automatic Speech Recognition for Northern Kurdish: A Pioneering Approach**|Abdulhady Abas Abdullah, Shima Tabibian, Hadi Veisi, Aso Mahmudi, Tarik Rashid et.al.|[2410.16330v1](http://arxiv.org/abs/2410.16330v1)|null|
 |**2024-10-22**|**Moonshine: Speech Recognition for Live Transcription and Voice Commands**|Nat Jeffries, Evan King, Manjunath Kudlur, Guy Nicholson, James Wang, Pete Warden et.al.|[2410.15608v2](http://arxiv.org/abs/2410.15608v2)|null|
