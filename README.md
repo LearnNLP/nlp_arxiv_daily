@@ -718,6 +718,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Evaluating and Improving Automatic Speech Recognition Systems for Korean Meteorological Experts**|ChaeHun Park, Hojun Cho, Jaegul Choo et.al.|[2410.18444v1](http://arxiv.org/abs/2410.18444v1)|null|
 |**2024-10-22**|**Improving Automatic Speech Recognition with Decoder-Centric Regularisation in Encoder-Decoder Models**|Alexander Polok, Santosh Kesiraju, Karel Beneš, Lukáš Burget, Jan Černocký et.al.|[2410.17437v1](http://arxiv.org/abs/2410.17437v1)|null|
 |**2024-10-21**|**AlignVSR: Audio-Visual Cross-Modal Alignment for Visual Speech Recognition**|Zehua Liu, Xiaolou Li, Chen Chen, Li Guo, Lantian Li, Dong Wang et.al.|[2410.16438v1](http://arxiv.org/abs/2410.16438v1)|**[link](https://github.com/liu12366262626/alignvsr)**|
 |**2024-10-19**|**End-to-End Transformer-based Automatic Speech Recognition for Northern Kurdish: A Pioneering Approach**|Abdulhady Abas Abdullah, Shima Tabibian, Hadi Veisi, Aso Mahmudi, Tarik Rashid et.al.|[2410.16330v1](http://arxiv.org/abs/2410.16330v1)|null|
@@ -736,7 +737,7 @@
 |**2024-10-04**|**Convolutional Variational Autoencoders for Spectrogram Compression in Automatic Speech Recognition**|Olga Iakovenko, Ivan Bondarenko et.al.|[2410.02560v2](http://arxiv.org/abs/2410.02560v2)|null|
 |**2024-10-03**|**Algorithms For Automatic Accentuation And Transcription Of Russian Texts In Speech Recognition Systems**|Olga Iakovenko, Ivan Bondarenko, Mariya Borovikova, Daniil Vodolazsky et.al.|[2410.02538v1](http://arxiv.org/abs/2410.02538v1)|null|
 |**2024-10-01**|**Automatic Speech Recognition for the Ika Language**|Uchenna Nzenwata, Daniel Ogbuigwe et.al.|[2410.00940v1](http://arxiv.org/abs/2410.00940v1)|null|
-|**2024-10-04**|**VHASR: A Multimodal Speech Recognition System With Vision Hotwords**|Jiliang Hu, Zuchao Li, Ping Wang, Haojun Ai, Lefei Zhang, Hai Zhao et.al.|[2410.00822v2](http://arxiv.org/abs/2410.00822v2)|null|
+|**2024-10-04**|**VHASR: A Multimodal Speech Recognition System With Vision Hotwords**|Jiliang Hu, Zuchao Li, Ping Wang, Haojun Ai, Lefei Zhang, Hai Zhao et.al.|[2410.00822v2](http://arxiv.org/abs/2410.00822v2)|**[link](https://github.com/193746/VHASR)**|
 |**2024-10-01**|**End-to-End Speech Recognition with Pre-trained Masked Language Model**|Yosuke Higuchi, Tetsuji Ogawa, Tetsunori Kobayashi, Shinji Watanabe et.al.|[2410.00528v1](http://arxiv.org/abs/2410.00528v1)|**[link](https://github.com/yosukehiguchi/espnet)**|
 |**2024-09-30**|**Predictive Speech Recognition and End-of-Utterance Detection Towards Spoken Dialog Systems**|Oswald Zink, Yosuke Higuchi, Carlos Mullov, Alexander Waibel, Tetsunori Kobayashi et.al.|[2409.19990v1](http://arxiv.org/abs/2409.19990v1)|null|
 |**2024-09-29**|**Fine-Tuning Automatic Speech Recognition for People with Parkinson's: An Effective Strategy for Enhancing Speech Technology Accessibility**|Xiuwen Zheng, Bornali Phukon, Mark Hasegawa-Johnson et.al.|[2409.19818v1](http://arxiv.org/abs/2409.19818v1)|null|
