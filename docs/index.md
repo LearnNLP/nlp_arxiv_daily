@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.27
+## Updated on 2024.10.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -261,13 +261,13 @@ layout: default
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20241027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241028>back to top</a>)</p>
 
 ## Legal
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-07**|**Legal Theory for Pluralistic Alignment**|Nicholas A. Caputo et.al.|[2410.17271v1](http://arxiv.org/abs/2410.17271v1)|null|
+|**2024-10-25**|**Legal Theory for Pluralistic Alignment**|Nicholas A. Caputo et.al.|[2410.17271v2](http://arxiv.org/abs/2410.17271v2)|null|
 |**2024-10-22**|**Exploring Possibilities of AI-Powered Legal Assistance in Bangladesh through Large Language Modeling**|Azmine Toushik Wasi, Wahid Faisal, Mst Rafia Islam, Mahathir Mohammad Bappy et.al.|[2410.17210v1](http://arxiv.org/abs/2410.17210v1)|**[link](https://github.com/ciol-researchlab/ukil)**|
 |**2024-10-21**|**Augmenting Legal Decision Support Systems with LLM-based NLI for Analyzing Social Media Evidence**|Ram Mohan Rao Kadiyala, Siddartha Pullakhandam, Kanwal Mehreen, Subhasya Tippareddy, Ashay Srivastava et.al.|[2410.15990v1](http://arxiv.org/abs/2410.15990v1)|**[link](https://github.com/1-800-shared-tasks/emnlp-2024-nllp)**|
 |**2024-10-19**|**A Prompt Engineering Approach and a Knowledge Graph based Framework for Tackling Legal Implications of Large Language Model Answers**|George Hannah, Rita T. Sousa, Ioannis Dasoulas, Claudia d'Amato et.al.|[2410.15064v1](http://arxiv.org/abs/2410.15064v1)|null|
@@ -716,7 +716,7 @@ layout: default
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241028>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -1272,7 +1272,7 @@ layout: default
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241028>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -1282,7 +1282,7 @@ layout: default
 |**2024-05-03**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v4](http://arxiv.org/abs/2207.14682v4)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241028>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
