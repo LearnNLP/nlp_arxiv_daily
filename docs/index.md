@@ -267,6 +267,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**No Argument Left Behind: Overlapping Chunks for Faster Processing of Arbitrarily Long Legal Texts**|Israel Fama, Bárbara Bueno, Alexandre Alcoforado, Thomas Palmeira Ferraz, Arnold Moya, Anna Helena Reali Costa et.al.|[2410.19184v1](http://arxiv.org/abs/2410.19184v1)|null|
 |**2024-10-25**|**Legal Theory for Pluralistic Alignment**|Nicholas A. Caputo et.al.|[2410.17271v2](http://arxiv.org/abs/2410.17271v2)|null|
 |**2024-10-22**|**Exploring Possibilities of AI-Powered Legal Assistance in Bangladesh through Large Language Modeling**|Azmine Toushik Wasi, Wahid Faisal, Mst Rafia Islam, Mahathir Mohammad Bappy et.al.|[2410.17210v1](http://arxiv.org/abs/2410.17210v1)|**[link](https://github.com/ciol-researchlab/ukil)**|
 |**2024-10-21**|**Augmenting Legal Decision Support Systems with LLM-based NLI for Analyzing Social Media Evidence**|Ram Mohan Rao Kadiyala, Siddartha Pullakhandam, Kanwal Mehreen, Subhasya Tippareddy, Ashay Srivastava et.al.|[2410.15990v1](http://arxiv.org/abs/2410.15990v1)|**[link](https://github.com/1-800-shared-tasks/emnlp-2024-nllp)**|
