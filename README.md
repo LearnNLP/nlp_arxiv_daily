@@ -263,6 +263,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-26**|**Hybrid Deep Learning for Legal Text Analysis: Predicting Punishment Durations in Indonesian Court Rulings**|Muhammad Amien Ibrahim, Alif Tri Handoyo, Maria Susan Anggreainy et.al.|[2410.20104v1](http://arxiv.org/abs/2410.20104v1)|null|
 |**2024-10-24**|**No Argument Left Behind: Overlapping Chunks for Faster Processing of Arbitrarily Long Legal Texts**|Israel Fama, Bárbara Bueno, Alexandre Alcoforado, Thomas Palmeira Ferraz, Arnold Moya, Anna Helena Reali Costa et.al.|[2410.19184v1](http://arxiv.org/abs/2410.19184v1)|null|
 |**2024-10-28**|**Rules, Cases, and Reasoning: Positivist Legal Theory as a Framework for Pluralistic AI Alignment**|Nicholas A. Caputo et.al.|[2410.17271v3](http://arxiv.org/abs/2410.17271v3)|null|
 |**2024-10-22**|**Exploring Possibilities of AI-Powered Legal Assistance in Bangladesh through Large Language Modeling**|Azmine Toushik Wasi, Wahid Faisal, Mst Rafia Islam, Mahathir Mohammad Bappy et.al.|[2410.17210v1](http://arxiv.org/abs/2410.17210v1)|**[link](https://github.com/ciol-researchlab/ukil)**|
@@ -719,6 +720,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-27**|**Using Confidence Scores to Improve Eyes-free Detection of Speech Recognition Errors**|Sadia Nowrin, Keith Vertanen et.al.|[2410.20564v1](http://arxiv.org/abs/2410.20564v1)|null|
 |**2024-10-24**|**Evaluating and Improving Automatic Speech Recognition Systems for Korean Meteorological Experts**|ChaeHun Park, Hojun Cho, Jaegul Choo et.al.|[2410.18444v1](http://arxiv.org/abs/2410.18444v1)|null|
 |**2024-10-22**|**Improving Automatic Speech Recognition with Decoder-Centric Regularisation in Encoder-Decoder Models**|Alexander Polok, Santosh Kesiraju, Karel Beneš, Lukáš Burget, Jan Černocký et.al.|[2410.17437v1](http://arxiv.org/abs/2410.17437v1)|null|
 |**2024-10-21**|**AlignVSR: Audio-Visual Cross-Modal Alignment for Visual Speech Recognition**|Zehua Liu, Xiaolou Li, Chen Chen, Li Guo, Lantian Li, Dong Wang et.al.|[2410.16438v1](http://arxiv.org/abs/2410.16438v1)|**[link](https://github.com/liu12366262626/alignvsr)**|
