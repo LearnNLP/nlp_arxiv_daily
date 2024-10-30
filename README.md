@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**SpeechQE: Estimating the Quality of Direct Speech Translation**|HyoJung Han, Kevin Duh, Marine Carpuat et.al.|[2410.21485v1](http://arxiv.org/abs/2410.21485v1)|null|
 |**2024-10-21**|**CA*: Addressing Evaluation Pitfalls in Computation-Aware Latency for Simultaneous Speech Translation**|Xi Xu, Wenda Xu, Siqi Ouyang, Lei Li et.al.|[2410.16011v1](http://arxiv.org/abs/2410.16011v1)|null|
 |**2024-10-07**|**CTC-GMM: CTC guided modality matching for fast and accurate streaming speech translation**|Rui Zhao, Jinyu Li, Ruchao Fan, Matt Post et.al.|[2410.05146v1](http://arxiv.org/abs/2410.05146v1)|null|
 |**2024-10-04**|**Textless Streaming Speech-to-Speech Translation using Semantic Speech Tokens**|Jinzheng Zhao, Niko Moritz, Egor Lakomkin, Ruiming Xie, Zhiping Xiu, Katerina Zmolikova, Zeeshan Ahmed, Yashesh Gaur, Duc Le, Christian Fuegen et.al.|[2410.03298v1](http://arxiv.org/abs/2410.03298v1)|null|
@@ -263,6 +264,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Natural Language Processing for the Legal Domain: A Survey of Tasks, Datasets, Models, and Challenges**|Farid Ariai, Gianluca Demartini et.al.|[2410.21306v1](http://arxiv.org/abs/2410.21306v1)|null|
 |**2024-10-26**|**Hybrid Deep Learning for Legal Text Analysis: Predicting Punishment Durations in Indonesian Court Rulings**|Muhammad Amien Ibrahim, Alif Tri Handoyo, Maria Susan Anggreainy et.al.|[2410.20104v1](http://arxiv.org/abs/2410.20104v1)|null|
 |**2024-10-24**|**No Argument Left Behind: Overlapping Chunks for Faster Processing of Arbitrarily Long Legal Texts**|Israel Fama, Bárbara Bueno, Alexandre Alcoforado, Thomas Palmeira Ferraz, Arnold Moya, Anna Helena Reali Costa et.al.|[2410.19184v1](http://arxiv.org/abs/2410.19184v1)|null|
 |**2024-10-28**|**Rules, Cases, and Reasoning: Positivist Legal Theory as a Framework for Pluralistic AI Alignment**|Nicholas A. Caputo et.al.|[2410.17271v3](http://arxiv.org/abs/2410.17271v3)|null|
