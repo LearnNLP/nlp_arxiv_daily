@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-28**|**SpeechQE: Estimating the Quality of Direct Speech Translation**|HyoJung Han, Kevin Duh, Marine Carpuat et.al.|[2410.21485v1](http://arxiv.org/abs/2410.21485v1)|null|
+|**2024-10-28**|**SpeechQE: Estimating the Quality of Direct Speech Translation**|HyoJung Han, Kevin Duh, Marine Carpuat et.al.|[2410.21485v1](http://arxiv.org/abs/2410.21485v1)|**[link](https://github.com/h-j-han/speechqe)**|
 |**2024-10-21**|**CA*: Addressing Evaluation Pitfalls in Computation-Aware Latency for Simultaneous Speech Translation**|Xi Xu, Wenda Xu, Siqi Ouyang, Lei Li et.al.|[2410.16011v1](http://arxiv.org/abs/2410.16011v1)|null|
 |**2024-10-07**|**CTC-GMM: CTC guided modality matching for fast and accurate streaming speech translation**|Rui Zhao, Jinyu Li, Ruchao Fan, Matt Post et.al.|[2410.05146v1](http://arxiv.org/abs/2410.05146v1)|null|
 |**2024-10-04**|**Textless Streaming Speech-to-Speech Translation using Semantic Speech Tokens**|Jinzheng Zhao, Niko Moritz, Egor Lakomkin, Ruiming Xie, Zhiping Xiu, Katerina Zmolikova, Zeeshan Ahmed, Yashesh Gaur, Duc Le, Christian Fuegen et.al.|[2410.03298v1](http://arxiv.org/abs/2410.03298v1)|null|
@@ -258,7 +258,7 @@
 |**2020-11-03**|**SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation**|Xutai Ma, Juan Pino, Philipp Koehn et.al.|[2011.02048v1](http://arxiv.org/abs/2011.02048v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2020-11-02**|**Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation**|Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier et.al.|[2011.00747v1](http://arxiv.org/abs/2011.00747v1)|**[link](https://github.com/formiel/speech-translation)**|
 
-<p align=right>(<a href=#Updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241031>back to top</a>)</p>
 
 ## Legal
 
@@ -298,7 +298,7 @@
 |**2024-10-02**|**Getting in the Door: Streamlining Intake in Civil Legal Services with Large Language Models**|Quinten Steenhuis, Hannes Westermann et.al.|[2410.03762v1](http://arxiv.org/abs/2410.03762v1)|null|
 |**2024-10-03**|**Can Large Language Models Grasp Legal Theories? Enhance Legal Reasoning with Insights from Multi-Agent Collaboration**|Weikang Yuan, Junjie Cao, Zhuoren Jiang, Yangyang Kang, Jun Lin, Kaisong Song, tianqianjin lin, Pengwei Yan, Changlong Sun, Xiaozhong Liu et.al.|[2410.02507v1](http://arxiv.org/abs/2410.02507v1)|**[link](https://github.com/yuanwk99/malr)**|
 |**2024-10-02**|**CompLex: legal systems through the lens of complexity science**|Pierpaolo Vivo, Daniel M. Katz, J. B. Ruhl et.al.|[2410.01402v1](http://arxiv.org/abs/2410.01402v1)|null|
-|**2024-10-14**|**LexEval: A Comprehensive Chinese Legal Benchmark for Evaluating Large Language Models**|Haitao Li, You Chen, Qingyao Ai, Yueyue Wu, Ruizhe Zhang, Yiqun Liu et.al.|[2409.20288v2](http://arxiv.org/abs/2409.20288v2)|**[link](https://github.com/cshaitao/lexeval)**|
+|**2024-10-30**|**LexEval: A Comprehensive Chinese Legal Benchmark for Evaluating Large Language Models**|Haitao Li, You Chen, Qingyao Ai, Yueyue Wu, Ruizhe Zhang, Yiqun Liu et.al.|[2409.20288v3](http://arxiv.org/abs/2409.20288v3)|**[link](https://github.com/cshaitao/lexeval)**|
 |**2024-09-27**|**HiCuLR: Hierarchical Curriculum Learning for Rhetorical Role Labeling of Legal Documents**|T. Y. S. S. Santosh, Apolline Isaia, Shiyu Hong, Matthias Grabmair et.al.|[2409.18647v1](http://arxiv.org/abs/2409.18647v1)|null|
 |**2024-09-27**|**Incorporating Precedents for Legal Judgement Prediction on European Court of Human Rights Cases**|T. Y. S. S. Santosh, Mohamed Hesham Elganayni, Stanisław Sójka, Matthias Grabmair et.al.|[2409.18644v1](http://arxiv.org/abs/2409.18644v1)|null|
 |**2024-09-25**|**Dispute resolution in legal mediation with quantitative argumentation**|Xiao Chi et.al.|[2409.16854v1](http://arxiv.org/abs/2409.16854v1)|null|
@@ -716,7 +716,7 @@
 |**2021-10-09**|**Dynamic Logic of Legal Competences**|Huimin Dong, Olivier Roy et.al.|[2110.04454v1](http://arxiv.org/abs/2110.04454v1)|null|
 |**2021-10-07**|**Cookie Banners, What's the Purpose? Analyzing Cookie Banner Text Through a Legal Lens**|Cristiana Santos, Arianna Rossi, Lorena Sánchez Chamorro, Kerstin Bongard-Blanchy, Ruba Abu-Salma et.al.|[2110.02597v2](http://arxiv.org/abs/2110.02597v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241031>back to top</a>)</p>
 
 ## Speech Recognition
 
@@ -1273,7 +1273,7 @@
 |**2023-05-24**|**Iteratively Improving Speech Recognition and Voice Conversion**|Mayank Kumar Singh, Naoya Takahashi, Onoe Naoyuki et.al.|[2305.15055v1](http://arxiv.org/abs/2305.15055v1)|null|
 |**2023-05-23**|**Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning**|Sara Kashiwagi, Keitaro Tanaka, Qi Feng, Shigeo Morishima et.al.|[2305.14203v1](http://arxiv.org/abs/2305.14203v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241031>back to top</a>)</p>
 
 ## Audio Forenisc
 
@@ -1283,7 +1283,7 @@
 |**2024-05-03**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa, Germans Hirsch, Christian Riess et.al.|[2207.14682v4](http://arxiv.org/abs/2207.14682v4)|null|
 |**2014-11-26**|**Audio Splicing Detection and Localization Using Environmental Signature**|Hong Zhao, Yifan Chen, Rui Wang, Hafiz Malik et.al.|[1411.7084v1](http://arxiv.org/abs/1411.7084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241031>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/LearnNLP/nlp-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/LearnNLP/nlp-arxiv-daily/graphs/contributors
