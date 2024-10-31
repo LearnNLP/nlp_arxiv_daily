@@ -268,6 +268,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**Bonafide at LegalLens 2024 Shared Task: Using Lightweight DeBERTa Based Encoder For Legal Violation Detection and Resolution**|Shikha Bordia et.al.|[2410.22977v1](http://arxiv.org/abs/2410.22977v1)|null|
+|**2024-10-30**|**The Evolution Of The Digital Inheritance: Legal, Technical, And Practical Dimensions Of Cryptocurrency Transfer Through Succession In French-Inspired Legal Systems**|Cristina Carata, Ana-Luisa Chelaru et.al.|[2410.22907v1](http://arxiv.org/abs/2410.22907v1)|null|
 |**2024-10-25**|**Natural Language Processing for the Legal Domain: A Survey of Tasks, Datasets, Models, and Challenges**|Farid Ariai, Gianluca Demartini et.al.|[2410.21306v1](http://arxiv.org/abs/2410.21306v1)|null|
 |**2024-10-26**|**Hybrid Deep Learning for Legal Text Analysis: Predicting Punishment Durations in Indonesian Court Rulings**|Muhammad Amien Ibrahim, Alif Tri Handoyo, Maria Susan Anggreainy et.al.|[2410.20104v1](http://arxiv.org/abs/2410.20104v1)|null|
 |**2024-10-24**|**No Argument Left Behind: Overlapping Chunks for Faster Processing of Arbitrarily Long Legal Texts**|Israel Fama, Bárbara Bueno, Alexandre Alcoforado, Thomas Palmeira Ferraz, Arnold Moya, Anna Helena Reali Costa et.al.|[2410.19184v1](http://arxiv.org/abs/2410.19184v1)|null|
@@ -726,6 +728,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**Augmenting Polish Automatic Speech Recognition System With Synthetic Data**|Łukasz Bondaruk, Jakub Kubiak, Mateusz Czyżnikiewicz et.al.|[2410.22903v1](http://arxiv.org/abs/2410.22903v1)|null|
 |**2024-10-27**|**Using Confidence Scores to Improve Eyes-free Detection of Speech Recognition Errors**|Sadia Nowrin, Keith Vertanen et.al.|[2410.20564v1](http://arxiv.org/abs/2410.20564v1)|null|
 |**2024-10-24**|**Evaluating and Improving Automatic Speech Recognition Systems for Korean Meteorological Experts**|ChaeHun Park, Hojun Cho, Jaegul Choo et.al.|[2410.18444v1](http://arxiv.org/abs/2410.18444v1)|null|
 |**2024-10-22**|**Improving Automatic Speech Recognition with Decoder-Centric Regularisation in Encoder-Decoder Models**|Alexander Polok, Santosh Kesiraju, Karel Beneš, Lukáš Burget, Jan Černocký et.al.|[2410.17437v1](http://arxiv.org/abs/2410.17437v1)|null|
