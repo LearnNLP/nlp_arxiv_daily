@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**Exploiting Phonological Similarities between African Languages to achieve Speech to Speech Translation**|Peter Ochieng, Dennis Kaburu et.al.|[2410.23323v1](http://arxiv.org/abs/2410.23323v1)|null|
 |**2024-10-28**|**SpeechQE: Estimating the Quality of Direct Speech Translation**|HyoJung Han, Kevin Duh, Marine Carpuat et.al.|[2410.21485v1](http://arxiv.org/abs/2410.21485v1)|**[link](https://github.com/h-j-han/speechqe)**|
 |**2024-10-21**|**CA*: Addressing Evaluation Pitfalls in Computation-Aware Latency for Simultaneous Speech Translation**|Xi Xu, Wenda Xu, Siqi Ouyang, Lei Li et.al.|[2410.16011v1](http://arxiv.org/abs/2410.16011v1)|null|
 |**2024-10-07**|**CTC-GMM: CTC guided modality matching for fast and accurate streaming speech translation**|Rui Zhao, Jinyu Li, Ruchao Fan, Matt Post et.al.|[2410.05146v1](http://arxiv.org/abs/2410.05146v1)|null|
@@ -63,7 +64,7 @@ layout: default
 |**2024-06-04**|**SimulTron: On-Device Simultaneous Speech to Speech Translation**|Alex Agranovich, Eliya Nachmani, Oleg Rybakov, Yifan Ding, Ye Jia, Nadav Bar, Heiga Zen, Michelle Tadmor Ramanovich et.al.|[2406.02133v1](http://arxiv.org/abs/2406.02133v1)|null|
 |**2024-08-20**|**Recent Advances in End-to-End Simultaneous Speech Translation**|Xiaoqian Liu, Guoqiang Hu, Yangfan Du, Erfeng He, Yingfeng Luo, Chen Xu, Tong Xiao, Jingbo Zhu et.al.|[2406.00497v2](http://arxiv.org/abs/2406.00497v2)|null|
 |**2024-05-30**|**SeamlessExpressiveLM: Speech Language Model for Expressive Speech-to-Speech Translation with Chain-of-Thought**|Hongyu Gong, Bandhav Veluri et.al.|[2405.20410v1](http://arxiv.org/abs/2405.20410v1)|null|
-|**2024-10-31**|**TransVIP: Speech to Speech Translation System with Voice and Isochrony Preservation**|Chenyang Le, Yao Qian, Dongmei Wang, Long Zhou, Shujie Liu, Xiaofei Wang, Midia Yousefi, Yanmin Qian, Jinyu Li, Sheng Zhao, Michael Zeng et.al.|[2405.17809v3](http://arxiv.org/abs/2405.17809v3)|null|
+|**2024-10-31**|**TransVIP: Speech to Speech Translation System with Voice and Isochrony Preservation**|Chenyang Le, Yao Qian, Dongmei Wang, Long Zhou, Shujie Liu, Xiaofei Wang, Midia Yousefi, Yanmin Qian, Jinyu Li, Sheng Zhao, Michael Zeng et.al.|[2405.17809v3](http://arxiv.org/abs/2405.17809v3)|**[link](https://github.com/nethermanpro/transvip)**|
 |**2024-10-21**|**DiffNorm: Self-Supervised Normalization for Non-autoregressive Speech-to-speech Translation**|Weiting Tan, Jingyu Zhang, Lingfeng Shen, Daniel Khashabi, Philipp Koehn et.al.|[2405.13274v2](http://arxiv.org/abs/2405.13274v2)|**[link](https://github.com/steventan0110/diffnorm)**|
 |**2024-05-21**|**MELD-ST: An Emotion-aware Speech Translation Dataset**|Sirou Chen, Sakiko Yahata, Shuichiro Shimizu, Zhengdong Yang, Yihang Li, Chenhui Chu, Sadao Kurohashi et.al.|[2405.13233v1](http://arxiv.org/abs/2405.13233v1)|null|
 |**2024-03-25**|**Advancing Speech Translation: A Corpus of Mandarin-English Conversational Telephone Speech**|Shannon Wotherspoon, William Hartmann, Matthew Snover et.al.|[2404.11619v1](http://arxiv.org/abs/2404.11619v1)|null|
@@ -268,6 +269,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**Web Scraping for Research: Legal, Ethical, Institutional, and Scientific Considerations**|Megan A. Brown, Andrew Gruen, Gabe Maldoff, Solomon Messing, Zeve Sanderson, Michael Zimmer et.al.|[2410.23432v1](http://arxiv.org/abs/2410.23432v1)|null|
 |**2024-10-30**|**Bonafide at LegalLens 2024 Shared Task: Using Lightweight DeBERTa Based Encoder For Legal Violation Detection and Resolution**|Shikha Bordia et.al.|[2410.22977v1](http://arxiv.org/abs/2410.22977v1)|null|
 |**2024-10-30**|**The Evolution Of The Digital Inheritance: Legal, Technical, And Practical Dimensions Of Cryptocurrency Transfer Through Succession In French-Inspired Legal Systems**|Cristina Carata, Ana-Luisa Chelaru et.al.|[2410.22907v1](http://arxiv.org/abs/2410.22907v1)|null|
 |**2024-10-25**|**Natural Language Processing for the Legal Domain: A Survey of Tasks, Datasets, Models, and Challenges**|Farid Ariai, Gianluca Demartini et.al.|[2410.21306v1](http://arxiv.org/abs/2410.21306v1)|null|
