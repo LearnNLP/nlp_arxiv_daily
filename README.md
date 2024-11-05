@@ -726,6 +726,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Unified Speech Recognition: A Single Model for Auditory, Visual, and Audiovisual Inputs**|Alexandros Haliassos, Rodrigo Mira, Honglie Chen, Zoe Landgraf, Stavros Petridis, Maja Pantic et.al.|[2411.02256v1](http://arxiv.org/abs/2411.02256v1)|**[link](https://github.com/ahaliassos/usr)**|
+|**2024-11-04**|**Optimizing Contextual Speech Recognition Using Vector Quantization for Efficient Retrieval**|Nikolaos Flemotomos, Roger Hsiao, Pawel Swietojanski, Takaaki Hori, Dogan Can, Xiaodan Zhuang et.al.|[2411.00664v2](http://arxiv.org/abs/2411.00664v2)|null|
 |**2024-10-30**|**Augmenting Polish Automatic Speech Recognition System With Synthetic Data**|Łukasz Bondaruk, Jakub Kubiak, Mateusz Czyżnikiewicz et.al.|[2410.22903v1](http://arxiv.org/abs/2410.22903v1)|null|
 |**2024-10-27**|**Using Confidence Scores to Improve Eyes-free Detection of Speech Recognition Errors**|Sadia Nowrin, Keith Vertanen et.al.|[2410.20564v1](http://arxiv.org/abs/2410.20564v1)|null|
 |**2024-10-24**|**Evaluating and Improving Automatic Speech Recognition Systems for Korean Meteorological Experts**|ChaeHun Park, Hojun Cho, Jaegul Choo et.al.|[2410.18444v1](http://arxiv.org/abs/2410.18444v1)|null|
@@ -805,7 +807,7 @@
 |**2024-08-01**|**SynesLM: A Unified Approach for Audio-visual Speech Recognition and Translation via Language Model and Synthetic Data**|Yichen Lu, Jiaqi Song, Xuankai Chang, Hengwei Bian, Soumi Maiti, Shinji Watanabe et.al.|[2408.00624v1](http://arxiv.org/abs/2408.00624v1)|**[link](https://github.com/espnet/espnet)**|
 |**2024-07-18**|**Handling Numeric Expressions in Automatic Speech Recognition**|Christian Huber, Alexander Waibel et.al.|[2408.00004v1](http://arxiv.org/abs/2408.00004v1)|null|
 |**2024-07-31**|**On the Problem of Text-To-Speech Model Selection for Synthetic Data Generation in Automatic Speech Recognition**|Nick Rossenbach, Ralf Schlüter, Sakriani Sakti et.al.|[2407.21476v1](http://arxiv.org/abs/2407.21476v1)|null|
-|**2024-07-30**|**Self-Supervised Models in Automatic Whispered Speech Recognition**|Aref Farhadipour, Homa Asadi, Volker Dellwo et.al.|[2407.21211v1](http://arxiv.org/abs/2407.21211v1)|null|
+|**2024-11-03**|**Leveraging Self-Supervised Models for Automatic Whispered Speech Recognition**|Aref Farhadipour, Homa Asadi, Volker Dellwo et.al.|[2407.21211v2](http://arxiv.org/abs/2407.21211v2)|null|
 |**2024-07-10**|**Dynamic Encoder Size Based on Data-Driven Layer-wise Pruning for Speech Recognition**|Jingjing Xu, Wei Zhou, Zijian Yang, Eugen Beck, Ralf Schlueter et.al.|[2407.18930v1](http://arxiv.org/abs/2407.18930v1)|null|
 |**2024-08-07**|**Dynamic Language Group-Based MoE: Enhancing Code-Switching Speech Recognition with Hierarchical Routing**|Hukai Huang, Shenghui Lu, Yahui Shan, He Qu, Wenhao Guan, Qingyang Hong, Lin Li et.al.|[2407.18581v2](http://arxiv.org/abs/2407.18581v2)|**[link](https://github.com/kaihuhuang/language-group)**|
 |**2024-07-26**|**Enhancing Dysarthric Speech Recognition for Unseen Speakers via Prototype-Based Adaptation**|Shiyao Wang, Shiwan Zhao, Jiaming Zhou, Aobo Kong, Yong Qin et.al.|[2407.18461v1](http://arxiv.org/abs/2407.18461v1)|**[link](https://github.com/nku-hlt/pb-dsr)**|
