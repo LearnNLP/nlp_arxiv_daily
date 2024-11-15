@@ -266,6 +266,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**The Use of Readability Metrics in Legal Text: A Systematic Literature Review**|Yu Han, Aaron Ceross, Jeroen H. M. Bergmann et.al.|[2411.09497v1](http://arxiv.org/abs/2411.09497v1)|null|
 |**2024-11-12**|**Unlocking Legal Knowledge with Multi-Layered Embedding-Based Retrieval**|João Alberto de Oliveira Lima et.al.|[2411.07739v1](http://arxiv.org/abs/2411.07739v1)|null|
 |**2024-11-03**|**qGDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers**|Junyao Zhang, Guanglei Zhou, Feng Cheng, Jonathan Ku, Qi Ding, Jiaqi Gu, Hanrui Wang, Hai "Helen" Li, Yiran Chen et.al.|[2411.02447v1](http://arxiv.org/abs/2411.02447v1)|null|
 |**2024-10-30**|**Web Scraping for Research: Legal, Ethical, Institutional, and Scientific Considerations**|Megan A. Brown, Andrew Gruen, Gabe Maldoff, Solomon Messing, Zeve Sanderson, Michael Zimmer et.al.|[2410.23432v1](http://arxiv.org/abs/2410.23432v1)|null|
