@@ -735,6 +735,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**From Statistical Methods to Pre-Trained Models; A Survey on Automatic Speech Recognition for Resource Scarce Urdu Language**|Muhammad Sharif, Zeeshan Abbas, Jiangyan Yi, Chenglin Liu et.al.|[2411.14493v1](http://arxiv.org/abs/2411.14493v1)|null|
 |**2024-11-21**|**Tiny-Align: Bridging Automatic Speech Recognition and Large Language Model on the Edge**|Ruiyang Qin, Dancheng Liu, Gelei Xu, Zheyu Yan, Chenhui Xu, Yuting Hu, X. Sharon Hu, Jinjun Xiong, Yiyu Shi et.al.|[2411.13766v1](http://arxiv.org/abs/2411.13766v1)|null|
 |**2024-11-15**|**Interactive Cycle Model -- The Linkage Combination among Automatic Speech Recognition, Large Language Models and Smart Glasses**|Libo Wang et.al.|[2411.10362v1](http://arxiv.org/abs/2411.10362v1)|null|
 |**2024-11-11**|**Mamba-based Decoder-Only Approach with Bidirectional Speech Modeling for Speech Recognition**|Yoshiki Masuyama, Koichi Miyazaki, Masato Murata et.al.|[2411.06968v1](http://arxiv.org/abs/2411.06968v1)|**[link](https://github.com/YoshikiMas/madeon-asr)**|
