@@ -270,6 +270,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**The Fundamental Rights Impact Assessment (FRIA) in the AI Act: Roots, legal obligations and key elements for a model template**|Alessandro Mantelero et.al.|[2411.15149v1](http://arxiv.org/abs/2411.15149v1)|null|
 |**2024-11-15**|**Legal Evalutions and Challenges of Large Language Models**|Jiaqi Wang, Huan Zhao, Zhenyuan Yang, Peng Shu, Junhao Chen, Haobo Sun, Ruixi Liang, Shixin Li, Pengcheng Shi, Longjun Ma, Zongjia Liu, Zhengliang Liu, Tianyang Zhong, Yutong Zhang, Chong Ma, Xin Zhang, Tuo Zhang, Tianli Ding, Yudan Ren, Tianming Liu, Xi Jiang, Shu Zhang et.al.|[2411.10137v1](http://arxiv.org/abs/2411.10137v1)|null|
 |**2024-11-14**|**The Use of Readability Metrics in Legal Text: A Systematic Literature Review**|Yu Han, Aaron Ceross, Jeroen H. M. Bergmann et.al.|[2411.09497v1](http://arxiv.org/abs/2411.09497v1)|null|
 |**2024-11-12**|**Unlocking Legal Knowledge with Multi-Layered Embedding-Based Retrieval**|João Alberto de Oliveira Lima et.al.|[2411.07739v1](http://arxiv.org/abs/2411.07739v1)|null|
