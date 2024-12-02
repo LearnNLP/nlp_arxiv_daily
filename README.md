@@ -69,7 +69,7 @@
 |**2024-03-08**|**FFSTC: Fongbe to French Speech Translation Corpus**|D. Fortune Kponou, Frejus A. A. Laleye, Eugene C. Ezin et.al.|[2403.05488v1](http://arxiv.org/abs/2403.05488v1)|null|
 |**2024-06-26**|**Compact Speech Translation Models via Discrete Speech Units Pretraining**|Tsz Kin Lam, Alexandra Birch, Barry Haddow et.al.|[2402.19333v2](http://arxiv.org/abs/2402.19333v2)|null|
 |**2024-02-25**|**Direct Punjabi to English speech translation using discrete units**|Prabhjot Kaur, L. Andrew M. Bush, Weisong Shi et.al.|[2402.15967v1](http://arxiv.org/abs/2402.15967v1)|null|
-|**2024-05-17**|**Speech Translation with Speech Foundation Models and Large Language Models: What is There and What is Missing?**|Marco Gaido, Sara Papi, Matteo Negri, Luisa Bentivogli et.al.|[2402.12025v2](http://arxiv.org/abs/2402.12025v2)|null|
+|**2024-11-29**|**Speech Translation with Speech Foundation Models and Large Language Models: What is There and What is Missing?**|Marco Gaido, Sara Papi, Matteo Negri, Luisa Bentivogli et.al.|[2402.12025v3](http://arxiv.org/abs/2402.12025v3)|null|
 |**2024-06-05**|**Pushing the Limits of Zero-shot End-to-End Speech Translation**|Ioannis Tsiamas, Gerard I. Gállego, José A. R. Fonollosa, Marta R. Costa-jussà et.al.|[2402.10422v2](http://arxiv.org/abs/2402.10422v2)|**[link](https://github.com/mt-upc/zeroswot)**|
 |**2024-02-02**|**A Case Study on Filtering for End-to-End Speech Translation**|Md Mahfuz Ibn Alam, Antonios Anastasopoulos et.al.|[2402.01945v1](http://arxiv.org/abs/2402.01945v1)|null|
 |**2024-01-17**|**TranSentence: Speech-to-speech Translation via Language-agnostic Sentence-level Speech Encoding without Language-parallel Data**|Seung-Bin Kim, Sang-Hoon Lee, Seong-Whan Lee et.al.|[2401.12992v1](http://arxiv.org/abs/2401.12992v1)|null|
@@ -732,6 +732,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-28**|**ArEEG_Words: Dataset for Envisioned Speech Recognition using EEG for Arabic Words**|Hazem Darwish, Abdalrahman Al Malah, Khloud Al Jallad, Nada Ghneim et.al.|[2411.18888v1](http://arxiv.org/abs/2411.18888v1)|null|
 |**2024-11-27**|**Fusion of Discrete Representations and Self-Augmented Representations for Multilingual Automatic Speech Recognition**|Shih-heng Wang, Jiatong Shi, Chien-yu Huang, Shinji Watanabe, Hung-yi Lee et.al.|[2411.18107v1](http://arxiv.org/abs/2411.18107v1)|null|
 |**2024-11-26**|**Disentangled-Transformer: An Explainable End-to-End Automatic Speech Recognition Model with Speech Content-Context Separation**|Pu Wang, Hugo Van hamme et.al.|[2411.17846v1](http://arxiv.org/abs/2411.17846v1)|null|
 |**2024-11-26**|**Towards Maximum Likelihood Training for Transducer-based Streaming Speech Recognition**|Hyeonseung Lee, Ji Won Yoon, Sungsoo Kim, Nam Soo Kim et.al.|[2411.17537v1](http://arxiv.org/abs/2411.17537v1)|null|
@@ -801,7 +802,7 @@
 |**2024-09-05**|**Enhancing Code-Switching Speech Recognition with LID-Based Collaborative Mixture of Experts Model**|Hukai Huang, Jiayan Lin, Kaidi Wang, Yishuang Li, Wenhao Guan, Lin Li, Qingyang Hong et.al.|[2409.02050v2](http://arxiv.org/abs/2409.02050v2)|null|
 |**2024-09-11**|**Serialized Speech Information Guidance with Overlapped Encoding Separation for Multi-Speaker Automatic Speech Recognition**|Hao Shi, Yuan Gao, Zhaoheng Ni, Tatsuya Kawahara et.al.|[2409.00815v3](http://arxiv.org/abs/2409.00815v3)|null|
 |**2024-09-01**|**Comparing Discrete and Continuous Space LLMs for Speech Recognition**|Yaoxun Xu, Shi-Xiong Zhang, Jianwei Yu, Zhiyong Wu, Dong Yu et.al.|[2409.00800v1](http://arxiv.org/abs/2409.00800v1)|null|
-|**2024-09-11**|**DCIM-AVSR : Efficient Audio-Visual Speech Recognition via Dual Conformer Interaction Module**|Xinyu Wang, Qian Wang et.al.|[2409.00481v2](http://arxiv.org/abs/2409.00481v2)|null|
+|**2024-11-29**|**DCIM-AVSR : Efficient Audio-Visual Speech Recognition via Dual Conformer Interaction Module**|Xinyu Wang, Qian Wang, Haotian Jiang, Haolin Huang, Yu Fang, Mengjie Xu et.al.|[2409.00481v3](http://arxiv.org/abs/2409.00481v3)|null|
 |**2024-08-29**|**Human-Inspired Audio-Visual Speech Recognition: Spike Activity, Cueing Interaction and Causal Processing**|Qianhui Liu, Jiadong Wang, Yang Wang, Xin Yang, Gang Pan, Haizhou Li et.al.|[2408.16564v1](http://arxiv.org/abs/2408.16564v1)|null|
 |**2024-08-29**|**Measuring the Accuracy of Automatic Speech Recognition Solutions**|Korbinian Kuhn, Verena Kersken, Benedikt Reuter, Niklas Egger, Gottfried Zimmermann et.al.|[2408.16287v1](http://arxiv.org/abs/2408.16287v1)|**[link](https://github.com/shuffle-project/asr-comparison)**|
 |**2024-10-11**|**Benchmarking Japanese Speech Recognition on ASR-LLM Setups with Multi-Pass Augmented Generative Error Correction**|Yuka Ko, Sheng Li, Chao-Han Huck Yang, Tatsuya Kawahara et.al.|[2408.16180v2](http://arxiv.org/abs/2408.16180v2)|null|
