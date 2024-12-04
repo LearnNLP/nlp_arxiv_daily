@@ -266,6 +266,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**GerPS-Compare: Comparing NER methods for legal norm analysis**|Sarah T. Bachinger, Christoph Unger, Robin Erd, Leila Feddoul, Clara Lachenmaier, Sina Zarrieß, Birgitta König-Ries et.al.|[2412.02427v1](http://arxiv.org/abs/2412.02427v1)|null|
+|**2024-12-01**|**Improving Vietnamese Legal Document Retrieval using Synthetic Data**|Son Pham Tien, Hieu Nguyen Doan, An Nguyen Dai, Sang Dinh Viet et.al.|[2412.00657v1](http://arxiv.org/abs/2412.00657v1)|null|
 |**2024-11-07**|**The Fundamental Rights Impact Assessment (FRIA) in the AI Act: Roots, legal obligations and key elements for a model template**|Alessandro Mantelero et.al.|[2411.15149v1](http://arxiv.org/abs/2411.15149v1)|null|
 |**2024-11-15**|**Legal Evalutions and Challenges of Large Language Models**|Jiaqi Wang, Huan Zhao, Zhenyuan Yang, Peng Shu, Junhao Chen, Haobo Sun, Ruixi Liang, Shixin Li, Pengcheng Shi, Longjun Ma, Zongjia Liu, Zhengliang Liu, Tianyang Zhong, Yutong Zhang, Chong Ma, Xin Zhang, Tuo Zhang, Tianli Ding, Yudan Ren, Tianming Liu, Xi Jiang, Shu Zhang et.al.|[2411.10137v1](http://arxiv.org/abs/2411.10137v1)|null|
 |**2024-11-14**|**The Use of Readability Metrics in Legal Text: A Systematic Literature Review**|Yu Han, Aaron Ceross, Jeroen H. M. Bergmann et.al.|[2411.09497v1](http://arxiv.org/abs/2411.09497v1)|null|
@@ -732,6 +734,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-01**|**Late fusion ensembles for speech recognition on diverse input audio representations**|Marin Jezidžić, Matej Mihelčić et.al.|[2412.01861v1](http://arxiv.org/abs/2412.01861v1)|null|
+|**2024-11-24**|**High-precision medical speech recognition through synthetic data and semantic correction: UNITED-MEDASR**|Sourav Banerjee, Ayushi Agarwal, Promila Ghosh et.al.|[2412.00055v1](http://arxiv.org/abs/2412.00055v1)|null|
 |**2024-11-28**|**ArEEG_Words: Dataset for Envisioned Speech Recognition using EEG for Arabic Words**|Hazem Darwish, Abdalrahman Al Malah, Khloud Al Jallad, Nada Ghneim et.al.|[2411.18888v1](http://arxiv.org/abs/2411.18888v1)|null|
 |**2024-11-27**|**Fusion of Discrete Representations and Self-Augmented Representations for Multilingual Automatic Speech Recognition**|Shih-heng Wang, Jiatong Shi, Chien-yu Huang, Shinji Watanabe, Hung-yi Lee et.al.|[2411.18107v1](http://arxiv.org/abs/2411.18107v1)|null|
 |**2024-11-26**|**Disentangled-Transformer: An Explainable End-to-End Automatic Speech Recognition Model with Speech Content-Context Separation**|Pu Wang, Hugo Van hamme et.al.|[2411.17846v1](http://arxiv.org/abs/2411.17846v1)|null|
