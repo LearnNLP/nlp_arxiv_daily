@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**Representation Purification for End-to-End Speech Translation**|Chengwei Zhang, Yue Zhou, Rui Zhao, Yidong Chen, Xiaodong Shi et.al.|[2412.04266v1](http://arxiv.org/abs/2412.04266v1)|null|
 |**2024-11-08**|**BhasaAnuvaad: A Speech Translation Dataset for 13 Indian Languages**|Sparsh Jain, Ashwin Sankar, Devilal Choudhary, Dhairya Suman, Nikhil Narasimhan, Mohammed Safi Ur Rahman Khan, Anoop Kunchukuttan, Mitesh M Khapra, Raj Dabre et.al.|[2411.04699v2](http://arxiv.org/abs/2411.04699v2)|**[link](https://github.com/ai4bharat/bhasaanuvaad)**|
 |**2024-10-30**|**Exploiting Phonological Similarities between African Languages to achieve Speech to Speech Translation**|Peter Ochieng, Dennis Kaburu et.al.|[2410.23323v1](http://arxiv.org/abs/2410.23323v1)|null|
 |**2024-10-28**|**SpeechQE: Estimating the Quality of Direct Speech Translation**|HyoJung Han, Kevin Duh, Marine Carpuat et.al.|[2410.21485v1](http://arxiv.org/abs/2410.21485v1)|**[link](https://github.com/h-j-han/speechqe)**|
@@ -266,6 +267,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**GRAF: Graph Retrieval Augmented by Facts for Legal Question Answering**|Cristian-George Crăciun, Răzvan-Alexandru Smădu, Dumitru-Clementin Cercel, Mihaela-Claudia Cercel et.al.|[2412.04119v1](http://arxiv.org/abs/2412.04119v1)|null|
 |**2024-12-03**|**GerPS-Compare: Comparing NER methods for legal norm analysis**|Sarah T. Bachinger, Christoph Unger, Robin Erd, Leila Feddoul, Clara Lachenmaier, Sina Zarrieß, Birgitta König-Ries et.al.|[2412.02427v1](http://arxiv.org/abs/2412.02427v1)|null|
 |**2024-12-01**|**Improving Vietnamese Legal Document Retrieval using Synthetic Data**|Son Pham Tien, Hieu Nguyen Doan, An Nguyen Dai, Sang Dinh Viet et.al.|[2412.00657v1](http://arxiv.org/abs/2412.00657v1)|null|
 |**2024-11-07**|**The Fundamental Rights Impact Assessment (FRIA) in the AI Act: Roots, legal obligations and key elements for a model template**|Alessandro Mantelero et.al.|[2411.15149v1](http://arxiv.org/abs/2411.15149v1)|null|
@@ -734,6 +736,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**Speech Recognition-based Feature Extraction for Enhanced Automatic Severity Classification in Dysarthric Speech**|Yerin Choi, Jeehyun Lee, Myoung-Wan Koo et.al.|[2412.03784v1](http://arxiv.org/abs/2412.03784v1)|null|
 |**2024-12-01**|**Late fusion ensembles for speech recognition on diverse input audio representations**|Marin Jezidžić, Matej Mihelčić et.al.|[2412.01861v1](http://arxiv.org/abs/2412.01861v1)|null|
 |**2024-11-24**|**High-precision medical speech recognition through synthetic data and semantic correction: UNITED-MEDASR**|Sourav Banerjee, Ayushi Agarwal, Promila Ghosh et.al.|[2412.00055v1](http://arxiv.org/abs/2412.00055v1)|null|
 |**2024-11-28**|**ArEEG_Words: Dataset for Envisioned Speech Recognition using EEG for Arabic Words**|Hazem Darwish, Abdalrahman Al Malah, Khloud Al Jallad, Nada Ghneim et.al.|[2411.18888v1](http://arxiv.org/abs/2411.18888v1)|null|
