@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-07**|**Exploring the Impact of Emotional Voice Integration in Sign-to-Speech Translators for Deaf-to-Hearing Communication**|Hyunchul Lim, Minghan Gao, Franklin Mingzhe Li, Nam Anh Dang, Ianip Sit, Michelle M Olson, Cheng Zhang et.al.|[2412.05738v1](http://arxiv.org/abs/2412.05738v1)|null|
 |**2024-12-05**|**Representation Purification for End-to-End Speech Translation**|Chengwei Zhang, Yue Zhou, Rui Zhao, Yidong Chen, Xiaodong Shi et.al.|[2412.04266v1](http://arxiv.org/abs/2412.04266v1)|null|
 |**2024-11-08**|**BhasaAnuvaad: A Speech Translation Dataset for 13 Indian Languages**|Sparsh Jain, Ashwin Sankar, Devilal Choudhary, Dhairya Suman, Nikhil Narasimhan, Mohammed Safi Ur Rahman Khan, Anoop Kunchukuttan, Mitesh M Khapra, Raj Dabre et.al.|[2411.04699v2](http://arxiv.org/abs/2411.04699v2)|**[link](https://github.com/ai4bharat/bhasaanuvaad)**|
 |**2024-10-30**|**Exploiting Phonological Similarities between African Languages to achieve Speech to Speech Translation**|Peter Ochieng, Dennis Kaburu et.al.|[2410.23323v1](http://arxiv.org/abs/2410.23323v1)|null|
@@ -267,6 +268,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Methods for Legal Citation Prediction in the Age of LLMs: An Australian Law Case Study**|Ehsan Shareghi, Jiuzhou Han, Paul Burgess et.al.|[2412.06272v1](http://arxiv.org/abs/2412.06272v1)|null|
 |**2024-12-05**|**GRAF: Graph Retrieval Augmented by Facts for Legal Question Answering**|Cristian-George Crăciun, Răzvan-Alexandru Smădu, Dumitru-Clementin Cercel, Mihaela-Claudia Cercel et.al.|[2412.04119v1](http://arxiv.org/abs/2412.04119v1)|null|
 |**2024-12-03**|**GerPS-Compare: Comparing NER methods for legal norm analysis**|Sarah T. Bachinger, Christoph Unger, Robin Erd, Leila Feddoul, Clara Lachenmaier, Sina Zarrieß, Birgitta König-Ries et.al.|[2412.02427v1](http://arxiv.org/abs/2412.02427v1)|null|
 |**2024-12-01**|**Improving Vietnamese Legal Document Retrieval using Synthetic Data**|Son Pham Tien, Hieu Nguyen Doan, An Nguyen Dai, Sang Dinh Viet et.al.|[2412.00657v1](http://arxiv.org/abs/2412.00657v1)|null|
@@ -736,6 +738,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Not All Errors Are Equal: Investigation of Speech Recognition Errors in Alzheimer's Disease Detection**|Jiawen Kang, Junan Li, Jinchao Li, Xixin Wu, Helen Meng et.al.|[2412.06332v1](http://arxiv.org/abs/2412.06332v1)|null|
 |**2024-12-05**|**Speech Recognition-based Feature Extraction for Enhanced Automatic Severity Classification in Dysarthric Speech**|Yerin Choi, Jeehyun Lee, Myoung-Wan Koo et.al.|[2412.03784v1](http://arxiv.org/abs/2412.03784v1)|null|
 |**2024-12-01**|**Late fusion ensembles for speech recognition on diverse input audio representations**|Marin Jezidžić, Matej Mihelčić et.al.|[2412.01861v1](http://arxiv.org/abs/2412.01861v1)|null|
 |**2024-11-24**|**High-precision medical speech recognition through synthetic data and semantic correction: UNITED-MEDASR**|Sourav Banerjee, Ayushi Agarwal, Promila Ghosh et.al.|[2412.00055v1](http://arxiv.org/abs/2412.00055v1)|null|
@@ -745,7 +748,7 @@
 |**2024-11-26**|**Towards Maximum Likelihood Training for Transducer-based Streaming Speech Recognition**|Hyeonseung Lee, Ji Won Yoon, Sungsoo Kim, Nam Soo Kim et.al.|[2411.17537v1](http://arxiv.org/abs/2411.17537v1)|null|
 |**2024-11-20**|**From Statistical Methods to Pre-Trained Models; A Survey on Automatic Speech Recognition for Resource Scarce Urdu Language**|Muhammad Sharif, Zeeshan Abbas, Jiangyan Yi, Chenglin Liu et.al.|[2411.14493v1](http://arxiv.org/abs/2411.14493v1)|null|
 |**2024-11-26**|**Tiny-Align: Bridging Automatic Speech Recognition and Large Language Model on the Edge**|Ruiyang Qin, Dancheng Liu, Gelei Xu, Zheyu Yan, Chenhui Xu, Yuting Hu, X. Sharon Hu, Jinjun Xiong, Yiyu Shi et.al.|[2411.13766v2](http://arxiv.org/abs/2411.13766v2)|null|
-|**2024-11-15**|**Interactive Cycle Model -- The Linkage Combination among Automatic Speech Recognition, Large Language Models and Smart Glasses**|Libo Wang et.al.|[2411.10362v1](http://arxiv.org/abs/2411.10362v1)|null|
+|**2024-12-08**|**Interactive Cycle Model -- The Linkage Combination among Automatic Speech Recognition, Large Language Models and Smart Glasses**|Libo Wang et.al.|[2411.10362v2](http://arxiv.org/abs/2411.10362v2)|null|
 |**2024-11-11**|**Mamba-based Decoder-Only Approach with Bidirectional Speech Modeling for Speech Recognition**|Yoshiki Masuyama, Koichi Miyazaki, Masato Murata et.al.|[2411.06968v1](http://arxiv.org/abs/2411.06968v1)|**[link](https://github.com/YoshikiMas/madeon-asr)**|
 |**2024-11-27**|**DCF-DS: Deep Cascade Fusion of Diarization and Separation for Speech Recognition under Realistic Single-Channel Conditions**|Shu-Tong Niu, Jun Du, Ruo-Yu Wang, Gao-Bin Yang, Tian Gao, Jia Pan, Yu Hu et.al.|[2411.06667v2](http://arxiv.org/abs/2411.06667v2)|null|
 |**2024-12-04**|**Dialectal Coverage And Generalization in Arabic Speech Recognition**|Amirbek Djanibekov, Hawau Olamide Toyin, Raghad Alshalan, Abdullah Alitr, Hanan Aldarmaki et.al.|[2411.05872v2](http://arxiv.org/abs/2411.05872v2)|**[link](https://github.com/mbzuai-nlp/artst)**|
@@ -766,7 +769,7 @@
 |**2024-10-14**|**Enhancing Indonesian Automatic Speech Recognition: Evaluating Multilingual Models with Diverse Speech Variabilities**|Aulia Adila, Dessi Lestari, Ayu Purwarianti, Dipta Tanaya, Kurniawati Azizah, Sakriani Sakti et.al.|[2410.08828v2](http://arxiv.org/abs/2410.08828v2)|null|
 |**2024-10-10**|**Full-Rank No More: Low-Rank Weight Training for Modern Speech Recognition Models**|Adriana Fernandez-Lopez, Shiwei Liu, Lu Yin, Stavros Petridis, Maja Pantic et.al.|[2410.07771v1](http://arxiv.org/abs/2410.07771v1)|null|
 |**2024-10-07**|**Incorporating Talker Identity Aids With Improving Speech Recognition in Adversarial Environments**|Sagarika Alavilli, Annesya Banerjee, Gasser Elbanna, Annika Magaro et.al.|[2410.05423v1](http://arxiv.org/abs/2410.05423v1)|null|
-|**2024-10-13**|**CR-CTC: Consistency regularization on CTC for improved speech recognition**|Zengwei Yao, Wei Kang, Xiaoyu Yang, Fangjun Kuang, Liyong Guo, Han Zhu, Zengrui Jin, Zhaoqing Li, Long Lin, Daniel Povey et.al.|[2410.05101v2](http://arxiv.org/abs/2410.05101v2)|**[link](https://github.com/k2-fsa/icefall)**|
+|**2024-12-08**|**CR-CTC: Consistency regularization on CTC for improved speech recognition**|Zengwei Yao, Wei Kang, Xiaoyu Yang, Fangjun Kuang, Liyong Guo, Han Zhu, Zengrui Jin, Zhaoqing Li, Long Lin, Daniel Povey et.al.|[2410.05101v3](http://arxiv.org/abs/2410.05101v3)|**[link](https://github.com/k2-fsa/icefall)**|
 |**2024-10-06**|**Casablanca: Data and Models for Multidialectal Arabic Speech Recognition**|Bashar Talafha, Karima Kadaoui, Samar Mohamed Magdy, Mariem Habiboullah, Chafei Mohamed Chafei, Ahmed Oumar El-Shangiti, Hiba Zayed, Mohamedou cheikh tourad, Rahaf Alhamouri, Rwaa Assi, Aisha Alraeesi, Hour Mohamed, Fakhraddin Alwajih, Abdelrahman Mohamed, Abdellah El Mekki, El Moatez Billah Nagoudi, Benelhadj Djelloul Mama Saadia, Hamzah A. Alsayadi, Walid Al-Dhabyani, Sara Shatnawi, Yasir Ech-Chammakhy, Amal Makouar, Yousra Berrachedi, Mustafa Jarrar, Shady Shehata, Ismail Berrada, Muhammad Abdul-Mageed et.al.|[2410.04527v1](http://arxiv.org/abs/2410.04527v1)|null|
 |**2024-10-05**|**Efficient and Robust Long-Form Speech Recognition with Hybrid H3-Conformer**|Tomoki Honda, Shinsuke Sakai, Tatsuya Kawahara et.al.|[2410.04159v1](http://arxiv.org/abs/2410.04159v1)|**[link](https://github.com/mirrormouse/hybrid-h3-conformer)**|
 |**2024-10-02**|**Efficient Streaming LLM for Speech Recognition**|Junteng Jia, Gil Keren, Wei Zhou, Egor Lakomkin, Xiaohui Zhang, Chunyang Wu, Frank Seide, Jay Mahadeokar, Ozlem Kalinli et.al.|[2410.03752v1](http://arxiv.org/abs/2410.03752v1)|null|
