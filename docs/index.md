@@ -23,7 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-11**|**Preserving Speaker Information in Direct Speech-to-Speech Translation with Non-Autoregressive Generation and Pretraining**|Rui Zhou, Akinori Ito, Takashi Nose et.al.|[2412.07316v2](http://arxiv.org/abs/2412.07316v2)|null|
+|**2024-12-11**|**Preserving Speaker Information in Direct Speech-to-Speech Translation with Non-Autoregressive Generation and Pretraining**|Rui Zhou, Akinori Ito, Takashi Nose et.al.|[2412.07316v2](http://arxiv.org/abs/2412.07316v2)|**[link](https://github.com/zhouruitohoku99/sc-s2ut)**|
 |**2024-12-07**|**Exploring the Impact of Emotional Voice Integration in Sign-to-Speech Translators for Deaf-to-Hearing Communication**|Hyunchul Lim, Minghan Gao, Franklin Mingzhe Li, Nam Anh Dang, Ianip Sit, Michelle M Olson, Cheng Zhang et.al.|[2412.05738v1](http://arxiv.org/abs/2412.05738v1)|null|
 |**2024-12-05**|**Representation Purification for End-to-End Speech Translation**|Chengwei Zhang, Yue Zhou, Rui Zhao, Yidong Chen, Xiaodong Shi et.al.|[2412.04266v1](http://arxiv.org/abs/2412.04266v1)|null|
 |**2024-11-08**|**BhasaAnuvaad: A Speech Translation Dataset for 13 Indian Languages**|Sparsh Jain, Ashwin Sankar, Devilal Choudhary, Dhairya Suman, Nikhil Narasimhan, Mohammed Safi Ur Rahman Khan, Anoop Kunchukuttan, Mitesh M Khapra, Raj Dabre et.al.|[2411.04699v2](http://arxiv.org/abs/2411.04699v2)|**[link](https://github.com/ai4bharat/bhasaanuvaad)**|
