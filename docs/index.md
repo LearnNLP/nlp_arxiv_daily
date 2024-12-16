@@ -273,6 +273,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Legal Challenges in Renewable Energy Development: A Comparative Study of China and Selected Countries**|Aliasghar Baziar, Navid Parsa et.al.|[2412.10203v1](http://arxiv.org/abs/2412.10203v1)|null|
 |**2024-12-11**|**NyayaAnumana & INLegalLlama: The Largest Indian Legal Judgment Prediction Dataset and Specialized Language Model for Enhanced Decision Analysis**|Shubham Kumar Nigam, Balaramamahanthi Deepak Patnaik, Shivam Mishra, Noel Shallum, Kripabandhu Ghosh, Arnab Bhattacharya et.al.|[2412.08385v1](http://arxiv.org/abs/2412.08385v1)|null|
 |**2024-12-09**|**Methods for Legal Citation Prediction in the Age of LLMs: An Australian Law Case Study**|Ehsan Shareghi, Jiuzhou Han, Paul Burgess et.al.|[2412.06272v1](http://arxiv.org/abs/2412.06272v1)|null|
 |**2024-12-05**|**GRAF: Graph Retrieval Augmented by Facts for Legal Question Answering**|Cristian-George Crăciun, Răzvan-Alexandru Smădu, Dumitru-Clementin Cercel, Mihaela-Claudia Cercel et.al.|[2412.04119v1](http://arxiv.org/abs/2412.04119v1)|null|
