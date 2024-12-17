@@ -269,6 +269,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**A Method for Detecting Legal Article Competition for Korean Criminal Law Using a Case-augmented Mention Graph**|Seonho An, Young Yik Rhim, Min-Soo Kim et.al.|[2412.11787v1](http://arxiv.org/abs/2412.11787v1)|**[link](https://github.com/asmath472/lacd-public)**|
+|**2024-12-15**|**LAW: Legal Agentic Workflows for Custody and Fund Services Contracts**|William Watson, Nicole Cho, Nishan Srishankar, Zhen Zeng, Lucas Cecchi, Daniel Scott, Suchetha Siddagangappa, Rachneet Kaur, Tucker Balch, Manuela Veloso et.al.|[2412.11063v1](http://arxiv.org/abs/2412.11063v1)|null|
 |**2024-12-13**|**Legal Challenges in Renewable Energy Development: A Comparative Study of China and Selected Countries**|Aliasghar Baziar, Navid Parsa et.al.|[2412.10203v1](http://arxiv.org/abs/2412.10203v1)|null|
 |**2024-12-11**|**NyayaAnumana & INLegalLlama: The Largest Indian Legal Judgment Prediction Dataset and Specialized Language Model for Enhanced Decision Analysis**|Shubham Kumar Nigam, Balaramamahanthi Deepak Patnaik, Shivam Mishra, Noel Shallum, Kripabandhu Ghosh, Arnab Bhattacharya et.al.|[2412.08385v1](http://arxiv.org/abs/2412.08385v1)|null|
 |**2024-12-09**|**Methods for Legal Citation Prediction in the Age of LLMs: An Australian Law Case Study**|Ehsan Shareghi, Jiuzhou Han, Paul Burgess et.al.|[2412.06272v1](http://arxiv.org/abs/2412.06272v1)|null|
@@ -285,7 +287,7 @@
 |**2024-10-30**|**The Evolution Of The Digital Inheritance: Legal, Technical, And Practical Dimensions Of Cryptocurrency Transfer Through Succession In French-Inspired Legal Systems**|Cristina Carata, Ana-Luisa Chelaru et.al.|[2410.22907v1](http://arxiv.org/abs/2410.22907v1)|null|
 |**2024-10-25**|**Natural Language Processing for the Legal Domain: A Survey of Tasks, Datasets, Models, and Challenges**|Farid Ariai, Gianluca Demartini et.al.|[2410.21306v1](http://arxiv.org/abs/2410.21306v1)|null|
 |**2024-10-26**|**Hybrid Deep Learning for Legal Text Analysis: Predicting Punishment Durations in Indonesian Court Rulings**|Muhammad Amien Ibrahim, Alif Tri Handoyo, Maria Susan Anggreainy et.al.|[2410.20104v1](http://arxiv.org/abs/2410.20104v1)|null|
-|**2024-10-24**|**No Argument Left Behind: Overlapping Chunks for Faster Processing of Arbitrarily Long Legal Texts**|Israel Fama, Bárbara Bueno, Alexandre Alcoforado, Thomas Palmeira Ferraz, Arnold Moya, Anna Helena Reali Costa et.al.|[2410.19184v1](http://arxiv.org/abs/2410.19184v1)|null|
+|**2024-12-15**|**No Argument Left Behind: Overlapping Chunks for Faster Processing of Arbitrarily Long Legal Texts**|Israel Fama, Bárbara Bueno, Alexandre Alcoforado, Thomas Palmeira Ferraz, Arnold Moya, Anna Helena Reali Costa et.al.|[2410.19184v2](http://arxiv.org/abs/2410.19184v2)|null|
 |**2024-10-28**|**Rules, Cases, and Reasoning: Positivist Legal Theory as a Framework for Pluralistic AI Alignment**|Nicholas A. Caputo et.al.|[2410.17271v3](http://arxiv.org/abs/2410.17271v3)|null|
 |**2024-10-22**|**Exploring Possibilities of AI-Powered Legal Assistance in Bangladesh through Large Language Modeling**|Azmine Toushik Wasi, Wahid Faisal, Mst Rafia Islam, Mahathir Mohammad Bappy et.al.|[2410.17210v1](http://arxiv.org/abs/2410.17210v1)|**[link](https://github.com/ciol-researchlab/ukil)**|
 |**2024-10-21**|**Augmenting Legal Decision Support Systems with LLM-based NLI for Analyzing Social Media Evidence**|Ram Mohan Rao Kadiyala, Siddartha Pullakhandam, Kanwal Mehreen, Subhasya Tippareddy, Ashay Srivastava et.al.|[2410.15990v1](http://arxiv.org/abs/2410.15990v1)|**[link](https://github.com/1-800-shared-tasks/emnlp-2024-nllp)**|
@@ -354,6 +356,7 @@
 |**2024-07-26**|**Optimizing Numerical Estimation and Operational Efficiency in the Legal Domain through Large Language Models**|Jia-Hong Huang, Chao-Chun Yang, Yixian Shen, Alessio M. Pacces, Evangelos Kanoulas et.al.|[2407.19041v1](http://arxiv.org/abs/2407.19041v1)|null|
 |**2024-07-05**|**Challenges and Considerations in Annotating Legal Data: A Comprehensive Overview**|Harshil Darji, Jelena Mitrović, Michael Granitzer et.al.|[2407.17503v1](http://arxiv.org/abs/2407.17503v1)|null|
 |**2024-07-23**|**Lawma: The Power of Specialization for Legal Tasks**|Ricardo Dominguez-Olmedo, Vedant Nanda, Rediet Abebe, Stefan Bechtold, Christoph Engel, Jens Frankenreiter, Krishna Gummadi, Moritz Hardt, Michael Livermore et.al.|[2407.16615v1](http://arxiv.org/abs/2407.16615v1)|null|
+|**2024-12-16**|**LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation**|Jingyun Sun, Chengxiao Dai, Zhongze Luo, Yangbo Chang, Yang Li et.al.|[2407.16252v3](http://arxiv.org/abs/2407.16252v3)|**[link](https://github.com/nefujing/lawluo)**|
 |**2024-11-12**|**LeKUBE: A Legal Knowledge Update BEnchmark**|Changyue Wang, Weihang Su, Hu Yiran, Qingyao Ai, Yueyue Wu, Cheng Luo, Yiqun Liu, Min Zhang, Shaoping Ma et.al.|[2407.14192v2](http://arxiv.org/abs/2407.14192v2)|**[link](https://github.com/bebr2/lekube)**|
 |**2024-09-13**|**The Cost of Arbitrariness for Individuals: Examining the Legal and Technical Challenges of Model Multiplicity**|Prakhar Ganesh, Ihsan Ibrahim Daldaban, Ignacio Cofone, Golnoosh Farnadi et.al.|[2407.13070v2](http://arxiv.org/abs/2407.13070v2)|null|
 |**2024-07-20**|**Applicability of Large Language Models and Generative Models for Legal Case Judgement Summarization**|Aniket Deroy, Kripabandhu Ghosh, Saptarshi Ghosh et.al.|[2407.12848v2](http://arxiv.org/abs/2407.12848v2)|null|
@@ -741,6 +744,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-15**|**Transliterated Zero-Shot Domain Adaptation for Automatic Speech Recognition**|Han Zhu, Gaofeng Cheng, Qingwei Zhao, Pengyuan Zhang et.al.|[2412.11185v1](http://arxiv.org/abs/2412.11185v1)|null|
 |**2024-12-11**|**Bilevel Joint Unsupervised and Supervised Training for Automatic Speech Recognition**|Xiaodong Cui, A F M Saif, Songtao Lu, Lisha Chen, Tianyi Chen, Brian Kingsbury, George Saon et.al.|[2412.08548v1](http://arxiv.org/abs/2412.08548v1)|null|
 |**2024-12-09**|**Not All Errors Are Equal: Investigation of Speech Recognition Errors in Alzheimer's Disease Detection**|Jiawen Kang, Junan Li, Jinchao Li, Xixin Wu, Helen Meng et.al.|[2412.06332v1](http://arxiv.org/abs/2412.06332v1)|null|
 |**2024-12-05**|**Speech Recognition-based Feature Extraction for Enhanced Automatic Severity Classification in Dysarthric Speech**|Yerin Choi, Jeehyun Lee, Myoung-Wan Koo et.al.|[2412.03784v1](http://arxiv.org/abs/2412.03784v1)|null|
