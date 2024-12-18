@@ -748,6 +748,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**CAMEL: Cross-Attention Enhanced Mixture-of-Experts and Language Bias for Code-Switching Speech Recognition**|He Wang, Xucheng Wan, Naijun Zheng, Kai Liu, Huan Zhou, Guojian Li, Lei Xie et.al.|[2412.12760v1](http://arxiv.org/abs/2412.12760v1)|null|
 |**2024-12-15**|**Transliterated Zero-Shot Domain Adaptation for Automatic Speech Recognition**|Han Zhu, Gaofeng Cheng, Qingwei Zhao, Pengyuan Zhang et.al.|[2412.11185v1](http://arxiv.org/abs/2412.11185v1)|null|
 |**2024-12-11**|**Bilevel Joint Unsupervised and Supervised Training for Automatic Speech Recognition**|Xiaodong Cui, A F M Saif, Songtao Lu, Lisha Chen, Tianyi Chen, Brian Kingsbury, George Saon et.al.|[2412.08548v1](http://arxiv.org/abs/2412.08548v1)|null|
 |**2024-12-09**|**Not All Errors Are Equal: Investigation of Speech Recognition Errors in Alzheimer's Disease Detection**|Jiawen Kang, Junan Li, Jinchao Li, Xixin Wu, Helen Meng et.al.|[2412.06332v1](http://arxiv.org/abs/2412.06332v1)|null|
