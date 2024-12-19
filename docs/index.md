@@ -273,6 +273,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Adaptive Two-Phase Finetuning LLMs for Japanese Legal Text Retrieval**|Quang Hoang Trung, Nguyen Van Hoang Phuc, Le Trung Hoang, Quang Huu Hieu, Vo Nguyen Le Duy et.al.|[2412.13205v1](http://arxiv.org/abs/2412.13205v1)|null|
 |**2024-12-16**|**A Method for Detecting Legal Article Competition for Korean Criminal Law Using a Case-augmented Mention Graph**|Seonho An, Young Yik Rhim, Min-Soo Kim et.al.|[2412.11787v1](http://arxiv.org/abs/2412.11787v1)|**[link](https://github.com/asmath472/lacd-public)**|
 |**2024-12-15**|**LAW: Legal Agentic Workflows for Custody and Fund Services Contracts**|William Watson, Nicole Cho, Nishan Srishankar, Zhen Zeng, Lucas Cecchi, Daniel Scott, Suchetha Siddagangappa, Rachneet Kaur, Tucker Balch, Manuela Veloso et.al.|[2412.11063v1](http://arxiv.org/abs/2412.11063v1)|null|
 |**2024-12-13**|**Legal Challenges in Renewable Energy Development: A Comparative Study of China and Selected Countries**|Aliasghar Baziar, Navid Parsa et.al.|[2412.10203v1](http://arxiv.org/abs/2412.10203v1)|null|
