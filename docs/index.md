@@ -273,6 +273,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**ALKAFI-LLAMA3: Fine-Tuning LLMs for Precise Legal Understanding in Palestine**|Rabee Qasem, Mohannad Hendi, Banan Tantour et.al.|[2412.14771v1](http://arxiv.org/abs/2412.14771v1)|null|
+|**2024-12-19**|**Beyond Guilt: Legal Judgment Prediction with Trichotomous Reasoning**|Kepu Zhang, Haoyue Yang, Xu Tang, Weijie Yu, Jun Xu et.al.|[2412.14588v1](http://arxiv.org/abs/2412.14588v1)|null|
+|**2024-12-19**|**CitaLaw: Enhancing LLM with Citations in Legal Domain**|Kepu Zhang, Weijie Yu, Sunhao Dai, Jun Xu et.al.|[2412.14556v1](http://arxiv.org/abs/2412.14556v1)|null|
 |**2024-12-03**|**Adaptive Two-Phase Finetuning LLMs for Japanese Legal Text Retrieval**|Quang Hoang Trung, Nguyen Van Hoang Phuc, Le Trung Hoang, Quang Huu Hieu, Vo Nguyen Le Duy et.al.|[2412.13205v1](http://arxiv.org/abs/2412.13205v1)|null|
 |**2024-12-16**|**A Method for Detecting Legal Article Competition for Korean Criminal Law Using a Case-augmented Mention Graph**|Seonho An, Young Yik Rhim, Min-Soo Kim et.al.|[2412.11787v1](http://arxiv.org/abs/2412.11787v1)|**[link](https://github.com/asmath472/lacd-public)**|
 |**2024-12-15**|**LAW: Legal Agentic Workflows for Custody and Fund Services Contracts**|William Watson, Nicole Cho, Nishan Srishankar, Zhen Zeng, Lucas Cecchi, Daniel Scott, Suchetha Siddagangappa, Rachneet Kaur, Tucker Balch, Manuela Veloso et.al.|[2412.11063v1](http://arxiv.org/abs/2412.11063v1)|null|
@@ -287,7 +290,7 @@ layout: default
 |**2024-11-14**|**The Use of Readability Metrics in Legal Text: A Systematic Literature Review**|Yu Han, Aaron Ceross, Jeroen H. M. Bergmann et.al.|[2411.09497v1](http://arxiv.org/abs/2411.09497v1)|null|
 |**2024-11-12**|**Unlocking Legal Knowledge with Multi-Layered Embedding-Based Retrieval**|João Alberto de Oliveira Lima et.al.|[2411.07739v1](http://arxiv.org/abs/2411.07739v1)|null|
 |**2024-11-03**|**qGDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers**|Junyao Zhang, Guanglei Zhou, Feng Cheng, Jonathan Ku, Qi Ding, Jiaqi Gu, Hanrui Wang, Hai "Helen" Li, Yiran Chen et.al.|[2411.02447v1](http://arxiv.org/abs/2411.02447v1)|null|
-|**2024-10-30**|**Web Scraping for Research: Legal, Ethical, Institutional, and Scientific Considerations**|Megan A. Brown, Andrew Gruen, Gabe Maldoff, Solomon Messing, Zeve Sanderson, Michael Zimmer et.al.|[2410.23432v1](http://arxiv.org/abs/2410.23432v1)|null|
+|**2024-12-19**|**Web Scraping for Research: Legal, Ethical, Institutional, and Scientific Considerations**|Megan A. Brown, Andrew Gruen, Gabe Maldoff, Solomon Messing, Zeve Sanderson, Michael Zimmer et.al.|[2410.23432v2](http://arxiv.org/abs/2410.23432v2)|null|
 |**2024-10-30**|**Bonafide at LegalLens 2024 Shared Task: Using Lightweight DeBERTa Based Encoder For Legal Violation Detection and Resolution**|Shikha Bordia et.al.|[2410.22977v1](http://arxiv.org/abs/2410.22977v1)|**[link](https://github.com/BordiaS/LegalLens_inference)**|
 |**2024-10-30**|**The Evolution Of The Digital Inheritance: Legal, Technical, And Practical Dimensions Of Cryptocurrency Transfer Through Succession In French-Inspired Legal Systems**|Cristina Carata, Ana-Luisa Chelaru et.al.|[2410.22907v1](http://arxiv.org/abs/2410.22907v1)|null|
 |**2024-10-25**|**Natural Language Processing for the Legal Domain: A Survey of Tasks, Datasets, Models, and Challenges**|Farid Ariai, Gianluca Demartini et.al.|[2410.21306v1](http://arxiv.org/abs/2410.21306v1)|null|
