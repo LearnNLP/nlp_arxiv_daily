@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Transcribing and Translating, Fast and Slow: Joint Speech Translation and Recognition**|Niko Moritz, Ruiming Xie, Yashesh Gaur, Ke Li, Simone Merello, Zeeshan Ahmed, Frank Seide, Christian Fuegen et.al.|[2412.15415v1](http://arxiv.org/abs/2412.15415v1)|null|
 |**2024-12-11**|**Preserving Speaker Information in Direct Speech-to-Speech Translation with Non-Autoregressive Generation and Pretraining**|Rui Zhou, Akinori Ito, Takashi Nose et.al.|[2412.07316v2](http://arxiv.org/abs/2412.07316v2)|**[link](https://github.com/zhouruitohoku99/sc-s2ut)**|
 |**2024-12-07**|**Exploring the Impact of Emotional Voice Integration in Sign-to-Speech Translators for Deaf-to-Hearing Communication**|Hyunchul Lim, Minghan Gao, Franklin Mingzhe Li, Nam Anh Dang, Ianip Sit, Michelle M Olson, Cheng Zhang et.al.|[2412.05738v1](http://arxiv.org/abs/2412.05738v1)|null|
 |**2024-12-05**|**Representation Purification for End-to-End Speech Translation**|Chengwei Zhang, Yue Zhou, Rui Zhao, Yidong Chen, Xiaodong Shi et.al.|[2412.04266v1](http://arxiv.org/abs/2412.04266v1)|null|
@@ -269,6 +270,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**On the Suitability of pre-trained foundational LLMs for Analysis in German Legal Education**|Lorenz Wendlinger, Christian Braun, Abdullah Al Zubaer, Simon Alexander Nonn, Sarah Großkopf, Christofer Fellicious, Michael Granitzer et.al.|[2412.15902v1](http://arxiv.org/abs/2412.15902v1)|null|
+|**2024-12-16**|**Analyzing Images of Legal Documents: Toward Multi-Modal LLMs for Access to Justice**|Hannes Westermann, Jaromir Savelka et.al.|[2412.15260v1](http://arxiv.org/abs/2412.15260v1)|null|
 |**2024-12-19**|**ALKAFI-LLAMA3: Fine-Tuning LLMs for Precise Legal Understanding in Palestine**|Rabee Qasem, Mohannad Hendi, Banan Tantour et.al.|[2412.14771v1](http://arxiv.org/abs/2412.14771v1)|null|
 |**2024-12-19**|**Beyond Guilt: Legal Judgment Prediction with Trichotomous Reasoning**|Kepu Zhang, Haoyue Yang, Xu Tang, Weijie Yu, Jun Xu et.al.|[2412.14588v1](http://arxiv.org/abs/2412.14588v1)|null|
 |**2024-12-19**|**CitaLaw: Enhancing LLM with Citations in Legal Domain**|Kepu Zhang, Weijie Yu, Sunhao Dai, Jun Xu et.al.|[2412.14556v1](http://arxiv.org/abs/2412.14556v1)|null|
@@ -360,7 +363,7 @@
 |**2024-07-26**|**Optimizing Numerical Estimation and Operational Efficiency in the Legal Domain through Large Language Models**|Jia-Hong Huang, Chao-Chun Yang, Yixian Shen, Alessio M. Pacces, Evangelos Kanoulas et.al.|[2407.19041v1](http://arxiv.org/abs/2407.19041v1)|null|
 |**2024-07-05**|**Challenges and Considerations in Annotating Legal Data: A Comprehensive Overview**|Harshil Darji, Jelena Mitrović, Michael Granitzer et.al.|[2407.17503v1](http://arxiv.org/abs/2407.17503v1)|null|
 |**2024-07-23**|**Lawma: The Power of Specialization for Legal Tasks**|Ricardo Dominguez-Olmedo, Vedant Nanda, Rediet Abebe, Stefan Bechtold, Christoph Engel, Jens Frankenreiter, Krishna Gummadi, Moritz Hardt, Michael Livermore et.al.|[2407.16615v1](http://arxiv.org/abs/2407.16615v1)|null|
-|**2024-12-16**|**LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation**|Jingyun Sun, Chengxiao Dai, Zhongze Luo, Yangbo Chang, Yang Li et.al.|[2407.16252v3](http://arxiv.org/abs/2407.16252v3)|**[link](https://github.com/nefujing/lawluo)**|
+|**2024-12-16**|**LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation**|Jingyun Sun, Chengxiao Dai, Zhongze Luo, Yangbo Chang, Yang Li et.al.|[2407.16252v3](http://arxiv.org/abs/2407.16252v3)|null|
 |**2024-11-12**|**LeKUBE: A Legal Knowledge Update BEnchmark**|Changyue Wang, Weihang Su, Hu Yiran, Qingyao Ai, Yueyue Wu, Cheng Luo, Yiqun Liu, Min Zhang, Shaoping Ma et.al.|[2407.14192v2](http://arxiv.org/abs/2407.14192v2)|**[link](https://github.com/bebr2/lekube)**|
 |**2024-09-13**|**The Cost of Arbitrariness for Individuals: Examining the Legal and Technical Challenges of Model Multiplicity**|Prakhar Ganesh, Ihsan Ibrahim Daldaban, Ignacio Cofone, Golnoosh Farnadi et.al.|[2407.13070v2](http://arxiv.org/abs/2407.13070v2)|null|
 |**2024-07-20**|**Applicability of Large Language Models and Generative Models for Legal Case Judgement Summarization**|Aniket Deroy, Kripabandhu Ghosh, Saptarshi Ghosh et.al.|[2407.12848v2](http://arxiv.org/abs/2407.12848v2)|null|
