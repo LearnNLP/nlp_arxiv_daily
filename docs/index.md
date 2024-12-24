@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-21**|**Improving Lip-synchrony in Direct Audio-Visual Speech-to-Speech Translation**|Lucas Goncalves, Prashant Mathur, Xing Niu, Brady Houston, Chandrashekhar Lavania, Srikanth Vishnubhotla, Lijia Sun, Anthony Ferritto et.al.|[2412.16530v1](http://arxiv.org/abs/2412.16530v1)|null|
 |**2024-12-19**|**Transcribing and Translating, Fast and Slow: Joint Speech Translation and Recognition**|Niko Moritz, Ruiming Xie, Yashesh Gaur, Ke Li, Simone Merello, Zeeshan Ahmed, Frank Seide, Christian Fuegen et.al.|[2412.15415v1](http://arxiv.org/abs/2412.15415v1)|null|
 |**2024-12-11**|**Preserving Speaker Information in Direct Speech-to-Speech Translation with Non-Autoregressive Generation and Pretraining**|Rui Zhou, Akinori Ito, Takashi Nose et.al.|[2412.07316v2](http://arxiv.org/abs/2412.07316v2)|**[link](https://github.com/zhouruitohoku99/sc-s2ut)**|
 |**2024-12-07**|**Exploring the Impact of Emotional Voice Integration in Sign-to-Speech Translators for Deaf-to-Hearing Communication**|Hyunchul Lim, Minghan Gao, Franklin Mingzhe Li, Nam Anh Dang, Ianip Sit, Michelle M Olson, Cheng Zhang et.al.|[2412.05738v1](http://arxiv.org/abs/2412.05738v1)|null|
@@ -274,6 +275,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**LegalAgentBench: Evaluating LLM Agents in Legal Domain**|Haitao Li, Junjie Chen, Jingli Yang, Qingyao Ai, Wei Jia, Youfeng Liu, Kai Lin, Yueyue Wu, Guozhi Yuan, Yiran Hu, Wuyue Wang, Yiqun Liu, Minlie Huang et.al.|[2412.17259v1](http://arxiv.org/abs/2412.17259v1)|**[link](https://github.com/cshaitao/legalagentbench)**|
 |**2024-12-20**|**On the Suitability of pre-trained foundational LLMs for Analysis in German Legal Education**|Lorenz Wendlinger, Christian Braun, Abdullah Al Zubaer, Simon Alexander Nonn, Sarah Großkopf, Christofer Fellicious, Michael Granitzer et.al.|[2412.15902v1](http://arxiv.org/abs/2412.15902v1)|null|
 |**2024-12-16**|**Analyzing Images of Legal Documents: Toward Multi-Modal LLMs for Access to Justice**|Hannes Westermann, Jaromir Savelka et.al.|[2412.15260v1](http://arxiv.org/abs/2412.15260v1)|null|
 |**2024-12-19**|**ALKAFI-LLAMA3: Fine-Tuning LLMs for Precise Legal Understanding in Palestine**|Rabee Qasem, Mohannad Hendi, Banan Tantour et.al.|[2412.14771v1](http://arxiv.org/abs/2412.14771v1)|null|
@@ -755,6 +757,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**UME: Upcycling Mixture-of-Experts for Scalable and Efficient Automatic Speech Recognition**|Li Fu, Shanyong Yu, Siqi Li, Lu Fan, Youzheng Wu, Xiaodong He et.al.|[2412.17507v1](http://arxiv.org/abs/2412.17507v1)|null|
+|**2024-12-22**|**Uncovering the Visual Contribution in Audio-Visual Speech Recognition**|Zhaofeng Lin, Naomi Harte et.al.|[2412.17129v1](http://arxiv.org/abs/2412.17129v1)|null|
+|**2024-12-21**|**Speech Retrieval-Augmented Generation without Automatic Speech Recognition**|Do June Min, Karel Mundnich, Andy Lapastora, Erfan Soltanmohammadi, Srikanth Ronanki, Kyu Han et.al.|[2412.16500v1](http://arxiv.org/abs/2412.16500v1)|null|
+|**2024-12-21**|**Transducer-Llama: Integrating LLMs into Streamable Transducer-based Speech Recognition**|Keqi Deng, Jinxi Guo, Yingyi Ma, Niko Moritz, Philip C. Woodland, Ozlem Kalinli, Mike Seltzer et.al.|[2412.16464v1](http://arxiv.org/abs/2412.16464v1)|null|
 |**2024-12-17**|**CAMEL: Cross-Attention Enhanced Mixture-of-Experts and Language Bias for Code-Switching Speech Recognition**|He Wang, Xucheng Wan, Naijun Zheng, Kai Liu, Huan Zhou, Guojian Li, Lei Xie et.al.|[2412.12760v1](http://arxiv.org/abs/2412.12760v1)|null|
 |**2024-12-15**|**Transliterated Zero-Shot Domain Adaptation for Automatic Speech Recognition**|Han Zhu, Gaofeng Cheng, Qingwei Zhao, Pengyuan Zhang et.al.|[2412.11185v1](http://arxiv.org/abs/2412.11185v1)|null|
 |**2024-12-11**|**Bilevel Joint Unsupervised and Supervised Training for Automatic Speech Recognition**|Xiaodong Cui, A F M Saif, Songtao Lu, Lisha Chen, Tianyi Chen, Brian Kingsbury, George Saon et.al.|[2412.08548v1](http://arxiv.org/abs/2412.08548v1)|null|
@@ -821,7 +827,7 @@ layout: default
 |**2024-09-12**|**WhisperNER: Unified Open Named Entity and Speech Recognition**|Gil Ayache, Menachem Pirchi, Aviv Navon, Aviv Shamsian, Gill Hetz, Joseph Keshet et.al.|[2409.08107v1](http://arxiv.org/abs/2409.08107v1)|**[link](https://github.com/aiola-lab/whisper-ner)**|
 |**2024-10-06**|**The Faetar Benchmark: Speech Recognition in a Very Under-Resourced Language**|Michael Ong, Sean Robertson, Leo Peckham, Alba Jorquera Jimenez de Aberasturi, Paula Arkhangorodsky, Robin Huo, Aman Sakhardande, Mark Hallap, Naomi Nagy, Ewan Dunbar et.al.|[2409.08103v2](http://arxiv.org/abs/2409.08103v2)|null|
 |**2024-09-12**|**Detecting and Defending Against Adversarial Attacks on Automatic Speech Recognition via Diffusion Models**|Nikolai L. Kühne, Astrid H. F. Kitchen, Marie S. Jensen, Mikkel S. L. Brøndt, Martin Gonzalez, Christophe Biscio, Zheng-Hua Tan et.al.|[2409.07936v1](http://arxiv.org/abs/2409.07936v1)|**[link](https://github.com/Kyhne/Detecting-and-Defending-Against-Adversarial-Attacks)**|
-|**2024-09-12**|**Full-text Error Correction for Chinese Speech Recognition with Large Language Model**|Zhiyuan Tang, Dong Wang, Shen Huang, Shidong Shang et.al.|[2409.07790v1](http://arxiv.org/abs/2409.07790v1)|null|
+|**2024-12-23**|**Full-text Error Correction for Chinese Speech Recognition with Large Language Model**|Zhiyuan Tang, Dong Wang, Shen Huang, Shidong Shang et.al.|[2409.07790v2](http://arxiv.org/abs/2409.07790v2)|null|
 |**2024-09-11**|**Enhancing CTC-Based Visual Speech Recognition**|Hendrik Laux, Anke Schmeink et.al.|[2409.07210v1](http://arxiv.org/abs/2409.07210v1)|null|
 |**2024-09-11**|**Linear Time Complexity Conformers with SummaryMixing for Streaming Speech Recognition**|Titouan Parcollet, Rogier van Dalen, Shucong Zhang, Sourav Batthacharya et.al.|[2409.07165v1](http://arxiv.org/abs/2409.07165v1)|**[link](https://github.com/samsunglabs/summarymixing)**|
 |**2024-09-10**|**An Effective Context-Balanced Adaptation Approach for Long-Tailed Speech Recognition**|Yi-Cheng Wang, Li-Ting Pai, Bi-Cheng Yan, Hsin-Wei Wang, Chi-Han Lin, Berlin Chen et.al.|[2409.06468v1](http://arxiv.org/abs/2409.06468v1)|null|
