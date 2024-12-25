@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Zero-resource Speech Translation and Recognition with LLMs**|Karel Mundnich, Xing Niu, Prashant Mathur, Srikanth Ronanki, Brady Houston, Veera Raghavendra Elluru, Nilaksh Das, Zejiang Hou, Goeric Huybrechts, Anshu Bhatia, Daniel Garcia-Romero, Kyu J. Han, Katrin Kirchhoff et.al.|[2412.18566v1](http://arxiv.org/abs/2412.18566v1)|null|
 |**2024-12-21**|**Improving Lip-synchrony in Direct Audio-Visual Speech-to-Speech Translation**|Lucas Goncalves, Prashant Mathur, Xing Niu, Brady Houston, Chandrashekhar Lavania, Srikanth Vishnubhotla, Lijia Sun, Anthony Ferritto et.al.|[2412.16530v1](http://arxiv.org/abs/2412.16530v1)|null|
 |**2024-12-19**|**Transcribing and Translating, Fast and Slow: Joint Speech Translation and Recognition**|Niko Moritz, Ruiming Xie, Yashesh Gaur, Ke Li, Simone Merello, Zeeshan Ahmed, Frank Seide, Christian Fuegen et.al.|[2412.15415v1](http://arxiv.org/abs/2412.15415v1)|null|
 |**2024-12-11**|**Preserving Speaker Information in Direct Speech-to-Speech Translation with Non-Autoregressive Generation and Pretraining**|Rui Zhou, Akinori Ito, Takashi Nose et.al.|[2412.07316v2](http://arxiv.org/abs/2412.07316v2)|**[link](https://github.com/zhouruitohoku99/sc-s2ut)**|
@@ -273,7 +274,7 @@
 |---|---|---|---|---|
 |**2024-12-23**|**LegalAgentBench: Evaluating LLM Agents in Legal Domain**|Haitao Li, Junjie Chen, Jingli Yang, Qingyao Ai, Wei Jia, Youfeng Liu, Kai Lin, Yueyue Wu, Guozhi Yuan, Yiran Hu, Wuyue Wang, Yiqun Liu, Minlie Huang et.al.|[2412.17259v1](http://arxiv.org/abs/2412.17259v1)|**[link](https://github.com/cshaitao/legalagentbench)**|
 |**2024-12-20**|**On the Suitability of pre-trained foundational LLMs for Analysis in German Legal Education**|Lorenz Wendlinger, Christian Braun, Abdullah Al Zubaer, Simon Alexander Nonn, Sarah Großkopf, Christofer Fellicious, Michael Granitzer et.al.|[2412.15902v1](http://arxiv.org/abs/2412.15902v1)|null|
-|**2024-12-16**|**Analyzing Images of Legal Documents: Toward Multi-Modal LLMs for Access to Justice**|Hannes Westermann, Jaromir Savelka et.al.|[2412.15260v1](http://arxiv.org/abs/2412.15260v1)|null|
+|**2024-12-16**|**Analyzing Images of Legal Documents: Toward Multi-Modal LLMs for Access to Justice**|Hannes Westermann, Jaromir Savelka et.al.|[2412.15260v1](http://arxiv.org/abs/2412.15260v1)|**[link](https://github.com/hwestermann/ai4a2j_analyzing_images_of_legal_documents)**|
 |**2024-12-19**|**ALKAFI-LLAMA3: Fine-Tuning LLMs for Precise Legal Understanding in Palestine**|Rabee Qasem, Mohannad Hendi, Banan Tantour et.al.|[2412.14771v1](http://arxiv.org/abs/2412.14771v1)|null|
 |**2024-12-19**|**Beyond Guilt: Legal Judgment Prediction with Trichotomous Reasoning**|Kepu Zhang, Haoyue Yang, Xu Tang, Weijie Yu, Jun Xu et.al.|[2412.14588v1](http://arxiv.org/abs/2412.14588v1)|null|
 |**2024-12-19**|**CitaLaw: Enhancing LLM with Citations in Legal Domain**|Kepu Zhang, Weijie Yu, Sunhao Dai, Jun Xu et.al.|[2412.14556v1](http://arxiv.org/abs/2412.14556v1)|null|
@@ -753,6 +754,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Ensemble Machine Learning Model for Inner Speech Recognition: A Subject-Specific Investigation**|Shahamat Mustavi Tasin, Muhammad E. H. Chowdhury, Shona Pedersen, Malek Chabbouh, Diala Bushnaq, Raghad Aljindi, Saidul Kabir, Anwarul Hasan et.al.|[2412.17824v1](http://arxiv.org/abs/2412.17824v1)|null|
 |**2024-12-23**|**UME: Upcycling Mixture-of-Experts for Scalable and Efficient Automatic Speech Recognition**|Li Fu, Shanyong Yu, Siqi Li, Lu Fan, Youzheng Wu, Xiaodong He et.al.|[2412.17507v1](http://arxiv.org/abs/2412.17507v1)|null|
 |**2024-12-22**|**Uncovering the Visual Contribution in Audio-Visual Speech Recognition**|Zhaofeng Lin, Naomi Harte et.al.|[2412.17129v1](http://arxiv.org/abs/2412.17129v1)|null|
 |**2024-12-21**|**Speech Retrieval-Augmented Generation without Automatic Speech Recognition**|Do June Min, Karel Mundnich, Andy Lapastora, Erfan Soltanmohammadi, Srikanth Ronanki, Kyu Han et.al.|[2412.16500v1](http://arxiv.org/abs/2412.16500v1)|null|
