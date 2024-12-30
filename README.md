@@ -272,6 +272,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Pre-training, Fine-tuning and Re-ranking: A Three-Stage Framework for Legal Question Answering**|Shiwen Ni, Hao Cheng, Min Yang et.al.|[2412.19482v1](http://arxiv.org/abs/2412.19482v1)|null|
 |**2024-12-23**|**LegalAgentBench: Evaluating LLM Agents in Legal Domain**|Haitao Li, Junjie Chen, Jingli Yang, Qingyao Ai, Wei Jia, Youfeng Liu, Kai Lin, Yueyue Wu, Guozhi Yuan, Yiran Hu, Wuyue Wang, Yiqun Liu, Minlie Huang et.al.|[2412.17259v1](http://arxiv.org/abs/2412.17259v1)|**[link](https://github.com/cshaitao/legalagentbench)**|
 |**2024-12-20**|**On the Suitability of pre-trained foundational LLMs for Analysis in German Legal Education**|Lorenz Wendlinger, Christian Braun, Abdullah Al Zubaer, Simon Alexander Nonn, Sarah Großkopf, Christofer Fellicious, Michael Granitzer et.al.|[2412.15902v1](http://arxiv.org/abs/2412.15902v1)|null|
 |**2024-12-16**|**Analyzing Images of Legal Documents: Toward Multi-Modal LLMs for Access to Justice**|Hannes Westermann, Jaromir Savelka et.al.|[2412.15260v1](http://arxiv.org/abs/2412.15260v1)|**[link](https://github.com/hwestermann/ai4a2j_analyzing_images_of_legal_documents)**|
@@ -754,6 +755,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-26**|**Enhancing Audiovisual Speech Recognition through Bifocal Preference Optimization**|Yihan Wu, Yichen Lu, Yifan Peng, Xihua Wang, Ruihua Song, Shinji Watanabe et.al.|[2412.19005v1](http://arxiv.org/abs/2412.19005v1)|null|
+|**2024-12-25**|**Structured Speaker-Deficiency Adaptation of Foundation Models for Dysarthric and Elderly Speech Recognition**|Shujie Hu, Xurong Xie, Mengzhe Geng, Jiajun Deng, Zengrui Jin, Tianzi Wang, Mingyu Cui, Guinan Li, Zhaoqing Li, Helen Meng, Xunying Liu et.al.|[2412.18832v1](http://arxiv.org/abs/2412.18832v1)|null|
 |**2024-12-09**|**Ensemble Machine Learning Model for Inner Speech Recognition: A Subject-Specific Investigation**|Shahamat Mustavi Tasin, Muhammad E. H. Chowdhury, Shona Pedersen, Malek Chabbouh, Diala Bushnaq, Raghad Aljindi, Saidul Kabir, Anwarul Hasan et.al.|[2412.17824v1](http://arxiv.org/abs/2412.17824v1)|null|
 |**2024-12-23**|**UME: Upcycling Mixture-of-Experts for Scalable and Efficient Automatic Speech Recognition**|Li Fu, Shanyong Yu, Siqi Li, Lu Fan, Youzheng Wu, Xiaodong He et.al.|[2412.17507v1](http://arxiv.org/abs/2412.17507v1)|null|
 |**2024-12-22**|**Uncovering the Visual Contribution in Audio-Visual Speech Recognition**|Zhaofeng Lin, Naomi Harte et.al.|[2412.17129v1](http://arxiv.org/abs/2412.17129v1)|null|
