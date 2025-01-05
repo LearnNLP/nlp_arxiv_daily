@@ -760,6 +760,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**DiCoW: Diarization-Conditioned Whisper for Target Speaker Automatic Speech Recognition**|Alexander Polok, Dominik Klement, Martin Kocour, Jiangyu Han, Federico Landini, Bolaji Yusuf, Matthew Wiesner, Sanjeev Khudanpur, Jan Černocký, Lukáš Burget et.al.|[2501.00114v1](http://arxiv.org/abs/2501.00114v1)|null|
+|**2024-12-25**|**Speech Recognition With LLMs Adapted to Disordered Speech Using Reinforcement Learning**|Chirag Nagpal, Subhashini Venugopalan, Jimmy Tobin, Marilyn Ladewig, Katherine Heller, Katrin Tomanek et.al.|[2501.00039v1](http://arxiv.org/abs/2501.00039v1)|null|
 |**2024-12-26**|**Enhancing Audiovisual Speech Recognition through Bifocal Preference Optimization**|Yihan Wu, Yichen Lu, Yifan Peng, Xihua Wang, Ruihua Song, Shinji Watanabe et.al.|[2412.19005v1](http://arxiv.org/abs/2412.19005v1)|**[link](https://github.com/espnet/espnet)**|
 |**2024-12-25**|**Structured Speaker-Deficiency Adaptation of Foundation Models for Dysarthric and Elderly Speech Recognition**|Shujie Hu, Xurong Xie, Mengzhe Geng, Jiajun Deng, Zengrui Jin, Tianzi Wang, Mingyu Cui, Guinan Li, Zhaoqing Li, Helen Meng, Xunying Liu et.al.|[2412.18832v1](http://arxiv.org/abs/2412.18832v1)|null|
 |**2024-12-09**|**Ensemble Machine Learning Model for Inner Speech Recognition: A Subject-Specific Investigation**|Shahamat Mustavi Tasin, Muhammad E. H. Chowdhury, Shona Pedersen, Malek Chabbouh, Diala Bushnaq, Raghad Aljindi, Saidul Kabir, Anwarul Hasan et.al.|[2412.17824v1](http://arxiv.org/abs/2412.17824v1)|null|
